@@ -7,6 +7,8 @@ TOPICS = {
  'm03': {'phoi':'Phôi thai học','giaiphau':'Giải phẫu','mohoc':'Mô học','chucnang':'Chức năng','hinhanh':'Hình ảnh học','udich':'Viêm tắc, ứ dịch vòi trứng','apxe':'Áp xe phần phụ','nangcanh':'Nang nước cạnh vòi trứng','tntc':'Thai ngoài tử cung'},
  'm04': {'giaiphau':'Giải phẫu','phoi':'Phôi thai học','mohoc':'Mô học và nang noãn','hoangthe':'Hoàng thể','chucnang':'Chức năng','nangconang':'Nang cơ năng','lacnoimac':'Nang lạc nội mạc tử cung','utan':'U tân sinh','pcos':'Hội chứng buồng trứng đa nang'},
  'm14': {'dinhnghia':'Định nghĩa','vitri':'Vị trí làm tổ','nguyco':'Yếu tố nguy cơ','coche':'Cơ chế bệnh sinh','giaiphaubenh':'Giải phẫu bệnh','lamsang':'Lâm sàng','thaioobung':'Thai trong ổ bụng','cls':'Cận lâm sàng','chandoan':'Chẩn đoán','xutri':'Xử trí','tienluong':'Tiên lượng','phongngua':'Phòng ngừa'},
+ 'm11': {'ditruyen':'Di chuyển tinh trùng','khananghoa':'Khả năng hóa','tiepxucnoan':'Tiếp xúc với noãn','thutinh':'Thụ tinh chính danh','hopty':'Di chuyển hợp tử'},
+ 'm12': {'noimac':'Nội mạc tiền làm tổ','cuaso':'Cửa sổ làm tổ','phoi':'Phôi tiền làm tổ','doithoai':'Đối thoại phôi–nội mạc','hcg':'hCG và thai sớm','phattrien':'Phát triển phôi thai'},
 }
 for module, topics in TOPICS.items():
     doc = json.loads((ROOT/'content'/f'{module}.json').read_text(encoding='utf-8-sig'))

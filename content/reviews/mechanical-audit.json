@@ -180,6 +180,51 @@
     "mechanicalPass": true,
     "errors": []
   },
+  "m11": {
+    "questions": 40,
+    "levels": {
+      "understand": 10,
+      "apply": 20,
+      "analyze": 10
+    },
+    "concepts": {
+      "understand": 10,
+      "apply": 20,
+      "analyze": 10
+    },
+    "topicCounts": {
+      "ditruyen": 9,
+      "khananghoa": 5,
+      "tiepxucnoan": 7,
+      "thutinh": 10,
+      "hopty": 9
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m12": {
+    "questions": 40,
+    "levels": {
+      "understand": 10,
+      "apply": 20,
+      "analyze": 10
+    },
+    "concepts": {
+      "understand": 10,
+      "apply": 20,
+      "analyze": 10
+    },
+    "topicCounts": {
+      "noimac": 6,
+      "cuaso": 6,
+      "phoi": 7,
+      "doithoai": 8,
+      "hcg": 8,
+      "phattrien": 5
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
   "m13": {
     "questions": 80,
     "levels": {
