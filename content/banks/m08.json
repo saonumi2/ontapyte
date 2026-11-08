@@ -372,7 +372,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-classify1",
       "level": "understand",
-      "stem": "Mẫu nội tiết WHO I trong sơ đồ bài là gì?",
+      "stem": "Mẫu nội tiết WHO I là gì?",
       "options": [
         "FSH/LH thấp và E2 thấp",
         "FSH/LH cao và E2 thấp",
@@ -411,7 +411,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-classify3",
       "level": "understand",
-      "stem": "Mẫu nội tiết WHO III trong sơ đồ bài là gì?",
+      "stem": "Mẫu nội tiết WHO III là gì?",
       "options": [
         "FSH/LH thấp và E2 thấp",
         "FSH bình thường và E2 bình thường",
@@ -450,7 +450,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-classify2",
       "level": "understand",
-      "stem": "WHO II trong sơ đồ được biểu diễn bằng mẫu nào?",
+      "stem": "WHO II được biểu diễn bằng mẫu nào?",
       "options": [
         "FSH/LH cao cùng E2 thấp",
         "Mất hoàn toàn mọi tế bào nang",
@@ -1270,7 +1270,7 @@
       "topicId": "menopause",
       "conceptId": "m08-lh-amplitude",
       "level": "apply",
-      "stem": "LH nền tăng dần trong mô hình quanh mãn kinh làm biên độ đỉnh LH thay đổi thế nào?",
+      "stem": "LH nền tăng dần quanh mãn kinh làm biên độ đỉnh LH thay đổi thế nào?",
       "options": [
         "Thu hẹp rồi có thể biến mất",
         "Luôn tăng không giới hạn",
@@ -1494,7 +1494,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-classify2",
       "level": "apply",
-      "stem": "Trong sơ đồ, FSH và E2 khoảng bình thường cùng rối loạn phóng noãn gắn với nhóm nào?",
+      "stem": "FSH và E2 khoảng bình thường cùng rối loạn phóng noãn gắn với nhóm nào?",
       "options": [
         "WHO III",
         "Không có nhóm này trong bài",
@@ -1572,7 +1572,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-who1-mechanism",
       "level": "understand",
-      "stem": "Sơ đồ cơ chế ghi 'no FSH stimulation'. Nhóm WHO nào được đặt cạnh nhãn này?",
+      "stem": "Nhóm WHO nào có đặc điểm “no FSH stimulation”?",
       "options": [
         "WHO I",
         "WHO II",
@@ -1611,7 +1611,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-who2-mechanism",
       "level": "understand",
-      "stem": "Sơ đồ ghi 'advanced follicle maturation arrest'. Nhóm nào tương ứng?",
+      "stem": "Nhóm WHO nào có đặc điểm “advanced follicle maturation arrest”?",
       "options": [
         "WHO I",
         "WHO III",
@@ -1650,7 +1650,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-who3-mechanism",
       "level": "understand",
-      "stem": "Sơ đồ ghi 'no follicles'. Nhóm nào tương ứng?",
+      "stem": "Nhóm WHO nào có đặc điểm “no follicles”?",
       "options": [
         "WHO II",
         "Tất cả các nhóm",
@@ -1689,7 +1689,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-primary-hypothalamus",
       "level": "understand",
-      "stem": "Bảng nguyên nhân vô kinh nguyên phát xếp thiếu GnRH đơn độc vào vị trí nào?",
+      "stem": "Thiếu GnRH đơn độc thuộc nhóm nguyên nhân vô kinh nguyên phát nào?",
       "options": [
         "Cổ tử cung",
         "Hạ đồi",
@@ -1728,7 +1728,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-primary-ovary",
       "level": "understand",
-      "stem": "Bảng vô kinh nguyên phát xếp loạn sản tuyến sinh dục vào nhóm nào?",
+      "stem": "Loạn sản tuyến sinh dục thuộc nhóm nguyên nhân vô kinh nguyên phát nào?",
       "options": [
         "Buồng trứng",
         "Hạ đồi",
@@ -1767,7 +1767,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-secondary-outflow",
       "level": "understand",
-      "stem": "Bảng vô kinh thứ phát xếp dính buồng tử cung vào nhóm nào?",
+      "stem": "Dính buồng tử cung thuộc nhóm nguyên nhân vô kinh thứ phát nào?",
       "options": [
         "Hạ đồi",
         "Tuyến yên trước",
@@ -2287,7 +2287,7 @@
       "topicId": "emergency",
       "conceptId": "m08-after-ovulation",
       "level": "apply",
-      "stem": "Nhận định nào phù hợp mô tả của bài khi đã phóng noãn?",
+      "stem": "Nhận định nào phù hợp mô tả khi đã phóng noãn?",
       "options": [
         "Luôn biến thành biện pháp thụ tinh ống nghiệm",
         "ECPs gần như vô hiệu theo mô hình nêu trong bài",
@@ -2753,7 +2753,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-who2-not-unique-dx",
       "level": "analyze",
-      "stem": "Sơ đồ đặt PCOS trong WHO II. Có thể dùng riêng mẫu FSH/E2 khoảng bình thường để khẳng định chắc chắn mọi ca là PCOS không?",
+      "stem": "PCOS thuộc nhóm WHO nào? Có thể chỉ dùng FSH/E2 khoảng bình thường để khẳng định mọi trường hợp là PCOS không?",
       "options": [
         "Không vì WHO II trong hình có E2 bằng không",
         "Không; sơ đồ là phân nhóm, không cung cấp tiêu chuẩn xác định duy nhất cho từng bệnh",

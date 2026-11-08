@@ -97,7 +97,7 @@
       "topicId": "m10-cautruc",
       "conceptId": "m10-tythe-doangiua",
       "level": "understand",
-      "stem": "Sơ đồ cấu tạo gắn cụm ty thể với vùng nào?",
+      "stem": "Cụm ty thể của tinh trùng nằm ở vùng nào?",
       "options": [
         "Nhân ở đầu",
         "Mặt ngoài toàn bộ thể cực đầu",
@@ -137,7 +137,7 @@
       "topicId": "m10-cautruc",
       "conceptId": "m10-cuctdau-golgi",
       "level": "understand",
-      "stem": "Sơ đồ biệt hóa tinh tử liên hệ bộ máy Golgi với cấu trúc nào đang hình thành?",
+      "stem": "Bộ máy Golgi tham gia hình thành cấu trúc nào khi tinh tử biệt hóa?",
       "options": [
         "Ống dẫn tinh",
         "Hàng rào máu–tinh hoàn",
@@ -177,7 +177,7 @@
       "topicId": "m10-sinhtinh",
       "conceptId": "m10-sinh-tinh-thu-tu",
       "level": "understand",
-      "stem": "Trình tự dòng tế bào nào đúng theo sơ đồ sinh tinh?",
+      "stem": "Trình tự dòng tế bào nào đúng sinh tinh?",
       "options": [
         "Tinh nguyên bào → tinh trùng → tinh bào I → tinh tử",
         "Tinh nguyên bào → tinh bào I → tinh bào II → tinh tử → tinh trùng",
@@ -217,7 +217,7 @@
       "topicId": "m10-sinhtinh",
       "conceptId": "m10-giamphan-I",
       "level": "understand",
-      "stem": "Chuyển tiếp nào trên sơ đồ được gắn nhãn giảm phân I?",
+      "stem": "Giảm phân I xảy ra trong chuyển tiếp nào của dòng tế bào tinh?",
       "options": [
         "Tinh bào I → tinh bào II",
         "Tinh bào II → tinh tử",
@@ -257,7 +257,7 @@
       "topicId": "m10-sinhtinh",
       "conceptId": "m10-giamphan-II",
       "level": "understand",
-      "stem": "Tinh tử xuất hiện trực tiếp sau bước nào trong sơ đồ?",
+      "stem": "Tinh tử xuất hiện trực tiếp sau bước nào?",
       "options": [
         "Nguyên phân của tinh trùng trưởng thành",
         "Giảm phân I của tinh tử",
@@ -411,7 +411,7 @@
       "topicId": "m10-vanchuyen",
       "conceptId": "m10-nieuquan-nieudao",
       "level": "understand",
-      "stem": "Trong sơ đồ đường vận chuyển, niệu quản và niệu đạo có phải cùng một ống không?",
+      "stem": "Đường vận chuyển, niệu quản và niệu đạo có phải cùng một ống không?",
       "options": [
         "Có; chỉ là hai tên của cùng đoạn ống dẫn tinh",
         "Có; cả hai đều là tên của mào tinh",
@@ -578,7 +578,7 @@
       "topicId": "m10-cautruc",
       "conceptId": "m10-xep-vung-acrosome",
       "level": "understand",
-      "stem": "Một bản mô tả ghi “thể cực đầu phủ vùng đầu chứa nhân”. Đánh giá nào phù hợp sơ đồ cấu tạo?",
+      "stem": "Nhận định “thể cực đầu phủ vùng đầu chứa nhân” được đánh giá thế nào?",
       "options": [
         "Sai vì acrosome nằm ở cuối roi",
         "Sai vì nhân ở đoạn giữa",
@@ -618,7 +618,7 @@
       "topicId": "m10-cautruc",
       "conceptId": "m10-xep-vung-axoneme",
       "level": "understand",
-      "stem": "Khi chuyển mô tả sơ đồ sang văn bản, “axoneme” nên được liên hệ với phần nào?",
+      "stem": "Axoneme thuộc phần nào của tinh trùng?",
       "options": [
         "Ống dẫn tinh",
         "Nang noãn",
@@ -738,7 +738,7 @@
       "topicId": "m10-sertoli",
       "conceptId": "m10-sertoli-thucbao",
       "level": "understand",
-      "stem": "Trong mô hình chức năng Sertoli, nâng đỡ và chế tiết được giữ lại nhưng việc thu dọn sản phẩm dư thừa bị bỏ qua. Chức năng nào còn thiếu?",
+      "stem": "Chức năng Sertoli, nâng đỡ và chế tiết được giữ lại nhưng việc thu dọn sản phẩm dư thừa bị bỏ qua. Chức năng nào còn thiếu?",
       "options": [
         "Giảm phân I",
         "Tạo túi tinh",
@@ -776,7 +776,7 @@
       "topicId": "m10-sertoli",
       "conceptId": "m10-sertoli-che-tiet",
       "level": "understand",
-      "stem": "Một bảng chức năng Sertoli đã có nâng đỡ và thực bào. Muốn bổ sung chức năng tạo dịch, ABP và inhibin, nên thêm mục nào?",
+      "stem": "Ngoài nâng đỡ và thực bào, Sertoli còn có chức năng nào liên quan tạo dịch, ABP và inhibin?",
       "options": [
         "Vận chuyển qua niệu quản",
         "Tạo màng trong suốt",
@@ -814,7 +814,7 @@
       "topicId": "m10-sertoli",
       "conceptId": "m10-hangrao",
       "level": "understand",
-      "stem": "Khi lập bảng về hàng rào máu–tinh hoàn loại tế bào nào cần được đưa vào mục chức năng liên quan?",
+      "stem": "Hàng rào máu–tinh hoàn liên quan trực tiếp đến loại tế bào nào?",
       "options": [
         "Tế bào của bàng quang",
         "Sertoli",
@@ -852,7 +852,7 @@
       "topicId": "m10-sinhtinh",
       "conceptId": "m10-vi-tri-ong",
       "level": "understand",
-      "stem": "Muốn quan sát nơi các tế bào dòng tinh phân chia theo sơ đồ bài học, nên hướng đến cấu trúc nào?",
+      "stem": "Muốn quan sát nơi các tế bào dòng tinh phân chia nên hướng đến cấu trúc nào?",
       "options": [
         "Ống sinh tinh trong tinh hoàn",
         "Bàng quang",
@@ -892,7 +892,7 @@
       "topicId": "m10-sinhtinh",
       "conceptId": "m10-daythi",
       "level": "understand",
-      "stem": "Mốc tuổi nào được ghi bên cạnh tinh bào I bắt đầu giảm phân trên sơ đồ?",
+      "stem": "Tinh bào I bắt đầu giảm phân vào mốc tuổi nào?",
       "options": [
         "Chỉ trước khi sinh",
         "Chỉ sau mãn dục",
@@ -932,7 +932,7 @@
       "topicId": "m10-sinhtinh",
       "conceptId": "m10-so-tinh-tu",
       "level": "apply",
-      "stem": "Theo mô hình lý tưởng trong sơ đồ, một tinh bào I đi hết hai lần giảm phân, không mất tế bào, tạo bao nhiêu tinh tử?",
+      "stem": "Lý tưởng một tinh bào I đi hết hai lần giảm phân, không mất tế bào, tạo bao nhiêu tinh tử?",
       "options": [
         "2",
         "8",
@@ -972,7 +972,7 @@
       "topicId": "m10-cautruc",
       "conceptId": "m10-biet-hoa-khong-doi-n",
       "level": "apply",
-      "stem": "Một ghi chú cho rằng tinh tử phải tăng từ n lên 2n mới thành tinh trùng. Cách sửa nào đúng với sơ đồ?",
+      "stem": "Tinh tử có cần tăng từ n lên 2n để trở thành tinh trùng không?",
       "options": [
         "Bỏ hoàn toàn giai đoạn tiền tinh trùng",
         "Giữ n ở cả tiền tinh trùng và tinh trùng",
@@ -1012,7 +1012,7 @@
       "topicId": "m10-sertoli",
       "conceptId": "m10-khoang-ke",
       "level": "understand",
-      "stem": "Một mô tả đặt tế bào Leydig và mạch máu ở khoang kẽ ngoài biểu mô ống sinh tinh. Mô tả ấy thế nào so với sơ đồ?",
+      "stem": "Tế bào Leydig và mạch máu nằm ở vị trí nào so với biểu mô ống sinh tinh?",
       "options": [
         "Phù hợp vị trí các nhãn trong slide 11",
         "Sai vì mạch máu nằm trong nhân tinh trùng",
@@ -1052,7 +1052,7 @@
       "topicId": "m10-sertoli",
       "conceptId": "m10-thu-tu-tu-day-den-long",
       "level": "understand",
-      "stem": "Trong sơ đồ tổ chức ống sinh tinh, chuỗi từ vùng đáy hướng về phía lòng ống phù hợp nhất là gì?",
+      "stem": "Tổ chức ống sinh tinh, chuỗi từ vùng đáy hướng về phía lòng ống phù hợp nhất là gì?",
       "options": [
         "Tinh trùng → tinh tử → tinh bào → tinh nguyên bào",
         "Mạch máu → thể cực đầu → bàng quang → tinh trùng",
@@ -1132,7 +1132,7 @@
       "topicId": "m10-vanchuyen",
       "conceptId": "m10-ong-dan-tinh",
       "level": "understand",
-      "stem": "Một sơ đồ chữ vẽ đường từ mào tinh đi lên vùng chậu. Nhãn nào đúng cho ống đó?",
+      "stem": "Ống dẫn từ mào tinh đi lên vùng chậu được gọi là gì?",
       "options": [
         "Ống sinh tinh trong nhân",
         "Ống dẫn tinh",
@@ -1172,7 +1172,7 @@
       "topicId": "m10-vanchuyen",
       "conceptId": "m10-tien-liet",
       "level": "understand",
-      "stem": "Theo sơ đồ, tuyến nằm dưới bàng quang và bao quanh đoạn đầu của niệu đạo được ghi là gì?",
+      "stem": "Tuyến nằm dưới bàng quang và bao quanh đoạn đầu của niệu đạo được ghi là gì?",
       "options": [
         "Tuyến tiền liệt",
         "Tinh hoàn",
@@ -1212,7 +1212,7 @@
       "topicId": "m10-cautruc",
       "conceptId": "m10-muc-to-chuc",
       "level": "understand",
-      "stem": "Một bảng gộp “nhân, thể cực đầu, Sertoli” thành ba bộ phận của cùng một tinh trùng. Sửa mục nào?",
+      "stem": "Nhân, thể cực đầu và Sertoli có phải đều là bộ phận của cùng một tinh trùng không?",
       "options": [
         "Tách nhân vì tinh trùng không có nhân",
         "Tách thể cực đầu vì nó nằm ở bàng quang",
@@ -1311,7 +1311,7 @@
       "topicId": "m10-tichhop",
       "conceptId": "m10-stop-I-vs-II",
       "level": "analyze",
-      "stem": "Trong mô hình theo dõi hai nhóm tinh bào: A gồm tinh bào I chưa bắt đầu giảm phân I; B đã hoàn thành giảm phân I nhưng chưa bắt đầu II. Ghép giai đoạn và bộ NST nào đúng theo sơ đồ?",
+      "stem": "Theo dõi hai nhóm tinh bào: A gồm tinh bào I chưa bắt đầu giảm phân I; B đã hoàn thành giảm phân I nhưng chưa bắt đầu II. Ghép giai đoạn và bộ NST nào đúng?",
       "options": [
         "A là tinh bào I 2n; B là tinh bào II n",
         "A là tinh bào I n; B là tinh bào II 2n",
@@ -1351,7 +1351,7 @@
       "topicId": "m10-tichhop",
       "conceptId": "m10-dem-theo-nhanh",
       "level": "analyze",
-      "stem": "Trong mô hình một tinh bào I tạo hai tinh bào II, một tinh bào II không tiếp tục, tinh bào II còn lại hoàn tất giảm phân II. Không giả định tăng sinh bù, tối đa có bao nhiêu tinh tử từ dòng này?",
+      "stem": "Một tinh bào I tạo hai tinh bào II, một tinh bào II không tiếp tục, tinh bào II còn lại hoàn tất giảm phân II. Không giả định tăng sinh bù, tối đa có bao nhiêu tinh tử từ dòng này?",
       "options": [
         "2",
         "4",
@@ -1438,7 +1438,7 @@
       "topicId": "m10-tichhop",
       "conceptId": "m10-sertoli-va-du-thua",
       "level": "apply",
-      "stem": "Sơ đồ biệt hóa cho thấy bào tương thừa, còn phần Sertoli nêu thực bào sản phẩm dư thừa. Liên hệ nào hợp lý trong phạm vi bài?",
+      "stem": "Bào tương thừa khi tinh tử biệt hóa được xử lý bởi cơ chế nào?",
       "options": [
         "Sertoli phải giảm phân II để thu dọn",
         "Bào tương thừa tạo thành niệu quản",
@@ -1669,7 +1669,7 @@
       "topicId": "m10-tichhop",
       "conceptId": "m10-so-sanh-giao-tu",
       "level": "understand",
-      "stem": "Trong sơ đồ so sánh sinh giao tử, sau giảm phân, dòng tinh cho các tế bào có thể biệt hóa thành tinh trùng còn dòng noãn có thể cực. Phân tích nào phù hợp?",
+      "stem": "So sánh sinh giao tử, sau giảm phân, dòng tinh cho các tế bào có thể biệt hóa thành tinh trùng còn dòng noãn có thể cực. Phân tích nào phù hợp?",
       "options": [
         "Dòng noãn không có giảm phân I hoặc II",
         "Cùng có giảm phân nhưng cách phân bố sản phẩm không được vẽ giống nhau ở hai dòng",

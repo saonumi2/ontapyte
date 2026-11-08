@@ -608,7 +608,7 @@
       "topicId": "origin",
       "conceptId": "m05-location-scenario",
       "level": "apply",
-      "stem": "Trong mô hình di trú của bài, tế bào từ túi noãn hoàng đã đi dọc mạc treo ruột nhưng bị chặn trước ụ sinh dục. Kết quả nào chưa đạt?",
+      "stem": "Di trú, tế bào từ túi noãn hoàng đã đi dọc mạc treo ruột nhưng bị chặn trước ụ sinh dục. Kết quả nào chưa đạt?",
       "options": [
         "Tế bào chưa đến được ụ sinh dục",
         "Tế bào đã hoàn tất di trú vào ụ sinh dục",
@@ -719,7 +719,7 @@
       "topicId": "origin",
       "conceptId": "m05-arrest-I",
       "level": "apply",
-      "stem": "Một sơ đồ đặt việc tái tục giảm phân của nhóm nang được chiêu mộ hoàn toàn trước dậy thì. Cách sửa nào phù hợp?",
+      "stem": "Việc tái tục giảm phân của nhóm nang được chiêu mộ diễn ra khi nào?",
       "options": [
         "Đặt sự tái tục ở nang được chiêu mộ kể từ sau dậy thì",
         "Đặt mọi noãn hoàn tất giảm phân II trước sinh",
@@ -756,7 +756,7 @@
       "topicId": "origin",
       "conceptId": "m05-recruit-local",
       "level": "apply",
-      "stem": "Trong mô hình bài học, thay đổi chỉ tác động yếu tố tự tiết tại buồng trứng. Quá trình nào liên quan trực tiếp nhất?",
+      "stem": "Thay đổi chỉ tác động yếu tố tự tiết tại buồng trứng. Quá trình nào liên quan trực tiếp nhất?",
       "options": [
         "Hình thành nhân cung",
         "Chiêu mộ noãn nguyên thủy",
@@ -830,7 +830,7 @@
       "topicId": "axis",
       "conceptId": "m05-gnrh-output",
       "level": "apply",
-      "stem": "Trong mô hình bài, nếu tín hiệu xung GnRH đến tuyến yên bị gián đoạn, khâu đáp ứng nào trực tiếp mất kích thích này?",
+      "stem": "Nếu tín hiệu xung GnRH đến tuyến yên bị gián đoạn, khâu đáp ứng nào trực tiếp mất kích thích này?",
       "options": [
         "Chế tiết FSH và LH ở tuyến yên",
         "Di trú tế bào từ túi noãn hoàng",
@@ -978,7 +978,7 @@
       "topicId": "axis",
       "conceptId": "m05-e1-direct",
       "level": "apply",
-      "stem": "Trong mô hình chỉ xét bước thơm hóa androstenedione tại tế bào hạt, bước này bị chặn. Sản phẩm trực tiếp nào không còn được tạo qua chính bước đó?",
+      "stem": "Chỉ xét bước thơm hóa androstenedione tại tế bào hạt, bước này bị chặn. Sản phẩm trực tiếp nào không còn được tạo qua chính bước đó?",
       "options": [
         "Estrone (E1)",
         "Progesterone từ hoàng thể",
@@ -1348,7 +1348,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-lh-meiosis",
       "level": "apply",
-      "stem": "Sau đỉnh LH, một sơ đồ vẫn vẽ noãn giữ nguyên trạng thái trước đỉnh mà không hoàn tất giảm phân I. Bước cần bổ sung là gì?",
+      "stem": "Sau đỉnh LH, noãn cần hoàn tất bước nào?",
       "options": [
         "Hoàn tất giảm phân I rồi đi vào giảm phân II",
         "Lặp lại nguyên phân tạo nhiều noãn",
@@ -1496,7 +1496,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-vascularization",
       "level": "apply",
-      "stem": "Nếu trong mô hình hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả đang bị hạn chế?",
+      "stem": "Nếu hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả đang bị hạn chế?",
       "options": [
         "Cholesterol từ mạch máu vào cấu trúc nang",
         "GnRH từ chính noãn bào",
@@ -1533,7 +1533,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-two-steroids-same-source",
       "level": "apply",
-      "stem": "Sau phóng noãn, xét về mô hình nội tiết của bài, E2 vẫn được sản xuất đồng thời P4 xuất hiện nổi bật. Diễn giải nào phù hợp?",
+      "stem": "Sau phóng noãn, xét về mô hình nội tiết, E2 vẫn được sản xuất đồng thời P4 xuất hiện nổi bật. Diễn giải nào phù hợp?",
       "options": [
         "Phần nang còn lại đã hoàng thể hóa, tiếp tục E2 và sản xuất thêm P4",
         "E2 còn tồn tại chứng minh chưa thể có hoàng thể",
@@ -2202,7 +2202,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-p4-luteolysis-chain",
       "level": "analyze",
-      "stem": "Chuỗi nào nối được phản hồi P4 với thoái triển hoàng thể trong mô hình bài?",
+      "stem": "Chuỗi nào nối được phản hồi P4 với thoái triển hoàng thể?",
       "options": [
         "P4 cao → LH tăng mãi → bạch thể",
         "P4 biến thành FSH → hoàng thể vỡ",

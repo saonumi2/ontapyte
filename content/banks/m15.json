@@ -228,7 +228,7 @@
       "topicId": "exam",
       "conceptId": "m15-vital-priority",
       "level": "understand",
-      "stem": "Đánh giá sinh hiệu có ý nghĩa gì trong trình tự tiếp cận của bài học?",
+      "stem": "Đánh giá sinh hiệu có ý nghĩa gì trong trình tự tiếp cận?",
       "options": [
         "Giúp nhận diện tình trạng cấp cứu cần xử trí kịp thời",
         "Chỉ để tính tuổi thai",
@@ -395,7 +395,7 @@
       "topicId": "exam",
       "conceptId": "m15-outer-os",
       "level": "understand",
-      "stem": "Vì sao lỗ ngoài cổ tử cung mở có giá trị hạn chế trong lập luận của bài học?",
+      "stem": "Vì sao lỗ ngoài cổ tử cung mở có giá trị hạn chế trong lập luận?",
       "options": [
         "Có thể là biến thể bình thường, đặc biệt ở người con rạ",
         "Luôn chứng minh sẩy thai khó tránh",
@@ -562,7 +562,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-sac-morphology",
       "level": "understand",
-      "stem": "Cặp mô tả hình dạng nào đúng theo bảng so sánh túi thai sớm và túi giả?",
+      "stem": "Cặp mô tả hình dạng nào đúng so sánh túi thai sớm và túi giả?",
       "options": [
         "Túi thai sớm tròn, ổn định; túi giả thuôn dài, thay đổi khi quét",
         "Túi thai sớm thuôn dài; túi giả luôn tròn ổn định",
@@ -802,7 +802,7 @@
       "topicId": "aub",
       "conceptId": "m15-normal-frequency",
       "level": "understand",
-      "stem": "Theo bảng, khoảng tần số chu kỳ nào được ghi bình thường?",
+      "stem": "Khoảng tần số chu kỳ nào được ghi bình thường?",
       "options": [
         "Dưới 24 ngày",
         "Trên 38 ngày",
@@ -1649,7 +1649,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-sac-location",
       "level": "apply",
-      "stem": "Một cấu trúc được mô tả nằm dưới đường giữa, vùi trong màng rụng. Theo bảng so sánh, mô tả phù hợp bên nào hơn?",
+      "stem": "Một cấu trúc được mô tả nằm dưới đường giữa, vùi trong màng rụng. so sánh, mô tả phù hợp bên nào hơn?",
       "options": [
         "Bảng không có nội dung vị trí",
         "Túi thai trong tử cung sớm",
@@ -2296,7 +2296,7 @@
       "topicId": "aub",
       "conceptId": "m15-normal-frequency",
       "level": "apply",
-      "stem": "Theo bảng AUB, chu kỳ 21 ngày thuộc nhóm tần số nào?",
+      "stem": "AUB, chu kỳ 21 ngày thuộc nhóm tần số nào?",
       "options": [
         "Vô kinh",
         "Thường xuyên vì dưới 24 ngày",
@@ -2336,7 +2336,7 @@
       "topicId": "aub",
       "conceptId": "m15-normal-frequency",
       "level": "apply",
-      "stem": "Theo bảng, chu kỳ 42 ngày thuộc nhóm nào?",
+      "stem": "Chu kỳ 42 ngày thuộc nhóm nào?",
       "options": [
         "Không thường xuyên vì trên 38 ngày",
         "Bình thường vì mọi chu kỳ trên 24 ngày đều bình thường",
@@ -2376,7 +2376,7 @@
       "topicId": "aub",
       "conceptId": "m15-duration",
       "level": "apply",
-      "stem": "Theo bảng AUB, một đợt chảy máu 10 ngày được mô tả thế nào?",
+      "stem": "AUB, một đợt chảy máu 10 ngày được mô tả thế nào?",
       "options": [
         "Bình thường vì dưới 14 ngày",
         "Chắc chắn thai ngoài tử cung",
@@ -2496,7 +2496,7 @@
       "topicId": "hcg",
       "conceptId": "m15-integrated-baseline",
       "level": "analyze",
-      "stem": "Hai người có hCG ban đầu 1000 và 4000 IU/L, đều tăng 40% sau 48 giờ. Đối chiếu đúng với bảng là gì?",
+      "stem": "Hai người có hCG ban đầu 1000 và 4000 IU/L, đều tăng 40% sau 48 giờ. Nhận định nào đúng?",
       "options": [
         "Người đầu dưới mốc 49%; người sau vượt mốc 33%; chưa thể chỉ từ đó xác định vị trí thai",
         "Cả hai đều dưới mốc vì mọi người phải tăng 49%",
@@ -2811,7 +2811,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-integrated-sac-pattern",
       "level": "analyze",
-      "stem": "Mô tả bằng chữ: cấu trúc ở đường giữa giữa hai lớp nội mạc, thuôn dài thay đổi khi quét, một lớp viền, vô mạch. Theo bảng, tổ hợp nghiêng về nhóm nào?",
+      "stem": "Mô tả bằng chữ: cấu trúc ở đường giữa giữa hai lớp nội mạc, thuôn dài thay đổi khi quét, một lớp viền, vô mạch. tổ hợp nghiêng về nhóm nào?",
       "options": [
         "Kết quả mô học thai trứng",
         "Túi giả",
@@ -2978,7 +2978,7 @@
       "topicId": "aub",
       "conceptId": "m15-integrated-normal-one-axis",
       "level": "analyze",
-      "stem": "Chu kỳ 30 ngày nhưng mỗi đợt ra máu 10 ngày từ tử cung. Cách phân tích nào đúng theo bảng?",
+      "stem": "Chu kỳ 30 ngày nhưng mỗi đợt ra máu 10 ngày từ tử cung. Cách phân tích nào đúng?",
       "options": [
         "Không thể có thời gian bất thường nếu tần số bình thường",
         "Tần số thuộc khoảng bình thường, thời gian kéo dài; một trục bình thường không làm mọi trục bình thường",
@@ -3213,7 +3213,7 @@
       "topicId": "hcg",
       "conceptId": "m15-integrated-threshold-not-dose",
       "level": "apply",
-      "stem": "Một bảng học gán 1500,3000,5000 mUI/ml thành 'liều điều trị' rồi dùng 49%,40%,33% như ngưỡng định vị. Sai ở đâu?",
+      "stem": "Gán 1500, 3000, 5000 mUI/ml thành “liều điều trị” và dùng 49%, 40%, 33% làm ngưỡng định vị. Sai ở đâu?",
       "options": [
         "Đã trộn ngưỡng khảo sát theo ngả/số thai với mức tăng động học theo nồng độ ban đầu; không số nào là liều thuốc",
         "Các số đều đúng là liều thuốc",
@@ -3461,7 +3461,7 @@
       "topicId": "hcg",
       "conceptId": "m15-hcg-beta-core",
       "level": "apply",
-      "stem": "Một phiếu học cần đặt β-core fragment vào loại mẫu mà sơ đồ ghi bên cạnh riêng dạng này. Chọn loại mẫu nào?",
+      "stem": "β-core fragment được tìm thấy trong loại mẫu nào?",
       "options": [
         "Nước tiểu",
         "Chỉ dịch não tủy",

@@ -155,7 +155,7 @@
       "topicId": "vitri",
       "conceptId": "ampulla",
       "level": "understand",
-      "stem": "Vị trí nào chiếm tỷ lệ lớn nhất trong bảng vị trí thai ngoài tử cung của bài?",
+      "stem": "Vị trí nào chiếm tỷ lệ lớn nhất vị trí thai ngoài tử cung?",
       "options": [
         "Đoạn bóng vòi tử cung",
         "Buồng trứng",
@@ -496,7 +496,7 @@
       "topicId": "vitri",
       "conceptId": "ampulla",
       "level": "understand",
-      "stem": "Trong bảng bài học, tỷ lệ thai ngoài tử cung ở đoạn bóng vòi tử cung được ghi là bao nhiêu?",
+      "stem": "Tỷ lệ thai ngoài tử cung ở đoạn bóng vòi tử cung được ghi là bao nhiêu?",
       "options": [
         "80%",
         "2%",
@@ -985,7 +985,7 @@
       "topicId": "chandoan",
       "conceptId": "differential",
       "level": "understand",
-      "stem": "Trong danh sách chẩn đoán phân biệt của bài, tình trạng nào có thể gây nhầm với thai ngoài tử cung?",
+      "stem": "Trong danh sách chẩn đoán phân biệt, tình trạng nào có thể gây nhầm với thai ngoài tử cung?",
       "options": [
         "Sẩy thai",
         "Nang noãn nguyên thủy bình thường",
@@ -1059,7 +1059,7 @@
       "topicId": "xutri",
       "conceptId": "surgicalfeasibility",
       "level": "apply",
-      "stem": "Một kế hoạch ghi phải dùng nội soi cho mọi trường hợp, dù tình trạng bệnh không cho phép thực hiện. Cách sửa nào bám đúng phần điều trị tận gốc của bài?",
+      "stem": "Một kế hoạch ghi phải dùng nội soi cho mọi trường hợp, dù tình trạng bệnh không cho phép thực hiện. Cách sửa nào bám đúng phần điều trị tận gốc?",
       "options": [
         "Ưu tiên nội soi khi thực hiện được; bài còn nêu mổ bụng khi tình trạng bệnh không thực hiện được nội soi",
         "Vẫn bắt buộc nội soi bất kể tình trạng bệnh",
@@ -1096,7 +1096,7 @@
       "topicId": "xutri",
       "conceptId": "conservativehemodynamics",
       "level": "apply",
-      "stem": "Một bảng sàng lọc điều kiện bảo tồn ghi người đang mạch nhanh, huyết áp tụt là “huyết động ổn định”. Cần sửa phần đối chiếu nào?",
+      "stem": "Người mạch nhanh và huyết áp tụt lại được ghi là huyết động ổn định. Cần sửa điều gì?",
       "options": [
         "Dấu này thuộc mô tả choáng của bài, không đáp ứng điều kiện huyết động ổn định",
         "Mạch nhanh và huyết áp tụt xác nhận ổn định",
@@ -1592,7 +1592,7 @@
       "topicId": "xutri",
       "conceptId": "pelvicfertilityassessment",
       "level": "apply",
-      "stem": "Một bảng tư vấn sau nội soi chỉ ghi đã xác định thai ngoài tử cung, bỏ đánh giá tổn thương tử cung/phần phụ và viêm dính. Vai trò bổ sung nào của nội soi được bài nêu?",
+      "stem": "Sau nội soi xác định thai ngoài tử cung, vai trò đánh giá bổ sung nào cần được lưu ý?",
       "options": [
         "Đánh giá viêm dính, bệnh lý tử cung và hai phần phụ để góp phần tiên lượng sinh sản",
         "Chỉ xác định màu tóc để tiên lượng",

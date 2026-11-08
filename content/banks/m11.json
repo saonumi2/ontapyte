@@ -88,7 +88,7 @@
       "topicId": "ditruyen",
       "conceptId": "m11-ly-giai",
       "level": "understand",
-      "stem": "Hiện tượng nào được liệt kê trong mục “Từ âm đạo đến vòi trứng” của bài?",
+      "stem": "Hiện tượng nào được liệt kê trong mục “Từ âm đạo đến vòi trứng”?",
       "options": [
         "Phôi thoát màng trong suốt",
         "Tạo hồ huyết ở nội mạc",
@@ -206,7 +206,7 @@
       "topicId": "tiepxucnoan",
       "conceptId": "m11-lop-quanh-noan",
       "level": "understand",
-      "stem": "Tinh trùng vượt qua lớp nào trước màng trong suốt theo trình tự chữ của bài?",
+      "stem": "Tinh trùng vượt qua lớp nào trước màng trong suốt theo trình tự chữ?",
       "options": [
         "Lớp thanh mạc tử cung",
         "Lớp tế bào hạt quanh noãn",
@@ -430,7 +430,7 @@
       "topicId": "ditruyen",
       "conceptId": "m11-du-tru-co-tu-cung",
       "level": "understand",
-      "stem": "Một sơ đồ bỏ tuyến cổ tử cung khỏi hành trình tinh trùng. Chức năng nào sẽ bị bỏ sót?",
+      "stem": "Tuyến cổ tử cung có vai trò nào trong hành trình tinh trùng?",
       "options": [
         "Thụ tinh luôn trong âm đạo",
         "Dự trữ tinh trùng tại tuyến cổ tử cung",
@@ -504,7 +504,7 @@
       "topicId": "khananghoa",
       "conceptId": "m11-kha-nang-hoa",
       "level": "understand",
-      "stem": "Hình chú thích tinh trùng ban đầu được phủ bởi các chất ngăn khả năng thụ tinh. Biến đổi được mô tả trong quá trình di chuyển là gì?",
+      "stem": "Tinh trùng ban đầu được phủ bởi chất ngăn khả năng thụ tinh. Trong khi di chuyển, biến đổi nào xảy ra?",
       "options": [
         "Đóng kín mọi điểm yếu ở chóp tinh trùng",
         "Tạo tế bào Sertoli mới trong đầu",
@@ -771,7 +771,7 @@
       "topicId": "hopty",
       "conceptId": "ciliatransport",
       "level": "understand",
-      "stem": "Sơ đồ vận chuyển hợp tử chỉ kể cơ vòi, bỏ yếu tố bề mặt nào?",
+      "stem": "Ngoài cơ vòi, yếu tố bề mặt nào góp phần vận chuyển hợp tử?",
       "options": [
         "Tế bào Sertoli",
         "Vi nhung mao",
@@ -994,7 +994,7 @@
       "topicId": "hopty",
       "conceptId": "m11-E2-nhu-dong",
       "level": "understand",
-      "stem": "Một sơ đồ vận chuyển hợp tử muốn ghi yếu tố tạo nhu động cơ vòi trứng. Chọn gì?",
+      "stem": "Yếu tố nào tạo nhu động cơ vòi trứng khi hợp tử di chuyển?",
       "options": [
         "Chỉ kháng thể IgG",
         "Chỉ hCG",
@@ -1390,7 +1390,7 @@
       "topicId": "ditruyen",
       "conceptId": "cervixdual",
       "level": "understand",
-      "stem": "Vai trò tuyến cổ tử cung trong hành trình tinh trùng gồm những gì được bài nêu hoặc hình chú thích?",
+      "stem": "Tuyến cổ tử cung có những vai trò nào trong hành trình tinh trùng?",
       "options": [
         "Thay thế vòi trứng trong mọi lần thụ tinh",
         "Tạo noãn và làm tổ",

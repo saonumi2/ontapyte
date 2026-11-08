@@ -1019,7 +1019,7 @@
       "topicId": "giaiphau",
       "conceptId": "lymph",
       "level": "apply",
-      "stem": "Cần điền nơi nhận bạch huyết của vòi trứng vào sơ đồ. Chọn vị trí nào?",
+      "stem": "Bạch huyết của vòi trứng đổ về vị trí nào?",
       "options": [
         "Hạch bạch huyết vùng thắt lưng",
         "Các tua vòi",
@@ -1204,7 +1204,7 @@
       "topicId": "chucnang",
       "conceptId": "estrogencontraction",
       "level": "apply",
-      "stem": "Trong mô hình chỉ xét tác động steroid nêu, estrogen tăng sẽ nghiêng về đáp ứng nào ở cơ vòi trứng?",
+      "stem": "Chỉ xét tác động steroid nêu, estrogen tăng sẽ nghiêng về đáp ứng nào ở cơ vòi trứng?",
       "options": [
         "Tăng co thắt",
         "Giãn cơ như progesterone",
@@ -1241,7 +1241,7 @@
       "topicId": "chucnang",
       "conceptId": "progesteronerelax",
       "level": "apply",
-      "stem": "Trong mô hình tác động hormone của bài, hormone nào phù hợp với hiện tượng giãn cơ vòi trứng?",
+      "stem": "Tác động hormone, hormone nào phù hợp với hiện tượng giãn cơ vòi trứng?",
       "options": [
         "Progesterone",
         "Estrogen",
@@ -1944,7 +1944,7 @@
       "topicId": "apxe",
       "conceptId": "abscesspresentation",
       "level": "apply",
-      "stem": "Đau bụng dưới, sốt, dịch âm đạo đục mủ và khối phần phụ phù hợp nhóm mô tả nào của bài?",
+      "stem": "Đau bụng dưới, sốt, dịch âm đạo đục mủ và khối phần phụ phù hợp nhóm mô tả nào?",
       "options": [
         "Lâm sàng áp xe vòi trứng–buồng trứng",
         "Vòi trứng bình thường không có bệnh lý",

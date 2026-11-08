@@ -204,7 +204,7 @@
       "topicId": "origin",
       "conceptId": "m06-pten-pi3k",
       "level": "understand",
-      "stem": "Quan hệ PTEN và PI3K trong sơ đồ là gì?",
+      "stem": "Quan hệ PTEN và PI3K là gì?",
       "options": [
         "Không liên quan chiêu mộ",
         "Tác dụng trái ngược trên chuyển đổi PIP2/PIP3",
@@ -561,7 +561,7 @@
       "topicId": "origin",
       "conceptId": "m06-pi3k-product",
       "level": "apply",
-      "stem": "Theo sơ đồ, PI3K hoạt động sẽ thúc đẩy chuyển đổi nào?",
+      "stem": "PI3K hoạt động sẽ thúc đẩy chuyển đổi nào?",
       "options": [
         "PIP2 thành PIP3",
         "PIP3 thành PIP2",
@@ -600,7 +600,7 @@
       "topicId": "origin",
       "conceptId": "m06-pten-product",
       "level": "apply",
-      "stem": "Trong cùng sơ đồ, PTEN tác động theo chiều nào?",
+      "stem": "PTEN tác động theo chiều nào trong quá trình hoạt hóa nang?",
       "options": [
         "PIP2 thành PIP3",
         "Progesterone thành LH",
@@ -639,7 +639,7 @@
       "topicId": "origin",
       "conceptId": "m06-foxo3",
       "level": "apply",
-      "stem": "FOXO3 được phosphoryl hóa trong sơ đồ. Điều gì xảy ra với sự phong tỏa DNA?",
+      "stem": "FOXO3 được phosphoryl hóa. Điều gì xảy ra với sự phong tỏa DNA?",
       "options": [
         "DNA biến thành AMH",
         "Tế bào lập tức thành bạch thể",
@@ -873,7 +873,7 @@
       "topicId": "selection",
       "conceptId": "m06-inhibin-mass",
       "level": "apply",
-      "stem": "Tổng khối tế bào hạt tăng trong mô hình bài. Nồng độ Inhibin B có chiều biến thiên nào?",
+      "stem": "Tổng khối tế bào hạt tăng. Nồng độ Inhibin B có chiều biến thiên nào?",
       "options": [
         "Thuận chiều tổng khối tế bào hạt",
         "Luôn nghịch chiều",
@@ -912,7 +912,7 @@
       "topicId": "selection",
       "conceptId": "m06-dual-control",
       "level": "apply",
-      "stem": "Một sơ đồ chỉ ghi E2 kiểm soát FSH trong pha nang. Hormone buồng trứng nào cần bổ sung?",
+      "stem": "Ngoài E2, hormone buồng trứng nào góp phần kiểm soát FSH trong pha nang?",
       "options": [
         "GnRH",
         "LH",
@@ -1113,7 +1113,7 @@
       "topicId": "origin",
       "conceptId": "m06-signal-chain",
       "level": "analyze",
-      "stem": "Chuỗi nào phù hợp sơ đồ hoạt hóa nang qua PI3K?",
+      "stem": "Chuỗi nào phù hợp với hoạt hóa nang qua PI3K?",
       "options": [
         "PTEN và PI3K luôn cùng chiều",
         "AMH trực tiếp trở thành DNA",
@@ -1287,7 +1287,7 @@
       "topicId": "cycle",
       "conceptId": "m06-successive-observation",
       "level": "analyze",
-      "stem": "Vì sao khi đoàn hệ đang quan sát kết thúc vẫn có đoàn hệ tiếp nối, theo mô hình bài?",
+      "stem": "Vì sao khi đoàn hệ đang quan sát kết thúc vẫn có đoàn hệ tiếp nối,?",
       "options": [
         "Chỉ lúc hành kinh mới tạo tế bào sinh dục mới",
         "Mọi đoàn hệ đều kết thúc cùng lúc",
@@ -1773,7 +1773,7 @@
       "topicId": "origin",
       "conceptId": "m06-recruit-local",
       "level": "apply",
-      "stem": "Trong mô hình bài học, thay đổi chỉ tác động yếu tố tự tiết tại buồng trứng. Quá trình nào liên quan trực tiếp nhất?",
+      "stem": "Thay đổi chỉ tác động yếu tố tự tiết tại buồng trứng. Quá trình nào liên quan trực tiếp nhất?",
       "options": [
         "Hình thành nhân cung",
         "Chiêu mộ noãn nguyên thủy",
@@ -1857,7 +1857,7 @@
       "topicId": "axis",
       "conceptId": "m06-gnrh-output",
       "level": "apply",
-      "stem": "Trong mô hình bài, nếu tín hiệu xung GnRH đến tuyến yên bị gián đoạn, khâu đáp ứng nào trực tiếp mất kích thích này?",
+      "stem": "Nếu tín hiệu xung GnRH đến tuyến yên bị gián đoạn, khâu đáp ứng nào trực tiếp mất kích thích này?",
       "options": [
         "Chế tiết FSH và LH ở tuyến yên",
         "Di trú tế bào từ túi noãn hoàng",
@@ -2013,7 +2013,7 @@
       "topicId": "axis",
       "conceptId": "m06-e1-direct",
       "level": "apply",
-      "stem": "Trong mô hình chỉ xét bước thơm hóa androstenedione tại tế bào hạt, bước này bị chặn. Sản phẩm trực tiếp nào không còn được tạo qua chính bước đó?",
+      "stem": "Chỉ xét bước thơm hóa androstenedione tại tế bào hạt, bước này bị chặn. Sản phẩm trực tiếp nào không còn được tạo qua chính bước đó?",
       "options": [
         "Estrone (E1)",
         "Progesterone từ hoàng thể",
@@ -2487,7 +2487,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-vascularization",
       "level": "apply",
-      "stem": "Nếu trong mô hình hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả đang bị hạn chế?",
+      "stem": "Nếu hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả đang bị hạn chế?",
       "options": [
         "Cholesterol từ mạch máu vào cấu trúc nang",
         "GnRH từ chính noãn bào",
@@ -2526,7 +2526,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-two-steroids-same-source",
       "level": "apply",
-      "stem": "Sau phóng noãn, xét về mô hình nội tiết của bài, E2 vẫn được sản xuất đồng thời P4 xuất hiện nổi bật. Diễn giải nào phù hợp?",
+      "stem": "Sau phóng noãn, xét về mô hình nội tiết, E2 vẫn được sản xuất đồng thời P4 xuất hiện nổi bật. Diễn giải nào phù hợp?",
       "options": [
         "Phần nang còn lại đã hoàng thể hóa, tiếp tục E2 và sản xuất thêm P4",
         "E2 còn tồn tại chứng minh chưa thể có hoàng thể",
@@ -3210,7 +3210,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-p4-luteolysis-chain",
       "level": "analyze",
-      "stem": "Chuỗi nào nối được phản hồi P4 với thoái triển hoàng thể trong mô hình bài?",
+      "stem": "Chuỗi nào nối được phản hồi P4 với thoái triển hoàng thể?",
       "options": [
         "P4 cao → LH tăng mãi → bạch thể",
         "P4 biến thành FSH → hoàng thể vỡ",

@@ -1742,7 +1742,7 @@
       "topicId": "hoangthe",
       "conceptId": "lhmaintenance",
       "level": "apply",
-      "stem": "Trong mô hình của bài, hormone nào duy trì hoàng thể?",
+      "stem": "Hormone nào duy trì hoàng thể?",
       "options": [
         "LH",
         "Chỉ chất cản quang",
@@ -2268,7 +2268,7 @@
       "topicId": "pcos",
       "conceptId": "criteriacount",
       "level": "apply",
-      "stem": "Bảng tiêu chuẩn PCOS yêu cầu bao nhiêu trong ba nhóm tiêu chuẩn?",
+      "stem": "Tiêu chuẩn PCOS yêu cầu bao nhiêu trong ba nhóm tiêu chuẩn?",
       "options": [
         "Hai trong ba",
         "Cả ba luôn bắt buộc",
@@ -2342,7 +2342,7 @@
       "topicId": "giaiphau",
       "conceptId": "vascularpedicle",
       "level": "analyze",
-      "stem": "Cần nối đầu bám, dây chằng và mạch đi qua trong một sơ đồ. Ghép nào đúng?",
+      "stem": "Đầu bám, dây chằng và mạch đi qua cần được ghép thế nào?",
       "options": [
         "Đầu vòi → dây chằng treo → động mạch buồng trứng",
         "Đầu tử cung → vành tia → động mạch chủ",
@@ -2555,7 +2555,7 @@
       "topicId": "mohoc",
       "conceptId": "thecainteraction",
       "level": "analyze",
-      "stem": "Nếu lập sơ đồ sản xuất estrogen ở nang có hốc lớn, chuỗi nào bám đúng bài?",
+      "stem": "Chuỗi sản xuất estrogen ở nang có hốc lớn là gì?",
       "options": [
         "Vỏ trong tiết androstenedione → tế bào hạt dùng nguyên liệu → tổng hợp estrogen",
         "Vỏ ngoài tiết noãn → màng trắng biến noãn thành estrogen",
@@ -2846,7 +2846,7 @@
       "topicId": "utan",
       "conceptId": "functionalversusneoplastic",
       "level": "analyze",
-      "stem": "Một nhóm xếp nang hoàng thể xuất huyết vào bảng u tân sinh rồi áp dụng nguồn gốc tế bào mầm. Sai ở điểm nào?",
+      "stem": "Nang hoàng thể xuất huyết bị xếp vào u tân sinh và áp dụng nguồn gốc tế bào mầm. Sai ở điểm nào?",
       "options": [
         "Bài xếp nang hoàng thể xuất huyết là cơ năng, tách khỏi hệ phân loại u tân sinh",
         "Mọi nang cơ năng đều được bài gọi u tế bào mầm",
@@ -2973,7 +2973,7 @@
       "topicId": "pcos",
       "conceptId": "pcosdoublecount",
       "level": "analyze",
-      "stem": "Rậm lông và mụn trứng cá có được đếm thành hai nhóm tiêu chuẩn PCOS riêng trong bảng của bài không?",
+      "stem": "Rậm lông và mụn trứng cá có được đếm thành hai nhóm tiêu chuẩn PCOS riêng không?",
       "options": [
         "Không, cả hai thuộc biểu hiện cường androgen",
         "Có, mỗi triệu chứng luôn là một nhóm riêng",

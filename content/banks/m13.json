@@ -1060,7 +1060,7 @@
       "topicId": "dating",
       "conceptId": "m13-crl-calculation",
       "level": "apply",
-      "stem": "CRL được đo 10 mm. Theo công thức và phạm vi của bài học, cách tính nào đúng?",
+      "stem": "CRL được đo 10 mm. Theo công thức và phạm vi, cách tính nào đúng?",
       "options": [
         "10 + 42 = 52 ngày",
         "10 + 42 = 52 tuần",
@@ -1547,7 +1547,7 @@
       "topicId": "assessment",
       "conceptId": "m13-hcg-context",
       "level": "apply",
-      "stem": "Hai cơ sở chọn ngưỡng β-hCG hơi khác nhau tùy điều kiện thực hành. Điều này có trái mô tả của bài học không?",
+      "stem": "Hai cơ sở chọn ngưỡng β-hCG hơi khác nhau tùy điều kiện thực hành. Điều này có trái mô tả không?",
       "options": [
         "Không; tài liệu nói ngưỡng không phải con số cứng nhắc",
         "Có; bài học bắt buộc một ngưỡng duy nhất toàn cầu",
@@ -1867,7 +1867,7 @@
       "topicId": "ectopic",
       "conceptId": "m13-tubal-rupture",
       "level": "apply",
-      "stem": "Trong sơ đồ diễn tiến của bài học, vỡ vòi trứng do thai ở vòi dẫn đến hậu quả nào?",
+      "stem": "Diễn tiến, vỡ vòi trứng do thai ở vòi dẫn đến hậu quả nào?",
       "options": [
         "Xuất huyết nội",
         "Tự động chuyển thai vào tử cung",
@@ -1907,7 +1907,7 @@
       "topicId": "ectopic",
       "conceptId": "m13-tubal-expulsion",
       "level": "apply",
-      "stem": "Thai ở vòi sẩy qua loa. Theo sơ đồ của bài học, biến cố nào có thể đi kèm?",
+      "stem": "Thai ở vòi sẩy qua loa. biến cố nào có thể đi kèm?",
       "options": [
         "Chắc chắn trở thành thai trong tử cung bình thường",
         "Chắc chắn hình thành u nguyên bào nuôi",
@@ -1987,7 +1987,7 @@
       "topicId": "ectopic",
       "conceptId": "m13-ectopic-mass",
       "level": "apply",
-      "stem": "Khám ghi nhận có thể sờ thấy khối cạnh tử cung ở người nghi thai ở vòi. Cách diễn đạt nào đúng mức độ chắc chắn của bài?",
+      "stem": "Khám ghi nhận có thể sờ thấy khối cạnh tử cung ở người nghi thai ở vòi. Cách diễn đạt nào đúng mức độ chắc chắn?",
       "options": [
         "Khối cạnh tử cung xác nhận thai trứng",
         "Đây là dấu hiệu có thể gặp, cần chẩn đoán phân biệt",
@@ -2234,7 +2234,7 @@
       "topicId": "mole",
       "conceptId": "m13-mole-contraception",
       "level": "apply",
-      "stem": "Một kế hoạch điều trị thai trứng bỏ qua việc ngừa thai. Nội dung nào của bài học cần được bổ sung?",
+      "stem": "Một kế hoạch điều trị thai trứng bỏ qua việc ngừa thai. Nội dung nào cần được bổ sung?",
       "options": [
         "Ngừng mọi theo dõi hCG",
         "Chỉ đo BCTC để khẳng định khỏi bệnh",
@@ -2274,7 +2274,7 @@
       "topicId": "mole",
       "conceptId": "m13-mole-classification",
       "level": "understand",
-      "stem": "Trong danh sách phân loại của bài, thai trứng xâm lấn được xếp cùng nhóm nội dung nào?",
+      "stem": "Trong danh sách phân loại, thai trứng xâm lấn được xếp cùng nhóm nội dung nào?",
       "options": [
         "Các dấu hiệu thăm khám có thai",
         "Các hình thái sẩy thai trang 28",
@@ -2434,7 +2434,7 @@
       "topicId": "loss",
       "conceptId": "m13-loss-proportion",
       "level": "understand",
-      "stem": "Trong mô tả dịch tễ của bài học, tỷ lệ thai kỳ chấm dứt bằng sẩy thai được ghi là bao nhiêu?",
+      "stem": "Trong mô tả dịch tễ, tỷ lệ thai kỳ chấm dứt bằng sẩy thai được ghi là bao nhiêu?",
       "options": [
         "100% thai kỳ",
         "Dưới 0,1% thai kỳ",
@@ -2958,7 +2958,7 @@
       "topicId": "ectopic",
       "conceptId": "m13-integrated-tubal-bleeding",
       "level": "apply",
-      "stem": "Một học viên kết luận 'có xuất huyết nội trong thai ở vòi thì chỉ có thể do vòi đã vỡ'. Phân tích nào đúng theo sơ đồ bài học?",
+      "stem": "Một học viên kết luận 'có xuất huyết nội trong thai ở vòi thì chỉ có thể do vòi đã vỡ'. Phân tích nào đúng?",
       "options": [
         "Đúng vì sơ đồ chỉ có một diễn tiến",
         "Sai vì vỡ vòi không bao giờ gây xuất huyết nội",

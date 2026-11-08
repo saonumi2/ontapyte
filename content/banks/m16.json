@@ -199,7 +199,7 @@
       "topicId": "classification",
       "conceptId": "m16-chemo-comparison",
       "level": "understand",
-      "stem": "Bảng so sánh mô tả đáp ứng hóa trị của hai nhóm như thế nào?",
+      "stem": "Đáp ứng hóa trị của hai nhóm choriocarcinoma khác nhau thế nào?",
       "options": [
         "Bảng không đề cập hóa trị",
         "Nhóm liên quan thai kỳ tốt hơn, nhóm không liên quan thai kỳ kém",
@@ -319,7 +319,7 @@
       "topicId": "pathology",
       "conceptId": "m16-typical-karyotype",
       "level": "understand",
-      "stem": "Cách đọc nào đúng về hàng karyotype trong bảng phân biệt?",
+      "stem": "Cách đọc nào đúng về hàng karyotype phân biệt?",
       "options": [
         "Bán phần luôn 46,XX và toàn phần luôn 69,XXX",
         "Bảng dùng karyotype để tính tuổi thai",
@@ -359,7 +359,7 @@
       "topicId": "pathology",
       "conceptId": "m16-embryo-presence",
       "level": "understand",
-      "stem": "Hàng embryo-fetus trong bảng phân biệt cho thấy gì?",
+      "stem": "Hàng embryo-fetus phân biệt cho thấy gì?",
       "options": [
         "Không có khác biệt nào được ghi",
         "Thường hiện diện ở bán phần, vắng ở toàn phần",
@@ -399,7 +399,7 @@
       "topicId": "pathology",
       "conceptId": "m16-villous-edema",
       "level": "understand",
-      "stem": "Khác biệt phù gai nhau trong bảng và chú thích mô học là gì?",
+      "stem": "Khác biệt phù gai nhau và chú thích mô học là gì?",
       "options": [
         "Khu trú/không đồng đều ở bán phần; lan rộng và rõ ở toàn phần",
         "Lan rộng ở bán phần, hoàn toàn không phù ở toàn phần",
@@ -446,7 +446,7 @@
       "topicId": "pathology",
       "conceptId": "m16-p57",
       "level": "understand",
-      "stem": "Hàng nhuộm p57KIP2 trong bảng phân biệt được ghi như thế nào?",
+      "stem": "Hàng nhuộm p57KIP2 phân biệt được ghi như thế nào?",
       "options": [
         "Bán phần âm tính; toàn phần dương tính",
         "Cả hai đều âm tính bắt buộc",
@@ -940,7 +940,7 @@
       "topicId": "classification",
       "conceptId": "m16-paternal-dna",
       "level": "apply",
-      "stem": "Khi phân loại choriocarcinoma ngoài tử cung theo sơ đồ, phát hiện allele từ cha. Nhánh nào phù hợp sơ đồ?",
+      "stem": "Khi phân loại choriocarcinoma ngoài tử cung, phát hiện allele từ cha hướng về nhánh nào?",
       "options": [
         "Non-gestational choriocarcinoma vì luôn không có gen cha",
         "Chỉ u cơ trơn",
@@ -987,7 +987,7 @@
       "topicId": "classification",
       "conceptId": "m16-paternal-dna",
       "level": "apply",
-      "stem": "Sơ đồ ghi không có allele từ cha trong trường hợp đang phân loại. Nhánh nào được chỉ ra?",
+      "stem": "Không có allele từ cha hướng về nhánh nào?",
       "options": [
         "Thai trứng toàn phần được xác nhận chỉ bởi âm tính này",
         "Thai trứng bán phần được xác nhận chỉ bởi âm tính này",
@@ -1041,7 +1041,7 @@
       "topicId": "classification",
       "conceptId": "m16-postmolar-origin",
       "level": "understand",
-      "stem": "Trong bảng nguồn gốc gestational choriocarcinoma, tỷ trọng liên quan thai trứng được ghi là bao nhiêu?",
+      "stem": "Nguồn gốc gestational choriocarcinoma, tỷ trọng liên quan thai trứng được ghi là bao nhiêu?",
       "options": [
         "Không trường hợp nào",
         "50%",
@@ -1081,7 +1081,7 @@
       "topicId": "classification",
       "conceptId": "m16-nonmolar-origin",
       "level": "apply",
-      "stem": "Một học viên nói choriocarcinoma liên quan thai kỳ chỉ có sau thai trứng. Thông tin nào trong bảng phản bác?",
+      "stem": "Một học viên nói choriocarcinoma liên quan thai kỳ chỉ có sau thai trứng. Thông tin nào phản bác?",
       "options": [
         "Bảng còn nêu sau sẩy thai/thai lưu và sau thai đủ tháng/non tháng",
         "Bảng không nêu nguồn gốc",
@@ -1121,7 +1121,7 @@
       "topicId": "classification",
       "conceptId": "m16-germ-cell-origin",
       "level": "understand",
-      "stem": "Đối với nhóm không liên quan thai kỳ, bảng có nêu nguồn từ tế bào mầm ngoài sinh dục ở đâu?",
+      "stem": "Choriocarcinoma không liên quan thai kỳ có thể có nguồn từ tế bào mầm ngoài sinh dục ở đâu?",
       "options": [
         "Chỉ duy nhất bánh nhau",
         "Chỉ duy nhất buồng tử cung đang có thai",
@@ -1161,7 +1161,7 @@
       "topicId": "classification",
       "conceptId": "m16-somatic-origin",
       "level": "understand",
-      "stem": "Bảng còn nêu nguồn tế bào soma của non-gestational choriocarcinoma từ nhóm cơ quan nào?",
+      "stem": "Choriocarcinoma không liên quan thai kỳ có thể có nguồn tế bào soma từ nhóm cơ quan nào?",
       "options": [
         "Chỉ nang noãn nguyên thủy",
         "Chỉ hoàng thể thai kỳ",
@@ -1241,7 +1241,7 @@
       "topicId": "classification",
       "conceptId": "m16-gtn-ett",
       "level": "understand",
-      "stem": "Trong bảng thuật ngữ, ETT cần được ghép với tên nào?",
+      "stem": "Thuật ngữ, ETT cần được ghép với tên nào?",
       "options": [
         "U nguyên bào nuôi dạng biểu mô",
         "Thai trứng toàn phần",
@@ -1281,7 +1281,7 @@
       "topicId": "pathology",
       "conceptId": "m16-partial-karyotype",
       "level": "apply",
-      "stem": "Theo các kiểu điển hình trong bảng, kết quả 69,XXY phù hợp với nhóm nào?",
+      "stem": "Theo các kiểu điển hình kết quả 69,XXY phù hợp với nhóm nào?",
       "options": [
         "Kiểu điển hình 46,XX của toàn phần",
         "Chỉ thai lưu bất kỳ đã xác nhận",
@@ -1321,7 +1321,7 @@
       "topicId": "pathology",
       "conceptId": "m16-complete-karyotype",
       "level": "understand",
-      "stem": "Kiểu 46,XX được ghi ở cột nào trong hàng karyotype điển hình của bảng?",
+      "stem": "Kiểu 46,XX điển hình phù hợp với nhóm nào?",
       "options": [
         "Chỉ cột u xơ",
         "Chỉ cột nang hoàng tuyến",
@@ -1361,7 +1361,7 @@
       "topicId": "pathology",
       "conceptId": "m16-fetal-elements",
       "level": "apply",
-      "stem": "Một mô tả trong bảng nói có thể thấy phôi/thai, màng ối và hồng cầu thai. Nó phù hợp hơn với cột nào?",
+      "stem": "Một mô tả nói có thể thấy phôi/thai, màng ối và hồng cầu thai. Nó phù hợp hơn với cột nào?",
       "options": [
         "Bảng không nói thành phần thai",
         "Thai trứng bán phần",
@@ -1401,7 +1401,7 @@
       "topicId": "pathology",
       "conceptId": "m16-p57",
       "level": "understand",
-      "stem": "Một bài tập chỉ yêu cầu đối chiếu bảng: p57KIP2 dương tính được ghép với nhóm nào?",
+      "stem": "p57KIP2 dương tính được ghép với nhóm nào?",
       "options": [
         "Bán phần",
         "Toàn phần",
@@ -1582,7 +1582,7 @@
       "topicId": "pathology",
       "conceptId": "m16-atypia-comparison",
       "level": "understand",
-      "stem": "Theo bảng, bất thường hình thái nguyên bào nuôi 'mild' được ghép với dạng nào?",
+      "stem": "Bất thường hình thái nguyên bào nuôi 'mild' được ghép với dạng nào?",
       "options": [
         "Bán phần",
         "Toàn phần với 'marked'",
@@ -1622,7 +1622,7 @@
       "topicId": "pathology",
       "conceptId": "m16-uterine-size-table",
       "level": "understand",
-      "stem": "Bảng so sánh ghi tử cung nhỏ hơn tuổi thai ở nhóm nào?",
+      "stem": "Tử cung nhỏ hơn tuổi thai thường gặp ở nhóm nào?",
       "options": [
         "Toàn phần với tử cung lớn hơn tuổi thai",
         "Cả hai bắt buộc đều lớn",
@@ -1662,7 +1662,7 @@
       "topicId": "pathology",
       "conceptId": "m16-subsequent-gtn-risk",
       "level": "understand",
-      "stem": "Theo bảng phân biệt, nguy cơ GTN tiếp sau được ghi ở toàn phần là bao nhiêu?",
+      "stem": "Phân biệt, nguy cơ GTN tiếp sau được ghi ở toàn phần là bao nhiêu?",
       "options": [
         "100%",
         "0% tuyệt đối",
@@ -1702,7 +1702,7 @@
       "topicId": "pathology",
       "conceptId": "m16-subsequent-gtn-risk",
       "level": "understand",
-      "stem": "Bảng phân biệt ghi nguy cơ GTN tiếp sau của bán phần là bao nhiêu?",
+      "stem": "Nguy cơ GTN tiếp sau của thai trứng bán phần là bao nhiêu?",
       "options": [
         "Không có nguy cơ tuyệt đối",
         "1–5%",
@@ -2262,7 +2262,7 @@
       "topicId": "followup",
       "conceptId": "m16-clinical-followup",
       "level": "apply",
-      "stem": "Một phiếu theo dõi chỉ ghi hCG. Nhóm lâm sàng nào của bài cần bổ sung?",
+      "stem": "Một phiếu theo dõi chỉ ghi hCG. Nhóm lâm sàng nào cần bổ sung?",
       "options": [
         "Chỉ chiều cao người bệnh",
         "Chỉ màu tóc",
@@ -2589,7 +2589,7 @@
       "topicId": "classification",
       "conceptId": "m16-integrated-parental-history",
       "level": "analyze",
-      "stem": "Một học viên nói 'không thấy tiền sử thai trứng nên choriocarcinoma không thể liên quan thai kỳ'. Phản biện nào bám bảng?",
+      "stem": "Một người cho rằng không có tiền sử thai trứng thì choriocarcinoma không thể liên quan thai kỳ. Phản biện nào đúng?",
       "options": [
         "Đúng vì 100% gestational đều sau thai trứng",
         "Đúng vì gen từ cha không tồn tại ở gestational",
@@ -2636,7 +2636,7 @@
       "topicId": "pathology",
       "conceptId": "m16-integrated-partial-pattern",
       "level": "analyze",
-      "stem": "Một tổ hợp theo bảng gồm 69,XXY, phôi/thai hiện diện, phù gai khu trú và p57 dương. Nó phù hợp cột nào?",
+      "stem": "Một tổ hợp gồm 69,XXY, phôi/thai hiện diện, phù gai khu trú và p57 dương. Nó phù hợp cột nào?",
       "options": [
         "Cả hai cột giống hoàn toàn",
         "Chỉ choriocarcinoma không liên quan thai kỳ",
@@ -2676,7 +2676,7 @@
       "topicId": "pathology",
       "conceptId": "m16-integrated-complete-pattern",
       "level": "analyze",
-      "stem": "Tổ hợp tập gồm gai nhau phù lan rộng, phôi/thai vắng và p57 âm. Kết luận nào nhất quán với bảng?",
+      "stem": "Tổ hợp gai nhau phù lan rộng, phôi/thai vắng và p57 âm phù hợp với chẩn đoán nào?",
       "options": [
         "Đã đủ để tính ngày dự sanh",
         "Nghiêng về toàn phần theo tổ hợp đặc điểm",
@@ -2777,7 +2777,7 @@
       "topicId": "pathology",
       "conceptId": "m16-integrated-typical-not-exclusive",
       "level": "apply",
-      "stem": "Bảng ghi 46,XX là karyotype điển hình của TTTP. Sinh viên suy 'mọi 46,XX đều là TTTP và mọi TTTP chỉ có 46,XX'. Vấn đề là gì?",
+      "stem": "Kiểu 46,XX điển hình của thai trứng toàn phần. Vì sao không thể suy mọi 46,XX đều là thai trứng toàn phần?",
       "options": [
         "Không có vấn đề vì 'điển hình' nghĩa là điều kiện cần và đủ",
         "Sai vì bảng ghi toàn phần 69,XXY",
@@ -2817,7 +2817,7 @@
       "topicId": "pathology",
       "conceptId": "m16-subsequent-gtn-risk",
       "level": "apply",
-      "stem": "Một báo cáo nói nguy cơ GTN sau bán phần bằng 0 vì thấp hơn toàn phần. Sửa thế nào theo bảng?",
+      "stem": "Một báo cáo nói nguy cơ GTN sau bán phần bằng 0 vì thấp hơn toàn phần. Sửa thế nào?",
       "options": [
         "Cả hai 0%",
         "Không có nguy cơ nào được nêu",
@@ -3299,7 +3299,7 @@
       "topicId": "classification",
       "conceptId": "m16-integrated-prognosis-not-guarantee",
       "level": "apply",
-      "stem": "Bảng nói nhóm gestational đáp ứng hóa trị tốt, tiên lượng tốt. Sinh viên biến thành 'mọi bệnh nhân chắc chắn khỏi'. Sai lầm là gì?",
+      "stem": "Nhóm gestational đáp ứng hóa trị tốt và tiên lượng tốt. Sai lầm nào khi suy mọi bệnh nhân chắc chắn khỏi?",
       "options": [
         "Không sai vì từ 'tốt' luôn có nghĩa 100%",
         "Sai vì bảng ghi gestational kém hơn ở cả hai hàng",
@@ -3426,7 +3426,7 @@
       "topicId": "pathology",
       "conceptId": "m16-empty-ovum-duplication",
       "level": "apply",
-      "stem": "Theo sơ đồ, noãn không có bộ gen nhận một bộ 23X rồi xảy ra nhân đôi nội tại. Kết quả được ghi là gì?",
+      "stem": "Noãn không có bộ gen nhận một bộ 23X rồi xảy ra nhân đôi nội tại. Kết quả được ghi là gì?",
       "options": [
         "46XX đồng hợp",
         "69XXX",
@@ -3465,7 +3465,7 @@
       "topicId": "pathology",
       "conceptId": "m16-same-karyotype-different-origin",
       "level": "analyze",
-      "stem": "Hai nhánh ở sơ đồ cùng tạo46XX: một nhánh từ23X nhân đôi, một nhánh từ hai bộ23X. Phân biệt nào đúng theo nhãn của sơ đồ?",
+      "stem": "Hai nhánh cùng tạo 46XX: một nhánh từ 23X nhân đôi, một nhánh từ hai bộ 23X. Phân biệt nào đúng?",
       "options": [
         "Nhánh nhân đôi ghi đồng hợp; nhánh hai bộ23X ghi dị hợp",
         "Cả hai đều được hình ghi69XXX",
@@ -3504,7 +3504,7 @@
       "topicId": "pathology",
       "conceptId": "m16-triploid-sum",
       "level": "apply",
-      "stem": "Trong nhánh noãn23X nhận hai bộ23X của sơ đồ, kết quả số nhiễm sắc thể và nhiễm sắc thể giới tính là gì?",
+      "stem": "Noãn 23X nhận hai bộ 23X tạo ra kết quả nhiễm sắc thể và nhiễm sắc thể giới tính nào?",
       "options": [
         "69XXX",
         "46XX",

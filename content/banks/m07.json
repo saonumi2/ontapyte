@@ -1196,7 +1196,7 @@
       "topicId": "receptors",
       "conceptId": "m07-concentration-genomic",
       "level": "apply",
-      "stem": "Trong mô hình bài, hormone ở mức picomol vẫn gây tác động. Cơ chế nào được nêu cần nồng độ này?",
+      "stem": "Hormone ở mức picomol vẫn gây tác động. Cơ chế nào được nêu cần nồng độ này?",
       "options": [
         "Không có cơ chế nào",
         "Tổng hợp GnRH từ cholesterol",
@@ -1270,7 +1270,7 @@
       "topicId": "receptors",
       "conceptId": "m07-esr1-chromosome",
       "level": "understand",
-      "stem": "Một sơ đồ đặt ESR1 ở nhiễm sắc thể 6. Receptor phù hợp là gì?",
+      "stem": "ESR1 tương ứng với receptor nào?",
       "options": [
         "ER-α",
         "ER-β",
@@ -1307,7 +1307,7 @@
       "topicId": "receptors",
       "conceptId": "m07-esr2-chromosome",
       "level": "understand",
-      "stem": "Một sơ đồ đặt ESR2 ở nhiễm sắc thể 14. Receptor phù hợp là gì?",
+      "stem": "ESR2 tương ứng với receptor nào?",
       "options": [
         "ER-α",
         "PR-A",
@@ -1455,7 +1455,7 @@
       "topicId": "receptors",
       "conceptId": "m07-prb-case",
       "level": "understand",
-      "stem": "Progesterone gắn isoform cho phép mở gene chuyển mã trong mô hình bài. Isoform nào?",
+      "stem": "Progesterone gắn isoform cho phép mở gene chuyển mã. Isoform nào?",
       "options": [
         "PR-A thiếu AF3",
         "GPCR bất hoạt",
@@ -1566,7 +1566,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-no-pr-case",
       "level": "apply",
-      "stem": "Tế bào dự trữ không có PR có chức năng. P4 có thể tác động qua gene trực tiếp lên chúng theo mô hình bài không?",
+      "stem": "Tế bào dự trữ không có PR có chức năng. P4 có thể tác động qua gene trực tiếp lên chúng không?",
       "options": [
         "Không, thiếu receptor cần thiết",
         "Có, P4 không cần receptor",
@@ -2355,7 +2355,7 @@
       "topicId": "steroids",
       "conceptId": "m07-luteal-e2-p4",
       "level": "understand",
-      "stem": "Một sơ đồ chỉ ghi P4 ở hoàng thể và xóa hoàn toàn E2 sau phóng noãn. Sửa nào đúng?",
+      "stem": "Sau phóng noãn, diễn giải nào đúng về sự hiện diện của E2 và P4?",
       "options": [
         "Xóa P4, chỉ ghi GnRH",
         "Ghi FSH là steroid chủ lực",
@@ -2601,7 +2601,7 @@
       "topicId": "receptors",
       "conceptId": "m07-pra-antagonism",
       "level": "analyze",
-      "stem": "Trong mô hình bài, P4 vẫn gắn PR-A nhưng gene không mở. Vì sao 'có gắn hormone' chưa đủ để suy ra 'có hoạt hóa gene'?",
+      "stem": "P4 vẫn gắn PR-A nhưng gene không mở. Vì sao 'có gắn hormone' chưa đủ để suy ra 'có hoạt hóa gene'?",
       "options": [
         "DNA không tham gia tác động qua gene",
         "PR-A thiếu AF3, gắn corepressor thay coactivator",
