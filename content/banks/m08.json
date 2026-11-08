@@ -1,0 +1,2705 @@
+{
+  "moduleId": "m08",
+  "title": "Các vấn đề liên quan HPO",
+  "sourceSha256": "39c80d0601451dc1c312b88365a844841af685eb861df53707950dfbaefba94d",
+  "topics": [
+    {
+      "id": "puberty",
+      "title": "Trục HPO ở tuổi dậy thì",
+      "pages": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "menopause",
+      "title": "Trục HPO quanh mãn kinh",
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "aub",
+      "title": "Cơ chế AUB-O",
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "amenorrhea",
+      "title": "Phân loại và nguyên nhân vô kinh",
+      "pages": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "contraception",
+      "title": "Cơ chế tránh thai nội tiết",
+      "pages": [
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "emergency",
+      "title": "Cơ chế thuốc tránh thai khẩn cấp",
+      "pages": [
+        32,
+        33
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m08-q001",
+      "topicId": "puberty",
+      "conceptId": "m08-early-pulses",
+      "level": "understand",
+      "stem": "Đặc điểm xung GnRH lúc bắt đầu dậy thì theo bài là gì?",
+      "options": [
+        "Tăng dần tần số và biên độ",
+        "Biến mất vĩnh viễn",
+        "Giảm về không ngay",
+        "Chỉ do buồng trứng chế tiết"
+      ],
+      "answer": 0,
+      "explanation": "Slide 2 mô tả sự trưởng thành hoạt động GnRH.",
+      "optionExplanations": [
+        "Slide 2 mô tả sự trưởng thành hoạt động GnRH.",
+        "Không phù hợp trong tình huống này. Slide 2 mô tả sự trưởng thành hoạt động GnRH.",
+        "Không phù hợp trong tình huống này. Slide 2 mô tả sự trưởng thành hoạt động GnRH.",
+        "Không phù hợp trong tình huống này. Slide 2 mô tả sự trưởng thành hoạt động GnRH."
+      ],
+      "sources": [
+        {
+          "page": 2,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bắt đầu tuổi dậy thì, hạ đồi chế tiết các xung GnRH tăng dần về tần số và biên độ. Tuy nhiên, các xung GnRH ban đầu chỉ đủ gây đáp ứng chế tiết FSH ở tuyến yên mà không đủ gây đáp ứng chế tiết LH đủ mạnh. Dưới tác động của FSH → nang noãn phát triển tạo E2 → phát triển tuyến vú, tử cung, cốt hóa xương dài & các đặc điểm sinh dục thứ phát: lông mu, phát triển môi lớn & môi nhỏ, sừng hóa niêm mạc ÂĐ, tăng tích mỡ ở hông, đùi… E2 gây phát triển nội mạc tử cung → xuất hiện kinh nguyệt"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q002",
+      "topicId": "puberty",
+      "conceptId": "m08-fsh-response",
+      "level": "understand",
+      "stem": "Vì sao ban đầu nang noãn có thể phát triển mà phóng noãn chưa đều?",
+      "options": [
+        "FSH chỉ do tử cung tiết",
+        "LH luôn cao tối đa từ đầu",
+        "E2 không tác động cơ quan sinh dục",
+        "Đáp ứng FSH có trước khi đáp ứng LH đủ mạnh"
+      ],
+      "answer": 3,
+      "explanation": "Slide 2–4 phân biệt đáp ứng phát triển nang và điều kiện tạo đỉnh LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 2–4 phân biệt đáp ứng phát triển nang và điều kiện tạo đỉnh LH.",
+        "Không phù hợp trong tình huống này. Slide 2–4 phân biệt đáp ứng phát triển nang và điều kiện tạo đỉnh LH.",
+        "Không phù hợp trong tình huống này. Slide 2–4 phân biệt đáp ứng phát triển nang và điều kiện tạo đỉnh LH.",
+        "Slide 2–4 phân biệt đáp ứng phát triển nang và điều kiện tạo đỉnh LH."
+      ],
+      "sources": [
+        {
+          "page": 2,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bắt đầu tuổi dậy thì, hạ đồi chế tiết các xung GnRH tăng dần về tần số và biên độ. Tuy nhiên, các xung GnRH ban đầu chỉ đủ gây đáp ứng chế tiết FSH ở tuyến yên mà không đủ gây đáp ứng chế tiết LH đủ mạnh. Dưới tác động của FSH → nang noãn phát triển tạo E2 → phát triển tuyến vú, tử cung, cốt hóa xương dài & các đặc điểm sinh dục thứ phát: lông mu, phát triển môi lớn & môi nhỏ, sừng hóa niêm mạc ÂĐ, tăng tích mỡ ở hông, đùi… E2 gây phát triển nội mạc tử cung → xuất hiện kinh nguyệt"
+        },
+        {
+          "page": 4,
+          "quote": "Trục HPO trong thời kỳ dậy thì Ban đầu, phản hồi dương của E2 lên trục HPO không hiệu quả → không xuất hiện đỉnh LH → hầu hết chu kỳ buồng trứng đầu tiên ở thời kỳ dậy thì là các chu kỳ không phóng noãn → vắng mặt hoặc yếu kém của hoàng thể. Hệ quả là sự thiếu hụt P4 → nội mạc tử cung không thể phân tiết. Nồng độ P4 không đủ cao → bất toàn trong ly giải hoàng thể. Vắng mặt hoàng thể hoặc hoàng thể không ly giải → NMTC sụp đổ từng phần hoặc không sụp đổ → AUB."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q003",
+      "topicId": "puberty",
+      "conceptId": "m08-low-p4-secretory",
+      "level": "understand",
+      "stem": "Chu kỳ không phóng noãn đầu dậy thì liên quan thiếu hormone nào do thiếu hoàng thể?",
+      "options": [
+        "FSH",
+        "E2 trong mọi trường hợp",
+        "Progesterone",
+        "GnRH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 4 mô tả thiếu hoặc yếu hoàng thể dẫn đến thiếu P4.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 4 mô tả thiếu hoặc yếu hoàng thể dẫn đến thiếu P4.",
+        "Không phù hợp trong tình huống này. Slide 4 mô tả thiếu hoặc yếu hoàng thể dẫn đến thiếu P4.",
+        "Slide 4 mô tả thiếu hoặc yếu hoàng thể dẫn đến thiếu P4.",
+        "Không phù hợp trong tình huống này. Slide 4 mô tả thiếu hoặc yếu hoàng thể dẫn đến thiếu P4."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "Trục HPO trong thời kỳ dậy thì Ban đầu, phản hồi dương của E2 lên trục HPO không hiệu quả → không xuất hiện đỉnh LH → hầu hết chu kỳ buồng trứng đầu tiên ở thời kỳ dậy thì là các chu kỳ không phóng noãn → vắng mặt hoặc yếu kém của hoàng thể. Hệ quả là sự thiếu hụt P4 → nội mạc tử cung không thể phân tiết. Nồng độ P4 không đủ cao → bất toàn trong ly giải hoàng thể. Vắng mặt hoàng thể hoặc hoàng thể không ly giải → NMTC sụp đổ từng phần hoặc không sụp đổ → AUB."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q004",
+      "topicId": "puberty",
+      "conceptId": "m08-exclude-not-assume",
+      "level": "understand",
+      "stem": "Chẩn đoán xuất huyết tử cung cơ năng tuổi dậy thì có tính chất gì?",
+      "options": [
+        "Đồng nghĩa chắc chắn thai ngoài tử cung",
+        "Chẩn đoán loại trừ",
+        "Chẩn đoán chỉ từ tuổi",
+        "Chỉ dựa một lần ra máu"
+      ],
+      "answer": 1,
+      "explanation": "Slide 5 nhấn mạnh cần loại trừ các nguyên nhân khác.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 5 nhấn mạnh cần loại trừ các nguyên nhân khác.",
+        "Slide 5 nhấn mạnh cần loại trừ các nguyên nhân khác.",
+        "Không phù hợp trong tình huống này. Slide 5 nhấn mạnh cần loại trừ các nguyên nhân khác.",
+        "Không phù hợp trong tình huống này. Slide 5 nhấn mạnh cần loại trừ các nguyên nhân khác."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bản chất của lần chảy máu đầu tiên là sự sụp đổ của NMTC do thiếu hụt 1 steroid (E2) hoặc cùng lúc cả 2 steroid (E2 & P4 khi chu kỳ có phóng noãn) Xuất huyết tử cung cơ năng tuổi dậy thì thường xảy ra trong vài năm đầu sau lần chảy máu đầu tiên. Tình trạng này xảy ra không đều, thay đổi về lượng và tính chất. Hầu hết tự ổn định khi chu kỳ có phóng noãn đều đặn. Chẩn đoán xuất huyết tử cung cơ năng tuổi dậy thì là chẩn đoán loại trừ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q005",
+      "topicId": "menopause",
+      "conceptId": "m08-inhibin-fsh",
+      "level": "understand",
+      "stem": "Inhibin B từ tế bào hạt tham gia điều hòa FSH theo hướng nào?",
+      "options": [
+        "Phản hồi âm",
+        "Phản hồi dương luôn luôn",
+        "Chuyển FSH thành E2",
+        "Không liên quan tuyến yên"
+      ],
+      "answer": 0,
+      "explanation": "Slide 6 nêu vai trò cùng E2 tạo phản hồi âm.",
+      "optionExplanations": [
+        "Slide 6 nêu vai trò cùng E2 tạo phản hồi âm.",
+        "Không phù hợp trong tình huống này. Slide 6 nêu vai trò cùng E2 tạo phản hồi âm.",
+        "Không phù hợp trong tình huống này. Slide 6 nêu vai trò cùng E2 tạo phản hồi âm.",
+        "Không phù hợp trong tình huống này. Slide 6 nêu vai trò cùng E2 tạo phản hồi âm."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Trong pha nang noãn, cùng với E2, inhibin B chế tiết từ các tế bào hạt tạo phản hồi âm lên sự phóng thích FSH, tạo động lực để chọn lọc noãn nang. Ở tuổi quanh mãn kinh, dự trữ buồng trứng suy giảm, tổng khối tế bào hạt giảm → AMH và inhibin B thấp → chỉ còn phản hồi âm của E2 kiểm soát chế tiết FSH → tuyến yên tăng sản xuất FSH. Nồng độ cao FSH làm các nang noãn thứ cấp phát triển và chọn lọc sớm (bắt đầu từ những ngày cuối của chu kỳ trước trong khi thường N5 của chu kỳ). → Khoảng cách giữa 2 lần hành kinh rút ngắn (chức năng phóng noãn bảo tồn) là đặc điểm của giai đoạn sớm nhất ở tuổi quanh mãn kinh."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q006",
+      "topicId": "menopause",
+      "conceptId": "m08-early-selection",
+      "level": "understand",
+      "stem": "Biểu hiện sớm nhất của quanh mãn kinh được bài nhấn mạnh là gì?",
+      "options": [
+        "Mất vĩnh viễn mọi hormone ngay",
+        "Luôn vô kinh tức thì",
+        "Đỉnh LH không bao giờ thay đổi",
+        "Khoảng cách hành kinh rút ngắn, còn phóng noãn"
+      ],
+      "answer": 3,
+      "explanation": "Slide 6 nối chọn lọc nang sớm với chu kỳ rút ngắn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 6 nối chọn lọc nang sớm với chu kỳ rút ngắn.",
+        "Không phù hợp trong tình huống này. Slide 6 nối chọn lọc nang sớm với chu kỳ rút ngắn.",
+        "Không phù hợp trong tình huống này. Slide 6 nối chọn lọc nang sớm với chu kỳ rút ngắn.",
+        "Slide 6 nối chọn lọc nang sớm với chu kỳ rút ngắn."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Trong pha nang noãn, cùng với E2, inhibin B chế tiết từ các tế bào hạt tạo phản hồi âm lên sự phóng thích FSH, tạo động lực để chọn lọc noãn nang. Ở tuổi quanh mãn kinh, dự trữ buồng trứng suy giảm, tổng khối tế bào hạt giảm → AMH và inhibin B thấp → chỉ còn phản hồi âm của E2 kiểm soát chế tiết FSH → tuyến yên tăng sản xuất FSH. Nồng độ cao FSH làm các nang noãn thứ cấp phát triển và chọn lọc sớm (bắt đầu từ những ngày cuối của chu kỳ trước trong khi thường N5 của chu kỳ). → Khoảng cách giữa 2 lần hành kinh rút ngắn (chức năng phóng noãn bảo tồn) là đặc điểm của giai đoạn sớm nhất ở tuổi quanh mãn kinh."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q007",
+      "topicId": "aub",
+      "conceptId": "m08-definition",
+      "level": "understand",
+      "stem": "AUB-O trong bài liên quan cơ chế nền nào?",
+      "options": [
+        "Chỉ do tử cung không có mạch máu",
+        "Chỉ do mang thai",
+        "Mất tác động nội tiết có tính chu kỳ do rối loạn phóng noãn",
+        "Mọi trường hợp đều do u thực thể"
+      ],
+      "answer": 2,
+      "explanation": "Slide 8 giải thích xuất huyết liên quan rối loạn phóng noãn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 8 giải thích xuất huyết liên quan rối loạn phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 8 giải thích xuất huyết liên quan rối loạn phóng noãn.",
+        "Slide 8 giải thích xuất huyết liên quan rối loạn phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 8 giải thích xuất huyết liên quan rối loạn phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "AUB-O Xuất huyết tử cung bất thường liên quan rối loạn phóng noãn (AUB-O) (xuất huyết tử cung cơ năng) xảy ra do NMTC mất đi sự tác động của nội tiết có tính chu kỳ ở các chu kỳ có phóng noãn (estrogen trong nửa đầu chu kỳ, progesterone và estrogen trong nửa sau chu kỳ) Trong tình huống có rối loạn phóng noãn, NMTC chịu tác động kéo dài của estrogen đơn độc → NMTC tăng trưởng liên tục làm mạch máu nuôi không theo kịp làm NMTC bị thiếu máu, hoại tử và bong tróc từng phần gây AUB."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q008",
+      "topicId": "aub",
+      "conceptId": "m08-unopposed-chain",
+      "level": "understand",
+      "stem": "Estrogen đơn độc kéo dài gây bong tróc từng phần nội mạc bằng cơ chế nào được nêu?",
+      "options": [
+        "Chỉ gây co cơ không ảnh hưởng tăng trưởng",
+        "Tăng trưởng vượt khả năng mạch máu nuôi, thiếu máu và hoại tử",
+        "Làm mọi tế bào thành tế bào hạt",
+        "Tạo hoàng thể trong tử cung"
+      ],
+      "answer": 1,
+      "explanation": "Slide 8 mô tả chuỗi tăng trưởng và thiếu máu mô.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 8 mô tả chuỗi tăng trưởng và thiếu máu mô.",
+        "Slide 8 mô tả chuỗi tăng trưởng và thiếu máu mô.",
+        "Không phù hợp trong tình huống này. Slide 8 mô tả chuỗi tăng trưởng và thiếu máu mô.",
+        "Không phù hợp trong tình huống này. Slide 8 mô tả chuỗi tăng trưởng và thiếu máu mô."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "AUB-O Xuất huyết tử cung bất thường liên quan rối loạn phóng noãn (AUB-O) (xuất huyết tử cung cơ năng) xảy ra do NMTC mất đi sự tác động của nội tiết có tính chu kỳ ở các chu kỳ có phóng noãn (estrogen trong nửa đầu chu kỳ, progesterone và estrogen trong nửa sau chu kỳ) Trong tình huống có rối loạn phóng noãn, NMTC chịu tác động kéo dài của estrogen đơn độc → NMTC tăng trưởng liên tục làm mạch máu nuôi không theo kịp làm NMTC bị thiếu máu, hoại tử và bong tróc từng phần gây AUB."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q009",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-classify1",
+      "level": "understand",
+      "stem": "Mẫu nội tiết WHO I trong sơ đồ bài là gì?",
+      "options": [
+        "FSH/LH thấp và E2 thấp",
+        "FSH/LH cao và E2 thấp",
+        "FSH bình thường và E2 bình thường",
+        "FSH thấp và E2 luôn rất cao"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ slide 12 ghép WHO I với gonadotropin và estradiol thấp.",
+      "optionExplanations": [
+        "Sơ đồ slide 12 ghép WHO I với gonadotropin và estradiol thấp.",
+        "Không phù hợp trong tình huống này. Sơ đồ slide 12 ghép WHO I với gonadotropin và estradiol thấp.",
+        "Không phù hợp trong tình huống này. Sơ đồ slide 12 ghép WHO I với gonadotropin và estradiol thấp.",
+        "Không phù hợp trong tình huống này. Sơ đồ slide 12 ghép WHO I với gonadotropin và estradiol thấp."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "WHO Classification. Serum Gonadotropins & Serum Estradiol levels. WHO I: FSH & LH ↓ & Estradiol ↓. WHO II: FSH ~ & Estradiol ~; PCOS. WHO III: FSH & LH ↑ & Estradiol ↓.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q010",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-classify3",
+      "level": "understand",
+      "stem": "Mẫu nội tiết WHO III trong sơ đồ bài là gì?",
+      "options": [
+        "FSH/LH thấp và E2 thấp",
+        "FSH bình thường và E2 bình thường",
+        "FSH thấp và E2 cao",
+        "FSH/LH cao và E2 thấp"
+      ],
+      "answer": 3,
+      "explanation": "Sơ đồ slide 12 ghép WHO III với gonadotropin cao, estradiol thấp.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Sơ đồ slide 12 ghép WHO III với gonadotropin cao, estradiol thấp.",
+        "Không phù hợp trong tình huống này. Sơ đồ slide 12 ghép WHO III với gonadotropin cao, estradiol thấp.",
+        "Không phù hợp trong tình huống này. Sơ đồ slide 12 ghép WHO III với gonadotropin cao, estradiol thấp.",
+        "Sơ đồ slide 12 ghép WHO III với gonadotropin cao, estradiol thấp."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "WHO Classification. Serum Gonadotropins & Serum Estradiol levels. WHO I: FSH & LH ↓ & Estradiol ↓. WHO II: FSH ~ & Estradiol ~; PCOS. WHO III: FSH & LH ↑ & Estradiol ↓.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q011",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-classify2",
+      "level": "understand",
+      "stem": "WHO II trong sơ đồ được biểu diễn bằng mẫu nào?",
+      "options": [
+        "FSH/LH cao cùng E2 thấp",
+        "Mất hoàn toàn mọi tế bào nang",
+        "FSH và E2 khoảng bình thường",
+        "FSH/LH thấp cùng E2 thấp"
+      ],
+      "answer": 2,
+      "explanation": "Sơ đồ slide 12 phân biệt mẫu WHO II với hai nhóm còn lại.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Sơ đồ slide 12 phân biệt mẫu WHO II với hai nhóm còn lại.",
+        "Không phù hợp trong tình huống này. Sơ đồ slide 12 phân biệt mẫu WHO II với hai nhóm còn lại.",
+        "Sơ đồ slide 12 phân biệt mẫu WHO II với hai nhóm còn lại.",
+        "Không phù hợp trong tình huống này. Sơ đồ slide 12 phân biệt mẫu WHO II với hai nhóm còn lại."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "WHO Classification. Serum Gonadotropins & Serum Estradiol levels. WHO I: FSH & LH ↓ & Estradiol ↓. WHO II: FSH ~ & Estradiol ~; PCOS. WHO III: FSH & LH ↑ & Estradiol ↓.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q012",
+      "topicId": "contraception",
+      "conceptId": "m08-coc-components",
+      "level": "understand",
+      "stem": "COCs chứa những thành phần chính nào theo bài?",
+      "options": [
+        "Chỉ LH",
+        "Ethinyl estradiol và một progestogen uống được",
+        "Chỉ GnRH",
+        "Chỉ FSH"
+      ],
+      "answer": 1,
+      "explanation": "Slide 17 mô tả thành phần phối hợp của COCs.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 17 mô tả thành phần phối hợp của COCs.",
+        "Slide 17 mô tả thành phần phối hợp của COCs.",
+        "Không phù hợp trong tình huống này. Slide 17 mô tả thành phần phối hợp của COCs.",
+        "Không phù hợp trong tình huống này. Slide 17 mô tả thành phần phối hợp của COCs."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Thành phần của COCs là 17𝛼-Ethinyl Estradiol (EE) và 1 loại progestogen khả dụng qua đường uống. Hiệu quả tránh thai dựa vào 3 cơ chế: Ngăn phát triển nang noãn Ngăn phóng noãn Làm NMTC không tương thích làm tổ Tác dụng ngoại ý của EE gây thuyên tắc do huyết khối (lệ thuộc cơ địa và liều) và xơ vữa mạch máu."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q013",
+      "topicId": "contraception",
+      "conceptId": "m08-ee-fsh-case",
+      "level": "understand",
+      "stem": "Cơ chế sơ cấp của COCs được bài gọi là gì?",
+      "options": [
+        "Ngăn phát triển nang noãn",
+        "Tăng đỉnh LH",
+        "Tăng chiêu mộ bằng FSH",
+        "Kích thích phóng noãn"
+      ],
+      "answer": 0,
+      "explanation": "Slide 18 mô tả EE duy trì phản hồi âm lên FSH.",
+      "optionExplanations": [
+        "Slide 18 mô tả EE duy trì phản hồi âm lên FSH.",
+        "Không phù hợp trong tình huống này. Slide 18 mô tả EE duy trì phản hồi âm lên FSH.",
+        "Không phù hợp trong tình huống này. Slide 18 mô tả EE duy trì phản hồi âm lên FSH.",
+        "Không phù hợp trong tình huống này. Slide 18 mô tả EE duy trì phản hồi âm lên FSH."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Ngăn phát triển nang noãn (cơ chế tránh thai sơ cấp của COCs) Hoạt chất EE trong COCs tạo 1 nồng độ cao thường trực E2 trong huyết thanh → duy trì phản hồi âm lên chế tiết FSH làm nồng độ FSH thấp liên tục → nang noãn không thể phát triển dù được chiêu mộ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q014",
+      "topicId": "contraception",
+      "conceptId": "m08-selected-no-ovulation",
+      "level": "understand",
+      "stem": "Progestogen của COCs ngăn phóng noãn qua hormone nào?",
+      "options": [
+        "Tăng LH liên tục",
+        "Chuyển E2 thành FSH",
+        "Tăng FSH trực tiếp",
+        "Ức chế LH"
+      ],
+      "answer": 3,
+      "explanation": "Slide 19 nêu phản hồi âm thường trực lên chế tiết LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 19 nêu phản hồi âm thường trực lên chế tiết LH.",
+        "Không phù hợp trong tình huống này. Slide 19 nêu phản hồi âm thường trực lên chế tiết LH.",
+        "Không phù hợp trong tình huống này. Slide 19 nêu phản hồi âm thường trực lên chế tiết LH.",
+        "Slide 19 nêu phản hồi âm thường trực lên chế tiết LH."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Ngăn phóng noãn (cơ chế tránh thai thứ cấp) Hoạt chất progestogen tạo phản hồi âm thường trực lên chế tiết LH làm nồng độ LH ở mức thấp → không xảy ra hiện tượng phóng noãn dù có nang noãn được chọn lọc. Hủy cửa sổ làm tổ (cơ chế tránh thai thứ cấp) Progestogen hiện diện liên tục, kéo dài làm NMTC biến đổi màng rụng hóa → không còn cửa sổ làm tổ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q015",
+      "topicId": "contraception",
+      "conceptId": "m08-coc-vs-pop",
+      "level": "understand",
+      "stem": "POPs được bài mô tả có ý nghĩa nào khi không dùng được EE?",
+      "options": [
+        "Thay bằng FSH",
+        "Luôn phối hợp hai estrogen",
+        "Dùng progestogen, tránh tác dụng huyết khối liên quan EE",
+        "Bổ sung EE liều cao hơn"
+      ],
+      "answer": 2,
+      "explanation": "Slide 21–22 nêu thành phần và lý do lựa chọn nhóm POPs trong mô tả bài.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 21–22 nêu thành phần và lý do lựa chọn nhóm POPs trong mô tả bài.",
+        "Không phù hợp trong tình huống này. Slide 21–22 nêu thành phần và lý do lựa chọn nhóm POPs trong mô tả bài.",
+        "Slide 21–22 nêu thành phần và lý do lựa chọn nhóm POPs trong mô tả bài.",
+        "Không phù hợp trong tình huống này. Slide 21–22 nêu thành phần và lý do lựa chọn nhóm POPs trong mô tả bài."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "Viên uống tránh thai chỉ có progestogen (POPs) Tránh thai bằng viên uống tránh thai chỉ có progestogen (progestogen only pills – POPs) là phương pháp tránh thai tạm thời khi người dùng không thể dùng EE trong COCs. Thành phần là một hoạt chất progestogen, nhằm tránh tác dụng gây tắc mạch do huyết khối của EE."
+        },
+        {
+          "page": 22,
+          "quote": "Viên uống tránh thai chỉ có progestogen (POPs) Tránh thai bằng viên uống tránh thai chỉ có progestogen (progestogen only pills – POPs) là phương pháp tránh thai tạm thời khi người dùng không thể dùng EE trong COCs. Thành phần là một hoạt chất progestogen, nhằm tránh tác dụng gây tắc mạch do huyết khối của EE."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q016",
+      "topicId": "contraception",
+      "conceptId": "m08-pop-subgroups",
+      "level": "understand",
+      "stem": "Cơ chế sơ cấp của POPs cổ điển theo bài là gì?",
+      "options": [
+        "Tăng phóng noãn",
+        "Làm đặc chất nhầy cổ tử cung",
+        "Luôn ức chế LH mạnh nhất",
+        "Kích thích nang ưu thế"
+      ],
+      "answer": 1,
+      "explanation": "Slide 23 phân biệt POPs cổ điển và mới.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 23 phân biệt POPs cổ điển và mới.",
+        "Slide 23 phân biệt POPs cổ điển và mới.",
+        "Không phù hợp trong tình huống này. Slide 23 phân biệt POPs cổ điển và mới.",
+        "Không phù hợp trong tình huống này. Slide 23 phân biệt POPs cổ điển và mới."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Viên uống tránh thai chỉ có progestogen (POPs) Có 2 nhóm chính: POPs cổ điển (có tính kháng estrogen nhưng ức chế LH yếu): cơ chế tránh thai chủ yếu dựa vào làm đặc chất nhầy CTC (sơ cấp) và thay đổi cửa sổ làm tổ (thứ cấp). POPs mới (ức chế mạnh LH): cơ chế tránh thai dựa vào ngăn hiện tượng phóng noãn (sơ cấp) kèm các cơ chế của POPs cổ điển (thứ cấp). Người dùng POPs phải tuân thủ cách dùng (thời điểm bắt đầu vỉ, xử trí quên thuốc)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q017",
+      "topicId": "contraception",
+      "conceptId": "m08-pop-new",
+      "level": "understand",
+      "stem": "Cơ chế sơ cấp của POPs mới theo bài là gì?",
+      "options": [
+        "Ngăn phóng noãn nhờ ức chế mạnh LH",
+        "Tăng LH tạo phóng noãn",
+        "Chỉ tăng E2",
+        "Chỉ tạo FSH"
+      ],
+      "answer": 0,
+      "explanation": "Slide 23 nhấn mạnh khả năng ức chế LH của nhóm mới.",
+      "optionExplanations": [
+        "Slide 23 nhấn mạnh khả năng ức chế LH của nhóm mới.",
+        "Không phù hợp trong tình huống này. Slide 23 nhấn mạnh khả năng ức chế LH của nhóm mới.",
+        "Không phù hợp trong tình huống này. Slide 23 nhấn mạnh khả năng ức chế LH của nhóm mới.",
+        "Không phù hợp trong tình huống này. Slide 23 nhấn mạnh khả năng ức chế LH của nhóm mới."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Viên uống tránh thai chỉ có progestogen (POPs) Có 2 nhóm chính: POPs cổ điển (có tính kháng estrogen nhưng ức chế LH yếu): cơ chế tránh thai chủ yếu dựa vào làm đặc chất nhầy CTC (sơ cấp) và thay đổi cửa sổ làm tổ (thứ cấp). POPs mới (ức chế mạnh LH): cơ chế tránh thai dựa vào ngăn hiện tượng phóng noãn (sơ cấp) kèm các cơ chế của POPs cổ điển (thứ cấp). Người dùng POPs phải tuân thủ cách dùng (thời điểm bắt đầu vỉ, xử trí quên thuốc)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q018",
+      "topicId": "contraception",
+      "conceptId": "m08-lng-not-full-lh",
+      "level": "understand",
+      "stem": "IUD-LNG trong bài tránh thai chủ yếu nhờ tác động nào?",
+      "options": [
+        "Ức chế hoàn toàn LH ở mọi người",
+        "Tăng FSH liên tục",
+        "Tạo noãn mới",
+        "Nội mạc, chất nhầy và cơ chế IUD trơ"
+      ],
+      "answer": 3,
+      "explanation": "Slide 28 nêu không ức chế hoàn toàn LH và nhấn mạnh các cơ chế tại chỗ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 28 nêu không ức chế hoàn toàn LH và nhấn mạnh các cơ chế tại chỗ.",
+        "Không phù hợp trong tình huống này. Slide 28 nêu không ức chế hoàn toàn LH và nhấn mạnh các cơ chế tại chỗ.",
+        "Không phù hợp trong tình huống này. Slide 28 nêu không ức chế hoàn toàn LH và nhấn mạnh các cơ chế tại chỗ.",
+        "Slide 28 nêu không ức chế hoàn toàn LH và nhấn mạnh các cơ chế tại chỗ."
+      ],
+      "sources": [
+        {
+          "page": 28,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) Dụng cụ tử cung phóng thích levonorgestrel (IUD-LNG) được đặt trong buồng tử cung phóng thích chậm hằng định LNG mỗi ngày. Không ức chế hoàn toàn LH Cơ chế tránh thai chủ yếu làm thay đổi NMTC, đặc chất nhầy CTC, cơ chế của IUD trơ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q019",
+      "topicId": "emergency",
+      "conceptId": "m08-sprm-definition",
+      "level": "understand",
+      "stem": "SPRM là nhóm chất nào trong bài?",
+      "options": [
+        "Chất tạo GnRH trực tiếp",
+        "Hormone tế bào hạt bắt buộc",
+        "Điều hòa chọn lọc thụ thể progesterone",
+        "Thay thế toàn bộ FSH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 32 giải thích tên nhóm SPRM.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 32 giải thích tên nhóm SPRM.",
+        "Không phù hợp trong tình huống này. Slide 32 giải thích tên nhóm SPRM.",
+        "Slide 32 giải thích tên nhóm SPRM.",
+        "Không phù hợp trong tình huống này. Slide 32 giải thích tên nhóm SPRM."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "Các phương pháp tránh thai khẩn cấp ECP dùng levonorgestrel (LNG) là dạng tránh thai khẩn cấp dùng progestogen đơn thuần liều cao. ECP dùng SPRM (Việt Nam phổ biến là mifepristone). SPRM là chất điều hòa chọn lọc thụ thể progesterone."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q020",
+      "topicId": "emergency",
+      "conceptId": "m08-timing-not-guarantee",
+      "level": "understand",
+      "stem": "Vì sao hiệu quả ECP được bài gắn với thời điểm so với phóng noãn?",
+      "options": [
+        "ECP luôn kích thích phóng noãn",
+        "Cơ chế chính là ngăn hoặc trì hoãn phóng noãn",
+        "Thuốc luôn gây một cơ chế bất biến ở mọi thời điểm",
+        "ECP chính là IVF"
+      ],
+      "answer": 1,
+      "explanation": "Slide 33 nhấn mạnh vai trò thời điểm trong cơ chế.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 33 nhấn mạnh vai trò thời điểm trong cơ chế.",
+        "Slide 33 nhấn mạnh vai trò thời điểm trong cơ chế.",
+        "Không phù hợp trong tình huống này. Slide 33 nhấn mạnh vai trò thời điểm trong cơ chế.",
+        "Không phù hợp trong tình huống này. Slide 33 nhấn mạnh vai trò thời điểm trong cơ chế."
+      ],
+      "sources": [
+        {
+          "page": 33,
+          "quote": "Các phương pháp tránh thai khẩn cấp Cơ chế tránh thai của ECP thay đổi phụ thuộc phương thức sử dụng, cách dùng, thời gian dùng thuốc sơ với thời gian giao hợp và thời điểm phóng noãn. Cơ chế chính là ngăn sự phóng noãn (hoạt tính ức chế LH của progestogen). Nếu được sử dụng trước đỉnh LH tiền phóng noãn, công thức Yuzpe, LNG và SPRM đều có thể ngăn chặn hoặc trì hoãn hiện tượng phóng noãn. Nếu đã phóng noãn, ECPs gần như vô hiệu. Ngoài ra, còn các cơ chế thứ cấp khác hỗ trợ (di dời cửa sổ làm tổ…)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q021",
+      "topicId": "puberty",
+      "conceptId": "m08-fsh-response",
+      "level": "apply",
+      "stem": "Ở đầu dậy thì, xung GnRH mới đủ tạo đáp ứng FSH. Diễn biến nào được bài mô tả?",
+      "options": [
+        "Nang phát triển và tạo E2",
+        "Mọi chu kỳ chắc chắn phóng noãn",
+        "Không thể có phát triển nội mạc",
+        "Hoàng thể luôn hoàn chỉnh"
+      ],
+      "answer": 0,
+      "explanation": "Slide 2 mô tả FSH kích thích nang và tăng E2.",
+      "optionExplanations": [
+        "Slide 2 mô tả FSH kích thích nang và tăng E2.",
+        "Không phù hợp trong tình huống này. Slide 2 mô tả FSH kích thích nang và tăng E2.",
+        "Không phù hợp trong tình huống này. Slide 2 mô tả FSH kích thích nang và tăng E2.",
+        "Không phù hợp trong tình huống này. Slide 2 mô tả FSH kích thích nang và tăng E2."
+      ],
+      "sources": [
+        {
+          "page": 2,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bắt đầu tuổi dậy thì, hạ đồi chế tiết các xung GnRH tăng dần về tần số và biên độ. Tuy nhiên, các xung GnRH ban đầu chỉ đủ gây đáp ứng chế tiết FSH ở tuyến yên mà không đủ gây đáp ứng chế tiết LH đủ mạnh. Dưới tác động của FSH → nang noãn phát triển tạo E2 → phát triển tuyến vú, tử cung, cốt hóa xương dài & các đặc điểm sinh dục thứ phát: lông mu, phát triển môi lớn & môi nhỏ, sừng hóa niêm mạc ÂĐ, tăng tích mỡ ở hông, đùi… E2 gây phát triển nội mạc tử cung → xuất hiện kinh nguyệt"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q022",
+      "topicId": "puberty",
+      "conceptId": "m08-e2-targets",
+      "level": "understand",
+      "stem": "Theo bài, E2 tăng ở dậy thì góp phần vào thay đổi nào?",
+      "options": [
+        "Mất phát triển cơ quan sinh dục",
+        "Tạo FSH tại tuyến vú",
+        "Hủy mọi nội mạc",
+        "Phát triển tuyến vú và tử cung"
+      ],
+      "answer": 3,
+      "explanation": "Slide 2 liệt kê các cơ quan chịu tác động phát triển của E2.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 2 liệt kê các cơ quan chịu tác động phát triển của E2.",
+        "Không phù hợp trong tình huống này. Slide 2 liệt kê các cơ quan chịu tác động phát triển của E2.",
+        "Không phù hợp trong tình huống này. Slide 2 liệt kê các cơ quan chịu tác động phát triển của E2.",
+        "Slide 2 liệt kê các cơ quan chịu tác động phát triển của E2."
+      ],
+      "sources": [
+        {
+          "page": 2,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bắt đầu tuổi dậy thì, hạ đồi chế tiết các xung GnRH tăng dần về tần số và biên độ. Tuy nhiên, các xung GnRH ban đầu chỉ đủ gây đáp ứng chế tiết FSH ở tuyến yên mà không đủ gây đáp ứng chế tiết LH đủ mạnh. Dưới tác động của FSH → nang noãn phát triển tạo E2 → phát triển tuyến vú, tử cung, cốt hóa xương dài & các đặc điểm sinh dục thứ phát: lông mu, phát triển môi lớn & môi nhỏ, sừng hóa niêm mạc ÂĐ, tăng tích mỡ ở hông, đùi… E2 gây phát triển nội mạc tử cung → xuất hiện kinh nguyệt"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q023",
+      "topicId": "puberty",
+      "conceptId": "m08-positive-feedback-fails",
+      "level": "apply",
+      "stem": "Phản hồi dương E2 chưa hiệu quả ở đầu dậy thì. Sự kiện nào có thể không xuất hiện?",
+      "options": [
+        "Mọi tế bào nang",
+        "Nhân cung về giải phẫu",
+        "Đỉnh LH",
+        "Mọi phân tử E2"
+      ],
+      "answer": 2,
+      "explanation": "Slide 4 nối phản hồi chưa hiệu quả với thiếu đỉnh LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 4 nối phản hồi chưa hiệu quả với thiếu đỉnh LH.",
+        "Không phù hợp trong tình huống này. Slide 4 nối phản hồi chưa hiệu quả với thiếu đỉnh LH.",
+        "Slide 4 nối phản hồi chưa hiệu quả với thiếu đỉnh LH.",
+        "Không phù hợp trong tình huống này. Slide 4 nối phản hồi chưa hiệu quả với thiếu đỉnh LH."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "Trục HPO trong thời kỳ dậy thì Ban đầu, phản hồi dương của E2 lên trục HPO không hiệu quả → không xuất hiện đỉnh LH → hầu hết chu kỳ buồng trứng đầu tiên ở thời kỳ dậy thì là các chu kỳ không phóng noãn → vắng mặt hoặc yếu kém của hoàng thể. Hệ quả là sự thiếu hụt P4 → nội mạc tử cung không thể phân tiết. Nồng độ P4 không đủ cao → bất toàn trong ly giải hoàng thể. Vắng mặt hoàng thể hoặc hoàng thể không ly giải → NMTC sụp đổ từng phần hoặc không sụp đổ → AUB."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q024",
+      "topicId": "puberty",
+      "conceptId": "m08-low-p4-secretory",
+      "level": "apply",
+      "stem": "Chu kỳ không có hoàng thể đủ chức năng làm P4 thiếu. Nội mạc gặp vấn đề gì theo bài?",
+      "options": [
+        "Biến thành noãn",
+        "Không thể phân tiết đầy đủ",
+        "Luôn chế tiết tối đa",
+        "Tự tổng hợp FSH thay thế"
+      ],
+      "answer": 1,
+      "explanation": "Slide 4 nối thiếu P4 với thiếu phân tiết nội mạc.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 4 nối thiếu P4 với thiếu phân tiết nội mạc.",
+        "Slide 4 nối thiếu P4 với thiếu phân tiết nội mạc.",
+        "Không phù hợp trong tình huống này. Slide 4 nối thiếu P4 với thiếu phân tiết nội mạc.",
+        "Không phù hợp trong tình huống này. Slide 4 nối thiếu P4 với thiếu phân tiết nội mạc."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "Trục HPO trong thời kỳ dậy thì Ban đầu, phản hồi dương của E2 lên trục HPO không hiệu quả → không xuất hiện đỉnh LH → hầu hết chu kỳ buồng trứng đầu tiên ở thời kỳ dậy thì là các chu kỳ không phóng noãn → vắng mặt hoặc yếu kém của hoàng thể. Hệ quả là sự thiếu hụt P4 → nội mạc tử cung không thể phân tiết. Nồng độ P4 không đủ cao → bất toàn trong ly giải hoàng thể. Vắng mặt hoàng thể hoặc hoàng thể không ly giải → NMTC sụp đổ từng phần hoặc không sụp đổ → AUB."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q025",
+      "topicId": "puberty",
+      "conceptId": "m08-bleeding-pattern",
+      "level": "apply",
+      "stem": "Xuất huyết cơ năng trong vài năm đầu sau lần ra máu đầu tiên được bài mô tả ra sao?",
+      "options": [
+        "Không đều, lượng và tính chất thay đổi",
+        "Luôn giống hệt từng tháng",
+        "Luôn chứng minh có phóng noãn",
+        "Không bao giờ tự ổn định"
+      ],
+      "answer": 0,
+      "explanation": "Slide 5 nêu kiểu xuất huyết và xu hướng ổn định khi phóng noãn đều.",
+      "optionExplanations": [
+        "Slide 5 nêu kiểu xuất huyết và xu hướng ổn định khi phóng noãn đều.",
+        "Không phù hợp trong tình huống này. Slide 5 nêu kiểu xuất huyết và xu hướng ổn định khi phóng noãn đều.",
+        "Không phù hợp trong tình huống này. Slide 5 nêu kiểu xuất huyết và xu hướng ổn định khi phóng noãn đều.",
+        "Không phù hợp trong tình huống này. Slide 5 nêu kiểu xuất huyết và xu hướng ổn định khi phóng noãn đều."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bản chất của lần chảy máu đầu tiên là sự sụp đổ của NMTC do thiếu hụt 1 steroid (E2) hoặc cùng lúc cả 2 steroid (E2 & P4 khi chu kỳ có phóng noãn) Xuất huyết tử cung cơ năng tuổi dậy thì thường xảy ra trong vài năm đầu sau lần chảy máu đầu tiên. Tình trạng này xảy ra không đều, thay đổi về lượng và tính chất. Hầu hết tự ổn định khi chu kỳ có phóng noãn đều đặn. Chẩn đoán xuất huyết tử cung cơ năng tuổi dậy thì là chẩn đoán loại trừ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q026",
+      "topicId": "puberty",
+      "conceptId": "m08-stabilization",
+      "level": "apply",
+      "stem": "Khi chu kỳ dần có phóng noãn đều, xuất huyết cơ năng dậy thì thường diễn tiến thế nào theo bài?",
+      "options": [
+        "Luôn nặng hơn vô hạn",
+        "Tất cả đều mất kinh vĩnh viễn",
+        "Không liên quan thay đổi chu kỳ",
+        "Tự ổn định"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5 mô tả xu hướng ổn định.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 5 mô tả xu hướng ổn định.",
+        "Không phù hợp trong tình huống này. Slide 5 mô tả xu hướng ổn định.",
+        "Không phù hợp trong tình huống này. Slide 5 mô tả xu hướng ổn định.",
+        "Slide 5 mô tả xu hướng ổn định."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bản chất của lần chảy máu đầu tiên là sự sụp đổ của NMTC do thiếu hụt 1 steroid (E2) hoặc cùng lúc cả 2 steroid (E2 & P4 khi chu kỳ có phóng noãn) Xuất huyết tử cung cơ năng tuổi dậy thì thường xảy ra trong vài năm đầu sau lần chảy máu đầu tiên. Tình trạng này xảy ra không đều, thay đổi về lượng và tính chất. Hầu hết tự ổn định khi chu kỳ có phóng noãn đều đặn. Chẩn đoán xuất huyết tử cung cơ năng tuổi dậy thì là chẩn đoán loại trừ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q027",
+      "topicId": "puberty",
+      "conceptId": "m08-normal-surge-context",
+      "level": "apply",
+      "stem": "Trong mô hình slide 3, E2 đạt ngưỡng và P4 thấp gắn với phản hồi nào?",
+      "options": [
+        "Chỉ tăng AMH",
+        "Không ảnh hưởng trục HPO",
+        "Phản hồi dương gây đỉnh LH",
+        "Phản hồi làm mất vĩnh viễn GnRH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 3 mô tả điều kiện phản hồi dương tiền phóng noãn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 3 mô tả điều kiện phản hồi dương tiền phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 3 mô tả điều kiện phản hồi dương tiền phóng noãn.",
+        "Slide 3 mô tả điều kiện phản hồi dương tiền phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 3 mô tả điều kiện phản hồi dương tiền phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "Trục HPO trong thời kỳ dậy thì Ở chu kì kinh nguyệt bình thường, trong pha rụng trứng, nồng độ E2 đạt ngưỡng + P4 thấp → phản hồi dương → kích thích trung tâm “surge” tại hạ đồi chồng lên hoạt động của trung tâm “tonic” nhằm phóng thích xung GnRH → đỉnh LH → hiện tượng phóng noãn."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q028",
+      "topicId": "menopause",
+      "conceptId": "m08-reserve-markers",
+      "level": "apply",
+      "stem": "Dự trữ buồng trứng giảm làm tổng khối tế bào hạt giảm. Hai dấu ấn nào giảm theo mô tả bài?",
+      "options": [
+        "EE và etonogestrel",
+        "AMH và inhibin B",
+        "FSH và LH ngay trong mọi giai đoạn",
+        "GnRH và cholesterol"
+      ],
+      "answer": 1,
+      "explanation": "Slide 6 mô tả AMH và inhibin B thấp ở quanh mãn kinh.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 6 mô tả AMH và inhibin B thấp ở quanh mãn kinh.",
+        "Slide 6 mô tả AMH và inhibin B thấp ở quanh mãn kinh.",
+        "Không phù hợp trong tình huống này. Slide 6 mô tả AMH và inhibin B thấp ở quanh mãn kinh.",
+        "Không phù hợp trong tình huống này. Slide 6 mô tả AMH và inhibin B thấp ở quanh mãn kinh."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Trong pha nang noãn, cùng với E2, inhibin B chế tiết từ các tế bào hạt tạo phản hồi âm lên sự phóng thích FSH, tạo động lực để chọn lọc noãn nang. Ở tuổi quanh mãn kinh, dự trữ buồng trứng suy giảm, tổng khối tế bào hạt giảm → AMH và inhibin B thấp → chỉ còn phản hồi âm của E2 kiểm soát chế tiết FSH → tuyến yên tăng sản xuất FSH. Nồng độ cao FSH làm các nang noãn thứ cấp phát triển và chọn lọc sớm (bắt đầu từ những ngày cuối của chu kỳ trước trong khi thường N5 của chu kỳ). → Khoảng cách giữa 2 lần hành kinh rút ngắn (chức năng phóng noãn bảo tồn) là đặc điểm của giai đoạn sớm nhất ở tuổi quanh mãn kinh."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q029",
+      "topicId": "menopause",
+      "conceptId": "m08-fsh-rise",
+      "level": "apply",
+      "stem": "Inhibin B giảm, phản hồi kiểm soát FSH yếu đi. Tuyến yên được mô tả đáp ứng thế nào?",
+      "options": [
+        "Tăng sản xuất FSH",
+        "Ngừng FSH vĩnh viễn",
+        "Biến FSH thành P4",
+        "Chỉ tạo AMH"
+      ],
+      "answer": 0,
+      "explanation": "Slide 6 nối giảm phản hồi với FSH tăng.",
+      "optionExplanations": [
+        "Slide 6 nối giảm phản hồi với FSH tăng.",
+        "Không phù hợp trong tình huống này. Slide 6 nối giảm phản hồi với FSH tăng.",
+        "Không phù hợp trong tình huống này. Slide 6 nối giảm phản hồi với FSH tăng.",
+        "Không phù hợp trong tình huống này. Slide 6 nối giảm phản hồi với FSH tăng."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Trong pha nang noãn, cùng với E2, inhibin B chế tiết từ các tế bào hạt tạo phản hồi âm lên sự phóng thích FSH, tạo động lực để chọn lọc noãn nang. Ở tuổi quanh mãn kinh, dự trữ buồng trứng suy giảm, tổng khối tế bào hạt giảm → AMH và inhibin B thấp → chỉ còn phản hồi âm của E2 kiểm soát chế tiết FSH → tuyến yên tăng sản xuất FSH. Nồng độ cao FSH làm các nang noãn thứ cấp phát triển và chọn lọc sớm (bắt đầu từ những ngày cuối của chu kỳ trước trong khi thường N5 của chu kỳ). → Khoảng cách giữa 2 lần hành kinh rút ngắn (chức năng phóng noãn bảo tồn) là đặc điểm của giai đoạn sớm nhất ở tuổi quanh mãn kinh."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q030",
+      "topicId": "menopause",
+      "conceptId": "m08-early-selection",
+      "level": "apply",
+      "stem": "FSH cao quanh mãn kinh làm nang thứ cấp thay đổi thế nào theo bài?",
+      "options": [
+        "Không thể phát triển trong mọi trường hợp",
+        "Chỉ phát triển sau khi đã thành bạch thể",
+        "Đồng loạt biến thành tuyến yên",
+        "Phát triển và được chọn lọc sớm"
+      ],
+      "answer": 3,
+      "explanation": "Slide 6 mô tả chọn lọc có thể bắt đầu từ cuối chu kỳ trước.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 6 mô tả chọn lọc có thể bắt đầu từ cuối chu kỳ trước.",
+        "Không phù hợp trong tình huống này. Slide 6 mô tả chọn lọc có thể bắt đầu từ cuối chu kỳ trước.",
+        "Không phù hợp trong tình huống này. Slide 6 mô tả chọn lọc có thể bắt đầu từ cuối chu kỳ trước.",
+        "Slide 6 mô tả chọn lọc có thể bắt đầu từ cuối chu kỳ trước."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Trong pha nang noãn, cùng với E2, inhibin B chế tiết từ các tế bào hạt tạo phản hồi âm lên sự phóng thích FSH, tạo động lực để chọn lọc noãn nang. Ở tuổi quanh mãn kinh, dự trữ buồng trứng suy giảm, tổng khối tế bào hạt giảm → AMH và inhibin B thấp → chỉ còn phản hồi âm của E2 kiểm soát chế tiết FSH → tuyến yên tăng sản xuất FSH. Nồng độ cao FSH làm các nang noãn thứ cấp phát triển và chọn lọc sớm (bắt đầu từ những ngày cuối của chu kỳ trước trong khi thường N5 của chu kỳ). → Khoảng cách giữa 2 lần hành kinh rút ngắn (chức năng phóng noãn bảo tồn) là đặc điểm của giai đoạn sớm nhất ở tuổi quanh mãn kinh."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q031",
+      "topicId": "menopause",
+      "conceptId": "m08-overlap-steroids",
+      "level": "apply",
+      "stem": "Nang de Graaf mới xuất hiện khi hoàng thể cũ chưa ly giải. Tác động lên nội mạc được bài nêu là gì?",
+      "options": [
+        "Chắc chắn bong hoàn toàn đúng ngày",
+        "Không thể có phóng noãn nữa",
+        "Có steroid bổ sung, có thể chỉ bong một phần hoặc không bong",
+        "Mất tất cả steroid ngay"
+      ],
+      "answer": 2,
+      "explanation": "Slide 7 mô tả hệ quả chồng lấp hai nguồn steroid.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 7 mô tả hệ quả chồng lấp hai nguồn steroid.",
+        "Không phù hợp trong tình huống này. Slide 7 mô tả hệ quả chồng lấp hai nguồn steroid.",
+        "Slide 7 mô tả hệ quả chồng lấp hai nguồn steroid.",
+        "Không phù hợp trong tình huống này. Slide 7 mô tả hệ quả chồng lấp hai nguồn steroid."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Dự trữ BT ngày càng thấp, inhibin B càng thấp, FSH càng cao, LH bắt đầu tăng → chu kỳ sau càng lấn vào chu kỳ trước → nang de Graaf xuất hiện vào thời điểm hoàng thể của chu kỳ trước chưa kịp ly giải, cung cấp steroid bổ sung cho NMTC, làm NMTC chỉ bong tróc một phần hoặc không sụp đổ. Biểu hiện lâm sàng bằng chảy máu rất ít tại thời điểm dự kiến hành kinh hoặc không chảy máu mặc dù hiện tượng phóng noãn có thể vẫn xảy ra, hành kinh chỉ xảy ra khi sự xuất hiện của nang de Graaf lệch pha với sự ly giải hoàng thể → Chu kỳ kinh thưa. LH tăng dần làm thu hẹp biên độ đỉnh LH rồi biến mất → chu kỳ không phóng noãn → NMTC tử cung chỉ chịu tác động của E2, dày lên rồi sụp đổ 1 phần hoặc toàn phần gây ra máu bất thường không có tính chu kỳ (rong huyết)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q032",
+      "topicId": "menopause",
+      "conceptId": "m08-nobleed-not-proof",
+      "level": "apply",
+      "stem": "Quanh mãn kinh, ít hoặc không ra máu vào ngày dự kiến có đủ chứng minh không phóng noãn theo bài không?",
+      "options": [
+        "Có; mọi nang đã biến mất",
+        "Không; phóng noãn có thể vẫn xảy ra",
+        "Có; mọi lần không ra máu đều không phóng noãn",
+        "Có; E2 không còn tồn tại"
+      ],
+      "answer": 1,
+      "explanation": "Slide 7 nêu sự lệch pha steroid có thể làm thay đổi ra máu dù vẫn phóng noãn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 7 nêu sự lệch pha steroid có thể làm thay đổi ra máu dù vẫn phóng noãn.",
+        "Slide 7 nêu sự lệch pha steroid có thể làm thay đổi ra máu dù vẫn phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 7 nêu sự lệch pha steroid có thể làm thay đổi ra máu dù vẫn phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 7 nêu sự lệch pha steroid có thể làm thay đổi ra máu dù vẫn phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Dự trữ BT ngày càng thấp, inhibin B càng thấp, FSH càng cao, LH bắt đầu tăng → chu kỳ sau càng lấn vào chu kỳ trước → nang de Graaf xuất hiện vào thời điểm hoàng thể của chu kỳ trước chưa kịp ly giải, cung cấp steroid bổ sung cho NMTC, làm NMTC chỉ bong tróc một phần hoặc không sụp đổ. Biểu hiện lâm sàng bằng chảy máu rất ít tại thời điểm dự kiến hành kinh hoặc không chảy máu mặc dù hiện tượng phóng noãn có thể vẫn xảy ra, hành kinh chỉ xảy ra khi sự xuất hiện của nang de Graaf lệch pha với sự ly giải hoàng thể → Chu kỳ kinh thưa. LH tăng dần làm thu hẹp biên độ đỉnh LH rồi biến mất → chu kỳ không phóng noãn → NMTC tử cung chỉ chịu tác động của E2, dày lên rồi sụp đổ 1 phần hoặc toàn phần gây ra máu bất thường không có tính chu kỳ (rong huyết)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q033",
+      "topicId": "menopause",
+      "conceptId": "m08-lh-amplitude",
+      "level": "apply",
+      "stem": "LH nền tăng dần trong mô hình quanh mãn kinh làm biên độ đỉnh LH thay đổi thế nào?",
+      "options": [
+        "Thu hẹp rồi có thể biến mất",
+        "Luôn tăng không giới hạn",
+        "Không thể thay đổi",
+        "Biến thành AMH"
+      ],
+      "answer": 0,
+      "explanation": "Slide 7 mô tả giảm biên độ đỉnh và chu kỳ không phóng noãn.",
+      "optionExplanations": [
+        "Slide 7 mô tả giảm biên độ đỉnh và chu kỳ không phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 7 mô tả giảm biên độ đỉnh và chu kỳ không phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 7 mô tả giảm biên độ đỉnh và chu kỳ không phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 7 mô tả giảm biên độ đỉnh và chu kỳ không phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Dự trữ BT ngày càng thấp, inhibin B càng thấp, FSH càng cao, LH bắt đầu tăng → chu kỳ sau càng lấn vào chu kỳ trước → nang de Graaf xuất hiện vào thời điểm hoàng thể của chu kỳ trước chưa kịp ly giải, cung cấp steroid bổ sung cho NMTC, làm NMTC chỉ bong tróc một phần hoặc không sụp đổ. Biểu hiện lâm sàng bằng chảy máu rất ít tại thời điểm dự kiến hành kinh hoặc không chảy máu mặc dù hiện tượng phóng noãn có thể vẫn xảy ra, hành kinh chỉ xảy ra khi sự xuất hiện của nang de Graaf lệch pha với sự ly giải hoàng thể → Chu kỳ kinh thưa. LH tăng dần làm thu hẹp biên độ đỉnh LH rồi biến mất → chu kỳ không phóng noãn → NMTC tử cung chỉ chịu tác động của E2, dày lên rồi sụp đổ 1 phần hoặc toàn phần gây ra máu bất thường không có tính chu kỳ (rong huyết)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q034",
+      "topicId": "aub",
+      "conceptId": "m08-obesity",
+      "level": "apply",
+      "stem": "Trong danh sách AUB-O, béo phì được bài liên hệ với nguồn estrogen nào?",
+      "options": [
+        "Mạch cửa tự sản xuất",
+        "Xương sọ",
+        "Bạch thể hoạt động mạnh",
+        "Mô mỡ ngoại vi"
+      ],
+      "answer": 3,
+      "explanation": "Slide 9 nêu estrogen từ mô mỡ ngoại vi.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 9 nêu estrogen từ mô mỡ ngoại vi.",
+        "Không phù hợp trong tình huống này. Slide 9 nêu estrogen từ mô mỡ ngoại vi.",
+        "Không phù hợp trong tình huống này. Slide 9 nêu estrogen từ mô mỡ ngoại vi.",
+        "Slide 9 nêu estrogen từ mô mỡ ngoại vi."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "AUB-O Nguyên nhân gây AUB-O: 20% ở tuổi dậy thì, 50% ở tuổi quanh mãn kinh Còn lại trong độ tuổi sinh sản: Béo phì: AUB do estrogen có nguồn gốc từ mô mỡ ngoại vi Thiếu hụt giai đoạn hoàng thể (giống chu kỳ không phóng noãn) Hội chứng buồng trứng đa nang (PCOS): nang noãn không phát triển được, không có nang noãn vượt trội, không có phóng noãn Tăng prolactin máu: ức chế hoạt động tuyến yên, rối loạn hoạt động buồng trứng Do sử dụng nội tiết ngoại lai: NMTC không chuẩn bị đầy đủ với E2 (COCs), li giải hoàng thể sớm, tác dụng kháng progesterone trên NMTC (SPRM), mất cân bằng E2 và P4 (các dạng progestogen) → Chẩn đoán xuất huyết tử cung cơ năng là chẩn đoán loại trừ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q035",
+      "topicId": "aub",
+      "conceptId": "m08-pcos-anovulation",
+      "level": "apply",
+      "stem": "PCOS được giải thích gây AUB-O qua tình trạng nang nào?",
+      "options": [
+        "Không còn bất kỳ hormone nào",
+        "Luôn có hoàng thể hoàn chỉnh",
+        "Không có nang vượt trội, không phóng noãn",
+        "Mọi nang phóng noãn đồng thời"
+      ],
+      "answer": 2,
+      "explanation": "Slide 9 nêu rối loạn phát triển nang và thiếu phóng noãn trong mô tả PCOS.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 9 nêu rối loạn phát triển nang và thiếu phóng noãn trong mô tả PCOS.",
+        "Không phù hợp trong tình huống này. Slide 9 nêu rối loạn phát triển nang và thiếu phóng noãn trong mô tả PCOS.",
+        "Slide 9 nêu rối loạn phát triển nang và thiếu phóng noãn trong mô tả PCOS.",
+        "Không phù hợp trong tình huống này. Slide 9 nêu rối loạn phát triển nang và thiếu phóng noãn trong mô tả PCOS."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "AUB-O Nguyên nhân gây AUB-O: 20% ở tuổi dậy thì, 50% ở tuổi quanh mãn kinh Còn lại trong độ tuổi sinh sản: Béo phì: AUB do estrogen có nguồn gốc từ mô mỡ ngoại vi Thiếu hụt giai đoạn hoàng thể (giống chu kỳ không phóng noãn) Hội chứng buồng trứng đa nang (PCOS): nang noãn không phát triển được, không có nang noãn vượt trội, không có phóng noãn Tăng prolactin máu: ức chế hoạt động tuyến yên, rối loạn hoạt động buồng trứng Do sử dụng nội tiết ngoại lai: NMTC không chuẩn bị đầy đủ với E2 (COCs), li giải hoàng thể sớm, tác dụng kháng progesterone trên NMTC (SPRM), mất cân bằng E2 và P4 (các dạng progestogen) → Chẩn đoán xuất huyết tử cung cơ năng là chẩn đoán loại trừ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q036",
+      "topicId": "aub",
+      "conceptId": "m08-prolactin",
+      "level": "apply",
+      "stem": "Theo danh sách nguyên nhân AUB-O, tăng prolactin máu ảnh hưởng thế nào?",
+      "options": [
+        "Thay thế chức năng FSH hoàn toàn",
+        "Ức chế hoạt động tuyến yên, rối loạn hoạt động buồng trứng",
+        "Luôn tạo phóng noãn đều",
+        "Tạo nang từ nội mạc"
+      ],
+      "answer": 1,
+      "explanation": "Slide 9 nêu tác động liên quan tăng prolactin.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 9 nêu tác động liên quan tăng prolactin.",
+        "Slide 9 nêu tác động liên quan tăng prolactin.",
+        "Không phù hợp trong tình huống này. Slide 9 nêu tác động liên quan tăng prolactin.",
+        "Không phù hợp trong tình huống này. Slide 9 nêu tác động liên quan tăng prolactin."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "AUB-O Nguyên nhân gây AUB-O: 20% ở tuổi dậy thì, 50% ở tuổi quanh mãn kinh Còn lại trong độ tuổi sinh sản: Béo phì: AUB do estrogen có nguồn gốc từ mô mỡ ngoại vi Thiếu hụt giai đoạn hoàng thể (giống chu kỳ không phóng noãn) Hội chứng buồng trứng đa nang (PCOS): nang noãn không phát triển được, không có nang noãn vượt trội, không có phóng noãn Tăng prolactin máu: ức chế hoạt động tuyến yên, rối loạn hoạt động buồng trứng Do sử dụng nội tiết ngoại lai: NMTC không chuẩn bị đầy đủ với E2 (COCs), li giải hoàng thể sớm, tác dụng kháng progesterone trên NMTC (SPRM), mất cân bằng E2 và P4 (các dạng progestogen) → Chẩn đoán xuất huyết tử cung cơ năng là chẩn đoán loại trừ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q037",
+      "topicId": "aub",
+      "conceptId": "m08-luteal-deficiency",
+      "level": "apply",
+      "stem": "Thiếu hụt giai đoạn hoàng thể được bài đặt gần tình huống nào về rối loạn nội tiết?",
+      "options": [
+        "Chu kỳ không phóng noãn",
+        "Chu kỳ luôn có P4 dư thừa",
+        "Nang đã biến thành tế bào tử cung",
+        "Phóng noãn luôn nhiều lần"
+      ],
+      "answer": 0,
+      "explanation": "Slide 9 mô tả sự tương tự với chu kỳ không phóng noãn.",
+      "optionExplanations": [
+        "Slide 9 mô tả sự tương tự với chu kỳ không phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 9 mô tả sự tương tự với chu kỳ không phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 9 mô tả sự tương tự với chu kỳ không phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 9 mô tả sự tương tự với chu kỳ không phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "AUB-O Nguyên nhân gây AUB-O: 20% ở tuổi dậy thì, 50% ở tuổi quanh mãn kinh Còn lại trong độ tuổi sinh sản: Béo phì: AUB do estrogen có nguồn gốc từ mô mỡ ngoại vi Thiếu hụt giai đoạn hoàng thể (giống chu kỳ không phóng noãn) Hội chứng buồng trứng đa nang (PCOS): nang noãn không phát triển được, không có nang noãn vượt trội, không có phóng noãn Tăng prolactin máu: ức chế hoạt động tuyến yên, rối loạn hoạt động buồng trứng Do sử dụng nội tiết ngoại lai: NMTC không chuẩn bị đầy đủ với E2 (COCs), li giải hoàng thể sớm, tác dụng kháng progesterone trên NMTC (SPRM), mất cân bằng E2 và P4 (các dạng progestogen) → Chẩn đoán xuất huyết tử cung cơ năng là chẩn đoán loại trừ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q038",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-classify1",
+      "level": "apply",
+      "stem": "Trong bài tập phân loại của slide 12, FSH/LH thấp và E2 thấp xếp vào nhóm nào?",
+      "options": [
+        "WHO II",
+        "WHO III",
+        "Cả ba nhóm như nhau",
+        "WHO I"
+      ],
+      "answer": 3,
+      "explanation": "Đây là mẫu nội tiết WHO I trên sơ đồ, không tự suy ra một bệnh duy nhất.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Đây là mẫu nội tiết WHO I trên sơ đồ, không tự suy ra một bệnh duy nhất.",
+        "Không phù hợp trong tình huống này. Đây là mẫu nội tiết WHO I trên sơ đồ, không tự suy ra một bệnh duy nhất.",
+        "Không phù hợp trong tình huống này. Đây là mẫu nội tiết WHO I trên sơ đồ, không tự suy ra một bệnh duy nhất.",
+        "Đây là mẫu nội tiết WHO I trên sơ đồ, không tự suy ra một bệnh duy nhất."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "WHO Classification. Serum Gonadotropins & Serum Estradiol levels. WHO I: FSH & LH ↓ & Estradiol ↓. WHO II: FSH ~ & Estradiol ~; PCOS. WHO III: FSH & LH ↑ & Estradiol ↓.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q039",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-classify2",
+      "level": "apply",
+      "stem": "Trong sơ đồ, FSH và E2 khoảng bình thường cùng rối loạn phóng noãn gắn với nhóm nào?",
+      "options": [
+        "WHO III",
+        "Không có nhóm này trong bài",
+        "WHO II",
+        "WHO I"
+      ],
+      "answer": 2,
+      "explanation": "Slide 12 biểu diễn WHO II bằng mẫu này và đặt PCOS trong nhóm.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 12 biểu diễn WHO II bằng mẫu này và đặt PCOS trong nhóm.",
+        "Không phù hợp trong tình huống này. Slide 12 biểu diễn WHO II bằng mẫu này và đặt PCOS trong nhóm.",
+        "Slide 12 biểu diễn WHO II bằng mẫu này và đặt PCOS trong nhóm.",
+        "Không phù hợp trong tình huống này. Slide 12 biểu diễn WHO II bằng mẫu này và đặt PCOS trong nhóm."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "WHO Classification. Serum Gonadotropins & Serum Estradiol levels. WHO I: FSH & LH ↓ & Estradiol ↓. WHO II: FSH ~ & Estradiol ~; PCOS. WHO III: FSH & LH ↑ & Estradiol ↓.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q040",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-classify3",
+      "level": "apply",
+      "stem": "Trong bài tập phân loại, FSH/LH cao nhưng E2 thấp thuộc nhóm nào?",
+      "options": [
+        "Cả ba đều bắt buộc",
+        "WHO III",
+        "WHO I",
+        "WHO II"
+      ],
+      "answer": 1,
+      "explanation": "Slide 12 mô tả mẫu WHO III.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 12 mô tả mẫu WHO III.",
+        "Slide 12 mô tả mẫu WHO III.",
+        "Không phù hợp trong tình huống này. Slide 12 mô tả mẫu WHO III.",
+        "Không phù hợp trong tình huống này. Slide 12 mô tả mẫu WHO III."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "WHO Classification. Serum Gonadotropins & Serum Estradiol levels. WHO I: FSH & LH ↓ & Estradiol ↓. WHO II: FSH ~ & Estradiol ~; PCOS. WHO III: FSH & LH ↑ & Estradiol ↓.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q041",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-who1-mechanism",
+      "level": "understand",
+      "stem": "Sơ đồ cơ chế ghi 'no FSH stimulation'. Nhóm WHO nào được đặt cạnh nhãn này?",
+      "options": [
+        "WHO I",
+        "WHO II",
+        "WHO III",
+        "Mọi nhóm có cùng nhãn"
+      ],
+      "answer": 0,
+      "explanation": "Slide 13 liên hệ WHO I với thiếu kích thích FSH.",
+      "optionExplanations": [
+        "Slide 13 liên hệ WHO I với thiếu kích thích FSH.",
+        "Không phù hợp trong tình huống này. Slide 13 liên hệ WHO I với thiếu kích thích FSH.",
+        "Không phù hợp trong tình huống này. Slide 13 liên hệ WHO I với thiếu kích thích FSH.",
+        "Không phù hợp trong tình huống này. Slide 13 liên hệ WHO I với thiếu kích thích FSH."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "WHO 1: no FSH stimulation. WHO 2: advanced follicle maturation arrest. WHO 3: no follicles.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q042",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-who2-mechanism",
+      "level": "understand",
+      "stem": "Sơ đồ ghi 'advanced follicle maturation arrest'. Nhóm nào tương ứng?",
+      "options": [
+        "WHO I",
+        "WHO III",
+        "Không có trong phân loại",
+        "WHO II"
+      ],
+      "answer": 3,
+      "explanation": "Slide 13 ghép WHO II với đình trệ trưởng thành nang ở giai đoạn tiến triển.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 13 ghép WHO II với đình trệ trưởng thành nang ở giai đoạn tiến triển.",
+        "Không phù hợp trong tình huống này. Slide 13 ghép WHO II với đình trệ trưởng thành nang ở giai đoạn tiến triển.",
+        "Không phù hợp trong tình huống này. Slide 13 ghép WHO II với đình trệ trưởng thành nang ở giai đoạn tiến triển.",
+        "Slide 13 ghép WHO II với đình trệ trưởng thành nang ở giai đoạn tiến triển."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "WHO 1: no FSH stimulation. WHO 2: advanced follicle maturation arrest. WHO 3: no follicles.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q043",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-who3-mechanism",
+      "level": "understand",
+      "stem": "Sơ đồ ghi 'no follicles'. Nhóm nào tương ứng?",
+      "options": [
+        "WHO II",
+        "Tất cả các nhóm",
+        "WHO III",
+        "WHO I"
+      ],
+      "answer": 2,
+      "explanation": "Slide 13 đặt nhãn này ở WHO III.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 13 đặt nhãn này ở WHO III.",
+        "Không phù hợp trong tình huống này. Slide 13 đặt nhãn này ở WHO III.",
+        "Slide 13 đặt nhãn này ở WHO III.",
+        "Không phù hợp trong tình huống này. Slide 13 đặt nhãn này ở WHO III."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "WHO 1: no FSH stimulation. WHO 2: advanced follicle maturation arrest. WHO 3: no follicles.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q044",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-primary-hypothalamus",
+      "level": "understand",
+      "stem": "Bảng nguyên nhân vô kinh nguyên phát xếp thiếu GnRH đơn độc vào vị trí nào?",
+      "options": [
+        "Cổ tử cung",
+        "Hạ đồi",
+        "Buồng trứng",
+        "Đường thoát sinh dục"
+      ],
+      "answer": 1,
+      "explanation": "Slide 14 ghi isolated GnRH deficiency dưới nhóm hypothalamus.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 14 ghi isolated GnRH deficiency dưới nhóm hypothalamus.",
+        "Slide 14 ghi isolated GnRH deficiency dưới nhóm hypothalamus.",
+        "Không phù hợp trong tình huống này. Slide 14 ghi isolated GnRH deficiency dưới nhóm hypothalamus.",
+        "Không phù hợp trong tình huống này. Slide 14 ghi isolated GnRH deficiency dưới nhóm hypothalamus."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Causes of primary amenorrhea. Hypothalamus: Constitutional delay; Functional hypothalamic amenorrhea; Isolated GnRH deficiency. Anterior pituitary: Hyperprolactinemia; Pituitary tumors. Ovary: Primary ovarian insufficiency; Gonadal dysgenesis; Gonadal agenesis; Polycystic ovary syndrome. Genital outflow tract and uterus: Congenital abnormality in Müllerian development; Congenital defect of urogenital sinus development.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q045",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-primary-ovary",
+      "level": "understand",
+      "stem": "Bảng vô kinh nguyên phát xếp loạn sản tuyến sinh dục vào nhóm nào?",
+      "options": [
+        "Buồng trứng",
+        "Hạ đồi",
+        "Tuyến yên trước",
+        "Đường thoát sinh dục"
+      ],
+      "answer": 0,
+      "explanation": "Slide 14 đặt gonadal dysgenesis trong nhóm ovary.",
+      "optionExplanations": [
+        "Slide 14 đặt gonadal dysgenesis trong nhóm ovary.",
+        "Không phù hợp trong tình huống này. Slide 14 đặt gonadal dysgenesis trong nhóm ovary.",
+        "Không phù hợp trong tình huống này. Slide 14 đặt gonadal dysgenesis trong nhóm ovary.",
+        "Không phù hợp trong tình huống này. Slide 14 đặt gonadal dysgenesis trong nhóm ovary."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Causes of primary amenorrhea. Hypothalamus: Constitutional delay; Functional hypothalamic amenorrhea; Isolated GnRH deficiency. Anterior pituitary: Hyperprolactinemia; Pituitary tumors. Ovary: Primary ovarian insufficiency; Gonadal dysgenesis; Gonadal agenesis; Polycystic ovary syndrome. Genital outflow tract and uterus: Congenital abnormality in Müllerian development; Congenital defect of urogenital sinus development.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q046",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-secondary-outflow",
+      "level": "understand",
+      "stem": "Bảng vô kinh thứ phát xếp dính buồng tử cung vào nhóm nào?",
+      "options": [
+        "Hạ đồi",
+        "Tuyến yên trước",
+        "Buồng trứng",
+        "Đường thoát sinh dục và tử cung"
+      ],
+      "answer": 3,
+      "explanation": "Slide 15 ghi intrauterine synechiae trong nhóm genital outflow tract and uterus.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 15 ghi intrauterine synechiae trong nhóm genital outflow tract and uterus.",
+        "Không phù hợp trong tình huống này. Slide 15 ghi intrauterine synechiae trong nhóm genital outflow tract and uterus.",
+        "Không phù hợp trong tình huống này. Slide 15 ghi intrauterine synechiae trong nhóm genital outflow tract and uterus.",
+        "Slide 15 ghi intrauterine synechiae trong nhóm genital outflow tract and uterus."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Secondary amenorrhea. Hypothalamus: Functional hypothalamic amenorrhea. Anterior pituitary: Hyperprolactinemia; Pituitary tumors; Pituitary infarction. Ovary: Polycystic ovary syndrome; Primary ovarian insufficiency; Ovarian tumors; Menopause. Genital outflow tract and uterus: Cervical stenosis; Intrauterine synechiae.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q047",
+      "topicId": "contraception",
+      "conceptId": "m08-ee-fsh-case",
+      "level": "apply",
+      "stem": "EE duy trì phản hồi âm thường trực lên FSH. Hệ quả đối với nang theo bài là gì?",
+      "options": [
+        "FSH tăng mãi",
+        "Đỉnh LH xuất hiện bắt buộc",
+        "Nang không phát triển dù đã được chiêu mộ",
+        "Nang luôn trở thành ưu thế"
+      ],
+      "answer": 2,
+      "explanation": "Slide 18 giải thích cơ chế sơ cấp của COCs.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 18 giải thích cơ chế sơ cấp của COCs.",
+        "Không phù hợp trong tình huống này. Slide 18 giải thích cơ chế sơ cấp của COCs.",
+        "Slide 18 giải thích cơ chế sơ cấp của COCs.",
+        "Không phù hợp trong tình huống này. Slide 18 giải thích cơ chế sơ cấp của COCs."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Ngăn phát triển nang noãn (cơ chế tránh thai sơ cấp của COCs) Hoạt chất EE trong COCs tạo 1 nồng độ cao thường trực E2 trong huyết thanh → duy trì phản hồi âm lên chế tiết FSH làm nồng độ FSH thấp liên tục → nang noãn không thể phát triển dù được chiêu mộ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q048",
+      "topicId": "contraception",
+      "conceptId": "m08-selected-no-ovulation",
+      "level": "apply",
+      "stem": "Dù một nang được chọn lọc, progestogen giữ LH thấp. Sự kiện nào bị ngăn theo bài?",
+      "options": [
+        "Sản xuất mọi protein của cơ thể",
+        "Phóng noãn",
+        "Mọi chiêu mộ nguyên thủy",
+        "Hình thành tuyến yên"
+      ],
+      "answer": 1,
+      "explanation": "Slide 19 nêu cơ chế ngăn phóng noãn ngay cả khi có nang được chọn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 19 nêu cơ chế ngăn phóng noãn ngay cả khi có nang được chọn.",
+        "Slide 19 nêu cơ chế ngăn phóng noãn ngay cả khi có nang được chọn.",
+        "Không phù hợp trong tình huống này. Slide 19 nêu cơ chế ngăn phóng noãn ngay cả khi có nang được chọn.",
+        "Không phù hợp trong tình huống này. Slide 19 nêu cơ chế ngăn phóng noãn ngay cả khi có nang được chọn."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Ngăn phóng noãn (cơ chế tránh thai thứ cấp) Hoạt chất progestogen tạo phản hồi âm thường trực lên chế tiết LH làm nồng độ LH ở mức thấp → không xảy ra hiện tượng phóng noãn dù có nang noãn được chọn lọc. Hủy cửa sổ làm tổ (cơ chế tránh thai thứ cấp) Progestogen hiện diện liên tục, kéo dài làm NMTC biến đổi màng rụng hóa → không còn cửa sổ làm tổ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q049",
+      "topicId": "contraception",
+      "conceptId": "m08-continuous-progestogen",
+      "level": "apply",
+      "stem": "Progestogen hiện diện liên tục, kéo dài làm nội mạc biến đổi thế nào theo bài?",
+      "options": [
+        "Màng rụng hóa, không còn cửa sổ làm tổ phù hợp",
+        "Tăng FSH tại nội mạc",
+        "Tạo noãn ngay trong tử cung",
+        "Không thể tác động nội mạc"
+      ],
+      "answer": 0,
+      "explanation": "Slide 19 mô tả cơ chế thứ cấp trên cửa sổ làm tổ.",
+      "optionExplanations": [
+        "Slide 19 mô tả cơ chế thứ cấp trên cửa sổ làm tổ.",
+        "Không phù hợp trong tình huống này. Slide 19 mô tả cơ chế thứ cấp trên cửa sổ làm tổ.",
+        "Không phù hợp trong tình huống này. Slide 19 mô tả cơ chế thứ cấp trên cửa sổ làm tổ.",
+        "Không phù hợp trong tình huống này. Slide 19 mô tả cơ chế thứ cấp trên cửa sổ làm tổ."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Ngăn phóng noãn (cơ chế tránh thai thứ cấp) Hoạt chất progestogen tạo phản hồi âm thường trực lên chế tiết LH làm nồng độ LH ở mức thấp → không xảy ra hiện tượng phóng noãn dù có nang noãn được chọn lọc. Hủy cửa sổ làm tổ (cơ chế tránh thai thứ cấp) Progestogen hiện diện liên tục, kéo dài làm NMTC biến đổi màng rụng hóa → không còn cửa sổ làm tổ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q050",
+      "topicId": "contraception",
+      "conceptId": "m08-ee-risk",
+      "level": "apply",
+      "stem": "Tác dụng ngoại ý của EE nào được bài nhấn mạnh phụ thuộc cơ địa và liều?",
+      "options": [
+        "Tạo thêm buồng trứng",
+        "Chuyển E2 thành AMH",
+        "Làm GnRH trở thành steroid",
+        "Thuyên tắc do huyết khối"
+      ],
+      "answer": 3,
+      "explanation": "Slide 17 nêu tác dụng ngoại ý huyết khối liên quan EE.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 17 nêu tác dụng ngoại ý huyết khối liên quan EE.",
+        "Không phù hợp trong tình huống này. Slide 17 nêu tác dụng ngoại ý huyết khối liên quan EE.",
+        "Không phù hợp trong tình huống này. Slide 17 nêu tác dụng ngoại ý huyết khối liên quan EE.",
+        "Slide 17 nêu tác dụng ngoại ý huyết khối liên quan EE."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Thành phần của COCs là 17𝛼-Ethinyl Estradiol (EE) và 1 loại progestogen khả dụng qua đường uống. Hiệu quả tránh thai dựa vào 3 cơ chế: Ngăn phát triển nang noãn Ngăn phóng noãn Làm NMTC không tương thích làm tổ Tác dụng ngoại ý của EE gây thuyên tắc do huyết khối (lệ thuộc cơ địa và liều) và xơ vữa mạch máu."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q051",
+      "topicId": "contraception",
+      "conceptId": "m08-pop-adherence",
+      "level": "apply",
+      "stem": "Khi học cách dùng POPs, yêu cầu tuân thủ nào được bài nhấn mạnh?",
+      "options": [
+        "Không cần quan tâm quên thuốc",
+        "Đổi thuốc mỗi ngày tùy ý",
+        "Thời điểm bắt đầu vỉ và xử trí quên thuốc",
+        "Tự tăng liều không theo hướng dẫn"
+      ],
+      "answer": 2,
+      "explanation": "Slide 23 nhấn mạnh tuân thủ cách dùng, không cung cấp phác đồ tự xử trí trong câu này.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 23 nhấn mạnh tuân thủ cách dùng, không cung cấp phác đồ tự xử trí trong câu này.",
+        "Không phù hợp trong tình huống này. Slide 23 nhấn mạnh tuân thủ cách dùng, không cung cấp phác đồ tự xử trí trong câu này.",
+        "Slide 23 nhấn mạnh tuân thủ cách dùng, không cung cấp phác đồ tự xử trí trong câu này.",
+        "Không phù hợp trong tình huống này. Slide 23 nhấn mạnh tuân thủ cách dùng, không cung cấp phác đồ tự xử trí trong câu này."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Viên uống tránh thai chỉ có progestogen (POPs) Có 2 nhóm chính: POPs cổ điển (có tính kháng estrogen nhưng ức chế LH yếu): cơ chế tránh thai chủ yếu dựa vào làm đặc chất nhầy CTC (sơ cấp) và thay đổi cửa sổ làm tổ (thứ cấp). POPs mới (ức chế mạnh LH): cơ chế tránh thai dựa vào ngăn hiện tượng phóng noãn (sơ cấp) kèm các cơ chế của POPs cổ điển (thứ cấp). Người dùng POPs phải tuân thủ cách dùng (thời điểm bắt đầu vỉ, xử trí quên thuốc)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q052",
+      "topicId": "contraception",
+      "conceptId": "m08-dmpa-depot",
+      "level": "apply",
+      "stem": "DMPA được tiêm vào cơ hoặc dưới da. Cơ chế cung cấp hormone nào được bài mô tả?",
+      "options": [
+        "Không có hoạt chất phóng thích",
+        "Tạo kho tại chỗ, phóng thích dần vào máu",
+        "Tạo trực tiếp tế bào hạt",
+        "Chỉ tồn tại trong lòng tử cung"
+      ],
+      "answer": 1,
+      "explanation": "Slide 26 mô tả dạng kho chứa sau tiêm.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 26 mô tả dạng kho chứa sau tiêm.",
+        "Slide 26 mô tả dạng kho chứa sau tiêm.",
+        "Không phù hợp trong tình huống này. Slide 26 mô tả dạng kho chứa sau tiêm.",
+        "Không phù hợp trong tình huống này. Slide 26 mô tả dạng kho chứa sau tiêm."
+      ],
+      "sources": [
+        {
+          "page": 26,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) DMPA (Depot Medroxy Progesterone Acetate) Tiêm bắp sâu hoặc tiêm dưới da tạo 1 kho chứa trong cơ hoặc dưới da tại vị trí tiêm và phóng thích dần vào máu. Ức chế LH làm ức chế phóng noãn Đặc chất nhầy CTC , thay đổi NMTC"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q053",
+      "topicId": "contraception",
+      "conceptId": "m08-implant-release",
+      "level": "apply",
+      "stem": "Que cấy có màng cách ly với mô. Vai trò màng được bài nêu là gì?",
+      "options": [
+        "Đảm bảo phóng thích lượng progestogen hằng định mỗi ngày",
+        "Ngăn mọi hoạt chất thoát ra mãi",
+        "Tạo estradiol từ FSH",
+        "Làm que cấy thành buồng trứng"
+      ],
+      "answer": 0,
+      "explanation": "Slide 27 mô tả cơ chế phóng thích của que cấy.",
+      "optionExplanations": [
+        "Slide 27 mô tả cơ chế phóng thích của que cấy.",
+        "Không phù hợp trong tình huống này. Slide 27 mô tả cơ chế phóng thích của que cấy.",
+        "Không phù hợp trong tình huống này. Slide 27 mô tả cơ chế phóng thích của que cấy.",
+        "Không phù hợp trong tình huống này. Slide 27 mô tả cơ chế phóng thích của que cấy."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) Que cấy dưới da (Norplant chứa levonorgestrel hoặc Implanon chứa etonogestrel) Hormone ngoại sinh được cách ly với mô bằng 1 màng đặc biệc đảm bảo phóng thích lượng hằng định progestogen mỗi ngày vào máu. Ức chế LH làm ức chế phóng noãn Đặc chất nhầy CTC , thay đổi NMTC"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q054",
+      "topicId": "contraception",
+      "conceptId": "m08-implant-hormones",
+      "level": "understand",
+      "stem": "Ghép que cấy và hoạt chất nào đúng theo bài?",
+      "options": [
+        "Norplant–EE; Implanon–FSH",
+        "Norplant–GnRH; Implanon–LH",
+        "Cả hai chỉ chứa estrogen",
+        "Norplant–levonorgestrel; Implanon–etonogestrel"
+      ],
+      "answer": 3,
+      "explanation": "Slide 27 ghi hoạt chất của hai loại que cấy.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 27 ghi hoạt chất của hai loại que cấy.",
+        "Không phù hợp trong tình huống này. Slide 27 ghi hoạt chất của hai loại que cấy.",
+        "Không phù hợp trong tình huống này. Slide 27 ghi hoạt chất của hai loại que cấy.",
+        "Slide 27 ghi hoạt chất của hai loại que cấy."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) Que cấy dưới da (Norplant chứa levonorgestrel hoặc Implanon chứa etonogestrel) Hormone ngoại sinh được cách ly với mô bằng 1 màng đặc biệc đảm bảo phóng thích lượng hằng định progestogen mỗi ngày vào máu. Ức chế LH làm ức chế phóng noãn Đặc chất nhầy CTC , thay đổi NMTC"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q055",
+      "topicId": "contraception",
+      "conceptId": "m08-lng-placement",
+      "level": "understand",
+      "stem": "Hệ IUD-LNG được bài mô tả đặt ở đâu để phóng thích LNG?",
+      "options": [
+        "Trong cơ",
+        "Trong tuyến yên",
+        "Buồng tử cung",
+        "Dưới da cánh tay"
+      ],
+      "answer": 2,
+      "explanation": "Slide 28 mô tả vị trí và sự phóng thích LNG.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 28 mô tả vị trí và sự phóng thích LNG.",
+        "Không phù hợp trong tình huống này. Slide 28 mô tả vị trí và sự phóng thích LNG.",
+        "Slide 28 mô tả vị trí và sự phóng thích LNG.",
+        "Không phù hợp trong tình huống này. Slide 28 mô tả vị trí và sự phóng thích LNG."
+      ],
+      "sources": [
+        {
+          "page": 28,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) Dụng cụ tử cung phóng thích levonorgestrel (IUD-LNG) được đặt trong buồng tử cung phóng thích chậm hằng định LNG mỗi ngày. Không ức chế hoàn toàn LH Cơ chế tránh thai chủ yếu làm thay đổi NMTC, đặc chất nhầy CTC, cơ chế của IUD trơ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q056",
+      "topicId": "contraception",
+      "conceptId": "m08-ring-composition",
+      "level": "understand",
+      "stem": "Vòng âm đạo trong slide 29 chứa tổ hợp nào?",
+      "options": [
+        "Chỉ AMH",
+        "EE và etonogestrel",
+        "Chỉ GnRH",
+        "FSH và LH"
+      ],
+      "answer": 1,
+      "explanation": "Slide 29 mô tả riêng thành phần phối hợp, không áp dụng khái quát LASDS ở slide 24.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 29 mô tả riêng thành phần phối hợp, không áp dụng khái quát LASDS ở slide 24.",
+        "Slide 29 mô tả riêng thành phần phối hợp, không áp dụng khái quát LASDS ở slide 24.",
+        "Không phù hợp trong tình huống này. Slide 29 mô tả riêng thành phần phối hợp, không áp dụng khái quát LASDS ở slide 24.",
+        "Không phù hợp trong tình huống này. Slide 29 mô tả riêng thành phần phối hợp, không áp dụng khái quát LASDS ở slide 24."
+      ],
+      "sources": [
+        {
+          "page": 29,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) Vòng đặt âm đạo chứa cả 2 hormone là EE và etonogestrel phóng thích chậm cả 2 hoạt chất và được hấp thu tại âm đạo, tác dụng trong 21 ngày, đặt lại mới sau 7 ngày. Cơ chế tránh thai tương tự 1 COCs."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q057",
+      "topicId": "contraception",
+      "conceptId": "m08-ring-mechanism",
+      "level": "apply",
+      "stem": "Cơ chế vòng âm đạo phối hợp được slide 29 so với phương pháp nào?",
+      "options": [
+        "COCs",
+        "Kích thích phóng noãn bằng FSH",
+        "IVF",
+        "Điều trị bằng GnRH nội sinh"
+      ],
+      "answer": 0,
+      "explanation": "Slide 29 nêu cơ chế tương tự COCs.",
+      "optionExplanations": [
+        "Slide 29 nêu cơ chế tương tự COCs.",
+        "Không phù hợp trong tình huống này. Slide 29 nêu cơ chế tương tự COCs.",
+        "Không phù hợp trong tình huống này. Slide 29 nêu cơ chế tương tự COCs.",
+        "Không phù hợp trong tình huống này. Slide 29 nêu cơ chế tương tự COCs."
+      ],
+      "sources": [
+        {
+          "page": 29,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) Vòng đặt âm đạo chứa cả 2 hormone là EE và etonogestrel phóng thích chậm cả 2 hoạt chất và được hấp thu tại âm đạo, tác dụng trong 21 ngày, đặt lại mới sau 7 ngày. Cơ chế tránh thai tương tự 1 COCs."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q058",
+      "topicId": "emergency",
+      "conceptId": "m08-lng-type",
+      "level": "understand",
+      "stem": "ECP dùng LNG được xếp vào dạng nào trong bài?",
+      "options": [
+        "Estrogen đơn thuần",
+        "Gonadotropin",
+        "Tế bào hạt cấy ghép",
+        "Progestogen đơn thuần liều cao"
+      ],
+      "answer": 3,
+      "explanation": "Slide 32 phân loại dạng ECP LNG, không đặt liều điều trị.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 32 phân loại dạng ECP LNG, không đặt liều điều trị.",
+        "Không phù hợp trong tình huống này. Slide 32 phân loại dạng ECP LNG, không đặt liều điều trị.",
+        "Không phù hợp trong tình huống này. Slide 32 phân loại dạng ECP LNG, không đặt liều điều trị.",
+        "Slide 32 phân loại dạng ECP LNG, không đặt liều điều trị."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "Các phương pháp tránh thai khẩn cấp ECP dùng levonorgestrel (LNG) là dạng tránh thai khẩn cấp dùng progestogen đơn thuần liều cao. ECP dùng SPRM (Việt Nam phổ biến là mifepristone). SPRM là chất điều hòa chọn lọc thụ thể progesterone."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q059",
+      "topicId": "emergency",
+      "conceptId": "m08-before-lh",
+      "level": "apply",
+      "stem": "Theo bài, dùng ECP trước đỉnh LH có thể tác động sự kiện nào?",
+      "options": [
+        "Tạo phôi đã làm tổ",
+        "Đảm bảo hiệu quả bất kể thời điểm",
+        "Ngăn hoặc trì hoãn phóng noãn",
+        "Bắt buộc tăng phóng noãn"
+      ],
+      "answer": 2,
+      "explanation": "Slide 33 mô tả tác động trước đỉnh LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 33 mô tả tác động trước đỉnh LH.",
+        "Không phù hợp trong tình huống này. Slide 33 mô tả tác động trước đỉnh LH.",
+        "Slide 33 mô tả tác động trước đỉnh LH.",
+        "Không phù hợp trong tình huống này. Slide 33 mô tả tác động trước đỉnh LH."
+      ],
+      "sources": [
+        {
+          "page": 33,
+          "quote": "Các phương pháp tránh thai khẩn cấp Cơ chế tránh thai của ECP thay đổi phụ thuộc phương thức sử dụng, cách dùng, thời gian dùng thuốc sơ với thời gian giao hợp và thời điểm phóng noãn. Cơ chế chính là ngăn sự phóng noãn (hoạt tính ức chế LH của progestogen). Nếu được sử dụng trước đỉnh LH tiền phóng noãn, công thức Yuzpe, LNG và SPRM đều có thể ngăn chặn hoặc trì hoãn hiện tượng phóng noãn. Nếu đã phóng noãn, ECPs gần như vô hiệu. Ngoài ra, còn các cơ chế thứ cấp khác hỗ trợ (di dời cửa sổ làm tổ…)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q060",
+      "topicId": "emergency",
+      "conceptId": "m08-after-ovulation",
+      "level": "apply",
+      "stem": "Nhận định nào phù hợp mô tả của bài khi đã phóng noãn?",
+      "options": [
+        "Luôn biến thành biện pháp thụ tinh ống nghiệm",
+        "ECPs gần như vô hiệu theo mô hình nêu trong bài",
+        "Hiệu quả ngăn phóng noãn luôn tăng tối đa",
+        "Chắc chắn ngăn mọi thai kỳ"
+      ],
+      "answer": 1,
+      "explanation": "Slide 33 nhấn mạnh giới hạn sau phóng noãn; không dùng câu này để tự chọn xử trí.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 33 nhấn mạnh giới hạn sau phóng noãn; không dùng câu này để tự chọn xử trí.",
+        "Slide 33 nhấn mạnh giới hạn sau phóng noãn; không dùng câu này để tự chọn xử trí.",
+        "Không phù hợp trong tình huống này. Slide 33 nhấn mạnh giới hạn sau phóng noãn; không dùng câu này để tự chọn xử trí.",
+        "Không phù hợp trong tình huống này. Slide 33 nhấn mạnh giới hạn sau phóng noãn; không dùng câu này để tự chọn xử trí."
+      ],
+      "sources": [
+        {
+          "page": 33,
+          "quote": "Các phương pháp tránh thai khẩn cấp Cơ chế tránh thai của ECP thay đổi phụ thuộc phương thức sử dụng, cách dùng, thời gian dùng thuốc sơ với thời gian giao hợp và thời điểm phóng noãn. Cơ chế chính là ngăn sự phóng noãn (hoạt tính ức chế LH của progestogen). Nếu được sử dụng trước đỉnh LH tiền phóng noãn, công thức Yuzpe, LNG và SPRM đều có thể ngăn chặn hoặc trì hoãn hiện tượng phóng noãn. Nếu đã phóng noãn, ECPs gần như vô hiệu. Ngoài ra, còn các cơ chế thứ cấp khác hỗ trợ (di dời cửa sổ làm tổ…)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q061",
+      "topicId": "puberty",
+      "conceptId": "m08-bleeding-not-ovulation",
+      "level": "analyze",
+      "stem": "Đã có lần ra máu đầu tiên ở dậy thì có đủ chứng minh trục HPO đã tạo phóng noãn đều không?",
+      "options": [
+        "Không; E2 có thể phát triển nội mạc khi phản hồi dương và đỉnh LH còn chưa hiệu quả",
+        "Có; ra máu luôn đồng nghĩa phóng noãn",
+        "Có; P4 luôn cao ngay khi bắt đầu GnRH",
+        "Không vì E2 không tác động nội mạc"
+      ],
+      "answer": 0,
+      "explanation": "Kết hợp slide 2,4,5 để phân biệt ra máu và trưởng thành chức năng phóng noãn.",
+      "optionExplanations": [
+        "Kết hợp slide 2,4,5 để phân biệt ra máu và trưởng thành chức năng phóng noãn.",
+        "Không phù hợp trong tình huống này. Kết hợp slide 2,4,5 để phân biệt ra máu và trưởng thành chức năng phóng noãn.",
+        "Không phù hợp trong tình huống này. Kết hợp slide 2,4,5 để phân biệt ra máu và trưởng thành chức năng phóng noãn.",
+        "Không phù hợp trong tình huống này. Kết hợp slide 2,4,5 để phân biệt ra máu và trưởng thành chức năng phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 2,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bắt đầu tuổi dậy thì, hạ đồi chế tiết các xung GnRH tăng dần về tần số và biên độ. Tuy nhiên, các xung GnRH ban đầu chỉ đủ gây đáp ứng chế tiết FSH ở tuyến yên mà không đủ gây đáp ứng chế tiết LH đủ mạnh. Dưới tác động của FSH → nang noãn phát triển tạo E2 → phát triển tuyến vú, tử cung, cốt hóa xương dài & các đặc điểm sinh dục thứ phát: lông mu, phát triển môi lớn & môi nhỏ, sừng hóa niêm mạc ÂĐ, tăng tích mỡ ở hông, đùi… E2 gây phát triển nội mạc tử cung → xuất hiện kinh nguyệt"
+        },
+        {
+          "page": 4,
+          "quote": "Trục HPO trong thời kỳ dậy thì Ban đầu, phản hồi dương của E2 lên trục HPO không hiệu quả → không xuất hiện đỉnh LH → hầu hết chu kỳ buồng trứng đầu tiên ở thời kỳ dậy thì là các chu kỳ không phóng noãn → vắng mặt hoặc yếu kém của hoàng thể. Hệ quả là sự thiếu hụt P4 → nội mạc tử cung không thể phân tiết. Nồng độ P4 không đủ cao → bất toàn trong ly giải hoàng thể. Vắng mặt hoàng thể hoặc hoàng thể không ly giải → NMTC sụp đổ từng phần hoặc không sụp đổ → AUB."
+        },
+        {
+          "page": 5,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bản chất của lần chảy máu đầu tiên là sự sụp đổ của NMTC do thiếu hụt 1 steroid (E2) hoặc cùng lúc cả 2 steroid (E2 & P4 khi chu kỳ có phóng noãn) Xuất huyết tử cung cơ năng tuổi dậy thì thường xảy ra trong vài năm đầu sau lần chảy máu đầu tiên. Tình trạng này xảy ra không đều, thay đổi về lượng và tính chất. Hầu hết tự ổn định khi chu kỳ có phóng noãn đều đặn. Chẩn đoán xuất huyết tử cung cơ năng tuổi dậy thì là chẩn đoán loại trừ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q062",
+      "topicId": "puberty",
+      "conceptId": "m08-chain-anovulatory",
+      "level": "analyze",
+      "stem": "Chuỗi nào giải thích xuất huyết do chưa trưởng thành trục ở dậy thì?",
+      "options": [
+        "FSH cao → mọi nang phóng noãn → P4 mất",
+        "P4 cao → nội mạc không có receptor E2",
+        "LH biến thành progesterone tại tử cung",
+        "Phản hồi E2 kém → thiếu đỉnh LH → thiếu hoàng thể/P4 → nội mạc phân tiết kém"
+      ],
+      "answer": 3,
+      "explanation": "Slide 4 nêu chuỗi cơ chế từ phản hồi đến nội mạc.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 4 nêu chuỗi cơ chế từ phản hồi đến nội mạc.",
+        "Không phù hợp trong tình huống này. Slide 4 nêu chuỗi cơ chế từ phản hồi đến nội mạc.",
+        "Không phù hợp trong tình huống này. Slide 4 nêu chuỗi cơ chế từ phản hồi đến nội mạc.",
+        "Slide 4 nêu chuỗi cơ chế từ phản hồi đến nội mạc."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "Trục HPO trong thời kỳ dậy thì Ban đầu, phản hồi dương của E2 lên trục HPO không hiệu quả → không xuất hiện đỉnh LH → hầu hết chu kỳ buồng trứng đầu tiên ở thời kỳ dậy thì là các chu kỳ không phóng noãn → vắng mặt hoặc yếu kém của hoàng thể. Hệ quả là sự thiếu hụt P4 → nội mạc tử cung không thể phân tiết. Nồng độ P4 không đủ cao → bất toàn trong ly giải hoàng thể. Vắng mặt hoàng thể hoặc hoàng thể không ly giải → NMTC sụp đổ từng phần hoặc không sụp đổ → AUB."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q063",
+      "topicId": "puberty",
+      "conceptId": "m08-exclude-not-assume",
+      "level": "apply",
+      "stem": "Một người quy mọi ra máu không đều sau dậy thì là cơ năng chỉ vì tuổi. Sai ở điểm nào?",
+      "options": [
+        "Cơ năng luôn đồng nghĩa khối u",
+        "Mọi ra máu đều phải do thai",
+        "Bài yêu cầu chẩn đoán loại trừ dù cơ chế trục chưa trưởng thành có thể gặp",
+        "Tuổi dậy thì không có E2"
+      ],
+      "answer": 2,
+      "explanation": "Slide 5 nêu rõ giới hạn chẩn đoán, không suy từ tuổi đơn độc.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 5 nêu rõ giới hạn chẩn đoán, không suy từ tuổi đơn độc.",
+        "Không phù hợp trong tình huống này. Slide 5 nêu rõ giới hạn chẩn đoán, không suy từ tuổi đơn độc.",
+        "Slide 5 nêu rõ giới hạn chẩn đoán, không suy từ tuổi đơn độc.",
+        "Không phù hợp trong tình huống này. Slide 5 nêu rõ giới hạn chẩn đoán, không suy từ tuổi đơn độc."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Trục HPO trong thời kỳ dậy thì Bản chất của lần chảy máu đầu tiên là sự sụp đổ của NMTC do thiếu hụt 1 steroid (E2) hoặc cùng lúc cả 2 steroid (E2 & P4 khi chu kỳ có phóng noãn) Xuất huyết tử cung cơ năng tuổi dậy thì thường xảy ra trong vài năm đầu sau lần chảy máu đầu tiên. Tình trạng này xảy ra không đều, thay đổi về lượng và tính chất. Hầu hết tự ổn định khi chu kỳ có phóng noãn đều đặn. Chẩn đoán xuất huyết tử cung cơ năng tuổi dậy thì là chẩn đoán loại trừ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q064",
+      "topicId": "menopause",
+      "conceptId": "m08-shortcycle-chain",
+      "level": "analyze",
+      "stem": "Chuỗi nào giải thích kinh rút ngắn giai đoạn sớm quanh mãn kinh?",
+      "options": [
+        "P4 do tuyến yên tạo → tăng chiêu mộ",
+        "Dự trữ giảm → inhibin B giảm → FSH tăng → chọn lọc nang sớm",
+        "Dự trữ giảm → FSH mất → nang ưu thế sớm",
+        "E2 không còn mọi lúc → chu kỳ luôn ngắn đều"
+      ],
+      "answer": 1,
+      "explanation": "Slide 6 nối giảm phản hồi với tăng FSH và chọn lọc sớm.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 6 nối giảm phản hồi với tăng FSH và chọn lọc sớm.",
+        "Slide 6 nối giảm phản hồi với tăng FSH và chọn lọc sớm.",
+        "Không phù hợp trong tình huống này. Slide 6 nối giảm phản hồi với tăng FSH và chọn lọc sớm.",
+        "Không phù hợp trong tình huống này. Slide 6 nối giảm phản hồi với tăng FSH và chọn lọc sớm."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Trong pha nang noãn, cùng với E2, inhibin B chế tiết từ các tế bào hạt tạo phản hồi âm lên sự phóng thích FSH, tạo động lực để chọn lọc noãn nang. Ở tuổi quanh mãn kinh, dự trữ buồng trứng suy giảm, tổng khối tế bào hạt giảm → AMH và inhibin B thấp → chỉ còn phản hồi âm của E2 kiểm soát chế tiết FSH → tuyến yên tăng sản xuất FSH. Nồng độ cao FSH làm các nang noãn thứ cấp phát triển và chọn lọc sớm (bắt đầu từ những ngày cuối của chu kỳ trước trong khi thường N5 của chu kỳ). → Khoảng cách giữa 2 lần hành kinh rút ngắn (chức năng phóng noãn bảo tồn) là đặc điểm của giai đoạn sớm nhất ở tuổi quanh mãn kinh."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q065",
+      "topicId": "menopause",
+      "conceptId": "m08-reserve-not-high",
+      "level": "analyze",
+      "stem": "FSH cao ở quanh mãn kinh có nên được hiểu là dự trữ buồng trứng tăng tốt hơn không?",
+      "options": [
+        "Không; bài gắn FSH cao với giảm inhibin B do giảm dự trữ",
+        "Có; FSH cao luôn chứng minh nhiều nang hơn",
+        "Có; AMH bắt buộc tăng cùng FSH",
+        "Không vì FSH không liên quan buồng trứng"
+      ],
+      "answer": 0,
+      "explanation": "Slide 6 phân biệt kích thích bù của tuyến yên với lượng dự trữ.",
+      "optionExplanations": [
+        "Slide 6 phân biệt kích thích bù của tuyến yên với lượng dự trữ.",
+        "Không phù hợp trong tình huống này. Slide 6 phân biệt kích thích bù của tuyến yên với lượng dự trữ.",
+        "Không phù hợp trong tình huống này. Slide 6 phân biệt kích thích bù của tuyến yên với lượng dự trữ.",
+        "Không phù hợp trong tình huống này. Slide 6 phân biệt kích thích bù của tuyến yên với lượng dự trữ."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Trong pha nang noãn, cùng với E2, inhibin B chế tiết từ các tế bào hạt tạo phản hồi âm lên sự phóng thích FSH, tạo động lực để chọn lọc noãn nang. Ở tuổi quanh mãn kinh, dự trữ buồng trứng suy giảm, tổng khối tế bào hạt giảm → AMH và inhibin B thấp → chỉ còn phản hồi âm của E2 kiểm soát chế tiết FSH → tuyến yên tăng sản xuất FSH. Nồng độ cao FSH làm các nang noãn thứ cấp phát triển và chọn lọc sớm (bắt đầu từ những ngày cuối của chu kỳ trước trong khi thường N5 của chu kỳ). → Khoảng cách giữa 2 lần hành kinh rút ngắn (chức năng phóng noãn bảo tồn) là đặc điểm của giai đoạn sớm nhất ở tuổi quanh mãn kinh."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q066",
+      "topicId": "menopause",
+      "conceptId": "m08-overlap-bleeding",
+      "level": "analyze",
+      "stem": "Nang mới phát triển sớm trong khi hoàng thể cũ chưa ly giải. Vì sao có thể ít ra máu vào ngày dự kiến?",
+      "options": [
+        "Nội mạc chưa bao giờ nhận steroid",
+        "Mọi phóng noãn đã ngừng vĩnh viễn",
+        "Hoàng thể đã biến thành tử cung",
+        "Steroid được bổ sung, nội mạc chưa mất hỗ trợ đồng bộ"
+      ],
+      "answer": 3,
+      "explanation": "Slide 7 giải thích sự chồng lấp và bong tróc không hoàn toàn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 7 giải thích sự chồng lấp và bong tróc không hoàn toàn.",
+        "Không phù hợp trong tình huống này. Slide 7 giải thích sự chồng lấp và bong tróc không hoàn toàn.",
+        "Không phù hợp trong tình huống này. Slide 7 giải thích sự chồng lấp và bong tróc không hoàn toàn.",
+        "Slide 7 giải thích sự chồng lấp và bong tróc không hoàn toàn."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Dự trữ BT ngày càng thấp, inhibin B càng thấp, FSH càng cao, LH bắt đầu tăng → chu kỳ sau càng lấn vào chu kỳ trước → nang de Graaf xuất hiện vào thời điểm hoàng thể của chu kỳ trước chưa kịp ly giải, cung cấp steroid bổ sung cho NMTC, làm NMTC chỉ bong tróc một phần hoặc không sụp đổ. Biểu hiện lâm sàng bằng chảy máu rất ít tại thời điểm dự kiến hành kinh hoặc không chảy máu mặc dù hiện tượng phóng noãn có thể vẫn xảy ra, hành kinh chỉ xảy ra khi sự xuất hiện của nang de Graaf lệch pha với sự ly giải hoàng thể → Chu kỳ kinh thưa. LH tăng dần làm thu hẹp biên độ đỉnh LH rồi biến mất → chu kỳ không phóng noãn → NMTC tử cung chỉ chịu tác động của E2, dày lên rồi sụp đổ 1 phần hoặc toàn phần gây ra máu bất thường không có tính chu kỳ (rong huyết)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q067",
+      "topicId": "menopause",
+      "conceptId": "m08-short-to-irregular",
+      "level": "analyze",
+      "stem": "Vì sao không thể mô tả toàn bộ quanh mãn kinh chỉ bằng chu kỳ ngắn?",
+      "options": [
+        "Tất cả phụ nữ mất kinh ngay ngày đầu",
+        "FSH không thay đổi trong bài",
+        "Giai đoạn sau có lệch pha steroid, giảm đỉnh LH và chu kỳ không phóng noãn",
+        "Bài chỉ có một giai đoạn bất biến"
+      ],
+      "answer": 2,
+      "explanation": "Kết hợp slide 6–7 cho thấy diễn biến thay đổi theo mức suy giảm dự trữ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Kết hợp slide 6–7 cho thấy diễn biến thay đổi theo mức suy giảm dự trữ.",
+        "Không phù hợp trong tình huống này. Kết hợp slide 6–7 cho thấy diễn biến thay đổi theo mức suy giảm dự trữ.",
+        "Kết hợp slide 6–7 cho thấy diễn biến thay đổi theo mức suy giảm dự trữ.",
+        "Không phù hợp trong tình huống này. Kết hợp slide 6–7 cho thấy diễn biến thay đổi theo mức suy giảm dự trữ."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Trong pha nang noãn, cùng với E2, inhibin B chế tiết từ các tế bào hạt tạo phản hồi âm lên sự phóng thích FSH, tạo động lực để chọn lọc noãn nang. Ở tuổi quanh mãn kinh, dự trữ buồng trứng suy giảm, tổng khối tế bào hạt giảm → AMH và inhibin B thấp → chỉ còn phản hồi âm của E2 kiểm soát chế tiết FSH → tuyến yên tăng sản xuất FSH. Nồng độ cao FSH làm các nang noãn thứ cấp phát triển và chọn lọc sớm (bắt đầu từ những ngày cuối của chu kỳ trước trong khi thường N5 của chu kỳ). → Khoảng cách giữa 2 lần hành kinh rút ngắn (chức năng phóng noãn bảo tồn) là đặc điểm của giai đoạn sớm nhất ở tuổi quanh mãn kinh."
+        },
+        {
+          "page": 7,
+          "quote": "Trục HPO ở tuổi quanh mãn kinh Dự trữ BT ngày càng thấp, inhibin B càng thấp, FSH càng cao, LH bắt đầu tăng → chu kỳ sau càng lấn vào chu kỳ trước → nang de Graaf xuất hiện vào thời điểm hoàng thể của chu kỳ trước chưa kịp ly giải, cung cấp steroid bổ sung cho NMTC, làm NMTC chỉ bong tróc một phần hoặc không sụp đổ. Biểu hiện lâm sàng bằng chảy máu rất ít tại thời điểm dự kiến hành kinh hoặc không chảy máu mặc dù hiện tượng phóng noãn có thể vẫn xảy ra, hành kinh chỉ xảy ra khi sự xuất hiện của nang de Graaf lệch pha với sự ly giải hoàng thể → Chu kỳ kinh thưa. LH tăng dần làm thu hẹp biên độ đỉnh LH rồi biến mất → chu kỳ không phóng noãn → NMTC tử cung chỉ chịu tác động của E2, dày lên rồi sụp đổ 1 phần hoặc toàn phần gây ra máu bất thường không có tính chu kỳ (rong huyết)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q068",
+      "topicId": "aub",
+      "conceptId": "m08-unopposed-chain",
+      "level": "analyze",
+      "stem": "Chuỗi nào giải thích AUB-O do estrogen đơn độc kéo dài?",
+      "options": [
+        "FSH trực tiếp thay toàn bộ nội mạc",
+        "Nội mạc tăng liên tục → mạch nuôi không theo kịp → thiếu máu/bong từng phần",
+        "Estrogen làm nội mạc luôn bất động",
+        "P4 tăng đều làm mọi mạch biến mất"
+      ],
+      "answer": 1,
+      "explanation": "Slide 8 nêu đủ các bước cơ chế này.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 8 nêu đủ các bước cơ chế này.",
+        "Slide 8 nêu đủ các bước cơ chế này.",
+        "Không phù hợp trong tình huống này. Slide 8 nêu đủ các bước cơ chế này.",
+        "Không phù hợp trong tình huống này. Slide 8 nêu đủ các bước cơ chế này."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "AUB-O Xuất huyết tử cung bất thường liên quan rối loạn phóng noãn (AUB-O) (xuất huyết tử cung cơ năng) xảy ra do NMTC mất đi sự tác động của nội tiết có tính chu kỳ ở các chu kỳ có phóng noãn (estrogen trong nửa đầu chu kỳ, progesterone và estrogen trong nửa sau chu kỳ) Trong tình huống có rối loạn phóng noãn, NMTC chịu tác động kéo dài của estrogen đơn độc → NMTC tăng trưởng liên tục làm mạch máu nuôi không theo kịp làm NMTC bị thiếu máu, hoại tử và bong tróc từng phần gây AUB."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q069",
+      "topicId": "aub",
+      "conceptId": "m08-multiple-routes",
+      "level": "analyze",
+      "stem": "Béo phì và PCOS được nêu trong AUB-O có cần có cùng một cơ chế khởi đầu không?",
+      "options": [
+        "Không; một nhánh liên quan estrogen mô mỡ, một nhánh liên quan thiếu nang vượt trội/phóng noãn",
+        "Có; cả hai đều chỉ do hẹp cổ tử cung",
+        "Có; cả hai bắt buộc không có buồng trứng",
+        "Không vì PCOS không được bài nhắc"
+      ],
+      "answer": 0,
+      "explanation": "Slide 9 liệt kê các cơ chế khác nhau cùng liên quan mất điều hòa chu kỳ.",
+      "optionExplanations": [
+        "Slide 9 liệt kê các cơ chế khác nhau cùng liên quan mất điều hòa chu kỳ.",
+        "Không phù hợp trong tình huống này. Slide 9 liệt kê các cơ chế khác nhau cùng liên quan mất điều hòa chu kỳ.",
+        "Không phù hợp trong tình huống này. Slide 9 liệt kê các cơ chế khác nhau cùng liên quan mất điều hòa chu kỳ.",
+        "Không phù hợp trong tình huống này. Slide 9 liệt kê các cơ chế khác nhau cùng liên quan mất điều hòa chu kỳ."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "AUB-O Nguyên nhân gây AUB-O: 20% ở tuổi dậy thì, 50% ở tuổi quanh mãn kinh Còn lại trong độ tuổi sinh sản: Béo phì: AUB do estrogen có nguồn gốc từ mô mỡ ngoại vi Thiếu hụt giai đoạn hoàng thể (giống chu kỳ không phóng noãn) Hội chứng buồng trứng đa nang (PCOS): nang noãn không phát triển được, không có nang noãn vượt trội, không có phóng noãn Tăng prolactin máu: ức chế hoạt động tuyến yên, rối loạn hoạt động buồng trứng Do sử dụng nội tiết ngoại lai: NMTC không chuẩn bị đầy đủ với E2 (COCs), li giải hoàng thể sớm, tác dụng kháng progesterone trên NMTC (SPRM), mất cân bằng E2 và P4 (các dạng progestogen) → Chẩn đoán xuất huyết tử cung cơ năng là chẩn đoán loại trừ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q070",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-low-e2-compare",
+      "level": "analyze",
+      "stem": "Hai mẫu cùng E2 thấp nhưng một mẫu FSH/LH thấp, mẫu kia cao. Phân loại theo bài khác nhau ra sao?",
+      "options": [
+        "Cả hai bắt buộc WHO II",
+        "Mẫu đầu WHO III, mẫu sau WHO I",
+        "E2 thấp đủ để không cần xem gonadotropin",
+        "Mẫu đầu WHO I, mẫu sau WHO III"
+      ],
+      "answer": 3,
+      "explanation": "Slide 12 dùng phối hợp gonadotropin và estradiol để phân biệt nhóm.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 12 dùng phối hợp gonadotropin và estradiol để phân biệt nhóm.",
+        "Không phù hợp trong tình huống này. Slide 12 dùng phối hợp gonadotropin và estradiol để phân biệt nhóm.",
+        "Không phù hợp trong tình huống này. Slide 12 dùng phối hợp gonadotropin và estradiol để phân biệt nhóm.",
+        "Slide 12 dùng phối hợp gonadotropin và estradiol để phân biệt nhóm."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "WHO Classification. Serum Gonadotropins & Serum Estradiol levels. WHO I: FSH & LH ↓ & Estradiol ↓. WHO II: FSH ~ & Estradiol ~; PCOS. WHO III: FSH & LH ↑ & Estradiol ↓.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q071",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-same-amenorrhea-sites",
+      "level": "analyze",
+      "stem": "Vô kinh do thiếu GnRH đơn độc và vô kinh do dính buồng tử cung có nên gộp thành cùng vị trí tổn thương không?",
+      "options": [
+        "Có; đều chỉ từ tuyến yên trước",
+        "Không vì dính buồng tử cung không nằm trong bảng",
+        "Không; bảng xếp hạ đồi và đường thoát sinh dục/tử cung riêng",
+        "Có; đều là u buồng trứng"
+      ],
+      "answer": 2,
+      "explanation": "Slide 14–15 phân biệt nhóm nguyên nhân theo vị trí.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 14–15 phân biệt nhóm nguyên nhân theo vị trí.",
+        "Không phù hợp trong tình huống này. Slide 14–15 phân biệt nhóm nguyên nhân theo vị trí.",
+        "Slide 14–15 phân biệt nhóm nguyên nhân theo vị trí.",
+        "Không phù hợp trong tình huống này. Slide 14–15 phân biệt nhóm nguyên nhân theo vị trí."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Causes of primary amenorrhea. Hypothalamus: Constitutional delay; Functional hypothalamic amenorrhea; Isolated GnRH deficiency. Anterior pituitary: Hyperprolactinemia; Pituitary tumors. Ovary: Primary ovarian insufficiency; Gonadal dysgenesis; Gonadal agenesis; Polycystic ovary syndrome. Genital outflow tract and uterus: Congenital abnormality in Müllerian development; Congenital defect of urogenital sinus development.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 15,
+          "quote": "Secondary amenorrhea. Hypothalamus: Functional hypothalamic amenorrhea. Anterior pituitary: Hyperprolactinemia; Pituitary tumors; Pituitary infarction. Ovary: Polycystic ovary syndrome; Primary ovarian insufficiency; Ovarian tumors; Menopause. Genital outflow tract and uterus: Cervical stenosis; Intrauterine synechiae.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q072",
+      "topicId": "amenorrhea",
+      "conceptId": "m08-who2-not-unique-dx",
+      "level": "analyze",
+      "stem": "Sơ đồ đặt PCOS trong WHO II. Có thể dùng riêng mẫu FSH/E2 khoảng bình thường để khẳng định chắc chắn mọi ca là PCOS không?",
+      "options": [
+        "Không vì WHO II trong hình có E2 bằng không",
+        "Không; sơ đồ là phân nhóm, không cung cấp tiêu chuẩn xác định duy nhất cho từng bệnh",
+        "Có; mọi xét nghiệm bình thường đều là PCOS",
+        "Có; không cần biểu hiện nào khác"
+      ],
+      "answer": 1,
+      "explanation": "Không biến phân nhóm hormone ở slide 12 thành chẩn đoán bệnh chắc chắn ngoài dữ kiện nguồn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Không biến phân nhóm hormone ở slide 12 thành chẩn đoán bệnh chắc chắn ngoài dữ kiện nguồn.",
+        "Không biến phân nhóm hormone ở slide 12 thành chẩn đoán bệnh chắc chắn ngoài dữ kiện nguồn.",
+        "Không phù hợp trong tình huống này. Không biến phân nhóm hormone ở slide 12 thành chẩn đoán bệnh chắc chắn ngoài dữ kiện nguồn.",
+        "Không phù hợp trong tình huống này. Không biến phân nhóm hormone ở slide 12 thành chẩn đoán bệnh chắc chắn ngoài dữ kiện nguồn."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "WHO Classification. Serum Gonadotropins & Serum Estradiol levels. WHO I: FSH & LH ↓ & Estradiol ↓. WHO II: FSH ~ & Estradiol ~; PCOS. WHO III: FSH & LH ↑ & Estradiol ↓.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q073",
+      "topicId": "contraception",
+      "conceptId": "m08-two-level-block",
+      "level": "analyze",
+      "stem": "EE ức chế FSH và progestogen ức chế LH trong COCs tạo phối hợp nào?",
+      "options": [
+        "Giảm phát triển nang và chặn phóng noãn nếu vẫn có nang được chọn",
+        "Cả hai chỉ kích thích cùng một đỉnh LH",
+        "EE tạo hoàng thể còn progestogen tạo noãn",
+        "Cả hai chỉ thay đổi huyết áp theo bài"
+      ],
+      "answer": 0,
+      "explanation": "Slide 18–19 phân biệt hai tầng tác động dự phòng.",
+      "optionExplanations": [
+        "Slide 18–19 phân biệt hai tầng tác động dự phòng.",
+        "Không phù hợp trong tình huống này. Slide 18–19 phân biệt hai tầng tác động dự phòng.",
+        "Không phù hợp trong tình huống này. Slide 18–19 phân biệt hai tầng tác động dự phòng.",
+        "Không phù hợp trong tình huống này. Slide 18–19 phân biệt hai tầng tác động dự phòng."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Ngăn phát triển nang noãn (cơ chế tránh thai sơ cấp của COCs) Hoạt chất EE trong COCs tạo 1 nồng độ cao thường trực E2 trong huyết thanh → duy trì phản hồi âm lên chế tiết FSH làm nồng độ FSH thấp liên tục → nang noãn không thể phát triển dù được chiêu mộ."
+        },
+        {
+          "page": 19,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Ngăn phóng noãn (cơ chế tránh thai thứ cấp) Hoạt chất progestogen tạo phản hồi âm thường trực lên chế tiết LH làm nồng độ LH ở mức thấp → không xảy ra hiện tượng phóng noãn dù có nang noãn được chọn lọc. Hủy cửa sổ làm tổ (cơ chế tránh thai thứ cấp) Progestogen hiện diện liên tục, kéo dài làm NMTC biến đổi màng rụng hóa → không còn cửa sổ làm tổ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q074",
+      "topicId": "contraception",
+      "conceptId": "m08-coc-vs-pop",
+      "level": "analyze",
+      "stem": "Vì sao không thể suy POPs có cơ chế sơ cấp giống EE của COCs?",
+      "options": [
+        "POPs luôn chứa EE nhiều hơn",
+        "Mọi POPs đều tăng FSH",
+        "COCs không tác động nang noãn",
+        "POPs không có EE; nhóm cổ điển dựa vào chất nhầy, nhóm mới ức chế LH mạnh"
+      ],
+      "answer": 3,
+      "explanation": "Slide 18 và 21–23 phân biệt thành phần, đích tác động và các nhóm POPs.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 18 và 21–23 phân biệt thành phần, đích tác động và các nhóm POPs.",
+        "Không phù hợp trong tình huống này. Slide 18 và 21–23 phân biệt thành phần, đích tác động và các nhóm POPs.",
+        "Không phù hợp trong tình huống này. Slide 18 và 21–23 phân biệt thành phần, đích tác động và các nhóm POPs.",
+        "Slide 18 và 21–23 phân biệt thành phần, đích tác động và các nhóm POPs."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Viên uống tránh thai nội tiết estro-progestogen phối hợp (COCs) Ngăn phát triển nang noãn (cơ chế tránh thai sơ cấp của COCs) Hoạt chất EE trong COCs tạo 1 nồng độ cao thường trực E2 trong huyết thanh → duy trì phản hồi âm lên chế tiết FSH làm nồng độ FSH thấp liên tục → nang noãn không thể phát triển dù được chiêu mộ."
+        },
+        {
+          "page": 21,
+          "quote": "Viên uống tránh thai chỉ có progestogen (POPs) Tránh thai bằng viên uống tránh thai chỉ có progestogen (progestogen only pills – POPs) là phương pháp tránh thai tạm thời khi người dùng không thể dùng EE trong COCs. Thành phần là một hoạt chất progestogen, nhằm tránh tác dụng gây tắc mạch do huyết khối của EE."
+        },
+        {
+          "page": 23,
+          "quote": "Viên uống tránh thai chỉ có progestogen (POPs) Có 2 nhóm chính: POPs cổ điển (có tính kháng estrogen nhưng ức chế LH yếu): cơ chế tránh thai chủ yếu dựa vào làm đặc chất nhầy CTC (sơ cấp) và thay đổi cửa sổ làm tổ (thứ cấp). POPs mới (ức chế mạnh LH): cơ chế tránh thai dựa vào ngăn hiện tượng phóng noãn (sơ cấp) kèm các cơ chế của POPs cổ điển (thứ cấp). Người dùng POPs phải tuân thủ cách dùng (thời điểm bắt đầu vỉ, xử trí quên thuốc)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q075",
+      "topicId": "contraception",
+      "conceptId": "m08-pop-subgroups",
+      "level": "analyze",
+      "stem": "Hai POPs cùng chỉ có progestogen nhưng vì sao cơ chế sơ cấp có thể khác?",
+      "options": [
+        "Một loại chỉ là estrogen",
+        "Mọi progestogen có tác động hoàn toàn giống nhau",
+        "Khác khả năng ức chế LH: cổ điển thiên chất nhầy, mới thiên ngăn phóng noãn",
+        "Một loại bắt buộc chứa FSH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 23 nêu hai nhóm theo hoạt tính và cơ chế.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 23 nêu hai nhóm theo hoạt tính và cơ chế.",
+        "Không phù hợp trong tình huống này. Slide 23 nêu hai nhóm theo hoạt tính và cơ chế.",
+        "Slide 23 nêu hai nhóm theo hoạt tính và cơ chế.",
+        "Không phù hợp trong tình huống này. Slide 23 nêu hai nhóm theo hoạt tính và cơ chế."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Viên uống tránh thai chỉ có progestogen (POPs) Có 2 nhóm chính: POPs cổ điển (có tính kháng estrogen nhưng ức chế LH yếu): cơ chế tránh thai chủ yếu dựa vào làm đặc chất nhầy CTC (sơ cấp) và thay đổi cửa sổ làm tổ (thứ cấp). POPs mới (ức chế mạnh LH): cơ chế tránh thai dựa vào ngăn hiện tượng phóng noãn (sơ cấp) kèm các cơ chế của POPs cổ điển (thứ cấp). Người dùng POPs phải tuân thủ cách dùng (thời điểm bắt đầu vỉ, xử trí quên thuốc)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q076",
+      "topicId": "contraception",
+      "conceptId": "m08-lng-not-full-lh",
+      "level": "analyze",
+      "stem": "IUD-LNG không ức chế hoàn toàn LH có đồng nghĩa không thể tránh thai theo bài không?",
+      "options": [
+        "Không vì LNG là FSH",
+        "Không; còn tác động nội mạc, chất nhầy và cơ chế IUD trơ",
+        "Có; chỉ có duy nhất một cơ chế là mất LH",
+        "Có; nội mạc không liên quan cơ chế"
+      ],
+      "answer": 1,
+      "explanation": "Slide 28 trực tiếp nêu các cơ chế chủ yếu dù không ức chế hoàn toàn LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 28 trực tiếp nêu các cơ chế chủ yếu dù không ức chế hoàn toàn LH.",
+        "Slide 28 trực tiếp nêu các cơ chế chủ yếu dù không ức chế hoàn toàn LH.",
+        "Không phù hợp trong tình huống này. Slide 28 trực tiếp nêu các cơ chế chủ yếu dù không ức chế hoàn toàn LH.",
+        "Không phù hợp trong tình huống này. Slide 28 trực tiếp nêu các cơ chế chủ yếu dù không ức chế hoàn toàn LH."
+      ],
+      "sources": [
+        {
+          "page": 28,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) Dụng cụ tử cung phóng thích levonorgestrel (IUD-LNG) được đặt trong buồng tử cung phóng thích chậm hằng định LNG mỗi ngày. Không ức chế hoàn toàn LH Cơ chế tránh thai chủ yếu làm thay đổi NMTC, đặc chất nhầy CTC, cơ chế của IUD trơ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q077",
+      "topicId": "contraception",
+      "conceptId": "m08-delivery-differences",
+      "level": "analyze",
+      "stem": "DMPA và que cấy đều phóng thích dần hormone nhưng khác nhau ở cách chứa hoạt chất nào?",
+      "options": [
+        "DMPA tạo kho trong mô; que cấy có màng cách ly với mô",
+        "DMPA đặt trong tử cung; que cấy đặt trong tuyến yên",
+        "Cả hai bắt buộc là viên uống EE",
+        "Cả hai chỉ tạo GnRH"
+      ],
+      "answer": 0,
+      "explanation": "Slide 26–27 phân biệt cấu trúc cung cấp hoạt chất.",
+      "optionExplanations": [
+        "Slide 26–27 phân biệt cấu trúc cung cấp hoạt chất.",
+        "Không phù hợp trong tình huống này. Slide 26–27 phân biệt cấu trúc cung cấp hoạt chất.",
+        "Không phù hợp trong tình huống này. Slide 26–27 phân biệt cấu trúc cung cấp hoạt chất.",
+        "Không phù hợp trong tình huống này. Slide 26–27 phân biệt cấu trúc cung cấp hoạt chất."
+      ],
+      "sources": [
+        {
+          "page": 26,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) DMPA (Depot Medroxy Progesterone Acetate) Tiêm bắp sâu hoặc tiêm dưới da tạo 1 kho chứa trong cơ hoặc dưới da tại vị trí tiêm và phóng thích dần vào máu. Ức chế LH làm ức chế phóng noãn Đặc chất nhầy CTC , thay đổi NMTC"
+        },
+        {
+          "page": 27,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) Que cấy dưới da (Norplant chứa levonorgestrel hoặc Implanon chứa etonogestrel) Hormone ngoại sinh được cách ly với mô bằng 1 màng đặc biệc đảm bảo phóng thích lượng hằng định progestogen mỗi ngày vào máu. Ức chế LH làm ức chế phóng noãn Đặc chất nhầy CTC , thay đổi NMTC"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q078",
+      "topicId": "contraception",
+      "conceptId": "m08-ring-route-mechanism",
+      "level": "analyze",
+      "stem": "Một người suy vòng âm đạo chỉ có cơ chế của IUD trơ vì được đặt tại đường sinh dục. Điểm nào bác bỏ suy luận đó trong bài?",
+      "options": [
+        "Vòng âm đạo không phóng thích hoạt chất",
+        "Vòng âm đạo và IUD-LNG có cùng vị trí đặt",
+        "Mọi phương pháp đặt tại chỗ đều chỉ tác động cơ học",
+        "EE và etonogestrel được hấp thu, cơ chế tương tự COCs"
+      ],
+      "answer": 3,
+      "explanation": "Slide 29 nêu thành phần, hấp thu qua âm đạo và cơ chế tương tự COCs; không suy cơ chế chỉ từ đường đặt.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 29 nêu thành phần, hấp thu qua âm đạo và cơ chế tương tự COCs; không suy cơ chế chỉ từ đường đặt.",
+        "Không phù hợp trong tình huống này. Slide 29 nêu thành phần, hấp thu qua âm đạo và cơ chế tương tự COCs; không suy cơ chế chỉ từ đường đặt.",
+        "Không phù hợp trong tình huống này. Slide 29 nêu thành phần, hấp thu qua âm đạo và cơ chế tương tự COCs; không suy cơ chế chỉ từ đường đặt.",
+        "Slide 29 nêu thành phần, hấp thu qua âm đạo và cơ chế tương tự COCs; không suy cơ chế chỉ từ đường đặt."
+      ],
+      "sources": [
+        {
+          "page": 29,
+          "quote": "Các hệ thống phóng thích steroid tác dụng dài (LASDS) Vòng đặt âm đạo chứa cả 2 hormone là EE và etonogestrel phóng thích chậm cả 2 hoạt chất và được hấp thu tại âm đạo, tác dụng trong 21 ngày, đặt lại mới sau 7 ngày. Cơ chế tránh thai tương tự 1 COCs."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q079",
+      "topicId": "emergency",
+      "conceptId": "m08-timing-not-guarantee",
+      "level": "analyze",
+      "stem": "Vì ECP có thể trì hoãn phóng noãn, có được suy hiệu quả không phụ thuộc thời điểm dùng không?",
+      "options": [
+        "Có; thuốc luôn tạo phóng noãn mới",
+        "Không vì ECP không tác động phóng noãn",
+        "Không; cơ chế phụ thuộc cách dùng và thời điểm so với giao hợp, phóng noãn",
+        "Có; mọi thời điểm đều tương đương"
+      ],
+      "answer": 2,
+      "explanation": "Slide 33 nêu rõ tính phụ thuộc thời điểm và giới hạn sau phóng noãn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 33 nêu rõ tính phụ thuộc thời điểm và giới hạn sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 33 nêu rõ tính phụ thuộc thời điểm và giới hạn sau phóng noãn.",
+        "Slide 33 nêu rõ tính phụ thuộc thời điểm và giới hạn sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 33 nêu rõ tính phụ thuộc thời điểm và giới hạn sau phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 33,
+          "quote": "Các phương pháp tránh thai khẩn cấp Cơ chế tránh thai của ECP thay đổi phụ thuộc phương thức sử dụng, cách dùng, thời gian dùng thuốc sơ với thời gian giao hợp và thời điểm phóng noãn. Cơ chế chính là ngăn sự phóng noãn (hoạt tính ức chế LH của progestogen). Nếu được sử dụng trước đỉnh LH tiền phóng noãn, công thức Yuzpe, LNG và SPRM đều có thể ngăn chặn hoặc trì hoãn hiện tượng phóng noãn. Nếu đã phóng noãn, ECPs gần như vô hiệu. Ngoài ra, còn các cơ chế thứ cấp khác hỗ trợ (di dời cửa sổ làm tổ…)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q080",
+      "topicId": "emergency",
+      "conceptId": "m08-drug-groups",
+      "level": "understand",
+      "stem": "LNG và SPRM đều được gọi là ECP trong bài. Điều gì tránh đánh đồng hai nhóm hoạt chất?",
+      "options": [
+        "Cả hai đều là IUD trơ",
+        "LNG là progestogen; SPRM điều hòa chọn lọc receptor P4",
+        "Cả hai chính là EE",
+        "Cả hai đều là gonadotropin"
+      ],
+      "answer": 1,
+      "explanation": "Slide 32 phân biệt hai nhóm thuốc, dù cùng thuộc phương pháp khẩn cấp.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 32 phân biệt hai nhóm thuốc, dù cùng thuộc phương pháp khẩn cấp.",
+        "Slide 32 phân biệt hai nhóm thuốc, dù cùng thuộc phương pháp khẩn cấp.",
+        "Không phù hợp trong tình huống này. Slide 32 phân biệt hai nhóm thuốc, dù cùng thuộc phương pháp khẩn cấp.",
+        "Không phù hợp trong tình huống này. Slide 32 phân biệt hai nhóm thuốc, dù cùng thuộc phương pháp khẩn cấp."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "Các phương pháp tránh thai khẩn cấp ECP dùng levonorgestrel (LNG) là dạng tránh thai khẩn cấp dùng progestogen đơn thuần liều cao. ECP dùng SPRM (Việt Nam phổ biến là mifepristone). SPRM là chất điều hòa chọn lọc thụ thể progesterone."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    }
+  ],
+  "reviewStatus": "passed2",
+  "reviewReport": "content/reviews/endocrine-rounds12.md"
+}

@@ -1,0 +1,279 @@
+{
+  "m03": {
+    "questions": 80,
+    "levels": {
+      "understand": 20,
+      "apply": 40,
+      "analyze": 20
+    },
+    "concepts": {
+      "understand": 20,
+      "apply": 40,
+      "analyze": 20
+    },
+    "topicCounts": {
+      "phoi": 2,
+      "giaiphau": 12,
+      "mohoc": 6,
+      "chucnang": 6,
+      "hinhanh": 11,
+      "udich": 18,
+      "apxe": 9,
+      "nangcanh": 11,
+      "tntc": 5
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m04": {
+    "questions": 80,
+    "levels": {
+      "understand": 20,
+      "apply": 40,
+      "analyze": 20
+    },
+    "concepts": {
+      "understand": 20,
+      "apply": 40,
+      "analyze": 20
+    },
+    "topicCounts": {
+      "giaiphau": 17,
+      "phoi": 5,
+      "mohoc": 20,
+      "hoangthe": 4,
+      "chucnang": 3,
+      "nangconang": 13,
+      "lacnoimac": 4,
+      "utan": 5,
+      "pcos": 9
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m05": {
+    "questions": 60,
+    "levels": {
+      "understand": 26,
+      "apply": 20,
+      "analyze": 14
+    },
+    "concepts": {
+      "understand": 25,
+      "apply": 20,
+      "analyze": 14
+    },
+    "topicCounts": {
+      "origin": 12,
+      "axis": 13,
+      "selection": 16,
+      "ovulation": 19
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m06": {
+    "questions": 80,
+    "levels": {
+      "understand": 29,
+      "apply": 32,
+      "analyze": 19
+    },
+    "concepts": {
+      "understand": 28,
+      "apply": 32,
+      "analyze": 19
+    },
+    "topicCounts": {
+      "origin": 17,
+      "axis": 17,
+      "selection": 21,
+      "cycle": 6,
+      "ovulation": 19
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m07": {
+    "questions": 80,
+    "levels": {
+      "understand": 33,
+      "apply": 29,
+      "analyze": 18
+    },
+    "concepts": {
+      "understand": 29,
+      "apply": 29,
+      "analyze": 18
+    },
+    "topicCounts": {
+      "steroids": 12,
+      "receptors": 26,
+      "endometrium": 21,
+      "targets": 21
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m08": {
+    "questions": 80,
+    "levels": {
+      "understand": 32,
+      "apply": 30,
+      "analyze": 18
+    },
+    "concepts": {
+      "understand": 32,
+      "apply": 30,
+      "analyze": 18
+    },
+    "topicCounts": {
+      "puberty": 14,
+      "menopause": 12,
+      "aub": 8,
+      "amenorrhea": 15,
+      "contraception": 24,
+      "emergency": 7
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m09": {
+    "questions": 40,
+    "levels": {
+      "understand": 10,
+      "apply": 20,
+      "analyze": 10
+    },
+    "concepts": {
+      "understand": 10,
+      "apply": 20,
+      "analyze": 10
+    },
+    "topicCounts": {
+      "m09-dong-noan": 16,
+      "m09-nang-noan": 14,
+      "m09-tich-hop": 10
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m10": {
+    "questions": 40,
+    "levels": {
+      "understand": 10,
+      "apply": 20,
+      "analyze": 10
+    },
+    "concepts": {
+      "understand": 10,
+      "apply": 20,
+      "analyze": 10
+    },
+    "topicCounts": {
+      "m10-cautruc": 9,
+      "m10-sinhtinh": 9,
+      "m10-sertoli": 8,
+      "m10-vanchuyen": 4,
+      "m10-tichhop": 10
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m13": {
+    "questions": 80,
+    "levels": {
+      "understand": 27,
+      "apply": 37,
+      "analyze": 16
+    },
+    "concepts": {
+      "understand": 25,
+      "apply": 34,
+      "analyze": 16
+    },
+    "topicCounts": {
+      "diagnosis": 7,
+      "dating": 21,
+      "assessment": 11,
+      "loss": 15,
+      "ectopic": 13,
+      "mole": 13
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m14": {
+    "questions": 48,
+    "levels": {
+      "understand": 15,
+      "apply": 22,
+      "analyze": 11
+    },
+    "concepts": {
+      "understand": 15,
+      "apply": 21,
+      "analyze": 11
+    },
+    "topicCounts": {
+      "dinhnghia": 1,
+      "vitri": 5,
+      "nguyco": 4,
+      "coche": 3,
+      "lamsang": 6,
+      "cls": 8,
+      "chandoan": 3,
+      "xutri": 9,
+      "tienluong": 2,
+      "giaiphaubenh": 2,
+      "thaioobung": 3,
+      "phongngua": 2
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m15": {
+    "questions": 80,
+    "levels": {
+      "understand": 29,
+      "apply": 33,
+      "analyze": 18
+    },
+    "concepts": {
+      "understand": 29,
+      "apply": 29,
+      "analyze": 18
+    },
+    "topicCounts": {
+      "history": 12,
+      "exam": 20,
+      "ultrasound": 14,
+      "hcg": 23,
+      "aub": 11
+    },
+    "mechanicalPass": true,
+    "errors": []
+  },
+  "m16": {
+    "questions": 80,
+    "levels": {
+      "understand": 42,
+      "apply": 24,
+      "analyze": 14
+    },
+    "concepts": {
+      "understand": 38,
+      "apply": 23,
+      "analyze": 14
+    },
+    "topicCounts": {
+      "classification": 18,
+      "pathology": 23,
+      "clinical": 12,
+      "diagnostics": 9,
+      "followup": 18
+    },
+    "mechanicalPass": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,3013 @@
+{
+  "moduleId": "m15",
+  "title": "Tiếp cận  xuất huyết 3 tháng đầu thai kỳ",
+  "topics": [
+    {
+      "id": "history",
+      "title": "Nguyên nhân và khai thác bệnh sử",
+      "pages": [
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "exam",
+      "title": "Khám và phân loại cấp cứu",
+      "pages": [
+        10,
+        11,
+        12,
+        22
+      ]
+    },
+    {
+      "id": "ultrasound",
+      "title": "Siêu âm và túi thai",
+      "pages": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "hcg",
+      "title": "Ngưỡng phân định và động học hCG",
+      "pages": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "aub",
+      "title": "Nhận diện AUB và tiếp cận",
+      "pages": [
+        23,
+        24,
+        25
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m15-q001",
+      "topicId": "history",
+      "conceptId": "m15-cause-range",
+      "level": "understand",
+      "stem": "Vì sao không nên đồng nhất mọi xuất huyết ba tháng đầu với sẩy thai?",
+      "options": [
+        "Bài học nêu nhiều nhóm nguyên nhân, gồm thai ngoài tử cung, bệnh nguyên bào nuôi và nguyên nhân cổ tử cung/âm đạo",
+        "Bài học chỉ nêu sẩy thai",
+        "Ra máu luôn xác nhận thai trứng",
+        "Nguồn máu không cần được khảo sát"
+      ],
+      "answer": 0,
+      "explanation": "Trang 2 liệt kê nhiều nguyên nhân. Chảy máu là biểu hiện cần tìm nguyên nhân, không tự xác định một chẩn đoán duy nhất.",
+      "optionExplanations": [
+        "Trang 2 liệt kê nhiều nguyên nhân. Chảy máu là biểu hiện cần tìm nguyên nhân, không tự xác định một chẩn đoán duy nhất.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 2 liệt kê nhiều nguyên nhân. Chảy máu là biểu hiện cần tìm nguyên nhân, không tự xác định một chẩn đoán duy nhất.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 2 liệt kê nhiều nguyên nhân. Chảy máu là biểu hiện cần tìm nguyên nhân, không tự xác định một chẩn đoán duy nhất.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 2 liệt kê nhiều nguyên nhân. Chảy máu là biểu hiện cần tìm nguyên nhân, không tự xác định một chẩn đoán duy nhất."
+      ],
+      "sources": [
+        {
+          "page": 2,
+          "quote": "Nguyên nhân\n1. Thai nghén thất bại sớm\n2. Thai ngoài tử cung\n3. Bệnh lý nguyên bào nuôi\n4. Xuất huyết làm tổ\n5. Các nguyên nhân khác: từ cổ tử cung, âm đạo…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q002",
+      "topicId": "history",
+      "conceptId": "m15-risk-history",
+      "level": "understand",
+      "stem": "Nhóm nào thuộc tiền sử cần khai thác khi tiếp cận xuất huyết thai sớm?",
+      "options": [
+        "Chỉ CRL hiện tại",
+        "Chỉ một giá trị hCG hiện tại",
+        "Chỉ hình dạng túi thai trên siêu âm",
+        "Thai ngoài tử cung trước đây, phẫu thuật vòi trứng và viêm vùng chậu"
+      ],
+      "answer": 3,
+      "explanation": "Trang 4 liệt kê tiền sử thai ngoài tử cung, điều trị, di chứng viêm vùng chậu và phẫu thuật vòi trứng; các nhóm khác là khảo sát hiện tại.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê tiền sử thai ngoài tử cung, điều trị, di chứng viêm vùng chậu và phẫu thuật vòi trứng; các nhóm khác là khảo sát hiện tại.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê tiền sử thai ngoài tử cung, điều trị, di chứng viêm vùng chậu và phẫu thuật vòi trứng; các nhóm khác là khảo sát hiện tại.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê tiền sử thai ngoài tử cung, điều trị, di chứng viêm vùng chậu và phẫu thuật vòi trứng; các nhóm khác là khảo sát hiện tại.",
+        "Trang 4 liệt kê tiền sử thai ngoài tử cung, điều trị, di chứng viêm vùng chậu và phẫu thuật vòi trứng; các nhóm khác là khảo sát hiện tại."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "Tiền sử\nTiền sử sản, phụ khoa:\n- Tiền sử mang chuyển đoạn nhiễm sắc thể, hội chứng\nkháng phospholipid, dị tật tử cung\n- Tiền sử thai ngoài tử cung và phương pháp điều trị thai\nngoài tử cung, tình trạng viêm vùng chậu di chứng\nChlamydia trachomatis, phẫu thuật vòi trứng, STDs\n- Hiếm muộn, ART\n- Mổ lấy thai\n- Tránh thai, kinh nguyệt",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q003",
+      "topicId": "history",
+      "conceptId": "m15-bleeding-history",
+      "level": "understand",
+      "stem": "Mô tả chảy máu đầy đủ theo bài học cần những yếu tố nào?",
+      "options": [
+        "Chỉ số ngày trễ kinh",
+        "Chỉ mức hCG ban đầu",
+        "Thời điểm bắt đầu, mức độ, kiểu, tính chất và máu cục/mô thai",
+        "Chỉ màu máu, bỏ mọi yếu tố khác"
+      ],
+      "answer": 2,
+      "explanation": "Trang 5 yêu cầu mô tả nhiều chiều của chảy máu, không chỉ một đặc điểm.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 yêu cầu mô tả nhiều chiều của chảy máu, không chỉ một đặc điểm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 yêu cầu mô tả nhiều chiều của chảy máu, không chỉ một đặc điểm.",
+        "Trang 5 yêu cầu mô tả nhiều chiều của chảy máu, không chỉ một đặc điểm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 yêu cầu mô tả nhiều chiều của chảy máu, không chỉ một đặc điểm."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Bệnh sử\n- Kinh chót\n- Chảy máu\n• Máu mất thường là máu mẹ.\n• Bắt đầu, mức độ, kiểu, tính chất máu, hiện diện máu cục\nhay mô thai.\n• Chảy máu nhiều mức độ: từ xuất huyết điểm (spotting), \nnhẹ, chảy máu nặng (≥ 1-2 băng vệ sinh/ giờ trong 2 giờ\nhoặc cục máu đông ≥ 1 inch)\n• Có thể kèm đau bụng",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q004",
+      "topicId": "history",
+      "conceptId": "m15-blood-origin",
+      "level": "understand",
+      "stem": "Bài học lưu ý máu mất khi khai thác chảy máu thường là máu của ai?",
+      "options": [
+        "Luôn là máu của nguyên bào nuôi",
+        "Máu mẹ",
+        "Luôn toàn bộ là máu thai",
+        "Luôn là máu từ túi noãn hoàng"
+      ],
+      "answer": 1,
+      "explanation": "Trang 5 ghi máu mất thường là máu mẹ; từ 'thường' không đồng nghĩa mọi trường hợp hay toàn bộ là máu thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 ghi máu mất thường là máu mẹ; từ 'thường' không đồng nghĩa mọi trường hợp hay toàn bộ là máu thai.",
+        "Trang 5 ghi máu mất thường là máu mẹ; từ 'thường' không đồng nghĩa mọi trường hợp hay toàn bộ là máu thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 ghi máu mất thường là máu mẹ; từ 'thường' không đồng nghĩa mọi trường hợp hay toàn bộ là máu thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 ghi máu mất thường là máu mẹ; từ 'thường' không đồng nghĩa mọi trường hợp hay toàn bộ là máu thai."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Bệnh sử\n- Kinh chót\n- Chảy máu\n• Máu mất thường là máu mẹ.\n• Bắt đầu, mức độ, kiểu, tính chất máu, hiện diện máu cục\nhay mô thai.\n• Chảy máu nhiều mức độ: từ xuất huyết điểm (spotting), \nnhẹ, chảy máu nặng (≥ 1-2 băng vệ sinh/ giờ trong 2 giờ\nhoặc cục máu đông ≥ 1 inch)\n• Có thể kèm đau bụng",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q005",
+      "topicId": "exam",
+      "conceptId": "m15-vital-priority",
+      "level": "understand",
+      "stem": "Đánh giá sinh hiệu có ý nghĩa gì trong trình tự tiếp cận của bài học?",
+      "options": [
+        "Giúp nhận diện tình trạng cấp cứu cần xử trí kịp thời",
+        "Chỉ để tính tuổi thai",
+        "Thay thế hoàn toàn mọi khảo sát khác",
+        "Chỉ thực hiện sau khi biết chắc vị trí thai"
+      ],
+      "answer": 0,
+      "explanation": "Trang 10 yêu cầu đánh giá sinh hiệu; trang 22 ưu tiên loại trừ tình trạng đe dọa tính mạng và đánh giá nhanh sinh hiệu.",
+      "optionExplanations": [
+        "Trang 10 yêu cầu đánh giá sinh hiệu; trang 22 ưu tiên loại trừ tình trạng đe dọa tính mạng và đánh giá nhanh sinh hiệu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 yêu cầu đánh giá sinh hiệu; trang 22 ưu tiên loại trừ tình trạng đe dọa tính mạng và đánh giá nhanh sinh hiệu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 yêu cầu đánh giá sinh hiệu; trang 22 ưu tiên loại trừ tình trạng đe dọa tính mạng và đánh giá nhanh sinh hiệu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 yêu cầu đánh giá sinh hiệu; trang 22 ưu tiên loại trừ tình trạng đe dọa tính mạng và đánh giá nhanh sinh hiệu."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "Triệu chứng thực thể\n- Đánh giá sinh hiệu\n- Khám bụng: Dấu phúc mạc trong xuất huyết nội\n- Khám ngoài\n- Khám sản phụ khoa\n❖ Khám mỏ vịt: \n• Nhẹ nhàng: đánh giá nguồn gốc chảy máu, tính chất, \nmức độ và diễn tiến\n• Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, giải phẫu bệnh để xác định",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 22,
+          "quote": "Bước 1: Phân loại bệnh cấp cứu\nLoại trừ các tình trạng đe dọa tính mạng như thai ngoài tử\ncung vỡ, sẩy thai/ thai bám vết mổ cũ kèm chảy máu nặng, \nsẩy thai nhiễm trùng gây sốc nhiễm trùng.\n- Gọi người hỗ trợ, chẩn đoán + xử trí đồng thời\n- Khai thác bệnh sử, tiền sử ngắn gọn trọng tâm\n- Đánh giá nhanh sinh hiệu, da niêm, bụng ngoại khoa\n- Lập 2 IV lớn, xét nghiệm Hct, đông máu, nhóm máu, \nthực hiện phản ứng chéo, truyền máu khi cần thiết.\n- βhCG định tính, siêu âm tại giường",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q006",
+      "topicId": "exam",
+      "conceptId": "m15-speculum-purpose",
+      "level": "understand",
+      "stem": "Mục tiêu của khám mỏ vịt được nêu là gì?",
+      "options": [
+        "Chỉ đo CRL",
+        "Xác định bộ nhiễm sắc thể thai",
+        "Tính động học hCG sau 48 giờ",
+        "Đánh giá nguồn chảy máu, tính chất, mức độ và diễn tiến"
+      ],
+      "answer": 3,
+      "explanation": "Trang 10 mô tả khám mỏ vịt nhẹ nhàng để khảo sát nguồn gốc và đặc điểm chảy máu; không thực hiện các chức năng xét nghiệm/siêu âm.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 mô tả khám mỏ vịt nhẹ nhàng để khảo sát nguồn gốc và đặc điểm chảy máu; không thực hiện các chức năng xét nghiệm/siêu âm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 mô tả khám mỏ vịt nhẹ nhàng để khảo sát nguồn gốc và đặc điểm chảy máu; không thực hiện các chức năng xét nghiệm/siêu âm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 mô tả khám mỏ vịt nhẹ nhàng để khảo sát nguồn gốc và đặc điểm chảy máu; không thực hiện các chức năng xét nghiệm/siêu âm.",
+        "Trang 10 mô tả khám mỏ vịt nhẹ nhàng để khảo sát nguồn gốc và đặc điểm chảy máu; không thực hiện các chức năng xét nghiệm/siêu âm."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "Triệu chứng thực thể\n- Đánh giá sinh hiệu\n- Khám bụng: Dấu phúc mạc trong xuất huyết nội\n- Khám ngoài\n- Khám sản phụ khoa\n❖ Khám mỏ vịt: \n• Nhẹ nhàng: đánh giá nguồn gốc chảy máu, tính chất, \nmức độ và diễn tiến\n• Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, giải phẫu bệnh để xác định",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q007",
+      "topicId": "exam",
+      "conceptId": "m15-tissue-verification",
+      "level": "understand",
+      "stem": "Vì sao khối mô nghi túi thai không nên được xác nhận chỉ bằng việc nhìn thấy máu cục?",
+      "options": [
+        "Mọi mô tống xuất đều xác nhận sẩy trọn",
+        "Không thể khảo sát mô tống xuất",
+        "Cần phân biệt với máu cục, đánh giá kỹ và gửi giải phẫu bệnh",
+        "Mọi máu cục đều là mô thai"
+      ],
+      "answer": 2,
+      "explanation": "Trang 11 nêu rửa loại bỏ máu cục, quan sát trong nước và gửi GPB để xác định; không đồng nhất máu cục với mô thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 nêu rửa loại bỏ máu cục, quan sát trong nước và gửi GPB để xác định; không đồng nhất máu cục với mô thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 nêu rửa loại bỏ máu cục, quan sát trong nước và gửi GPB để xác định; không đồng nhất máu cục với mô thai.",
+        "Trang 11 nêu rửa loại bỏ máu cục, quan sát trong nước và gửi GPB để xác định; không đồng nhất máu cục với mô thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 nêu rửa loại bỏ máu cục, quan sát trong nước và gửi GPB để xác định; không đồng nhất máu cục với mô thai."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Triệu chứng thực thể\n❖ Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, và phân biệt với máu cục bằng\ncách rửa loại bỏ máu cục và quan sát trong nước. Khối\nmô gửi giải phẫu bệnh để chẩn đoán xác định.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q008",
+      "topicId": "exam",
+      "conceptId": "m15-inner-os",
+      "level": "understand",
+      "stem": "Ý nghĩa nào đúng của lỗ trong cổ tử cung mở theo bài học?",
+      "options": [
+        "Luôn xác nhận thai trứng",
+        "Gặp trong sẩy thai khó tránh hoặc không trọn",
+        "Chỉ gặp trong thai ngoài tử cung",
+        "Luôn xác nhận sẩy thai trọn"
+      ],
+      "answer": 1,
+      "explanation": "Trang 12 ghép lỗ trong mở với sẩy khó tránh và sẩy không trọn, không nêu đây là dấu hiệu xác nhận các lựa chọn khác.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 ghép lỗ trong mở với sẩy khó tránh và sẩy không trọn, không nêu đây là dấu hiệu xác nhận các lựa chọn khác.",
+        "Trang 12 ghép lỗ trong mở với sẩy khó tránh và sẩy không trọn, không nêu đây là dấu hiệu xác nhận các lựa chọn khác.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 ghép lỗ trong mở với sẩy khó tránh và sẩy không trọn, không nêu đây là dấu hiệu xác nhận các lựa chọn khác.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 ghép lỗ trong mở với sẩy khó tránh và sẩy không trọn, không nêu đây là dấu hiệu xác nhận các lựa chọn khác."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Triệu chứng thực thể\n- Lỗ trong cổ tử cung\n❖ Mở: sẩy thai khó tránh, sẩy thai không trọn.\n❖ Đóng: thai ngoài tử cung, dọa sẩy thai, xuất huyết làm tổ\nhoặc sẩy thai trọn. Lưu ý lỗ ngoài cổ tử cung mở ít có giá\ntrị vì là biến thể bình thường đặc biệt người con rạ.\n- Chadwick sign, Goodell sign\n- Tử cung: Hegar sign, kích thước, đau\n- Phần phụ: u/ nang hoàng tuyến, đau/ thai ngoài tử cung. \n- Cùng đồ sau ấn đau trong trường hợp xuất huyết nội.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q009",
+      "topicId": "exam",
+      "conceptId": "m15-outer-os",
+      "level": "understand",
+      "stem": "Vì sao lỗ ngoài cổ tử cung mở có giá trị hạn chế trong lập luận của bài học?",
+      "options": [
+        "Có thể là biến thể bình thường, đặc biệt ở người con rạ",
+        "Luôn chứng minh sẩy thai khó tránh",
+        "Luôn chứng minh thai ngoài tử cung",
+        "Có giá trị tương đương mọi thay đổi của lỗ trong"
+      ],
+      "answer": 0,
+      "explanation": "Trang 12 nhấn mạnh hạn chế của lỗ ngoài, đặc biệt ở người con rạ; cần tránh nhầm với lỗ trong.",
+      "optionExplanations": [
+        "Trang 12 nhấn mạnh hạn chế của lỗ ngoài, đặc biệt ở người con rạ; cần tránh nhầm với lỗ trong.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 nhấn mạnh hạn chế của lỗ ngoài, đặc biệt ở người con rạ; cần tránh nhầm với lỗ trong.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 nhấn mạnh hạn chế của lỗ ngoài, đặc biệt ở người con rạ; cần tránh nhầm với lỗ trong.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 nhấn mạnh hạn chế của lỗ ngoài, đặc biệt ở người con rạ; cần tránh nhầm với lỗ trong."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Triệu chứng thực thể\n- Lỗ trong cổ tử cung\n❖ Mở: sẩy thai khó tránh, sẩy thai không trọn.\n❖ Đóng: thai ngoài tử cung, dọa sẩy thai, xuất huyết làm tổ\nhoặc sẩy thai trọn. Lưu ý lỗ ngoài cổ tử cung mở ít có giá\ntrị vì là biến thể bình thường đặc biệt người con rạ.\n- Chadwick sign, Goodell sign\n- Tử cung: Hegar sign, kích thước, đau\n- Phần phụ: u/ nang hoàng tuyến, đau/ thai ngoài tử cung. \n- Cùng đồ sau ấn đau trong trường hợp xuất huyết nội.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q010",
+      "topicId": "ultrasound",
+      "conceptId": "m15-first-level",
+      "level": "understand",
+      "stem": "Quan hệ giữa siêu âm và động học/ngưỡng phân định hCG trong bài học là gì?",
+      "options": [
+        "hCG luôn thay thế siêu âm",
+        "Siêu âm chỉ dùng sau giải phẫu bệnh",
+        "Cả hai đều chỉ nhằm xác định nhóm máu",
+        "Siêu âm là tiếp cận sơ cấp; động học và ngưỡng hCG là khảo sát thứ cấp"
+      ],
+      "answer": 3,
+      "explanation": "Trang 14 gọi siêu âm là tiếp cận sơ cấp; trang 17 đặt động học/ngưỡng phân định hCG ở khảo sát thứ cấp.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 gọi siêu âm là tiếp cận sơ cấp; trang 17 đặt động học/ngưỡng phân định hCG ở khảo sát thứ cấp.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 gọi siêu âm là tiếp cận sơ cấp; trang 17 đặt động học/ngưỡng phân định hCG ở khảo sát thứ cấp.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 gọi siêu âm là tiếp cận sơ cấp; trang 17 đặt động học/ngưỡng phân định hCG ở khảo sát thứ cấp.",
+        "Trang 14 gọi siêu âm là tiếp cận sơ cấp; trang 17 đặt động học/ngưỡng phân định hCG ở khảo sát thứ cấp."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Cận lâm sàng- siêu âm\n❖ Là tiếp cận sơ cấp: vị trí thai, số lượng thai, tính sinh tồn, \ntuổi thai, dị tật thai.\n❖ Tần số cao ≈ độ phân giải\n❖ Tần số thấp ≈ phạm vi quan sát\n❖ Ngã âm đạo: 5-10 MHz\n❖ Ngã bụng: TCN 2: 4- 6 MHz, TCN 3: 2-5 MHz\n❖ Siêu âm/ âm đạo có độ nhạy và độ đặc hiệu cao hơn so \nvới siêu âm ngả bụng. Siêu âm đường bụng giúp đánh\ngiá dịch trong ổ bụng, vị trí thai ổ bụng, thai ở gan…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 17,
+          "quote": "Cận lâm sàng- β-hCG\n❖ Chẩn đoán thai sớm. \n❖ Khi thai trong tử cung\nbình thường thì βhCG\nít giá trị\n❖ Ngưỡng phân định, \nđộng học βhCG là\nkhảo sát thứ cấp",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q011",
+      "topicId": "ultrasound",
+      "conceptId": "m15-frequency",
+      "level": "understand",
+      "stem": "Bài học mô tả mối liên quan tần số siêu âm thế nào?",
+      "options": [
+        "Tần số không liên quan mục tiêu khảo sát",
+        "Mọi ngả siêu âm chỉ dùng đúng một tần số",
+        "Tần số cao gắn với độ phân giải; tần số thấp gắn với phạm vi quan sát",
+        "Tần số cao luôn đồng nghĩa phạm vi rộng hơn và không đổi độ phân giải"
+      ],
+      "answer": 2,
+      "explanation": "Trang 14 đối chiếu tần số cao với độ phân giải và tần số thấp với phạm vi quan sát; không đưa quy tắc đồng nhất mọi tần số.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 đối chiếu tần số cao với độ phân giải và tần số thấp với phạm vi quan sát; không đưa quy tắc đồng nhất mọi tần số.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 đối chiếu tần số cao với độ phân giải và tần số thấp với phạm vi quan sát; không đưa quy tắc đồng nhất mọi tần số.",
+        "Trang 14 đối chiếu tần số cao với độ phân giải và tần số thấp với phạm vi quan sát; không đưa quy tắc đồng nhất mọi tần số.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 đối chiếu tần số cao với độ phân giải và tần số thấp với phạm vi quan sát; không đưa quy tắc đồng nhất mọi tần số."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Cận lâm sàng- siêu âm\n❖ Là tiếp cận sơ cấp: vị trí thai, số lượng thai, tính sinh tồn, \ntuổi thai, dị tật thai.\n❖ Tần số cao ≈ độ phân giải\n❖ Tần số thấp ≈ phạm vi quan sát\n❖ Ngã âm đạo: 5-10 MHz\n❖ Ngã bụng: TCN 2: 4- 6 MHz, TCN 3: 2-5 MHz\n❖ Siêu âm/ âm đạo có độ nhạy và độ đặc hiệu cao hơn so \nvới siêu âm ngả bụng. Siêu âm đường bụng giúp đánh\ngiá dịch trong ổ bụng, vị trí thai ổ bụng, thai ở gan…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q012",
+      "topicId": "ultrasound",
+      "conceptId": "m15-complementary-routes",
+      "level": "understand",
+      "stem": "Vì sao siêu âm ngả bụng vẫn có vai trò dù TVS được nêu có độ nhạy/đặc hiệu cao hơn?",
+      "options": [
+        "Vì ngả bụng chỉ dùng để đo hCG",
+        "Giúp đánh giá dịch ổ bụng và vị trí thai ở ổ bụng, gan",
+        "Vì TVS không thể khảo sát thai",
+        "Vì ngả bụng thay thế mọi xét nghiệm"
+      ],
+      "answer": 1,
+      "explanation": "Trang 14 nêu vai trò riêng của siêu âm ngả bụng bên cạnh ưu thế TVS; hai vai trò không loại trừ nhau.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 nêu vai trò riêng của siêu âm ngả bụng bên cạnh ưu thế TVS; hai vai trò không loại trừ nhau.",
+        "Trang 14 nêu vai trò riêng của siêu âm ngả bụng bên cạnh ưu thế TVS; hai vai trò không loại trừ nhau.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 nêu vai trò riêng của siêu âm ngả bụng bên cạnh ưu thế TVS; hai vai trò không loại trừ nhau.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 nêu vai trò riêng của siêu âm ngả bụng bên cạnh ưu thế TVS; hai vai trò không loại trừ nhau."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Cận lâm sàng- siêu âm\n❖ Là tiếp cận sơ cấp: vị trí thai, số lượng thai, tính sinh tồn, \ntuổi thai, dị tật thai.\n❖ Tần số cao ≈ độ phân giải\n❖ Tần số thấp ≈ phạm vi quan sát\n❖ Ngã âm đạo: 5-10 MHz\n❖ Ngã bụng: TCN 2: 4- 6 MHz, TCN 3: 2-5 MHz\n❖ Siêu âm/ âm đạo có độ nhạy và độ đặc hiệu cao hơn so \nvới siêu âm ngả bụng. Siêu âm đường bụng giúp đánh\ngiá dịch trong ổ bụng, vị trí thai ổ bụng, thai ở gan…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q013",
+      "topicId": "ultrasound",
+      "conceptId": "m15-sac-morphology",
+      "level": "understand",
+      "stem": "Cặp mô tả hình dạng nào đúng theo bảng so sánh túi thai sớm và túi giả?",
+      "options": [
+        "Túi thai sớm tròn, ổn định; túi giả thuôn dài, thay đổi khi quét",
+        "Túi thai sớm thuôn dài; túi giả luôn tròn ổn định",
+        "Cả hai đều có hình dạng bắt buộc giống nhau",
+        "Bảng không so sánh hình dạng"
+      ],
+      "answer": 0,
+      "explanation": "Bảng trang 15 ghi 'Circular and steady' cho túi thai sớm và 'Elongated, varies during scan' cho túi giả; đây là đặc điểm so sánh, không phải kết luận độc lập cho mọi ca.",
+      "optionExplanations": [
+        "Bảng trang 15 ghi 'Circular and steady' cho túi thai sớm và 'Elongated, varies during scan' cho túi giả; đây là đặc điểm so sánh, không phải kết luận độc lập cho mọi ca.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng trang 15 ghi 'Circular and steady' cho túi thai sớm và 'Elongated, varies during scan' cho túi giả; đây là đặc điểm so sánh, không phải kết luận độc lập cho mọi ca.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng trang 15 ghi 'Circular and steady' cho túi thai sớm và 'Elongated, varies during scan' cho túi giả; đây là đặc điểm so sánh, không phải kết luận độc lập cho mọi ca.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng trang 15 ghi 'Circular and steady' cho túi thai sớm và 'Elongated, varies during scan' cho túi giả; đây là đặc điểm so sánh, không phải kết luận độc lập cho mọi ca."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Table 3.1. Ultrasound differentiation between an early intrauterine gestational sac and a pseudosac. LOCATION: Below midline, buried into decidua / Midline, between endometrial layers. SHAPE: Circular and steady / Elongated, varies during scan. BORDER: Echogenic rim (double) / Single decidual layer. COLOR FLOW: High peripheral flow / Avascular.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q014",
+      "topicId": "hcg",
+      "conceptId": "m15-one-value-limit",
+      "level": "understand",
+      "stem": "Một giá trị β-hCG đơn độc có hạn chế nào được bài học nêu rõ?",
+      "options": [
+        "Xác định chắc chắn vị trí trong mọi trường hợp",
+        "Phân biệt được mọi dạng mô học thai trứng",
+        "Cho biết chắc chắn ngày dự sanh",
+        "Không xác định được vị trí thai"
+      ],
+      "answer": 3,
+      "explanation": "Trang 19 ghi một giá trị β-hCG không xác định được vị trí thai và cần xem động học sau 48 giờ.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 19 ghi một giá trị β-hCG không xác định được vị trí thai và cần xem động học sau 48 giờ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 19 ghi một giá trị β-hCG không xác định được vị trí thai và cần xem động học sau 48 giờ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 19 ghi một giá trị β-hCG không xác định được vị trí thai và cần xem động học sau 48 giờ.",
+        "Trang 19 ghi một giá trị β-hCG không xác định được vị trí thai và cần xem động học sau 48 giờ."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q015",
+      "topicId": "hcg",
+      "conceptId": "m15-baseline-dependent",
+      "level": "understand",
+      "stem": "Mức tăng tối thiểu β-hCG được diễn giải theo yếu tố nào?",
+      "options": [
+        "Chỉ ngày trong tuần",
+        "Chỉ số lần sinh trước đây",
+        "Nồng độ β-hCG ban đầu",
+        "Chỉ màu máu âm đạo"
+      ],
+      "answer": 2,
+      "explanation": "Trang 19 phân ba mức tăng tối thiểu theo ngưỡng hCG ban đầu; không áp dụng cùng một tỷ lệ cho mọi mức ban đầu.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 19 phân ba mức tăng tối thiểu theo ngưỡng hCG ban đầu; không áp dụng cùng một tỷ lệ cho mọi mức ban đầu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 19 phân ba mức tăng tối thiểu theo ngưỡng hCG ban đầu; không áp dụng cùng một tỷ lệ cho mọi mức ban đầu.",
+        "Trang 19 phân ba mức tăng tối thiểu theo ngưỡng hCG ban đầu; không áp dụng cùng một tỷ lệ cho mọi mức ban đầu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 19 phân ba mức tăng tối thiểu theo ngưỡng hCG ban đầu; không áp dụng cùng một tỷ lệ cho mọi mức ban đầu."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q016",
+      "topicId": "hcg",
+      "conceptId": "m15-threshold-context",
+      "level": "understand",
+      "stem": "Ngưỡng phân định β-hCG trong bài phụ thuộc những yếu tố nào?",
+      "options": [
+        "Chỉ màu nước tiểu",
+        "Loại đầu dò, thành bụng, nhân xơ tử cung và bối cảnh khảo sát",
+        "Chỉ một con số bất biến trong mọi điều kiện",
+        "Chỉ tuổi người khám"
+      ],
+      "answer": 1,
+      "explanation": "Trang 18 nêu các yếu tố kỹ thuật và cơ thể ảnh hưởng ngưỡng; không xem một con số độc lập với bối cảnh.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 nêu các yếu tố kỹ thuật và cơ thể ảnh hưởng ngưỡng; không xem một con số độc lập với bối cảnh.",
+        "Trang 18 nêu các yếu tố kỹ thuật và cơ thể ảnh hưởng ngưỡng; không xem một con số độc lập với bối cảnh.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 nêu các yếu tố kỹ thuật và cơ thể ảnh hưởng ngưỡng; không xem một con số độc lập với bối cảnh.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 nêu các yếu tố kỹ thuật và cơ thể ảnh hưởng ngưỡng; không xem một con số độc lập với bối cảnh."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Ngưỡng phân định của βhCG\n- Kết hợp TVS và β-hCG để xác định vị trí thai\n- Là giá trị 99 per thai trong tử cung thấy được/ siêu âm.\n- Phụ thuộc loại đầu dò, thành bụng, nhân xơ tử cung…\n• 1500 mUI/ml/ TVS cho đơn thai\n• 3000 mUI/ml/ TVS cho song thai\n• 5000 mUI/ml/ TAS cho đơn thai\n• 3500 mUI/ml cân nhắc/ BN mong con\n- PUL: dưới ngưỡng cắt và chưa xác định vị trí thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q017",
+      "topicId": "hcg",
+      "conceptId": "m15-subminimum-rise",
+      "level": "understand",
+      "stem": "Động học tăng dưới mức tối thiểu định hướng những khả năng nào trong bài?",
+      "options": [
+        "Thai ngoài tử cung hoặc thai trong tử cung diễn biến bất thường",
+        "Chỉ thai bình thường chắc chắn",
+        "Chỉ thai ngoài tử cung đã được xác nhận",
+        "Chỉ thai trứng đã được xác nhận"
+      ],
+      "answer": 0,
+      "explanation": "Trang 21 đưa hai khả năng, không chẩn đoán duy nhất từ diễn biến hCG.",
+      "optionExplanations": [
+        "Trang 21 đưa hai khả năng, không chẩn đoán duy nhất từ diễn biến hCG.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 21 đưa hai khả năng, không chẩn đoán duy nhất từ diễn biến hCG.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 21 đưa hai khả năng, không chẩn đoán duy nhất từ diễn biến hCG.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 21 đưa hai khả năng, không chẩn đoán duy nhất từ diễn biến hCG."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "Động\n học\n - β\nhCG\n- Động học tăng dưới\nngưỡng tối thiểu: TNTC\nhay thai trong tử cung\ndiễn biến bất thường\n- Động học giảm dưới\nngưỡng có thể là thai\nngoài tử cung hay thai\nsẩy thai không trọn.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q018",
+      "topicId": "aub",
+      "conceptId": "m15-two-conditions",
+      "level": "understand",
+      "stem": "Để xác định AUB theo bước 2, cần kết hợp hai yếu tố nào?",
+      "options": [
+        "Chỉ có máu âm đạo và có nghén",
+        "Chỉ hCG dương tính và trễ kinh",
+        "Chỉ một lần siêu âm và một ngày kinh chót",
+        "Nguồn từ tử cung và tính chất chảy máu bất thường"
+      ],
+      "answer": 3,
+      "explanation": "Trang 23 yêu cầu đồng thời xác định nguồn từ tử cung và tính bất thường về thể tích, thời gian, tần suất, tính đều đặn.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 yêu cầu đồng thời xác định nguồn từ tử cung và tính bất thường về thể tích, thời gian, tần suất, tính đều đặn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 yêu cầu đồng thời xác định nguồn từ tử cung và tính bất thường về thể tích, thời gian, tần suất, tính đều đặn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 yêu cầu đồng thời xác định nguồn từ tử cung và tính bất thường về thể tích, thời gian, tần suất, tính đều đặn.",
+        "Trang 23 yêu cầu đồng thời xác định nguồn từ tử cung và tính bất thường về thể tích, thời gian, tần suất, tính đều đặn."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Bước 2: Xác định AUB\nKết hợp cả 2 yếu tố sau\n1. Từ tử cung\n- Loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC\n- Thấy máu chảy ra từ lỗ cổ tử cung\n- Đánh giá tính chất, mức độ và diễn tiến\n2. Tính chất bất thường: Thể tích, thời gian, tần suất, tính\nđều đặn",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q019",
+      "topicId": "aub",
+      "conceptId": "m15-normal-frequency",
+      "level": "understand",
+      "stem": "Theo bảng ở trang 24, khoảng tần số chu kỳ nào được ghi bình thường?",
+      "options": [
+        "Dưới 24 ngày",
+        "Trên 38 ngày",
+        "24–38 ngày",
+        "Chỉ đúng 28 ngày"
+      ],
+      "answer": 2,
+      "explanation": "Bảng trang 24 ghi bình thường từ 24 đến 38 ngày; dưới và trên các mốc này thuộc các nhóm khác.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Bảng trang 24 ghi bình thường từ 24 đến 38 ngày; dưới và trên các mốc này thuộc các nhóm khác.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng trang 24 ghi bình thường từ 24 đến 38 ngày; dưới và trên các mốc này thuộc các nhóm khác.",
+        "Bảng trang 24 ghi bình thường từ 24 đến 38 ngày; dưới và trên các mốc này thuộc các nhóm khác.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng trang 24 ghi bình thường từ 24 đến 38 ngày; dưới và trên các mốc này thuộc các nhóm khác."
+      ],
+      "sources": [
+        {
+          "page": 24,
+          "quote": "Tần số: Bình thường (≥ 24 và ≤ 38 ngày); Không thường xuyên (> 38 ngày); Thường xuyên (< 24 ngày). Thời gian: Bình thường (≤ 8 ngày); Kéo dài (> 8 ngày). Xuất huyết giữa chu kì: Không có; Ngẫu nhiên; Chu kì (có thể đoán được): Đầu chu kì, Giữa chu kì, Cuối chu kì.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q020",
+      "topicId": "aub",
+      "conceptId": "m15-duration",
+      "level": "understand",
+      "stem": "Theo bảng AUB của tài liệu, thời gian chảy máu nào được phân loại kéo dài?",
+      "options": [
+        "Mọi lần chảy máu tối đa 8 ngày",
+        "Trên 8 ngày",
+        "Mọi lần chảy máu 1 ngày",
+        "Chỉ khi trên 30 ngày"
+      ],
+      "answer": 1,
+      "explanation": "Trang 24 ghi bình thường không quá 8 ngày, kéo dài khi trên 8 ngày.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 24 ghi bình thường không quá 8 ngày, kéo dài khi trên 8 ngày.",
+        "Trang 24 ghi bình thường không quá 8 ngày, kéo dài khi trên 8 ngày.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 24 ghi bình thường không quá 8 ngày, kéo dài khi trên 8 ngày.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 24 ghi bình thường không quá 8 ngày, kéo dài khi trên 8 ngày."
+      ],
+      "sources": [
+        {
+          "page": 24,
+          "quote": "Tần số: Bình thường (≥ 24 và ≤ 38 ngày); Không thường xuyên (> 38 ngày); Thường xuyên (< 24 ngày). Thời gian: Bình thường (≤ 8 ngày); Kéo dài (> 8 ngày). Xuất huyết giữa chu kì: Không có; Ngẫu nhiên; Chu kì (có thể đoán được): Đầu chu kì, Giữa chu kì, Cuối chu kì.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q021",
+      "topicId": "history",
+      "conceptId": "m15-cause-range",
+      "level": "apply",
+      "stem": "Người ra máu thai sớm được phát hiện nguồn máu tại cổ tử cung. Dữ kiện này có nằm trong phạm vi nguyên nhân bài học không?",
+      "options": [
+        "Có, bài nêu nguyên nhân từ cổ tử cung và âm đạo",
+        "Không, mọi chảy máu phải từ buồng tử cung",
+        "Không, chỉ có sẩy thai",
+        "Không, chỉ có thai ngoài tử cung"
+      ],
+      "answer": 0,
+      "explanation": "Trang 2 bao gồm các nguyên nhân khác từ cổ tử cung, âm đạo; không được bỏ nhóm nguồn ngoài tử cung.",
+      "optionExplanations": [
+        "Trang 2 bao gồm các nguyên nhân khác từ cổ tử cung, âm đạo; không được bỏ nhóm nguồn ngoài tử cung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 2 bao gồm các nguyên nhân khác từ cổ tử cung, âm đạo; không được bỏ nhóm nguồn ngoài tử cung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 2 bao gồm các nguyên nhân khác từ cổ tử cung, âm đạo; không được bỏ nhóm nguồn ngoài tử cung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 2 bao gồm các nguyên nhân khác từ cổ tử cung, âm đạo; không được bỏ nhóm nguồn ngoài tử cung."
+      ],
+      "sources": [
+        {
+          "page": 2,
+          "quote": "Nguyên nhân\n1. Thai nghén thất bại sớm\n2. Thai ngoài tử cung\n3. Bệnh lý nguyên bào nuôi\n4. Xuất huyết làm tổ\n5. Các nguyên nhân khác: từ cổ tử cung, âm đạo…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q022",
+      "topicId": "history",
+      "conceptId": "m15-past-treatment",
+      "level": "apply",
+      "stem": "Người bệnh từng thai ngoài tử cung. Theo bài, ngoài ghi có tiền sử, cần chú ý thêm điều gì?",
+      "options": [
+        "Chỉ tên cơ sở làm siêu âm hiện tại",
+        "Chỉ màu máu hiện tại, bỏ tiền sử điều trị",
+        "Chỉ tần số đầu dò, bỏ tiền sử",
+        "Phương pháp điều trị lần trước"
+      ],
+      "answer": 3,
+      "explanation": "Trang 4 nêu cả tiền sử thai ngoài tử cung và phương pháp điều trị, không chỉ ghi một câu có/không.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 nêu cả tiền sử thai ngoài tử cung và phương pháp điều trị, không chỉ ghi một câu có/không.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 nêu cả tiền sử thai ngoài tử cung và phương pháp điều trị, không chỉ ghi một câu có/không.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 nêu cả tiền sử thai ngoài tử cung và phương pháp điều trị, không chỉ ghi một câu có/không.",
+        "Trang 4 nêu cả tiền sử thai ngoài tử cung và phương pháp điều trị, không chỉ ghi một câu có/không."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "Tiền sử\nTiền sử sản, phụ khoa:\n- Tiền sử mang chuyển đoạn nhiễm sắc thể, hội chứng\nkháng phospholipid, dị tật tử cung\n- Tiền sử thai ngoài tử cung và phương pháp điều trị thai\nngoài tử cung, tình trạng viêm vùng chậu di chứng\nChlamydia trachomatis, phẫu thuật vòi trứng, STDs\n- Hiếm muộn, ART\n- Mổ lấy thai\n- Tránh thai, kinh nguyệt",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q023",
+      "topicId": "history",
+      "conceptId": "m15-art-history",
+      "level": "understand",
+      "stem": "Hồ sơ có tiền sử hiếm muộn và hỗ trợ sinh sản. Đặt dữ kiện này ở đâu trong tiếp cận theo bài?",
+      "options": [
+        "Kết quả động học hCG",
+        "Dấu hiệu lỗ trong cổ tử cung",
+        "Tiền sử sản phụ khoa cần khai thác",
+        "Bằng chứng mô học xác nhận sẩy thai"
+      ],
+      "answer": 2,
+      "explanation": "Trang 4 liệt kê hiếm muộn, ART trong tiền sử; chúng không tự trở thành kết quả mô học hay khám hiện tại.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê hiếm muộn, ART trong tiền sử; chúng không tự trở thành kết quả mô học hay khám hiện tại.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê hiếm muộn, ART trong tiền sử; chúng không tự trở thành kết quả mô học hay khám hiện tại.",
+        "Trang 4 liệt kê hiếm muộn, ART trong tiền sử; chúng không tự trở thành kết quả mô học hay khám hiện tại.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê hiếm muộn, ART trong tiền sử; chúng không tự trở thành kết quả mô học hay khám hiện tại."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "Tiền sử\nTiền sử sản, phụ khoa:\n- Tiền sử mang chuyển đoạn nhiễm sắc thể, hội chứng\nkháng phospholipid, dị tật tử cung\n- Tiền sử thai ngoài tử cung và phương pháp điều trị thai\nngoài tử cung, tình trạng viêm vùng chậu di chứng\nChlamydia trachomatis, phẫu thuật vòi trứng, STDs\n- Hiếm muộn, ART\n- Mổ lấy thai\n- Tránh thai, kinh nguyệt",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q024",
+      "topicId": "history",
+      "conceptId": "m15-maternal-blood",
+      "level": "understand",
+      "stem": "Sinh viên ghi 'máu mất thường là máu của thai'. Cần sửa theo bài thế nào?",
+      "options": [
+        "Máu mất thường chính là mô thai",
+        "Máu mất thường là máu mẹ",
+        "Máu mất luôn hoàn toàn từ thai",
+        "Không cần xác định nguồn nào"
+      ],
+      "answer": 1,
+      "explanation": "Trang 5 nói máu mất thường là máu mẹ; không đồng nhất máu với mô thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 nói máu mất thường là máu mẹ; không đồng nhất máu với mô thai.",
+        "Trang 5 nói máu mất thường là máu mẹ; không đồng nhất máu với mô thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 nói máu mất thường là máu mẹ; không đồng nhất máu với mô thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 nói máu mất thường là máu mẹ; không đồng nhất máu với mô thai."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Bệnh sử\n- Kinh chót\n- Chảy máu\n• Máu mất thường là máu mẹ.\n• Bắt đầu, mức độ, kiểu, tính chất máu, hiện diện máu cục\nhay mô thai.\n• Chảy máu nhiều mức độ: từ xuất huyết điểm (spotting), \nnhẹ, chảy máu nặng (≥ 1-2 băng vệ sinh/ giờ trong 2 giờ\nhoặc cục máu đông ≥ 1 inch)\n• Có thể kèm đau bụng",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q025",
+      "topicId": "history",
+      "conceptId": "m15-heavy-bleeding",
+      "level": "apply",
+      "stem": "Người bệnh kể thấm 2 băng vệ sinh mỗi giờ trong 2 giờ. Theo mô tả bài học, dữ kiện này thuộc nhóm nào?",
+      "options": [
+        "Chảy máu nặng",
+        "Chỉ xuất huyết điểm",
+        "Chắc chắn là hiện tượng sinh lý không cần đánh giá",
+        "Chắc chắn xác nhận sẩy thai trọn"
+      ],
+      "answer": 0,
+      "explanation": "Trang 5 dùng mức ít nhất 1–2 băng/giờ trong 2 giờ để mô tả chảy máu nặng; mức độ không tự xác định nguyên nhân.",
+      "optionExplanations": [
+        "Trang 5 dùng mức ít nhất 1–2 băng/giờ trong 2 giờ để mô tả chảy máu nặng; mức độ không tự xác định nguyên nhân.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 dùng mức ít nhất 1–2 băng/giờ trong 2 giờ để mô tả chảy máu nặng; mức độ không tự xác định nguyên nhân.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 dùng mức ít nhất 1–2 băng/giờ trong 2 giờ để mô tả chảy máu nặng; mức độ không tự xác định nguyên nhân.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 dùng mức ít nhất 1–2 băng/giờ trong 2 giờ để mô tả chảy máu nặng; mức độ không tự xác định nguyên nhân."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Bệnh sử\n- Kinh chót\n- Chảy máu\n• Máu mất thường là máu mẹ.\n• Bắt đầu, mức độ, kiểu, tính chất máu, hiện diện máu cục\nhay mô thai.\n• Chảy máu nhiều mức độ: từ xuất huyết điểm (spotting), \nnhẹ, chảy máu nặng (≥ 1-2 băng vệ sinh/ giờ trong 2 giờ\nhoặc cục máu đông ≥ 1 inch)\n• Có thể kèm đau bụng",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q026",
+      "topicId": "history",
+      "conceptId": "m15-bleeding-detail",
+      "level": "apply",
+      "stem": "Phiếu bệnh sử chỉ ghi 'có ra máu'. Bổ sung nào phù hợp nhất với yêu cầu bài?",
+      "options": [
+        "Chỉ chép lại 'có ra máu' nhiều lần",
+        "Bỏ bệnh sử và đo CRL cho mọi người",
+        "Kết luận ngay nguyên nhân từ một câu này",
+        "Thời điểm bắt đầu, lượng, kiểu, tính chất, máu cục/mô thai và đau kèm theo"
+      ],
+      "answer": 3,
+      "explanation": "Trang 5 yêu cầu các đặc điểm cụ thể và lưu ý có thể kèm đau bụng; một câu có/không chưa mô tả đủ.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 yêu cầu các đặc điểm cụ thể và lưu ý có thể kèm đau bụng; một câu có/không chưa mô tả đủ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 yêu cầu các đặc điểm cụ thể và lưu ý có thể kèm đau bụng; một câu có/không chưa mô tả đủ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 yêu cầu các đặc điểm cụ thể và lưu ý có thể kèm đau bụng; một câu có/không chưa mô tả đủ.",
+        "Trang 5 yêu cầu các đặc điểm cụ thể và lưu ý có thể kèm đau bụng; một câu có/không chưa mô tả đủ."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Bệnh sử\n- Kinh chót\n- Chảy máu\n• Máu mất thường là máu mẹ.\n• Bắt đầu, mức độ, kiểu, tính chất máu, hiện diện máu cục\nhay mô thai.\n• Chảy máu nhiều mức độ: từ xuất huyết điểm (spotting), \nnhẹ, chảy máu nặng (≥ 1-2 băng vệ sinh/ giờ trong 2 giờ\nhoặc cục máu đông ≥ 1 inch)\n• Có thể kèm đau bụng",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q027",
+      "topicId": "history",
+      "conceptId": "m15-syncope",
+      "level": "apply",
+      "stem": "Trong bệnh sử xuất huyết, người bệnh có ngất. Bài học liên hệ triệu chứng này với thông tin nào cần chú ý?",
+      "options": [
+        "Phân loại hình dạng túi thai",
+        "Số lượng nguyên bào nuôi",
+        "Hạ huyết áp tư thế",
+        "Định tuổi bằng CRL"
+      ],
+      "answer": 2,
+      "explanation": "Trang 6 ghi 'Ngất: Hạ huyết áp tư thế'; đây là dữ kiện cần chú ý trong đánh giá bệnh sử, không phải phép đo thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 6 ghi 'Ngất: Hạ huyết áp tư thế'; đây là dữ kiện cần chú ý trong đánh giá bệnh sử, không phải phép đo thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 6 ghi 'Ngất: Hạ huyết áp tư thế'; đây là dữ kiện cần chú ý trong đánh giá bệnh sử, không phải phép đo thai.",
+        "Trang 6 ghi 'Ngất: Hạ huyết áp tư thế'; đây là dữ kiện cần chú ý trong đánh giá bệnh sử, không phải phép đo thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 6 ghi 'Ngất: Hạ huyết áp tư thế'; đây là dữ kiện cần chú ý trong đánh giá bệnh sử, không phải phép đo thai."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Bệnh sử\n- Ngất: Hạ huyết áp tư thế\n- Triệu chứng thai nghén\n- β-hCG định tính",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q028",
+      "topicId": "exam",
+      "conceptId": "m15-peritoneal-signs",
+      "level": "apply",
+      "stem": "Khám bụng phát hiện dấu phúc mạc ở người ra máu thai sớm. Mối liên hệ nào được bài nêu cần xem xét?",
+      "options": [
+        "Dùng dấu này để tính dự sanh",
+        "Xuất huyết nội và tình trạng cấp cứu",
+        "Chắc chắn chỉ chảy máu nhẹ từ âm đạo",
+        "Tự động xác định sẩy thai trọn"
+      ],
+      "answer": 1,
+      "explanation": "Trang 10 liên hệ dấu phúc mạc với xuất huyết nội; trang 22 ưu tiên tình trạng đe dọa tính mạng.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 liên hệ dấu phúc mạc với xuất huyết nội; trang 22 ưu tiên tình trạng đe dọa tính mạng.",
+        "Trang 10 liên hệ dấu phúc mạc với xuất huyết nội; trang 22 ưu tiên tình trạng đe dọa tính mạng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 liên hệ dấu phúc mạc với xuất huyết nội; trang 22 ưu tiên tình trạng đe dọa tính mạng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 liên hệ dấu phúc mạc với xuất huyết nội; trang 22 ưu tiên tình trạng đe dọa tính mạng."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "Triệu chứng thực thể\n- Đánh giá sinh hiệu\n- Khám bụng: Dấu phúc mạc trong xuất huyết nội\n- Khám ngoài\n- Khám sản phụ khoa\n❖ Khám mỏ vịt: \n• Nhẹ nhàng: đánh giá nguồn gốc chảy máu, tính chất, \nmức độ và diễn tiến\n• Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, giải phẫu bệnh để xác định",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 22,
+          "quote": "Bước 1: Phân loại bệnh cấp cứu\nLoại trừ các tình trạng đe dọa tính mạng như thai ngoài tử\ncung vỡ, sẩy thai/ thai bám vết mổ cũ kèm chảy máu nặng, \nsẩy thai nhiễm trùng gây sốc nhiễm trùng.\n- Gọi người hỗ trợ, chẩn đoán + xử trí đồng thời\n- Khai thác bệnh sử, tiền sử ngắn gọn trọng tâm\n- Đánh giá nhanh sinh hiệu, da niêm, bụng ngoại khoa\n- Lập 2 IV lớn, xét nghiệm Hct, đông máu, nhóm máu, \nthực hiện phản ứng chéo, truyền máu khi cần thiết.\n- βhCG định tính, siêu âm tại giường",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q029",
+      "topicId": "exam",
+      "conceptId": "m15-speculum-purpose",
+      "level": "apply",
+      "stem": "Muốn xác định chảy máu từ đâu và mức độ ra sao, thao tác thăm khám nào bài học mô tả?",
+      "options": [
+        "Khám mỏ vịt nhẹ nhàng",
+        "Chỉ hỏi chỉ số hCG lần trước",
+        "Chỉ đo tần số đầu dò",
+        "Chỉ tính tỷ lệ tăng hCG"
+      ],
+      "answer": 0,
+      "explanation": "Trang 10 mô tả khám mỏ vịt nhẹ nhàng để đánh giá nguồn gốc, tính chất, mức độ và diễn tiến.",
+      "optionExplanations": [
+        "Trang 10 mô tả khám mỏ vịt nhẹ nhàng để đánh giá nguồn gốc, tính chất, mức độ và diễn tiến.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 mô tả khám mỏ vịt nhẹ nhàng để đánh giá nguồn gốc, tính chất, mức độ và diễn tiến.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 mô tả khám mỏ vịt nhẹ nhàng để đánh giá nguồn gốc, tính chất, mức độ và diễn tiến.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 mô tả khám mỏ vịt nhẹ nhàng để đánh giá nguồn gốc, tính chất, mức độ và diễn tiến."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "Triệu chứng thực thể\n- Đánh giá sinh hiệu\n- Khám bụng: Dấu phúc mạc trong xuất huyết nội\n- Khám ngoài\n- Khám sản phụ khoa\n❖ Khám mỏ vịt: \n• Nhẹ nhàng: đánh giá nguồn gốc chảy máu, tính chất, \nmức độ và diễn tiến\n• Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, giải phẫu bệnh để xác định",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q030",
+      "topicId": "exam",
+      "conceptId": "m15-tissue-verification",
+      "level": "apply",
+      "stem": "Một khối lẫn máu được nghi là mô thai. Bước khảo sát mẫu được bài nêu là gì?",
+      "options": [
+        "Coi mọi cục máu là mô thai đã xác nhận",
+        "Bỏ mẫu ngay vì không thể đánh giá",
+        "Chỉ đo CRL của cục máu",
+        "Rửa loại bỏ máu cục, quan sát trong nước và gửi GPB"
+      ],
+      "answer": 3,
+      "explanation": "Trang 11 nêu cách phân biệt với máu cục và GPB để chẩn đoán xác định; không xác nhận bằng phỏng đoán hình dạng đơn độc.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 nêu cách phân biệt với máu cục và GPB để chẩn đoán xác định; không xác nhận bằng phỏng đoán hình dạng đơn độc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 nêu cách phân biệt với máu cục và GPB để chẩn đoán xác định; không xác nhận bằng phỏng đoán hình dạng đơn độc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 nêu cách phân biệt với máu cục và GPB để chẩn đoán xác định; không xác nhận bằng phỏng đoán hình dạng đơn độc.",
+        "Trang 11 nêu cách phân biệt với máu cục và GPB để chẩn đoán xác định; không xác nhận bằng phỏng đoán hình dạng đơn độc."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Triệu chứng thực thể\n❖ Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, và phân biệt với máu cục bằng\ncách rửa loại bỏ máu cục và quan sát trong nước. Khối\nmô gửi giải phẫu bệnh để chẩn đoán xác định.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q031",
+      "topicId": "exam",
+      "conceptId": "m15-inner-os",
+      "level": "apply",
+      "stem": "Lỗ trong cổ tử cung mở ở người đang chảy máu. Cặp hình thái nào phù hợp với danh sách bài học?",
+      "options": [
+        "Chỉ thai ngoài tử cung và thai trứng",
+        "Chỉ thai đủ tháng và đa thai",
+        "Sẩy thai khó tránh hoặc không trọn",
+        "Chỉ xuất huyết làm tổ và sẩy trọn"
+      ],
+      "answer": 2,
+      "explanation": "Trang 12 ghép lỗ trong mở với sẩy khó tránh, sẩy không trọn; cần kết hợp thăm khám khác để phân biệt.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 ghép lỗ trong mở với sẩy khó tránh, sẩy không trọn; cần kết hợp thăm khám khác để phân biệt.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 ghép lỗ trong mở với sẩy khó tránh, sẩy không trọn; cần kết hợp thăm khám khác để phân biệt.",
+        "Trang 12 ghép lỗ trong mở với sẩy khó tránh, sẩy không trọn; cần kết hợp thăm khám khác để phân biệt.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 ghép lỗ trong mở với sẩy khó tránh, sẩy không trọn; cần kết hợp thăm khám khác để phân biệt."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Triệu chứng thực thể\n- Lỗ trong cổ tử cung\n❖ Mở: sẩy thai khó tránh, sẩy thai không trọn.\n❖ Đóng: thai ngoài tử cung, dọa sẩy thai, xuất huyết làm tổ\nhoặc sẩy thai trọn. Lưu ý lỗ ngoài cổ tử cung mở ít có giá\ntrị vì là biến thể bình thường đặc biệt người con rạ.\n- Chadwick sign, Goodell sign\n- Tử cung: Hegar sign, kích thước, đau\n- Phần phụ: u/ nang hoàng tuyến, đau/ thai ngoài tử cung. \n- Cùng đồ sau ấn đau trong trường hợp xuất huyết nội.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q032",
+      "topicId": "exam",
+      "conceptId": "m15-closed-os",
+      "level": "apply",
+      "stem": "Lỗ trong cổ tử cung đóng. Có thể chỉ từ đó loại trừ thai ngoài tử cung không?",
+      "options": [
+        "Có; lỗ trong đóng loại mọi nguyên nhân thai kỳ",
+        "Không; thai ngoài tử cung nằm trong danh sách có thể gặp khi lỗ trong đóng",
+        "Có; lỗ trong đóng xác nhận thai trong tử cung",
+        "Có; lỗ trong đóng luôn xác nhận sẩy trọn"
+      ],
+      "answer": 1,
+      "explanation": "Trang 12 liệt kê thai ngoài tử cung, dọa sẩy, xuất huyết làm tổ và sẩy trọn khi lỗ trong đóng; dấu này không chọn duy nhất một nguyên nhân.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 liệt kê thai ngoài tử cung, dọa sẩy, xuất huyết làm tổ và sẩy trọn khi lỗ trong đóng; dấu này không chọn duy nhất một nguyên nhân.",
+        "Trang 12 liệt kê thai ngoài tử cung, dọa sẩy, xuất huyết làm tổ và sẩy trọn khi lỗ trong đóng; dấu này không chọn duy nhất một nguyên nhân.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 liệt kê thai ngoài tử cung, dọa sẩy, xuất huyết làm tổ và sẩy trọn khi lỗ trong đóng; dấu này không chọn duy nhất một nguyên nhân.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 liệt kê thai ngoài tử cung, dọa sẩy, xuất huyết làm tổ và sẩy trọn khi lỗ trong đóng; dấu này không chọn duy nhất một nguyên nhân."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Triệu chứng thực thể\n- Lỗ trong cổ tử cung\n❖ Mở: sẩy thai khó tránh, sẩy thai không trọn.\n❖ Đóng: thai ngoài tử cung, dọa sẩy thai, xuất huyết làm tổ\nhoặc sẩy thai trọn. Lưu ý lỗ ngoài cổ tử cung mở ít có giá\ntrị vì là biến thể bình thường đặc biệt người con rạ.\n- Chadwick sign, Goodell sign\n- Tử cung: Hegar sign, kích thước, đau\n- Phần phụ: u/ nang hoàng tuyến, đau/ thai ngoài tử cung. \n- Cùng đồ sau ấn đau trong trường hợp xuất huyết nội.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q033",
+      "topicId": "exam",
+      "conceptId": "m15-outer-os",
+      "level": "apply",
+      "stem": "Ở người con rạ, chỉ lỗ ngoài cổ tử cung mở. Cách nhận định phù hợp là gì?",
+      "options": [
+        "Giá trị hạn chế vì có thể là biến thể bình thường",
+        "Đủ để xác nhận sẩy khó tránh",
+        "Đủ để xác nhận thai ngoài tử cung",
+        "Tương đương chắc chắn với lỗ trong mở"
+      ],
+      "answer": 0,
+      "explanation": "Trang 12 lưu ý lỗ ngoài mở ít giá trị, đặc biệt ở người con rạ; không được thay lỗ ngoài cho lỗ trong.",
+      "optionExplanations": [
+        "Trang 12 lưu ý lỗ ngoài mở ít giá trị, đặc biệt ở người con rạ; không được thay lỗ ngoài cho lỗ trong.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 lưu ý lỗ ngoài mở ít giá trị, đặc biệt ở người con rạ; không được thay lỗ ngoài cho lỗ trong.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 lưu ý lỗ ngoài mở ít giá trị, đặc biệt ở người con rạ; không được thay lỗ ngoài cho lỗ trong.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 lưu ý lỗ ngoài mở ít giá trị, đặc biệt ở người con rạ; không được thay lỗ ngoài cho lỗ trong."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Triệu chứng thực thể\n- Lỗ trong cổ tử cung\n❖ Mở: sẩy thai khó tránh, sẩy thai không trọn.\n❖ Đóng: thai ngoài tử cung, dọa sẩy thai, xuất huyết làm tổ\nhoặc sẩy thai trọn. Lưu ý lỗ ngoài cổ tử cung mở ít có giá\ntrị vì là biến thể bình thường đặc biệt người con rạ.\n- Chadwick sign, Goodell sign\n- Tử cung: Hegar sign, kích thước, đau\n- Phần phụ: u/ nang hoàng tuyến, đau/ thai ngoài tử cung. \n- Cùng đồ sau ấn đau trong trường hợp xuất huyết nội.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q034",
+      "topicId": "exam",
+      "conceptId": "m15-posterior-fornix",
+      "level": "apply",
+      "stem": "Cùng đồ sau ấn đau trong đánh giá người ra huyết thai sớm gợi cần xem xét vấn đề nào được bài nêu?",
+      "options": [
+        "Chỉ tính tuổi thai",
+        "Chỉ chu kỳ kinh kéo dài",
+        "Chỉ hoạt năng lá nuôi bình thường",
+        "Xuất huyết nội"
+      ],
+      "answer": 3,
+      "explanation": "Trang 12 nêu cùng đồ sau ấn đau trong trường hợp xuất huyết nội; dữ kiện cần được đặt trong đánh giá chung.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 nêu cùng đồ sau ấn đau trong trường hợp xuất huyết nội; dữ kiện cần được đặt trong đánh giá chung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 nêu cùng đồ sau ấn đau trong trường hợp xuất huyết nội; dữ kiện cần được đặt trong đánh giá chung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 nêu cùng đồ sau ấn đau trong trường hợp xuất huyết nội; dữ kiện cần được đặt trong đánh giá chung.",
+        "Trang 12 nêu cùng đồ sau ấn đau trong trường hợp xuất huyết nội; dữ kiện cần được đặt trong đánh giá chung."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Triệu chứng thực thể\n- Lỗ trong cổ tử cung\n❖ Mở: sẩy thai khó tránh, sẩy thai không trọn.\n❖ Đóng: thai ngoài tử cung, dọa sẩy thai, xuất huyết làm tổ\nhoặc sẩy thai trọn. Lưu ý lỗ ngoài cổ tử cung mở ít có giá\ntrị vì là biến thể bình thường đặc biệt người con rạ.\n- Chadwick sign, Goodell sign\n- Tử cung: Hegar sign, kích thước, đau\n- Phần phụ: u/ nang hoàng tuyến, đau/ thai ngoài tử cung. \n- Cùng đồ sau ấn đau trong trường hợp xuất huyết nội.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q035",
+      "topicId": "exam",
+      "conceptId": "m15-emergency-parallel",
+      "level": "apply",
+      "stem": "Đang nghi tình trạng đe dọa tính mạng trong xuất huyết thai sớm. Trình tự nào phù hợp bài học?",
+      "options": [
+        "Chờ đúng 48 giờ cho hCG rồi mới đánh giá sinh hiệu",
+        "Chỉ theo dõi tại nhà bất kể huyết động",
+        "Gọi hỗ trợ, chẩn đoán và xử trí đồng thời",
+        "Chờ hoàn thành toàn bộ bệnh sử dài trước mọi xử trí"
+      ],
+      "answer": 2,
+      "explanation": "Trang 22 nêu gọi hỗ trợ, chẩn đoán và xử trí đồng thời; không trì hoãn đánh giá cấp cứu để chờ khảo sát tuần tự.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 nêu gọi hỗ trợ, chẩn đoán và xử trí đồng thời; không trì hoãn đánh giá cấp cứu để chờ khảo sát tuần tự.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 nêu gọi hỗ trợ, chẩn đoán và xử trí đồng thời; không trì hoãn đánh giá cấp cứu để chờ khảo sát tuần tự.",
+        "Trang 22 nêu gọi hỗ trợ, chẩn đoán và xử trí đồng thời; không trì hoãn đánh giá cấp cứu để chờ khảo sát tuần tự.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 nêu gọi hỗ trợ, chẩn đoán và xử trí đồng thời; không trì hoãn đánh giá cấp cứu để chờ khảo sát tuần tự."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Bước 1: Phân loại bệnh cấp cứu\nLoại trừ các tình trạng đe dọa tính mạng như thai ngoài tử\ncung vỡ, sẩy thai/ thai bám vết mổ cũ kèm chảy máu nặng, \nsẩy thai nhiễm trùng gây sốc nhiễm trùng.\n- Gọi người hỗ trợ, chẩn đoán + xử trí đồng thời\n- Khai thác bệnh sử, tiền sử ngắn gọn trọng tâm\n- Đánh giá nhanh sinh hiệu, da niêm, bụng ngoại khoa\n- Lập 2 IV lớn, xét nghiệm Hct, đông máu, nhóm máu, \nthực hiện phản ứng chéo, truyền máu khi cần thiết.\n- βhCG định tính, siêu âm tại giường",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q036",
+      "topicId": "exam",
+      "conceptId": "m15-emergency-labs",
+      "level": "apply",
+      "stem": "Trong chuẩn bị cấp cứu được bài học nêu, nhóm xét nghiệm nào phù hợp?",
+      "options": [
+        "Chỉ quan sát màu máu, không cần xét nghiệm",
+        "Hct, đông máu, nhóm máu và phản ứng chéo",
+        "Chỉ các chỉ số CRL, BPD, FL",
+        "Chỉ tỷ lệ tăng hCG, bỏ đánh giá máu"
+      ],
+      "answer": 1,
+      "explanation": "Trang 22 liệt kê các xét nghiệm này cùng đường truyền lớn và truyền máu khi cần; không thay bằng phép đo sinh trắc thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 liệt kê các xét nghiệm này cùng đường truyền lớn và truyền máu khi cần; không thay bằng phép đo sinh trắc thai.",
+        "Trang 22 liệt kê các xét nghiệm này cùng đường truyền lớn và truyền máu khi cần; không thay bằng phép đo sinh trắc thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 liệt kê các xét nghiệm này cùng đường truyền lớn và truyền máu khi cần; không thay bằng phép đo sinh trắc thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 liệt kê các xét nghiệm này cùng đường truyền lớn và truyền máu khi cần; không thay bằng phép đo sinh trắc thai."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Bước 1: Phân loại bệnh cấp cứu\nLoại trừ các tình trạng đe dọa tính mạng như thai ngoài tử\ncung vỡ, sẩy thai/ thai bám vết mổ cũ kèm chảy máu nặng, \nsẩy thai nhiễm trùng gây sốc nhiễm trùng.\n- Gọi người hỗ trợ, chẩn đoán + xử trí đồng thời\n- Khai thác bệnh sử, tiền sử ngắn gọn trọng tâm\n- Đánh giá nhanh sinh hiệu, da niêm, bụng ngoại khoa\n- Lập 2 IV lớn, xét nghiệm Hct, đông máu, nhóm máu, \nthực hiện phản ứng chéo, truyền máu khi cần thiết.\n- βhCG định tính, siêu âm tại giường",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q037",
+      "topicId": "ultrasound",
+      "conceptId": "m15-ultrasound-information",
+      "level": "apply",
+      "stem": "Cần khảo sát vị trí, số lượng, sinh tồn và tuổi thai. Phương tiện sơ cấp được bài học nêu là gì?",
+      "options": [
+        "Siêu âm",
+        "Một giá trị hCG đơn độc",
+        "Chỉ hỏi tiền sử",
+        "Chỉ màu máu âm đạo"
+      ],
+      "answer": 0,
+      "explanation": "Trang 14 liệt kê các thông tin này trong vai trò tiếp cận sơ cấp của siêu âm.",
+      "optionExplanations": [
+        "Trang 14 liệt kê các thông tin này trong vai trò tiếp cận sơ cấp của siêu âm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 liệt kê các thông tin này trong vai trò tiếp cận sơ cấp của siêu âm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 liệt kê các thông tin này trong vai trò tiếp cận sơ cấp của siêu âm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 liệt kê các thông tin này trong vai trò tiếp cận sơ cấp của siêu âm."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Cận lâm sàng- siêu âm\n❖ Là tiếp cận sơ cấp: vị trí thai, số lượng thai, tính sinh tồn, \ntuổi thai, dị tật thai.\n❖ Tần số cao ≈ độ phân giải\n❖ Tần số thấp ≈ phạm vi quan sát\n❖ Ngã âm đạo: 5-10 MHz\n❖ Ngã bụng: TCN 2: 4- 6 MHz, TCN 3: 2-5 MHz\n❖ Siêu âm/ âm đạo có độ nhạy và độ đặc hiệu cao hơn so \nvới siêu âm ngả bụng. Siêu âm đường bụng giúp đánh\ngiá dịch trong ổ bụng, vị trí thai ổ bụng, thai ở gan…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q038",
+      "topicId": "ultrasound",
+      "conceptId": "m15-frequency-tvs",
+      "level": "understand",
+      "stem": "Đầu dò ngả âm đạo trong bài được mô tả ở khoảng tần số nào?",
+      "options": [
+        "0,1–0,5 MHz",
+        "50–100 MHz",
+        "Chỉ đúng 1 MHz",
+        "5–10 MHz"
+      ],
+      "answer": 3,
+      "explanation": "Trang 14 ghi ngả âm đạo 5–10 MHz; các khoảng còn lại không phải số liệu của bài.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 ghi ngả âm đạo 5–10 MHz; các khoảng còn lại không phải số liệu của bài.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 ghi ngả âm đạo 5–10 MHz; các khoảng còn lại không phải số liệu của bài.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 ghi ngả âm đạo 5–10 MHz; các khoảng còn lại không phải số liệu của bài.",
+        "Trang 14 ghi ngả âm đạo 5–10 MHz; các khoảng còn lại không phải số liệu của bài."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Cận lâm sàng- siêu âm\n❖ Là tiếp cận sơ cấp: vị trí thai, số lượng thai, tính sinh tồn, \ntuổi thai, dị tật thai.\n❖ Tần số cao ≈ độ phân giải\n❖ Tần số thấp ≈ phạm vi quan sát\n❖ Ngã âm đạo: 5-10 MHz\n❖ Ngã bụng: TCN 2: 4- 6 MHz, TCN 3: 2-5 MHz\n❖ Siêu âm/ âm đạo có độ nhạy và độ đặc hiệu cao hơn so \nvới siêu âm ngả bụng. Siêu âm đường bụng giúp đánh\ngiá dịch trong ổ bụng, vị trí thai ổ bụng, thai ở gan…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q039",
+      "topicId": "ultrasound",
+      "conceptId": "m15-abdominal-fluid",
+      "level": "apply",
+      "stem": "Cần đánh giá thêm dịch trong ổ bụng. Vai trò nào của siêu âm ngả bụng phù hợp tài liệu?",
+      "options": [
+        "Bị cấm dùng vì TVS nhạy hơn",
+        "Chỉ được dùng sau khi có GPB",
+        "Có thể giúp đánh giá dịch ổ bụng",
+        "Không có vai trò nào ngoài đo hCG"
+      ],
+      "answer": 2,
+      "explanation": "Trang 14 nêu ngả bụng giúp đánh giá dịch ổ bụng và một số vị trí thai ngoài tử cung ở ổ bụng.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 nêu ngả bụng giúp đánh giá dịch ổ bụng và một số vị trí thai ngoài tử cung ở ổ bụng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 nêu ngả bụng giúp đánh giá dịch ổ bụng và một số vị trí thai ngoài tử cung ở ổ bụng.",
+        "Trang 14 nêu ngả bụng giúp đánh giá dịch ổ bụng và một số vị trí thai ngoài tử cung ở ổ bụng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 nêu ngả bụng giúp đánh giá dịch ổ bụng và một số vị trí thai ngoài tử cung ở ổ bụng."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Cận lâm sàng- siêu âm\n❖ Là tiếp cận sơ cấp: vị trí thai, số lượng thai, tính sinh tồn, \ntuổi thai, dị tật thai.\n❖ Tần số cao ≈ độ phân giải\n❖ Tần số thấp ≈ phạm vi quan sát\n❖ Ngã âm đạo: 5-10 MHz\n❖ Ngã bụng: TCN 2: 4- 6 MHz, TCN 3: 2-5 MHz\n❖ Siêu âm/ âm đạo có độ nhạy và độ đặc hiệu cao hơn so \nvới siêu âm ngả bụng. Siêu âm đường bụng giúp đánh\ngiá dịch trong ổ bụng, vị trí thai ổ bụng, thai ở gan…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q040",
+      "topicId": "ultrasound",
+      "conceptId": "m15-sac-location",
+      "level": "apply",
+      "stem": "Một cấu trúc được mô tả nằm dưới đường giữa, vùi trong màng rụng. Theo bảng so sánh, mô tả phù hợp bên nào hơn?",
+      "options": [
+        "Bảng không có nội dung vị trí",
+        "Túi thai trong tử cung sớm",
+        "Túi giả nằm giữa hai lớp nội mạc ở đường giữa",
+        "Cả hai bắt buộc có vị trí giống nhau"
+      ],
+      "answer": 1,
+      "explanation": "Trang 15 ghép túi thai sớm với vị trí dưới đường giữa, vùi trong màng rụng; túi giả ở đường giữa giữa các lớp nội mạc.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 ghép túi thai sớm với vị trí dưới đường giữa, vùi trong màng rụng; túi giả ở đường giữa giữa các lớp nội mạc.",
+        "Trang 15 ghép túi thai sớm với vị trí dưới đường giữa, vùi trong màng rụng; túi giả ở đường giữa giữa các lớp nội mạc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 ghép túi thai sớm với vị trí dưới đường giữa, vùi trong màng rụng; túi giả ở đường giữa giữa các lớp nội mạc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 ghép túi thai sớm với vị trí dưới đường giữa, vùi trong màng rụng; túi giả ở đường giữa giữa các lớp nội mạc."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Table 3.1. Ultrasound differentiation between an early intrauterine gestational sac and a pseudosac. LOCATION: Below midline, buried into decidua / Midline, between endometrial layers. SHAPE: Circular and steady / Elongated, varies during scan. BORDER: Echogenic rim (double) / Single decidual layer. COLOR FLOW: High peripheral flow / Avascular.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q041",
+      "topicId": "ultrasound",
+      "conceptId": "m15-sac-border",
+      "level": "understand",
+      "stem": "Mô tả 'viền tăng âm kép' thuộc cột nào của bảng so sánh trang 15?",
+      "options": [
+        "Túi thai trong tử cung sớm",
+        "Túi giả với một lớp màng rụng",
+        "Cột hCG máu",
+        "Cột mức độ chảy máu"
+      ],
+      "answer": 0,
+      "explanation": "Bảng trang 15 ghi 'Echogenic rim (double)' ở túi thai sớm và 'Single decidual layer' ở túi giả.",
+      "optionExplanations": [
+        "Bảng trang 15 ghi 'Echogenic rim (double)' ở túi thai sớm và 'Single decidual layer' ở túi giả.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng trang 15 ghi 'Echogenic rim (double)' ở túi thai sớm và 'Single decidual layer' ở túi giả.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng trang 15 ghi 'Echogenic rim (double)' ở túi thai sớm và 'Single decidual layer' ở túi giả.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng trang 15 ghi 'Echogenic rim (double)' ở túi thai sớm và 'Single decidual layer' ở túi giả."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Table 3.1. Ultrasound differentiation between an early intrauterine gestational sac and a pseudosac. LOCATION: Below midline, buried into decidua / Midline, between endometrial layers. SHAPE: Circular and steady / Elongated, varies during scan. BORDER: Echogenic rim (double) / Single decidual layer. COLOR FLOW: High peripheral flow / Avascular.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q042",
+      "topicId": "ultrasound",
+      "conceptId": "m15-sac-flow",
+      "level": "understand",
+      "stem": "Trong bảng trang 15, cấu trúc vô mạch được ghi ở cột nào?",
+      "options": [
+        "Túi thai sớm có dòng chảy ngoại vi cao",
+        "Cột tính tuổi theo kinh chót",
+        "Cột tiền sử ART",
+        "Túi giả"
+      ],
+      "answer": 3,
+      "explanation": "Bảng ghi túi giả 'Avascular', còn túi thai sớm có 'High peripheral flow'. Đây là đối chiếu đặc điểm trong bảng.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Bảng ghi túi giả 'Avascular', còn túi thai sớm có 'High peripheral flow'. Đây là đối chiếu đặc điểm trong bảng.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng ghi túi giả 'Avascular', còn túi thai sớm có 'High peripheral flow'. Đây là đối chiếu đặc điểm trong bảng.",
+        "Không phù hợp với dữ kiện câu hỏi. Bảng ghi túi giả 'Avascular', còn túi thai sớm có 'High peripheral flow'. Đây là đối chiếu đặc điểm trong bảng.",
+        "Bảng ghi túi giả 'Avascular', còn túi thai sớm có 'High peripheral flow'. Đây là đối chiếu đặc điểm trong bảng."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Table 3.1. Ultrasound differentiation between an early intrauterine gestational sac and a pseudosac. LOCATION: Below midline, buried into decidua / Midline, between endometrial layers. SHAPE: Circular and steady / Elongated, varies during scan. BORDER: Echogenic rim (double) / Single decidual layer. COLOR FLOW: High peripheral flow / Avascular.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q043",
+      "topicId": "hcg",
+      "conceptId": "m15-hcg-secondary",
+      "level": "apply",
+      "stem": "Thai trong tử cung bình thường đã được xác định. Theo bài, nhận định nào đúng về β-hCG?",
+      "options": [
+        "hCG thay thế được siêu âm trong mọi lần theo dõi",
+        "Mọi định vị trước đó phải bỏ qua",
+        "β-hCG ít giá trị hơn trong bối cảnh này",
+        "Một hCG đơn độc sẽ xác định được mọi dị tật"
+      ],
+      "answer": 2,
+      "explanation": "Trang 17 nói khi thai trong tử cung bình thường thì β-hCG ít giá trị; không nên trao cho xét nghiệm vai trò vượt dữ kiện.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 17 nói khi thai trong tử cung bình thường thì β-hCG ít giá trị; không nên trao cho xét nghiệm vai trò vượt dữ kiện.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 17 nói khi thai trong tử cung bình thường thì β-hCG ít giá trị; không nên trao cho xét nghiệm vai trò vượt dữ kiện.",
+        "Trang 17 nói khi thai trong tử cung bình thường thì β-hCG ít giá trị; không nên trao cho xét nghiệm vai trò vượt dữ kiện.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 17 nói khi thai trong tử cung bình thường thì β-hCG ít giá trị; không nên trao cho xét nghiệm vai trò vượt dữ kiện."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Cận lâm sàng- β-hCG\n❖ Chẩn đoán thai sớm. \n❖ Khi thai trong tử cung\nbình thường thì βhCG\nít giá trị\n❖ Ngưỡng phân định, \nđộng học βhCG là\nkhảo sát thứ cấp",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q044",
+      "topicId": "hcg",
+      "conceptId": "m15-tvs-single-threshold",
+      "level": "understand",
+      "stem": "Khi nhắc lại mốc tham khảo TVS cho đơn thai ở trang 18, số nào được nêu?",
+      "options": [
+        "100000 mUI/ml",
+        "1500 mUI/ml",
+        "5000 mUI/ml cho mọi ngả",
+        "3000 mUI/ml như mốc riêng của đơn thai"
+      ],
+      "answer": 1,
+      "explanation": "Trang 18 ghi 1500 mUI/ml/TVS cho đơn thai, phân biệt với các mốc khác theo ngả và số thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 ghi 1500 mUI/ml/TVS cho đơn thai, phân biệt với các mốc khác theo ngả và số thai.",
+        "Trang 18 ghi 1500 mUI/ml/TVS cho đơn thai, phân biệt với các mốc khác theo ngả và số thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 ghi 1500 mUI/ml/TVS cho đơn thai, phân biệt với các mốc khác theo ngả và số thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 ghi 1500 mUI/ml/TVS cho đơn thai, phân biệt với các mốc khác theo ngả và số thai."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Ngưỡng phân định của βhCG\n- Kết hợp TVS và β-hCG để xác định vị trí thai\n- Là giá trị 99 per thai trong tử cung thấy được/ siêu âm.\n- Phụ thuộc loại đầu dò, thành bụng, nhân xơ tử cung…\n• 1500 mUI/ml/ TVS cho đơn thai\n• 3000 mUI/ml/ TVS cho song thai\n• 5000 mUI/ml/ TAS cho đơn thai\n• 3500 mUI/ml cân nhắc/ BN mong con\n- PUL: dưới ngưỡng cắt và chưa xác định vị trí thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q045",
+      "topicId": "hcg",
+      "conceptId": "m15-twin-threshold",
+      "level": "understand",
+      "stem": "Trong bảng ngưỡng trang 18, 3000 mUI/ml gắn với bối cảnh nào?",
+      "options": [
+        "TVS cho song thai",
+        "TAS cho mọi đơn thai",
+        "Liều điều trị thai ngoài tử cung",
+        "Thời gian theo dõi 3000 ngày"
+      ],
+      "answer": 0,
+      "explanation": "Trang 18 ghi 3000 mUI/ml/TVS cho song thai; không phải liều thuốc hay thời gian.",
+      "optionExplanations": [
+        "Trang 18 ghi 3000 mUI/ml/TVS cho song thai; không phải liều thuốc hay thời gian.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 ghi 3000 mUI/ml/TVS cho song thai; không phải liều thuốc hay thời gian.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 ghi 3000 mUI/ml/TVS cho song thai; không phải liều thuốc hay thời gian.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 ghi 3000 mUI/ml/TVS cho song thai; không phải liều thuốc hay thời gian."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Ngưỡng phân định của βhCG\n- Kết hợp TVS và β-hCG để xác định vị trí thai\n- Là giá trị 99 per thai trong tử cung thấy được/ siêu âm.\n- Phụ thuộc loại đầu dò, thành bụng, nhân xơ tử cung…\n• 1500 mUI/ml/ TVS cho đơn thai\n• 3000 mUI/ml/ TVS cho song thai\n• 5000 mUI/ml/ TAS cho đơn thai\n• 3500 mUI/ml cân nhắc/ BN mong con\n- PUL: dưới ngưỡng cắt và chưa xác định vị trí thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q046",
+      "topicId": "hcg",
+      "conceptId": "m15-tas-threshold",
+      "level": "understand",
+      "stem": "Mốc 5000 mUI/ml ở trang 18 được ghép với khảo sát nào?",
+      "options": [
+        "TVS cho mọi song thai",
+        "Xét nghiệm đông máu",
+        "Mọi thai đã xác định bình thường",
+        "TAS cho đơn thai"
+      ],
+      "answer": 3,
+      "explanation": "Trang 18 phân biệt 5000 mUI/ml/TAS cho đơn thai với các mốc TVS.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 phân biệt 5000 mUI/ml/TAS cho đơn thai với các mốc TVS.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 phân biệt 5000 mUI/ml/TAS cho đơn thai với các mốc TVS.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 phân biệt 5000 mUI/ml/TAS cho đơn thai với các mốc TVS.",
+        "Trang 18 phân biệt 5000 mUI/ml/TAS cho đơn thai với các mốc TVS."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Ngưỡng phân định của βhCG\n- Kết hợp TVS và β-hCG để xác định vị trí thai\n- Là giá trị 99 per thai trong tử cung thấy được/ siêu âm.\n- Phụ thuộc loại đầu dò, thành bụng, nhân xơ tử cung…\n• 1500 mUI/ml/ TVS cho đơn thai\n• 3000 mUI/ml/ TVS cho song thai\n• 5000 mUI/ml/ TAS cho đơn thai\n• 3500 mUI/ml cân nhắc/ BN mong con\n- PUL: dưới ngưỡng cắt và chưa xác định vị trí thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q047",
+      "topicId": "hcg",
+      "conceptId": "m15-rise-low",
+      "level": "apply",
+      "stem": "β-hCG ban đầu 1000 IU/L. Mức tăng tối thiểu tham khảo sau 48 giờ trong bài là bao nhiêu?",
+      "options": [
+        "33%",
+        "0%",
+        "49%",
+        "40%"
+      ],
+      "answer": 2,
+      "explanation": "1000 IU/L thuộc nhóm dưới 1500 IU/L, được ghép mức tăng 49% tại trang 19.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. 1000 IU/L thuộc nhóm dưới 1500 IU/L, được ghép mức tăng 49% tại trang 19.",
+        "Không phù hợp với dữ kiện câu hỏi. 1000 IU/L thuộc nhóm dưới 1500 IU/L, được ghép mức tăng 49% tại trang 19.",
+        "1000 IU/L thuộc nhóm dưới 1500 IU/L, được ghép mức tăng 49% tại trang 19.",
+        "Không phù hợp với dữ kiện câu hỏi. 1000 IU/L thuộc nhóm dưới 1500 IU/L, được ghép mức tăng 49% tại trang 19."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q048",
+      "topicId": "hcg",
+      "conceptId": "m15-rise-mid",
+      "level": "apply",
+      "stem": "β-hCG ban đầu 2000 IU/L. Theo phân nhóm trong bài, dùng mức tăng tối thiểu tham khảo nào?",
+      "options": [
+        "100% bắt buộc ở mọi người",
+        "40%",
+        "49%",
+        "33%"
+      ],
+      "answer": 1,
+      "explanation": "2000 IU/L nằm trong khoảng 1500–3000 IU/L, được ghép 40% ở trang 19.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. 2000 IU/L nằm trong khoảng 1500–3000 IU/L, được ghép 40% ở trang 19.",
+        "2000 IU/L nằm trong khoảng 1500–3000 IU/L, được ghép 40% ở trang 19.",
+        "Không phù hợp với dữ kiện câu hỏi. 2000 IU/L nằm trong khoảng 1500–3000 IU/L, được ghép 40% ở trang 19.",
+        "Không phù hợp với dữ kiện câu hỏi. 2000 IU/L nằm trong khoảng 1500–3000 IU/L, được ghép 40% ở trang 19."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q049",
+      "topicId": "hcg",
+      "conceptId": "m15-rise-high",
+      "level": "apply",
+      "stem": "β-hCG ban đầu 4000 IU/L. Mốc tăng tối thiểu tham khảo nào phù hợp nhóm này?",
+      "options": [
+        "33%",
+        "49%",
+        "40%",
+        "200%"
+      ],
+      "answer": 0,
+      "explanation": "4000 IU/L lớn hơn 3000 IU/L, được ghép mức 33% ở trang 19.",
+      "optionExplanations": [
+        "4000 IU/L lớn hơn 3000 IU/L, được ghép mức 33% ở trang 19.",
+        "Không phù hợp với dữ kiện câu hỏi. 4000 IU/L lớn hơn 3000 IU/L, được ghép mức 33% ở trang 19.",
+        "Không phù hợp với dữ kiện câu hỏi. 4000 IU/L lớn hơn 3000 IU/L, được ghép mức 33% ở trang 19.",
+        "Không phù hợp với dữ kiện câu hỏi. 4000 IU/L lớn hơn 3000 IU/L, được ghép mức 33% ở trang 19."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q050",
+      "topicId": "hcg",
+      "conceptId": "m15-rise-low",
+      "level": "apply",
+      "stem": "Bài tập có hCG ban đầu 1000 IU/L. Nếu chỉ tính mức tương ứng tăng 49%, giá trị sau 48 giờ là bao nhiêu?",
+      "options": [
+        "1049 IU/L",
+        "490 IU/L",
+        "2490 IU/L",
+        "1490 IU/L"
+      ],
+      "answer": 3,
+      "explanation": "1000 × 1,49 = 1490 IU/L. Đây là phép tính mốc tăng theo bài, không tự xác định vị trí thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. 1000 × 1,49 = 1490 IU/L. Đây là phép tính mốc tăng theo bài, không tự xác định vị trí thai.",
+        "Không phù hợp với dữ kiện câu hỏi. 1000 × 1,49 = 1490 IU/L. Đây là phép tính mốc tăng theo bài, không tự xác định vị trí thai.",
+        "Không phù hợp với dữ kiện câu hỏi. 1000 × 1,49 = 1490 IU/L. Đây là phép tính mốc tăng theo bài, không tự xác định vị trí thai.",
+        "1000 × 1,49 = 1490 IU/L. Đây là phép tính mốc tăng theo bài, không tự xác định vị trí thai."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q051",
+      "topicId": "hcg",
+      "conceptId": "m15-rise-mid",
+      "level": "apply",
+      "stem": "hCG ban đầu 2000 IU/L. Giá trị tương ứng tăng 40% là bao nhiêu?",
+      "options": [
+        "800 IU/L",
+        "4000 IU/L",
+        "2800 IU/L",
+        "2040 IU/L"
+      ],
+      "answer": 2,
+      "explanation": "2000 × 1,40 = 2800 IU/L; mức 40% phù hợp nhóm ban đầu 1500–3000 IU/L.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. 2000 × 1,40 = 2800 IU/L; mức 40% phù hợp nhóm ban đầu 1500–3000 IU/L.",
+        "Không phù hợp với dữ kiện câu hỏi. 2000 × 1,40 = 2800 IU/L; mức 40% phù hợp nhóm ban đầu 1500–3000 IU/L.",
+        "2000 × 1,40 = 2800 IU/L; mức 40% phù hợp nhóm ban đầu 1500–3000 IU/L.",
+        "Không phù hợp với dữ kiện câu hỏi. 2000 × 1,40 = 2800 IU/L; mức 40% phù hợp nhóm ban đầu 1500–3000 IU/L."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q052",
+      "topicId": "hcg",
+      "conceptId": "m15-rise-high",
+      "level": "apply",
+      "stem": "hCG ban đầu 4000 IU/L. Giá trị tương ứng tăng 33% là bao nhiêu?",
+      "options": [
+        "8000 IU/L",
+        "5320 IU/L",
+        "4033 IU/L",
+        "1320 IU/L"
+      ],
+      "answer": 1,
+      "explanation": "4000 × 1,33 = 5320 IU/L. Tỷ lệ được chọn theo mức ban đầu trên 3000 IU/L.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. 4000 × 1,33 = 5320 IU/L. Tỷ lệ được chọn theo mức ban đầu trên 3000 IU/L.",
+        "4000 × 1,33 = 5320 IU/L. Tỷ lệ được chọn theo mức ban đầu trên 3000 IU/L.",
+        "Không phù hợp với dữ kiện câu hỏi. 4000 × 1,33 = 5320 IU/L. Tỷ lệ được chọn theo mức ban đầu trên 3000 IU/L.",
+        "Không phù hợp với dữ kiện câu hỏi. 4000 × 1,33 = 5320 IU/L. Tỷ lệ được chọn theo mức ban đầu trên 3000 IU/L."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q053",
+      "topicId": "hcg",
+      "conceptId": "m15-subminimum-rise",
+      "level": "apply",
+      "stem": "hCG từ 1000 lên 1200 IU/L sau 48 giờ. Theo bài, diễn giải nào đúng?",
+      "options": [
+        "Tăng 20%, dưới mốc 49%; cần xem xét thai ngoài tử cung hoặc thai trong tử cung bất thường",
+        "Tăng 20% đủ khẳng định thai bình thường",
+        "Giảm 20% nên xác nhận sẩy trọn",
+        "Tăng 200% nên xác nhận vị trí thai"
+      ],
+      "answer": 0,
+      "explanation": "Tỷ lệ tăng là (1200−1000)/1000 = 20%, thấp hơn mốc 49%. Trang 21 đưa nhiều khả năng, không chẩn đoán duy nhất.",
+      "optionExplanations": [
+        "Tỷ lệ tăng là (1200−1000)/1000 = 20%, thấp hơn mốc 49%. Trang 21 đưa nhiều khả năng, không chẩn đoán duy nhất.",
+        "Không phù hợp với dữ kiện câu hỏi. Tỷ lệ tăng là (1200−1000)/1000 = 20%, thấp hơn mốc 49%. Trang 21 đưa nhiều khả năng, không chẩn đoán duy nhất.",
+        "Không phù hợp với dữ kiện câu hỏi. Tỷ lệ tăng là (1200−1000)/1000 = 20%, thấp hơn mốc 49%. Trang 21 đưa nhiều khả năng, không chẩn đoán duy nhất.",
+        "Không phù hợp với dữ kiện câu hỏi. Tỷ lệ tăng là (1200−1000)/1000 = 20%, thấp hơn mốc 49%. Trang 21 đưa nhiều khả năng, không chẩn đoán duy nhất."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 21,
+          "quote": "Động\n học\n - β\nhCG\n- Động học tăng dưới\nngưỡng tối thiểu: TNTC\nhay thai trong tử cung\ndiễn biến bất thường\n- Động học giảm dưới\nngưỡng có thể là thai\nngoài tử cung hay thai\nsẩy thai không trọn.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q054",
+      "topicId": "hcg",
+      "conceptId": "m15-slow-fall",
+      "level": "apply",
+      "stem": "Một diễn biến hCG giảm dưới ngưỡng kỳ vọng được nhận diện. Những khả năng nào bài học yêu cầu nghĩ đến?",
+      "options": [
+        "Chắc chắn không còn bệnh lý",
+        "Chắc chắn thai trong tử cung bình thường",
+        "Chắc chắn thai trứng toàn phần",
+        "Thai ngoài tử cung hoặc sẩy thai không trọn"
+      ],
+      "answer": 3,
+      "explanation": "Trang 21 nêu hCG giảm dưới ngưỡng có thể là thai ngoài tử cung hay sẩy thai không trọn; không đồng nghĩa đã giải quyết hoàn toàn.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 21 nêu hCG giảm dưới ngưỡng có thể là thai ngoài tử cung hay sẩy thai không trọn; không đồng nghĩa đã giải quyết hoàn toàn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 21 nêu hCG giảm dưới ngưỡng có thể là thai ngoài tử cung hay sẩy thai không trọn; không đồng nghĩa đã giải quyết hoàn toàn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 21 nêu hCG giảm dưới ngưỡng có thể là thai ngoài tử cung hay sẩy thai không trọn; không đồng nghĩa đã giải quyết hoàn toàn.",
+        "Trang 21 nêu hCG giảm dưới ngưỡng có thể là thai ngoài tử cung hay sẩy thai không trọn; không đồng nghĩa đã giải quyết hoàn toàn."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "Động\n học\n - β\nhCG\n- Động học tăng dưới\nngưỡng tối thiểu: TNTC\nhay thai trong tử cung\ndiễn biến bất thường\n- Động học giảm dưới\nngưỡng có thể là thai\nngoài tử cung hay thai\nsẩy thai không trọn.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q055",
+      "topicId": "aub",
+      "conceptId": "m15-source-verification",
+      "level": "apply",
+      "stem": "Thấy máu ở âm đạo nhưng đã xác định nguồn từ tổn thương cổ tử cung. Có đủ yếu tố nguồn để gọi là AUB theo bước 2 không?",
+      "options": [
+        "Có; nguồn từ cổ tử cung đồng nghĩa từ buồng tử cung trong tiêu chí này",
+        "Có; không cần xét nguồn",
+        "Chưa; bước 2 yêu cầu xác định nguồn từ tử cung và loại trừ các nguồn này",
+        "Có; mọi máu âm đạo đều là AUB"
+      ],
+      "answer": 2,
+      "explanation": "Trang 23 yêu cầu loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC khi xác định nguồn từ tử cung.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 yêu cầu loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC khi xác định nguồn từ tử cung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 yêu cầu loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC khi xác định nguồn từ tử cung.",
+        "Trang 23 yêu cầu loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC khi xác định nguồn từ tử cung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 yêu cầu loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC khi xác định nguồn từ tử cung."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Bước 2: Xác định AUB\nKết hợp cả 2 yếu tố sau\n1. Từ tử cung\n- Loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC\n- Thấy máu chảy ra từ lỗ cổ tử cung\n- Đánh giá tính chất, mức độ và diễn tiến\n2. Tính chất bất thường: Thể tích, thời gian, tần suất, tính\nđều đặn",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q056",
+      "topicId": "aub",
+      "conceptId": "m15-normal-frequency",
+      "level": "apply",
+      "stem": "Theo bảng AUB, chu kỳ 21 ngày thuộc nhóm tần số nào?",
+      "options": [
+        "Vô kinh",
+        "Thường xuyên vì dưới 24 ngày",
+        "Bình thường 24–38 ngày",
+        "Không thường xuyên vì trên 38 ngày"
+      ],
+      "answer": 1,
+      "explanation": "21 ngày nhỏ hơn 24 ngày, phù hợp nhóm thường xuyên của bảng trang 24.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. 21 ngày nhỏ hơn 24 ngày, phù hợp nhóm thường xuyên của bảng trang 24.",
+        "21 ngày nhỏ hơn 24 ngày, phù hợp nhóm thường xuyên của bảng trang 24.",
+        "Không phù hợp với dữ kiện câu hỏi. 21 ngày nhỏ hơn 24 ngày, phù hợp nhóm thường xuyên của bảng trang 24.",
+        "Không phù hợp với dữ kiện câu hỏi. 21 ngày nhỏ hơn 24 ngày, phù hợp nhóm thường xuyên của bảng trang 24."
+      ],
+      "sources": [
+        {
+          "page": 24,
+          "quote": "Tần số: Bình thường (≥ 24 và ≤ 38 ngày); Không thường xuyên (> 38 ngày); Thường xuyên (< 24 ngày). Thời gian: Bình thường (≤ 8 ngày); Kéo dài (> 8 ngày). Xuất huyết giữa chu kì: Không có; Ngẫu nhiên; Chu kì (có thể đoán được): Đầu chu kì, Giữa chu kì, Cuối chu kì.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q057",
+      "topicId": "aub",
+      "conceptId": "m15-normal-frequency",
+      "level": "apply",
+      "stem": "Theo bảng ở trang 24, chu kỳ 42 ngày thuộc nhóm nào?",
+      "options": [
+        "Không thường xuyên vì trên 38 ngày",
+        "Bình thường vì mọi chu kỳ trên 24 ngày đều bình thường",
+        "Thường xuyên vì dưới 24 ngày",
+        "Vô kinh tuyệt đối"
+      ],
+      "answer": 0,
+      "explanation": "42 ngày vượt 38 ngày nên thuộc nhóm không thường xuyên theo bảng; không đồng nhất với hoàn toàn không có kinh.",
+      "optionExplanations": [
+        "42 ngày vượt 38 ngày nên thuộc nhóm không thường xuyên theo bảng; không đồng nhất với hoàn toàn không có kinh.",
+        "Không phù hợp với dữ kiện câu hỏi. 42 ngày vượt 38 ngày nên thuộc nhóm không thường xuyên theo bảng; không đồng nhất với hoàn toàn không có kinh.",
+        "Không phù hợp với dữ kiện câu hỏi. 42 ngày vượt 38 ngày nên thuộc nhóm không thường xuyên theo bảng; không đồng nhất với hoàn toàn không có kinh.",
+        "Không phù hợp với dữ kiện câu hỏi. 42 ngày vượt 38 ngày nên thuộc nhóm không thường xuyên theo bảng; không đồng nhất với hoàn toàn không có kinh."
+      ],
+      "sources": [
+        {
+          "page": 24,
+          "quote": "Tần số: Bình thường (≥ 24 và ≤ 38 ngày); Không thường xuyên (> 38 ngày); Thường xuyên (< 24 ngày). Thời gian: Bình thường (≤ 8 ngày); Kéo dài (> 8 ngày). Xuất huyết giữa chu kì: Không có; Ngẫu nhiên; Chu kì (có thể đoán được): Đầu chu kì, Giữa chu kì, Cuối chu kì.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q058",
+      "topicId": "aub",
+      "conceptId": "m15-duration",
+      "level": "apply",
+      "stem": "Theo bảng AUB, một đợt chảy máu 10 ngày được mô tả thế nào?",
+      "options": [
+        "Bình thường vì dưới 14 ngày",
+        "Chắc chắn thai ngoài tử cung",
+        "Chắc chắn sẩy thai trọn",
+        "Kéo dài vì trên 8 ngày"
+      ],
+      "answer": 3,
+      "explanation": "10 ngày vượt giới hạn 8 ngày trong bảng. Phân loại thời gian không tự xác định nguyên nhân thai kỳ.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. 10 ngày vượt giới hạn 8 ngày trong bảng. Phân loại thời gian không tự xác định nguyên nhân thai kỳ.",
+        "Không phù hợp với dữ kiện câu hỏi. 10 ngày vượt giới hạn 8 ngày trong bảng. Phân loại thời gian không tự xác định nguyên nhân thai kỳ.",
+        "Không phù hợp với dữ kiện câu hỏi. 10 ngày vượt giới hạn 8 ngày trong bảng. Phân loại thời gian không tự xác định nguyên nhân thai kỳ.",
+        "10 ngày vượt giới hạn 8 ngày trong bảng. Phân loại thời gian không tự xác định nguyên nhân thai kỳ."
+      ],
+      "sources": [
+        {
+          "page": 24,
+          "quote": "Tần số: Bình thường (≥ 24 và ≤ 38 ngày); Không thường xuyên (> 38 ngày); Thường xuyên (< 24 ngày). Thời gian: Bình thường (≤ 8 ngày); Kéo dài (> 8 ngày). Xuất huyết giữa chu kì: Không có; Ngẫu nhiên; Chu kì (có thể đoán được): Đầu chu kì, Giữa chu kì, Cuối chu kì.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q059",
+      "topicId": "aub",
+      "conceptId": "m15-pregnancy-exclusion",
+      "level": "understand",
+      "stem": "Sau các bước tiếp cận, cần loại trừ AUB liên quan thai kỳ. Bài học yêu cầu nhóm thông tin nào?",
+      "options": [
+        "Chỉ lỗ ngoài cổ tử cung",
+        "Chỉ tần số chu kỳ",
+        "Bệnh sử, tiền sử, khám lâm sàng và cận lâm sàng",
+        "Chỉ màu máu"
+      ],
+      "answer": 2,
+      "explanation": "Trang 25 kết hợp các nguồn thông tin để loại trừ nguyên nhân liên quan thai kỳ, không dựa một dấu đơn độc.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 kết hợp các nguồn thông tin để loại trừ nguyên nhân liên quan thai kỳ, không dựa một dấu đơn độc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 kết hợp các nguồn thông tin để loại trừ nguyên nhân liên quan thai kỳ, không dựa một dấu đơn độc.",
+        "Trang 25 kết hợp các nguồn thông tin để loại trừ nguyên nhân liên quan thai kỳ, không dựa một dấu đơn độc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 kết hợp các nguồn thông tin để loại trừ nguyên nhân liên quan thai kỳ, không dựa một dấu đơn độc."
+      ],
+      "sources": [
+        {
+          "page": 25,
+          "quote": "Bước 3: Loại trừ AUB liên quan thai kỳ\n❖ Loại trừ các nguyên nhân\nxuất huyết liên quan đến\nthai kỳ\n❖ Bệnh sử, tiền sử, khám\nlâm sàng, cận lâm sàng",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q060",
+      "topicId": "exam",
+      "conceptId": "m15-emergency-history",
+      "level": "apply",
+      "stem": "Trong cấp cứu chảy máu đe dọa tính mạng, cách khai thác bệnh sử phù hợp là gì?",
+      "options": [
+        "Bỏ hoàn toàn mọi bệnh sử",
+        "Ngắn gọn, trọng tâm, đi cùng chẩn đoán và xử trí",
+        "Kéo dài toàn bộ tiền sử trước khi đánh giá sinh hiệu",
+        "Chờ siêu âm nhiều ngày rồi mới hỏi"
+      ],
+      "answer": 1,
+      "explanation": "Trang 22 yêu cầu khai thác ngắn gọn trọng tâm trong bối cảnh chẩn đoán và xử trí đồng thời.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 yêu cầu khai thác ngắn gọn trọng tâm trong bối cảnh chẩn đoán và xử trí đồng thời.",
+        "Trang 22 yêu cầu khai thác ngắn gọn trọng tâm trong bối cảnh chẩn đoán và xử trí đồng thời.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 yêu cầu khai thác ngắn gọn trọng tâm trong bối cảnh chẩn đoán và xử trí đồng thời.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 yêu cầu khai thác ngắn gọn trọng tâm trong bối cảnh chẩn đoán và xử trí đồng thời."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Bước 1: Phân loại bệnh cấp cứu\nLoại trừ các tình trạng đe dọa tính mạng như thai ngoài tử\ncung vỡ, sẩy thai/ thai bám vết mổ cũ kèm chảy máu nặng, \nsẩy thai nhiễm trùng gây sốc nhiễm trùng.\n- Gọi người hỗ trợ, chẩn đoán + xử trí đồng thời\n- Khai thác bệnh sử, tiền sử ngắn gọn trọng tâm\n- Đánh giá nhanh sinh hiệu, da niêm, bụng ngoại khoa\n- Lập 2 IV lớn, xét nghiệm Hct, đông máu, nhóm máu, \nthực hiện phản ứng chéo, truyền máu khi cần thiết.\n- βhCG định tính, siêu âm tại giường",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q061",
+      "topicId": "hcg",
+      "conceptId": "m15-integrated-baseline",
+      "level": "analyze",
+      "stem": "Hai người có hCG ban đầu 1000 và 4000 IU/L, đều tăng 40% sau 48 giờ. Đối chiếu đúng với bảng là gì?",
+      "options": [
+        "Người đầu dưới mốc 49%; người sau vượt mốc 33%; chưa thể chỉ từ đó xác định vị trí thai",
+        "Cả hai đều dưới mốc vì mọi người phải tăng 49%",
+        "Cả hai đều được xác nhận thai trong tử cung",
+        "Người đầu đạt, người sau không đạt vì cùng dùng 40%"
+      ],
+      "answer": 0,
+      "explanation": "Mốc phụ thuộc hCG ban đầu. 40% nhỏ hơn 49% nhưng lớn hơn 33%; trang 19 đồng thời nêu hCG đơn độc không xác định vị trí thai.",
+      "optionExplanations": [
+        "Mốc phụ thuộc hCG ban đầu. 40% nhỏ hơn 49% nhưng lớn hơn 33%; trang 19 đồng thời nêu hCG đơn độc không xác định vị trí thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Mốc phụ thuộc hCG ban đầu. 40% nhỏ hơn 49% nhưng lớn hơn 33%; trang 19 đồng thời nêu hCG đơn độc không xác định vị trí thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Mốc phụ thuộc hCG ban đầu. 40% nhỏ hơn 49% nhưng lớn hơn 33%; trang 19 đồng thời nêu hCG đơn độc không xác định vị trí thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Mốc phụ thuộc hCG ban đầu. 40% nhỏ hơn 49% nhưng lớn hơn 33%; trang 19 đồng thời nêu hCG đơn độc không xác định vị trí thai."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q062",
+      "topicId": "hcg",
+      "conceptId": "m15-integrated-calc-location",
+      "level": "analyze",
+      "stem": "hCG từ 2000 lên 2600 IU/L sau 48 giờ. Kết luận nào đúng cả phép tính, phân nhóm và giới hạn chẩn đoán?",
+      "options": [
+        "Tăng 60%, chắc chắn thai bình thường",
+        "Tăng 30%, chắc chắn TNTC đã xác nhận",
+        "Giảm 30%, chắc chắn sẩy trọn",
+        "Tăng 30%, dưới mốc 40%; có thể TNTC hoặc thai trong tử cung bất thường, chưa xác nhận vị trí"
+      ],
+      "answer": 3,
+      "explanation": "Mức tăng 600/2000 = 30%; ban đầu 2000 dùng mốc 40%. Trang 21 đưa ít nhất hai khả năng nên không kết luận duy nhất TNTC.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Mức tăng 600/2000 = 30%; ban đầu 2000 dùng mốc 40%. Trang 21 đưa ít nhất hai khả năng nên không kết luận duy nhất TNTC.",
+        "Không phù hợp với dữ kiện câu hỏi. Mức tăng 600/2000 = 30%; ban đầu 2000 dùng mốc 40%. Trang 21 đưa ít nhất hai khả năng nên không kết luận duy nhất TNTC.",
+        "Không phù hợp với dữ kiện câu hỏi. Mức tăng 600/2000 = 30%; ban đầu 2000 dùng mốc 40%. Trang 21 đưa ít nhất hai khả năng nên không kết luận duy nhất TNTC.",
+        "Mức tăng 600/2000 = 30%; ban đầu 2000 dùng mốc 40%. Trang 21 đưa ít nhất hai khả năng nên không kết luận duy nhất TNTC."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 21,
+          "quote": "Động\n học\n - β\nhCG\n- Động học tăng dưới\nngưỡng tối thiểu: TNTC\nhay thai trong tử cung\ndiễn biến bất thường\n- Động học giảm dưới\nngưỡng có thể là thai\nngoài tử cung hay thai\nsẩy thai không trọn.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q063",
+      "topicId": "hcg",
+      "conceptId": "m15-integrated-higher-baseline",
+      "level": "apply",
+      "stem": "Một học viên dùng mốc 49% để đánh giá mọi hCG ban đầu, kể cả 4000 IU/L. Sai ở đâu?",
+      "options": [
+        "Sai vì không có mốc nào trong tài liệu",
+        "Không sai vì ba mốc là cùng một giá trị",
+        "Không phân nhóm ban đầu; tài liệu dùng 33% khi ban đầu trên 3000 IU/L",
+        "Sai vì tài liệu luôn dùng 100%"
+      ],
+      "answer": 2,
+      "explanation": "Trang 19 quy định ba khoảng ban đầu với mức 49%, 40%, 33%. Dùng chung 49% bỏ mất điều kiện áp dụng.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 19 quy định ba khoảng ban đầu với mức 49%, 40%, 33%. Dùng chung 49% bỏ mất điều kiện áp dụng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 19 quy định ba khoảng ban đầu với mức 49%, 40%, 33%. Dùng chung 49% bỏ mất điều kiện áp dụng.",
+        "Trang 19 quy định ba khoảng ban đầu với mức 49%, 40%, 33%. Dùng chung 49% bỏ mất điều kiện áp dụng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 19 quy định ba khoảng ban đầu với mức 49%, 40%, 33%. Dùng chung 49% bỏ mất điều kiện áp dụng."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q064",
+      "topicId": "hcg",
+      "conceptId": "m15-integrated-threshold-route",
+      "level": "analyze",
+      "stem": "Một hồ sơ ghi hCG 1800 mUI/ml nhưng không ghi ngả siêu âm. Vì sao chưa nên áp dụng máy móc một ngưỡng để kết luận vị trí?",
+      "options": [
+        "Vì số thai không liên quan mốc nêu",
+        "Ngưỡng trong bài khác theo ngả khảo sát, số thai và điều kiện; một hCG không xác định vị trí",
+        "Vì mọi ngả đều có ngưỡng duy nhất 1500",
+        "Vì hCG trên 1500 luôn xác nhận vị trí ngoài tử cung"
+      ],
+      "answer": 1,
+      "explanation": "Trang 18 phân biệt TVS/TAS và đơn/song thai; trang 19 nêu giới hạn hCG đơn độc. Thiếu bối cảnh làm việc dùng một con số không đủ căn cứ.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 phân biệt TVS/TAS và đơn/song thai; trang 19 nêu giới hạn hCG đơn độc. Thiếu bối cảnh làm việc dùng một con số không đủ căn cứ.",
+        "Trang 18 phân biệt TVS/TAS và đơn/song thai; trang 19 nêu giới hạn hCG đơn độc. Thiếu bối cảnh làm việc dùng một con số không đủ căn cứ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 phân biệt TVS/TAS và đơn/song thai; trang 19 nêu giới hạn hCG đơn độc. Thiếu bối cảnh làm việc dùng một con số không đủ căn cứ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 phân biệt TVS/TAS và đơn/song thai; trang 19 nêu giới hạn hCG đơn độc. Thiếu bối cảnh làm việc dùng một con số không đủ căn cứ."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Ngưỡng phân định của βhCG\n- Kết hợp TVS và β-hCG để xác định vị trí thai\n- Là giá trị 99 per thai trong tử cung thấy được/ siêu âm.\n- Phụ thuộc loại đầu dò, thành bụng, nhân xơ tử cung…\n• 1500 mUI/ml/ TVS cho đơn thai\n• 3000 mUI/ml/ TVS cho song thai\n• 5000 mUI/ml/ TAS cho đơn thai\n• 3500 mUI/ml cân nhắc/ BN mong con\n- PUL: dưới ngưỡng cắt và chưa xác định vị trí thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q065",
+      "topicId": "exam",
+      "conceptId": "m15-integrated-os-confusion",
+      "level": "analyze",
+      "stem": "Người con rạ có lỗ ngoài hé mở nhưng lỗ trong đóng. Sinh viên kết luận sẩy khó tránh chỉ vì 'cổ tử cung mở'. Phân tích nào đúng?",
+      "options": [
+        "Đã đánh đồng lỗ ngoài với lỗ trong; lỗ ngoài có thể là biến thể, còn lỗ trong đóng có nhiều khả năng",
+        "Kết luận đã chắc chắn vì mọi lỗ ngoài mở đều là sẩy khó tránh",
+        "Lỗ trong đóng xác nhận duy nhất thai ngoài tử cung",
+        "Lỗ ngoài mở xác nhận thai trứng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 12 phân biệt lỗ trong với lỗ ngoài và nêu nhiều chẩn đoán khi lỗ trong đóng. Không được bỏ vị trí lỗ được khám.",
+      "optionExplanations": [
+        "Trang 12 phân biệt lỗ trong với lỗ ngoài và nêu nhiều chẩn đoán khi lỗ trong đóng. Không được bỏ vị trí lỗ được khám.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 phân biệt lỗ trong với lỗ ngoài và nêu nhiều chẩn đoán khi lỗ trong đóng. Không được bỏ vị trí lỗ được khám.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 phân biệt lỗ trong với lỗ ngoài và nêu nhiều chẩn đoán khi lỗ trong đóng. Không được bỏ vị trí lỗ được khám.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 phân biệt lỗ trong với lỗ ngoài và nêu nhiều chẩn đoán khi lỗ trong đóng. Không được bỏ vị trí lỗ được khám."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Triệu chứng thực thể\n- Lỗ trong cổ tử cung\n❖ Mở: sẩy thai khó tránh, sẩy thai không trọn.\n❖ Đóng: thai ngoài tử cung, dọa sẩy thai, xuất huyết làm tổ\nhoặc sẩy thai trọn. Lưu ý lỗ ngoài cổ tử cung mở ít có giá\ntrị vì là biến thể bình thường đặc biệt người con rạ.\n- Chadwick sign, Goodell sign\n- Tử cung: Hegar sign, kích thước, đau\n- Phần phụ: u/ nang hoàng tuyến, đau/ thai ngoài tử cung. \n- Cùng đồ sau ấn đau trong trường hợp xuất huyết nội.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q066",
+      "topicId": "exam",
+      "conceptId": "m15-integrated-stability",
+      "level": "analyze",
+      "stem": "Người ra máu có huyết động không ổn; sinh viên muốn chờ 48 giờ để xét động học hCG trước khi xử trí. Nhận xét nào phù hợp bài?",
+      "options": [
+        "Đúng vì mọi hCG đều phải chờ rồi mới đánh giá sinh hiệu",
+        "Đúng vì xuất huyết nội không thuộc cấp cứu",
+        "Sai vì không bao giờ được dùng hCG ở bất kỳ bối cảnh nào",
+        "Thứ tự ưu tiên sai: cấp cứu phải được phân loại và chẩn đoán/xử trí đồng thời, không chờ động học"
+      ],
+      "answer": 3,
+      "explanation": "Trang 22 đặt tình trạng đe dọa tính mạng lên trước; thời gian 48 giờ ở trang 19 không phải lý do trì hoãn cấp cứu.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 đặt tình trạng đe dọa tính mạng lên trước; thời gian 48 giờ ở trang 19 không phải lý do trì hoãn cấp cứu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 đặt tình trạng đe dọa tính mạng lên trước; thời gian 48 giờ ở trang 19 không phải lý do trì hoãn cấp cứu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 đặt tình trạng đe dọa tính mạng lên trước; thời gian 48 giờ ở trang 19 không phải lý do trì hoãn cấp cứu.",
+        "Trang 22 đặt tình trạng đe dọa tính mạng lên trước; thời gian 48 giờ ở trang 19 không phải lý do trì hoãn cấp cứu."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 22,
+          "quote": "Bước 1: Phân loại bệnh cấp cứu\nLoại trừ các tình trạng đe dọa tính mạng như thai ngoài tử\ncung vỡ, sẩy thai/ thai bám vết mổ cũ kèm chảy máu nặng, \nsẩy thai nhiễm trùng gây sốc nhiễm trùng.\n- Gọi người hỗ trợ, chẩn đoán + xử trí đồng thời\n- Khai thác bệnh sử, tiền sử ngắn gọn trọng tâm\n- Đánh giá nhanh sinh hiệu, da niêm, bụng ngoại khoa\n- Lập 2 IV lớn, xét nghiệm Hct, đông máu, nhóm máu, \nthực hiện phản ứng chéo, truyền máu khi cần thiết.\n- βhCG định tính, siêu âm tại giường",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q067",
+      "topicId": "exam",
+      "conceptId": "m15-integrated-tissue",
+      "level": "analyze",
+      "stem": "Người ra máu tống xuất một khối lẫn máu, lỗ trong mở. Có thể chỉ từ đó xác nhận sẩy trọn không?",
+      "options": [
+        "Có; chỉ cần lỗ ngoài mở",
+        "Có; không cần xem nguồn máu",
+        "Không; cần đánh giá mô/GPB, và lỗ trong mở được liệt kê ở sẩy khó tránh hoặc không trọn",
+        "Có; mọi khối máu là mô thai và mọi tống xuất đều trọn"
+      ],
+      "answer": 2,
+      "explanation": "Trang 11 yêu cầu phân biệt mô với máu cục; trang 12 ghép lỗ trong mở với khó tránh/không trọn. Các dữ kiện không cho kết luận sẩy trọn tức thì.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 yêu cầu phân biệt mô với máu cục; trang 12 ghép lỗ trong mở với khó tránh/không trọn. Các dữ kiện không cho kết luận sẩy trọn tức thì.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 yêu cầu phân biệt mô với máu cục; trang 12 ghép lỗ trong mở với khó tránh/không trọn. Các dữ kiện không cho kết luận sẩy trọn tức thì.",
+        "Trang 11 yêu cầu phân biệt mô với máu cục; trang 12 ghép lỗ trong mở với khó tránh/không trọn. Các dữ kiện không cho kết luận sẩy trọn tức thì.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 yêu cầu phân biệt mô với máu cục; trang 12 ghép lỗ trong mở với khó tránh/không trọn. Các dữ kiện không cho kết luận sẩy trọn tức thì."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "Triệu chứng thực thể\n- Đánh giá sinh hiệu\n- Khám bụng: Dấu phúc mạc trong xuất huyết nội\n- Khám ngoài\n- Khám sản phụ khoa\n❖ Khám mỏ vịt: \n• Nhẹ nhàng: đánh giá nguồn gốc chảy máu, tính chất, \nmức độ và diễn tiến\n• Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, giải phẫu bệnh để xác định",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 11,
+          "quote": "Triệu chứng thực thể\n❖ Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, và phân biệt với máu cục bằng\ncách rửa loại bỏ máu cục và quan sát trong nước. Khối\nmô gửi giải phẫu bệnh để chẩn đoán xác định.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 12,
+          "quote": "Triệu chứng thực thể\n- Lỗ trong cổ tử cung\n❖ Mở: sẩy thai khó tránh, sẩy thai không trọn.\n❖ Đóng: thai ngoài tử cung, dọa sẩy thai, xuất huyết làm tổ\nhoặc sẩy thai trọn. Lưu ý lỗ ngoài cổ tử cung mở ít có giá\ntrị vì là biến thể bình thường đặc biệt người con rạ.\n- Chadwick sign, Goodell sign\n- Tử cung: Hegar sign, kích thước, đau\n- Phần phụ: u/ nang hoàng tuyến, đau/ thai ngoài tử cung. \n- Cùng đồ sau ấn đau trong trường hợp xuất huyết nội.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q068",
+      "topicId": "ultrasound",
+      "conceptId": "m15-integrated-sac-pattern",
+      "level": "analyze",
+      "stem": "Mô tả bằng chữ: cấu trúc ở đường giữa giữa hai lớp nội mạc, thuôn dài thay đổi khi quét, một lớp viền, vô mạch. Theo bảng, tổ hợp nghiêng về nhóm nào?",
+      "options": [
+        "Kết quả mô học thai trứng",
+        "Túi giả",
+        "Túi thai sớm có viền kép, tròn ổn định và tăng dòng ngoại vi",
+        "Không có đặc điểm nào trùng bảng"
+      ],
+      "answer": 1,
+      "explanation": "Cả bốn đặc điểm trùng cột túi giả ở trang 15. Đây là nhận diện tổ hợp trong bảng, không tự đưa ra xử trí hay khẳng định toàn bộ bệnh cảnh.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Cả bốn đặc điểm trùng cột túi giả ở trang 15. Đây là nhận diện tổ hợp trong bảng, không tự đưa ra xử trí hay khẳng định toàn bộ bệnh cảnh.",
+        "Cả bốn đặc điểm trùng cột túi giả ở trang 15. Đây là nhận diện tổ hợp trong bảng, không tự đưa ra xử trí hay khẳng định toàn bộ bệnh cảnh.",
+        "Không phù hợp với dữ kiện câu hỏi. Cả bốn đặc điểm trùng cột túi giả ở trang 15. Đây là nhận diện tổ hợp trong bảng, không tự đưa ra xử trí hay khẳng định toàn bộ bệnh cảnh.",
+        "Không phù hợp với dữ kiện câu hỏi. Cả bốn đặc điểm trùng cột túi giả ở trang 15. Đây là nhận diện tổ hợp trong bảng, không tự đưa ra xử trí hay khẳng định toàn bộ bệnh cảnh."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Table 3.1. Ultrasound differentiation between an early intrauterine gestational sac and a pseudosac. LOCATION: Below midline, buried into decidua / Midline, between endometrial layers. SHAPE: Circular and steady / Elongated, varies during scan. BORDER: Echogenic rim (double) / Single decidual layer. COLOR FLOW: High peripheral flow / Avascular.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q069",
+      "topicId": "ultrasound",
+      "conceptId": "m15-integrated-true-sac",
+      "level": "analyze",
+      "stem": "Một mô tả kết hợp vị trí vùi trong màng rụng, hình tròn ổn định, viền tăng âm kép và dòng ngoại vi cao. Theo bảng trang 15, kết luận nào đúng?",
+      "options": [
+        "Phù hợp tổ hợp đặc điểm túi thai trong tử cung sớm của bảng",
+        "Phù hợp tổ hợp túi giả của bảng",
+        "Là tiêu chuẩn hCG tăng dưới ngưỡng",
+        "Là định nghĩa chảy máu nặng"
+      ],
+      "answer": 0,
+      "explanation": "Bốn đặc điểm được ghi cùng cột túi thai trong tử cung sớm; không phải đặc điểm hCG hay mức chảy máu.",
+      "optionExplanations": [
+        "Bốn đặc điểm được ghi cùng cột túi thai trong tử cung sớm; không phải đặc điểm hCG hay mức chảy máu.",
+        "Không phù hợp với dữ kiện câu hỏi. Bốn đặc điểm được ghi cùng cột túi thai trong tử cung sớm; không phải đặc điểm hCG hay mức chảy máu.",
+        "Không phù hợp với dữ kiện câu hỏi. Bốn đặc điểm được ghi cùng cột túi thai trong tử cung sớm; không phải đặc điểm hCG hay mức chảy máu.",
+        "Không phù hợp với dữ kiện câu hỏi. Bốn đặc điểm được ghi cùng cột túi thai trong tử cung sớm; không phải đặc điểm hCG hay mức chảy máu."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Table 3.1. Ultrasound differentiation between an early intrauterine gestational sac and a pseudosac. LOCATION: Below midline, buried into decidua / Midline, between endometrial layers. SHAPE: Circular and steady / Elongated, varies during scan. BORDER: Echogenic rim (double) / Single decidual layer. COLOR FLOW: High peripheral flow / Avascular.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q070",
+      "topicId": "ultrasound",
+      "conceptId": "m15-integrated-route-resolution",
+      "level": "analyze",
+      "stem": "Một người cho rằng TVS nhạy/đặc hiệu hơn nên TAS không còn vai trò, dù cần khảo sát dịch ổ bụng. Phân tích nào đúng?",
+      "options": [
+        "Đúng vì ưu thế một phương pháp loại mọi vai trò phương pháp khác",
+        "Sai vì TVS không có ưu thế nào trong bài",
+        "Đúng vì ngả bụng chỉ dùng sau GPB",
+        "Đã bỏ qua mục tiêu khảo sát; bài vẫn nêu ngả bụng giúp đánh giá dịch và thai ổ bụng"
+      ],
+      "answer": 3,
+      "explanation": "Trang 14 vừa nêu ưu thế TVS vừa nêu mục tiêu hữu ích của TAS. Lựa chọn phải giữ cả phạm vi quan sát và mục tiêu.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 vừa nêu ưu thế TVS vừa nêu mục tiêu hữu ích của TAS. Lựa chọn phải giữ cả phạm vi quan sát và mục tiêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 vừa nêu ưu thế TVS vừa nêu mục tiêu hữu ích của TAS. Lựa chọn phải giữ cả phạm vi quan sát và mục tiêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 14 vừa nêu ưu thế TVS vừa nêu mục tiêu hữu ích của TAS. Lựa chọn phải giữ cả phạm vi quan sát và mục tiêu.",
+        "Trang 14 vừa nêu ưu thế TVS vừa nêu mục tiêu hữu ích của TAS. Lựa chọn phải giữ cả phạm vi quan sát và mục tiêu."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Cận lâm sàng- siêu âm\n❖ Là tiếp cận sơ cấp: vị trí thai, số lượng thai, tính sinh tồn, \ntuổi thai, dị tật thai.\n❖ Tần số cao ≈ độ phân giải\n❖ Tần số thấp ≈ phạm vi quan sát\n❖ Ngã âm đạo: 5-10 MHz\n❖ Ngã bụng: TCN 2: 4- 6 MHz, TCN 3: 2-5 MHz\n❖ Siêu âm/ âm đạo có độ nhạy và độ đặc hiệu cao hơn so \nvới siêu âm ngả bụng. Siêu âm đường bụng giúp đánh\ngiá dịch trong ổ bụng, vị trí thai ổ bụng, thai ở gan…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q071",
+      "topicId": "aub",
+      "conceptId": "m15-integrated-source-pattern",
+      "level": "analyze",
+      "stem": "Một đợt máu âm đạo kéo dài 10 ngày nhưng nguồn được xác định ở âm đạo. Có thể gọi AUB theo đầy đủ bước 2 chưa?",
+      "options": [
+        "Có; mọi máu âm đạo đều từ tử cung",
+        "Không vì 10 ngày luôn bình thường",
+        "Chưa; có tính bất thường về thời gian nhưng chưa đáp ứng nguồn từ tử cung",
+        "Có; chỉ cần trên 8 ngày bất kể nguồn"
+      ],
+      "answer": 2,
+      "explanation": "Trang 24 phân loại trên 8 ngày là kéo dài, nhưng trang 23 cần cả nguồn tử cung và tính bất thường. Một điều kiện không thay điều kiện kia.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 24 phân loại trên 8 ngày là kéo dài, nhưng trang 23 cần cả nguồn tử cung và tính bất thường. Một điều kiện không thay điều kiện kia.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 24 phân loại trên 8 ngày là kéo dài, nhưng trang 23 cần cả nguồn tử cung và tính bất thường. Một điều kiện không thay điều kiện kia.",
+        "Trang 24 phân loại trên 8 ngày là kéo dài, nhưng trang 23 cần cả nguồn tử cung và tính bất thường. Một điều kiện không thay điều kiện kia.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 24 phân loại trên 8 ngày là kéo dài, nhưng trang 23 cần cả nguồn tử cung và tính bất thường. Một điều kiện không thay điều kiện kia."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Bước 2: Xác định AUB\nKết hợp cả 2 yếu tố sau\n1. Từ tử cung\n- Loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC\n- Thấy máu chảy ra từ lỗ cổ tử cung\n- Đánh giá tính chất, mức độ và diễn tiến\n2. Tính chất bất thường: Thể tích, thời gian, tần suất, tính\nđều đặn",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 24,
+          "quote": "Tần số: Bình thường (≥ 24 và ≤ 38 ngày); Không thường xuyên (> 38 ngày); Thường xuyên (< 24 ngày). Thời gian: Bình thường (≤ 8 ngày); Kéo dài (> 8 ngày). Xuất huyết giữa chu kì: Không có; Ngẫu nhiên; Chu kì (có thể đoán được): Đầu chu kì, Giữa chu kì, Cuối chu kì.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q072",
+      "topicId": "aub",
+      "conceptId": "m15-integrated-normal-one-axis",
+      "level": "analyze",
+      "stem": "Chu kỳ 30 ngày nhưng mỗi đợt ra máu 10 ngày từ tử cung. Cách phân tích nào đúng theo bảng?",
+      "options": [
+        "Không thể có thời gian bất thường nếu tần số bình thường",
+        "Tần số thuộc khoảng bình thường, thời gian kéo dài; một trục bình thường không làm mọi trục bình thường",
+        "Cả hai bình thường vì chu kỳ 30 ngày",
+        "Tần số không thường xuyên vì trên 28 ngày"
+      ],
+      "answer": 1,
+      "explanation": "30 nằm trong 24–38;10 lớn hơn 8. Trang 23 yêu cầu xét các chiều thể tích, thời gian, tần suất và đều đặn.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. 30 nằm trong 24–38;10 lớn hơn 8. Trang 23 yêu cầu xét các chiều thể tích, thời gian, tần suất và đều đặn.",
+        "30 nằm trong 24–38;10 lớn hơn 8. Trang 23 yêu cầu xét các chiều thể tích, thời gian, tần suất và đều đặn.",
+        "Không phù hợp với dữ kiện câu hỏi. 30 nằm trong 24–38;10 lớn hơn 8. Trang 23 yêu cầu xét các chiều thể tích, thời gian, tần suất và đều đặn.",
+        "Không phù hợp với dữ kiện câu hỏi. 30 nằm trong 24–38;10 lớn hơn 8. Trang 23 yêu cầu xét các chiều thể tích, thời gian, tần suất và đều đặn."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Bước 2: Xác định AUB\nKết hợp cả 2 yếu tố sau\n1. Từ tử cung\n- Loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC\n- Thấy máu chảy ra từ lỗ cổ tử cung\n- Đánh giá tính chất, mức độ và diễn tiến\n2. Tính chất bất thường: Thể tích, thời gian, tần suất, tính\nđều đặn",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 24,
+          "quote": "Tần số: Bình thường (≥ 24 và ≤ 38 ngày); Không thường xuyên (> 38 ngày); Thường xuyên (< 24 ngày). Thời gian: Bình thường (≤ 8 ngày); Kéo dài (> 8 ngày). Xuất huyết giữa chu kì: Không có; Ngẫu nhiên; Chu kì (có thể đoán được): Đầu chu kì, Giữa chu kì, Cuối chu kì.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q073",
+      "topicId": "hcg",
+      "conceptId": "m15-integrated-fall",
+      "level": "analyze",
+      "stem": "hCG đang giảm nhưng giảm thấp hơn kỳ vọng. Sinh viên cho rằng cứ giảm là loại được TNTC và sẩy không trọn. Phân tích nào đúng?",
+      "options": [
+        "Sai; trang 21 vẫn nêu hai khả năng này khi giảm dưới ngưỡng, và hCG không tự định vị thai",
+        "Đúng vì mọi hCG giảm là hết bệnh",
+        "Đúng vì chỉ hCG tăng mới liên quan thai kỳ",
+        "Sai vì hCG giảm luôn xác nhận thai trứng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 21 cảnh báo giảm dưới ngưỡng có thể TNTC hoặc sẩy không trọn; trang 19 không cho dùng giá trị hCG riêng để định vị.",
+      "optionExplanations": [
+        "Trang 21 cảnh báo giảm dưới ngưỡng có thể TNTC hoặc sẩy không trọn; trang 19 không cho dùng giá trị hCG riêng để định vị.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 21 cảnh báo giảm dưới ngưỡng có thể TNTC hoặc sẩy không trọn; trang 19 không cho dùng giá trị hCG riêng để định vị.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 21 cảnh báo giảm dưới ngưỡng có thể TNTC hoặc sẩy không trọn; trang 19 không cho dùng giá trị hCG riêng để định vị.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 21 cảnh báo giảm dưới ngưỡng có thể TNTC hoặc sẩy không trọn; trang 19 không cho dùng giá trị hCG riêng để định vị."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 21,
+          "quote": "Động\n học\n - β\nhCG\n- Động học tăng dưới\nngưỡng tối thiểu: TNTC\nhay thai trong tử cung\ndiễn biến bất thường\n- Động học giảm dưới\nngưỡng có thể là thai\nngoài tử cung hay thai\nsẩy thai không trọn.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q074",
+      "topicId": "hcg",
+      "conceptId": "m15-integrated-two-computations",
+      "level": "analyze",
+      "stem": "Hồ sơ A:1000→1500; hồ sơ B:4000→5200 IU/L trong 48 giờ. Nhận định nào đúng theo các mốc tăng?",
+      "options": [
+        "A và B đều tăng 50%",
+        "A dưới mốc, B vượt mốc vì số tăng tuyệt đối lớn hơn",
+        "B chắc chắn thai bình thường vì tăng 1200 IU/L",
+        "A tăng 50% vượt 49%; B tăng 30% dưới 33%; chưa kết luận được vị trí chỉ từ hai chuỗi"
+      ],
+      "answer": 3,
+      "explanation": "A tăng 500/1000=50%; B tăng 1200/4000=30%. So sánh tỷ lệ và mốc theo ban đầu, không so đơn thuần mức tăng tuyệt đối.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. A tăng 500/1000=50%; B tăng 1200/4000=30%. So sánh tỷ lệ và mốc theo ban đầu, không so đơn thuần mức tăng tuyệt đối.",
+        "Không phù hợp với dữ kiện câu hỏi. A tăng 500/1000=50%; B tăng 1200/4000=30%. So sánh tỷ lệ và mốc theo ban đầu, không so đơn thuần mức tăng tuyệt đối.",
+        "Không phù hợp với dữ kiện câu hỏi. A tăng 500/1000=50%; B tăng 1200/4000=30%. So sánh tỷ lệ và mốc theo ban đầu, không so đơn thuần mức tăng tuyệt đối.",
+        "A tăng 500/1000=50%; B tăng 1200/4000=30%. So sánh tỷ lệ và mốc theo ban đầu, không so đơn thuần mức tăng tuyệt đối."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q075",
+      "topicId": "exam",
+      "conceptId": "m15-integrated-emergency-differential",
+      "level": "analyze",
+      "stem": "Ở người chảy máu nặng kèm tình trạng đe dọa tính mạng, tại sao không chỉ nghĩ một nguyên nhân duy nhất là TNTC vỡ?",
+      "options": [
+        "Vì chảy máu nặng luôn từ âm đạo",
+        "Vì nguyên nhân thai kỳ không cần loại trừ",
+        "Bài còn nêu sẩy thai/thai bám vết mổ chảy máu nặng và sẩy nhiễm trùng gây sốc",
+        "Vì TNTC vỡ không thể đe dọa tính mạng"
+      ],
+      "answer": 2,
+      "explanation": "Trang 22 yêu cầu loại các tình trạng đe dọa tính mạng với nhiều nguyên nhân cụ thể; mở chẩn đoán phân biệt không làm giảm ưu tiên cấp cứu.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 yêu cầu loại các tình trạng đe dọa tính mạng với nhiều nguyên nhân cụ thể; mở chẩn đoán phân biệt không làm giảm ưu tiên cấp cứu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 yêu cầu loại các tình trạng đe dọa tính mạng với nhiều nguyên nhân cụ thể; mở chẩn đoán phân biệt không làm giảm ưu tiên cấp cứu.",
+        "Trang 22 yêu cầu loại các tình trạng đe dọa tính mạng với nhiều nguyên nhân cụ thể; mở chẩn đoán phân biệt không làm giảm ưu tiên cấp cứu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 yêu cầu loại các tình trạng đe dọa tính mạng với nhiều nguyên nhân cụ thể; mở chẩn đoán phân biệt không làm giảm ưu tiên cấp cứu."
+      ],
+      "sources": [
+        {
+          "page": 2,
+          "quote": "Nguyên nhân\n1. Thai nghén thất bại sớm\n2. Thai ngoài tử cung\n3. Bệnh lý nguyên bào nuôi\n4. Xuất huyết làm tổ\n5. Các nguyên nhân khác: từ cổ tử cung, âm đạo…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 22,
+          "quote": "Bước 1: Phân loại bệnh cấp cứu\nLoại trừ các tình trạng đe dọa tính mạng như thai ngoài tử\ncung vỡ, sẩy thai/ thai bám vết mổ cũ kèm chảy máu nặng, \nsẩy thai nhiễm trùng gây sốc nhiễm trùng.\n- Gọi người hỗ trợ, chẩn đoán + xử trí đồng thời\n- Khai thác bệnh sử, tiền sử ngắn gọn trọng tâm\n- Đánh giá nhanh sinh hiệu, da niêm, bụng ngoại khoa\n- Lập 2 IV lớn, xét nghiệm Hct, đông máu, nhóm máu, \nthực hiện phản ứng chéo, truyền máu khi cần thiết.\n- βhCG định tính, siêu âm tại giường",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q076",
+      "topicId": "history",
+      "conceptId": "m15-integrated-risk-certainty",
+      "level": "analyze",
+      "stem": "Có tiền sử TNTC và một hCG dương tính. Vì sao chưa đủ để khẳng định vị trí thai hiện tại?",
+      "options": [
+        "Vì siêu âm không có vai trò định vị",
+        "Tiền sử định hướng, còn một hCG không định vị; siêu âm cung cấp vị trí thai",
+        "Vì tiền sử tự nó xác định mọi lần có thai sau",
+        "Vì hCG dương tính luôn là thai trong tử cung"
+      ],
+      "answer": 1,
+      "explanation": "Trang 4 nêu thông tin tiền sử cần hỏi; trang 19 giới hạn hCG; trang 14 cung cấp vai trò siêu âm. Ghép đúng vai trò tránh kết luận vượt chứng cứ.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 nêu thông tin tiền sử cần hỏi; trang 19 giới hạn hCG; trang 14 cung cấp vai trò siêu âm. Ghép đúng vai trò tránh kết luận vượt chứng cứ.",
+        "Trang 4 nêu thông tin tiền sử cần hỏi; trang 19 giới hạn hCG; trang 14 cung cấp vai trò siêu âm. Ghép đúng vai trò tránh kết luận vượt chứng cứ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 nêu thông tin tiền sử cần hỏi; trang 19 giới hạn hCG; trang 14 cung cấp vai trò siêu âm. Ghép đúng vai trò tránh kết luận vượt chứng cứ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 nêu thông tin tiền sử cần hỏi; trang 19 giới hạn hCG; trang 14 cung cấp vai trò siêu âm. Ghép đúng vai trò tránh kết luận vượt chứng cứ."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "Tiền sử\nTiền sử sản, phụ khoa:\n- Tiền sử mang chuyển đoạn nhiễm sắc thể, hội chứng\nkháng phospholipid, dị tật tử cung\n- Tiền sử thai ngoài tử cung và phương pháp điều trị thai\nngoài tử cung, tình trạng viêm vùng chậu di chứng\nChlamydia trachomatis, phẫu thuật vòi trứng, STDs\n- Hiếm muộn, ART\n- Mổ lấy thai\n- Tránh thai, kinh nguyệt",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 14,
+          "quote": "Cận lâm sàng- siêu âm\n❖ Là tiếp cận sơ cấp: vị trí thai, số lượng thai, tính sinh tồn, \ntuổi thai, dị tật thai.\n❖ Tần số cao ≈ độ phân giải\n❖ Tần số thấp ≈ phạm vi quan sát\n❖ Ngã âm đạo: 5-10 MHz\n❖ Ngã bụng: TCN 2: 4- 6 MHz, TCN 3: 2-5 MHz\n❖ Siêu âm/ âm đạo có độ nhạy và độ đặc hiệu cao hơn so \nvới siêu âm ngả bụng. Siêu âm đường bụng giúp đánh\ngiá dịch trong ổ bụng, vị trí thai ổ bụng, thai ở gan…",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q077",
+      "topicId": "hcg",
+      "conceptId": "m15-integrated-threshold-not-dose",
+      "level": "apply",
+      "stem": "Một bảng học gán 1500,3000,5000 mUI/ml thành 'liều điều trị' rồi dùng 49%,40%,33% như ngưỡng định vị. Sai ở đâu?",
+      "options": [
+        "Đã trộn ngưỡng khảo sát theo ngả/số thai với mức tăng động học theo nồng độ ban đầu; không số nào là liều thuốc",
+        "Các số đều đúng là liều thuốc",
+        "Mọi con số đều là tuổi thai",
+        "Chỉ cần hoán đổi đơn vị thành mg là đúng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 18 trình bày ngưỡng phân định; trang 19 trình bày mức tăng động học. Bối cảnh và đơn vị không cho phép chuyển thành liều hay đồng nhất hai khái niệm.",
+      "optionExplanations": [
+        "Trang 18 trình bày ngưỡng phân định; trang 19 trình bày mức tăng động học. Bối cảnh và đơn vị không cho phép chuyển thành liều hay đồng nhất hai khái niệm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 trình bày ngưỡng phân định; trang 19 trình bày mức tăng động học. Bối cảnh và đơn vị không cho phép chuyển thành liều hay đồng nhất hai khái niệm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 trình bày ngưỡng phân định; trang 19 trình bày mức tăng động học. Bối cảnh và đơn vị không cho phép chuyển thành liều hay đồng nhất hai khái niệm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 18 trình bày ngưỡng phân định; trang 19 trình bày mức tăng động học. Bối cảnh và đơn vị không cho phép chuyển thành liều hay đồng nhất hai khái niệm."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Ngưỡng phân định của βhCG\n- Kết hợp TVS và β-hCG để xác định vị trí thai\n- Là giá trị 99 per thai trong tử cung thấy được/ siêu âm.\n- Phụ thuộc loại đầu dò, thành bụng, nhân xơ tử cung…\n• 1500 mUI/ml/ TVS cho đơn thai\n• 3000 mUI/ml/ TVS cho song thai\n• 5000 mUI/ml/ TAS cho đơn thai\n• 3500 mUI/ml cân nhắc/ BN mong con\n- PUL: dưới ngưỡng cắt và chưa xác định vị trí thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q078",
+      "topicId": "aub",
+      "conceptId": "m15-integrated-branching",
+      "level": "analyze",
+      "stem": "Một kế hoạch chỉ phân loại tần suất chảy máu mà bỏ đánh giá huyết động, nguồn máu và nguyên nhân thai kỳ. Những bước quan trọng nào bị bỏ?",
+      "options": [
+        "Chỉ tính tuổi thai bằng CRL",
+        "Chỉ chọn đầu dò 10 MHz",
+        "Không bỏ bước nào vì tần suất đủ cho mọi chẩn đoán",
+        "Nhận diện cấp cứu, xác minh nguồn tử cung và loại nguyên nhân liên quan thai kỳ"
+      ],
+      "answer": 3,
+      "explanation": "Trang 22 ưu tiên cấp cứu; trang 23 cần xác minh nguồn; trang 25 loại nguyên nhân thai kỳ bằng các dữ kiện phối hợp. Tần suất chỉ là một phần đánh giá.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 ưu tiên cấp cứu; trang 23 cần xác minh nguồn; trang 25 loại nguyên nhân thai kỳ bằng các dữ kiện phối hợp. Tần suất chỉ là một phần đánh giá.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 ưu tiên cấp cứu; trang 23 cần xác minh nguồn; trang 25 loại nguyên nhân thai kỳ bằng các dữ kiện phối hợp. Tần suất chỉ là một phần đánh giá.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 22 ưu tiên cấp cứu; trang 23 cần xác minh nguồn; trang 25 loại nguyên nhân thai kỳ bằng các dữ kiện phối hợp. Tần suất chỉ là một phần đánh giá.",
+        "Trang 22 ưu tiên cấp cứu; trang 23 cần xác minh nguồn; trang 25 loại nguyên nhân thai kỳ bằng các dữ kiện phối hợp. Tần suất chỉ là một phần đánh giá."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "Triệu chứng thực thể\n- Đánh giá sinh hiệu\n- Khám bụng: Dấu phúc mạc trong xuất huyết nội\n- Khám ngoài\n- Khám sản phụ khoa\n❖ Khám mỏ vịt: \n• Nhẹ nhàng: đánh giá nguồn gốc chảy máu, tính chất, \nmức độ và diễn tiến\n• Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, giải phẫu bệnh để xác định",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 22,
+          "quote": "Bước 1: Phân loại bệnh cấp cứu\nLoại trừ các tình trạng đe dọa tính mạng như thai ngoài tử\ncung vỡ, sẩy thai/ thai bám vết mổ cũ kèm chảy máu nặng, \nsẩy thai nhiễm trùng gây sốc nhiễm trùng.\n- Gọi người hỗ trợ, chẩn đoán + xử trí đồng thời\n- Khai thác bệnh sử, tiền sử ngắn gọn trọng tâm\n- Đánh giá nhanh sinh hiệu, da niêm, bụng ngoại khoa\n- Lập 2 IV lớn, xét nghiệm Hct, đông máu, nhóm máu, \nthực hiện phản ứng chéo, truyền máu khi cần thiết.\n- βhCG định tính, siêu âm tại giường",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 23,
+          "quote": "Bước 2: Xác định AUB\nKết hợp cả 2 yếu tố sau\n1. Từ tử cung\n- Loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC\n- Thấy máu chảy ra từ lỗ cổ tử cung\n- Đánh giá tính chất, mức độ và diễn tiến\n2. Tính chất bất thường: Thể tích, thời gian, tần suất, tính\nđều đặn",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 25,
+          "quote": "Bước 3: Loại trừ AUB liên quan thai kỳ\n❖ Loại trừ các nguyên nhân\nxuất huyết liên quan đến\nthai kỳ\n❖ Bệnh sử, tiền sử, khám\nlâm sàng, cận lâm sàng",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q079",
+      "topicId": "ultrasound",
+      "conceptId": "m15-integrated-border-only",
+      "level": "analyze",
+      "stem": "Một cấu trúc có mô tả viền đơn nhưng chưa đủ các đặc điểm khác; một hCG đơn độc đã có. Cách dùng nguồn thận trọng nào đúng?",
+      "options": [
+        "hCG đơn độc xác định được vị trí bất kể hình ảnh",
+        "Không cần xét vị trí cấu trúc",
+        "Đối chiếu thêm tổ hợp đặc điểm và khảo sát vị trí; không dùng một đặc điểm hay một hCG để kết luận toàn bộ",
+        "Viền đơn tự xác nhận mọi trường hợp TNTC"
+      ],
+      "answer": 2,
+      "explanation": "Trang 15 đưa nhiều trục so sánh chứ không một tiêu chí xử trí; trang 19 nêu giới hạn hCG đơn độc. Không suy chắc chắn từ dữ kiện chưa đầy đủ.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 đưa nhiều trục so sánh chứ không một tiêu chí xử trí; trang 19 nêu giới hạn hCG đơn độc. Không suy chắc chắn từ dữ kiện chưa đầy đủ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 đưa nhiều trục so sánh chứ không một tiêu chí xử trí; trang 19 nêu giới hạn hCG đơn độc. Không suy chắc chắn từ dữ kiện chưa đầy đủ.",
+        "Trang 15 đưa nhiều trục so sánh chứ không một tiêu chí xử trí; trang 19 nêu giới hạn hCG đơn độc. Không suy chắc chắn từ dữ kiện chưa đầy đủ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 đưa nhiều trục so sánh chứ không một tiêu chí xử trí; trang 19 nêu giới hạn hCG đơn độc. Không suy chắc chắn từ dữ kiện chưa đầy đủ."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Table 3.1. Ultrasound differentiation between an early intrauterine gestational sac and a pseudosac. LOCATION: Below midline, buried into decidua / Midline, between endometrial layers. SHAPE: Circular and steady / Elongated, varies during scan. BORDER: Echogenic rim (double) / Single decidual layer. COLOR FLOW: High peripheral flow / Avascular.",
+          "kind": "visual_transcription",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 19,
+          "quote": "Động\n học\n - β\nhCG\n- Một giá trị β-hCG không xác định được vị trí thai. Cần\nđánh giá nồng độ β-hCG 48 giờ sau: động học\n- Mức tăng tối thiểu: Là giá trị 99 per thai trong tử cung\nbình thường đạt mức này\n- Mức tăng tối thiểu/thai trong tử cung bình thường tùy vào\nngưỡng β-hCG ban đầu.\n• Tăng 49%: < 1500 IU/L\n• Tăng 40%: 1500- 3000 IU/L\n• Tăng 33%: >3000 IU/L.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q080",
+      "topicId": "exam",
+      "conceptId": "m15-integrated-os-tissue-source",
+      "level": "analyze",
+      "stem": "Sinh viên gặp lỗ ngoài hé mở và cục máu nên ghi ngay 'sẩy trọn, nguồn chắc chắn tử cung'. Phản biện nào đúng?",
+      "options": [
+        "Mọi máu nhìn qua mỏ vịt đều đã xác định nguồn tử cung",
+        "Cần phân biệt mô với máu cục, lỗ ngoài với lỗ trong và xác minh nguồn máu; dữ kiện chưa đủ cho kết luận đó",
+        "Cục máu luôn là mô thai nên không cần phân biệt",
+        "Lỗ ngoài luôn phản ánh lỗ trong"
+      ],
+      "answer": 1,
+      "explanation": "Trang 11 yêu cầu kiểm mô; trang 12 phân biệt hai lỗ cổ tử cung; trang 23 cần xác minh nguồn. Ba bước kiểm chứng không thể được thay bằng suy đoán.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 yêu cầu kiểm mô; trang 12 phân biệt hai lỗ cổ tử cung; trang 23 cần xác minh nguồn. Ba bước kiểm chứng không thể được thay bằng suy đoán.",
+        "Trang 11 yêu cầu kiểm mô; trang 12 phân biệt hai lỗ cổ tử cung; trang 23 cần xác minh nguồn. Ba bước kiểm chứng không thể được thay bằng suy đoán.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 yêu cầu kiểm mô; trang 12 phân biệt hai lỗ cổ tử cung; trang 23 cần xác minh nguồn. Ba bước kiểm chứng không thể được thay bằng suy đoán.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 yêu cầu kiểm mô; trang 12 phân biệt hai lỗ cổ tử cung; trang 23 cần xác minh nguồn. Ba bước kiểm chứng không thể được thay bằng suy đoán."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Triệu chứng thực thể\n❖ Nếu có khối mô nghi ngờ túi thai/ màng thai tống xuất\nđược đánh giá kĩ lưỡng, và phân biệt với máu cục bằng\ncách rửa loại bỏ máu cục và quan sát trong nước. Khối\nmô gửi giải phẫu bệnh để chẩn đoán xác định.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 12,
+          "quote": "Triệu chứng thực thể\n- Lỗ trong cổ tử cung\n❖ Mở: sẩy thai khó tránh, sẩy thai không trọn.\n❖ Đóng: thai ngoài tử cung, dọa sẩy thai, xuất huyết làm tổ\nhoặc sẩy thai trọn. Lưu ý lỗ ngoài cổ tử cung mở ít có giá\ntrị vì là biến thể bình thường đặc biệt người con rạ.\n- Chadwick sign, Goodell sign\n- Tử cung: Hegar sign, kích thước, đau\n- Phần phụ: u/ nang hoàng tuyến, đau/ thai ngoài tử cung. \n- Cùng đồ sau ấn đau trong trường hợp xuất huyết nội.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 23,
+          "quote": "Bước 2: Xác định AUB\nKết hợp cả 2 yếu tố sau\n1. Từ tử cung\n- Loại trừ máu từ đáy chậu, âm hộ, tiền đình, âm đạo, CTC\n- Thấy máu chảy ra từ lỗ cổ tử cung\n- Đánh giá tính chất, mức độ và diễn tiến\n2. Tính chất bất thường: Thể tích, thời gian, tần suất, tính\nđều đặn",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    }
+  ],
+  "reviewStatus": "passed2",
+  "reviewReport": "content/reviews/early-rounds12.md"
+}

@@ -1,0 +1,2719 @@
+{
+  "moduleId": "m07",
+  "title": "Các hormone sinh dục nữ",
+  "sourceSha256": "f0ce82bdecba40fe8ea3e72d991c52f1c45939930b79d7c1e439655069061b42",
+  "topics": [
+    {
+      "id": "steroids",
+      "title": "Nguồn gốc và sinh tổng hợp steroid",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "receptors",
+      "title": "Cơ chế tác động và thụ thể",
+      "pages": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "endometrium",
+      "title": "Chu kỳ nội mạc tử cung",
+      "pages": [
+        25,
+        26,
+        27,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "id": "targets",
+      "title": "Chất nhầy, cơ trơn và cơ quan đích khác",
+      "pages": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m07-q001",
+      "topicId": "steroids",
+      "conceptId": "m07-carbon",
+      "level": "understand",
+      "stem": "Thứ tự số carbon của progesterone, androgen và estrogen là gì?",
+      "options": [
+        "21–19–18",
+        "18–19–21",
+        "19–21–18",
+        "21–18–19"
+      ],
+      "answer": 0,
+      "explanation": "Trang 3 phân loại ba nhóm steroid theo số carbon.",
+      "optionExplanations": [
+        "Trang 3 phân loại ba nhóm steroid theo số carbon.",
+        "Không phù hợp trong tình huống này. Trang 3 phân loại ba nhóm steroid theo số carbon.",
+        "Không phù hợp trong tình huống này. Trang 3 phân loại ba nhóm steroid theo số carbon.",
+        "Không phù hợp trong tình huống này. Trang 3 phân loại ba nhóm steroid theo số carbon."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "Có 3 nhóm steroid sinh dục: - Progesterone (21 carbon) - Androgen (19 carbon) - Estrogen (18 carbon)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q002",
+      "topicId": "steroids",
+      "conceptId": "m07-early-androgens",
+      "level": "understand",
+      "stem": "Androgen ở nang chưa lệ thuộc gonadotropin có ý nghĩa nào?",
+      "options": [
+        "Chứng minh đã có hoàng thể",
+        "Thay thế hoàn toàn estrogen ở mọi mô",
+        "Chỉ là sản phẩm của tuyến yên",
+        "Chuẩn bị cho các giai đoạn phát triển sau"
+      ],
+      "answer": 3,
+      "explanation": "Trang 4 nêu vai trò chuẩn bị của androgen ở giai đoạn sớm.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 4 nêu vai trò chuẩn bị của androgen ở giai đoạn sớm.",
+        "Không phù hợp trong tình huống này. Trang 4 nêu vai trò chuẩn bị của androgen ở giai đoạn sớm.",
+        "Không phù hợp trong tình huống này. Trang 4 nêu vai trò chuẩn bị của androgen ở giai đoạn sớm.",
+        "Trang 4 nêu vai trò chuẩn bị của androgen ở giai đoạn sớm."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "1. Các hormone sinh dục Sau khi được chiêu mộ, các nang noãn tiền hốc và nang hốc nhỏ là các nang noãn chưa lệ thuộc gonadotropin. DHEA và androstenedione là các sản phẩm chính của các nang noãn này. Tại các nang noãn chưa lệ thuộc gonadotropin, androgen có vai trò chuẩn bị cho nang noãn có đủ khả năng để đi vào các giai đoạn phát triển sau đó Androgen có nguồn gốc từ các nang noãn chưa lệ thuộc gonadotropin, giữ vai trò quan trọng trong giai đoạn này"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q003",
+      "topicId": "steroids",
+      "conceptId": "m07-luteal-e2-p4",
+      "level": "understand",
+      "stem": "Nguồn chính của E2 được bài nêu là gì?",
+      "options": [
+        "Chỉ tuyến yên",
+        "Chỉ nội mạc tử cung",
+        "Tế bào hạt nang noãn và hoàng thể",
+        "Chỉ nhân cung"
+      ],
+      "answer": 2,
+      "explanation": "Trang 5 xác định nguồn estrogen từ tế bào hạt và hoàng thể.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 5 xác định nguồn estrogen từ tế bào hạt và hoàng thể.",
+        "Không phù hợp trong tình huống này. Trang 5 xác định nguồn estrogen từ tế bào hạt và hoàng thể.",
+        "Trang 5 xác định nguồn estrogen từ tế bào hạt và hoàng thể.",
+        "Không phù hợp trong tình huống này. Trang 5 xác định nguồn estrogen từ tế bào hạt và hoàng thể."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "1. Các hormone sinh dục Estradiol là estrogen quan trọng nhất, có nguồn gốc từ tế bào hạt của noãn nang và từ hoàng thể Estrogen có nguồn gốc chủ yếu từ tế bào hạt của các nang noãn đã được chiêu mộ và đang phát triển, và từ tế bào hoàng thể. Estrogen được lưu hành dưới ba dạng chính: estrone (E1), estradiol (E2) và estriol (E3)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q004",
+      "topicId": "steroids",
+      "conceptId": "m07-low-androgen-output",
+      "level": "understand",
+      "stem": "Vì sao nang hốc lớn phóng thích ít androgen vào máu?",
+      "options": [
+        "Androgen chỉ tồn tại trong nhân cung",
+        "Tế bào hạt dùng phần lớn androgen để tạo estrogen",
+        "Nang không còn tế bào vỏ",
+        "Tế bào hạt biến androgen thành FSH"
+      ],
+      "answer": 1,
+      "explanation": "Trang 6 nối việc sử dụng androstenedione với lượng androgen ngoại vi thấp.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 6 nối việc sử dụng androstenedione với lượng androgen ngoại vi thấp.",
+        "Trang 6 nối việc sử dụng androstenedione với lượng androgen ngoại vi thấp.",
+        "Không phù hợp trong tình huống này. Trang 6 nối việc sử dụng androstenedione với lượng androgen ngoại vi thấp.",
+        "Không phù hợp trong tình huống này. Trang 6 nối việc sử dụng androstenedione với lượng androgen ngoại vi thấp."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "1. Các hormone sinh dục Các nang noãn dùng androgen để tổng hợp estrogen. Hiện tượng này xảy ra nhờ men aromatase P450 Tế bào vỏ của nang noãn sử dụng pregnenolone làm nguyên liệu để tổng hợp androstenedione q u a p h â n t ử t r u n g g i a n l à dehydroepiandrosterone (DHEA). Tại các nang hốc lớn, tế bào hạt của chúng sử dụng hầu hết lượng androstenedione từ tế bào vỏ cho hoạt động thơm hóa steroid, để tổng hợp estrone và estradiol. Vì thế, chúng phóng thích rất ít androgen vào máu ngoại vi"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q005",
+      "topicId": "steroids",
+      "conceptId": "m07-e1e2",
+      "level": "understand",
+      "stem": "Quan hệ E1–E2 nào phù hợp bài?",
+      "options": [
+        "E1 yếu hơn và chuyển đổi thuận nghịch với E2",
+        "E1 chính là progesterone",
+        "E2 không có hoạt tính",
+        "E1 không liên quan thơm hóa androgen"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 phân biệt hoạt tính và chuyển đổi giữa hai estrogen.",
+      "optionExplanations": [
+        "Trang 7 phân biệt hoạt tính và chuyển đổi giữa hai estrogen.",
+        "Không phù hợp trong tình huống này. Trang 7 phân biệt hoạt tính và chuyển đổi giữa hai estrogen.",
+        "Không phù hợp trong tình huống này. Trang 7 phân biệt hoạt tính và chuyển đổi giữa hai estrogen.",
+        "Không phù hợp trong tình huống này. Trang 7 phân biệt hoạt tính và chuyển đổi giữa hai estrogen."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "1. Các hormone sinh dục Estrone là sản phẩm trực tiếp của tiến trình thơm hóa tiền chất của nó là androstenedione. Tiến trình thơm hóa diễn ra tại tế bào hạt, với sự tham gia của aromatase P450. Hoạt động thơm hóa androstenedione để tạo ra estrone chịu ảnh hưởng gián tiếp của FSH. Estrone có là một estrogen yếu. Estrone sẽ được chuyển đổi thuận nghịch thành estradiol. Là một estrogen rất mạnh, estradiol là estrogen quan trọng nhất trong các estrogen. Estradiol đảm nhận các chức năng trọng yếu của các cơ quan có nguồn gốc ống Müller"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q006",
+      "topicId": "receptors",
+      "conceptId": "m07-gpcra",
+      "level": "understand",
+      "stem": "Đặc điểm phân biệt tác động qua gene với không qua gene là gì?",
+      "options": [
+        "Chỉ khác tên hormone",
+        "Chỉ khác giới tính",
+        "Không cần thụ thể trong cả hai trường hợp",
+        "Thụ thể nhân so với thụ thể màng"
+      ],
+      "answer": 3,
+      "explanation": "Trang 11–12 nối vị trí thụ thể với cơ chế tác động.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 11–12 nối vị trí thụ thể với cơ chế tác động.",
+        "Không phù hợp trong tình huống này. Trang 11–12 nối vị trí thụ thể với cơ chế tác động.",
+        "Không phù hợp trong tình huống này. Trang 11–12 nối vị trí thụ thể với cơ chế tác động.",
+        "Trang 11–12 nối vị trí thụ thể với cơ chế tác động."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "1. Các hormone sinh dục Các steroid sinh dục tác động trên cơ quan đích của chúng thông qua các thụ thể nằm trong nhân hay ở màng tế bào. Các tế bào tại cơ quan đích tiếp nhận hormone thông qua các thụ thể. Một cách tổng quát, các thụ thể này có tính chuyên biệt cao cho mỗi loại steroid sinh dục. Có hai loại thụ thể với steroid sinh dục: một loại thụ thể hiện diện trên bề mặt màng tế bào2 và một loại thụ thể khác hoạt động trong nhân tế bào"
+        },
+        {
+          "page": 12,
+          "quote": "1. Các hormone sinh dục Steroids sinh dục có hai kiểu tác động: 1. Tác động không qua gene (non-genomic) 2. Tác động qua gene (genomic) Các steroid sinh dục có thể có hai kiểu tác động khác nhau trên cơ quan đích, tùy theo việc ligand đến gắn với thụ thể thụ thể màng hay thụ thể nhân. 1. Nếu steroid sinh dục đến gắn với thụ thể GPCR ở màng tế bào, chúng sẽ có các tác động qua không qua gene. 2. Nếu steroid sinh dục gắn đến với thụ thể nhân, chúng sẽ có các tác động qua gene."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q007",
+      "topicId": "receptors",
+      "conceptId": "m07-hsp",
+      "level": "understand",
+      "stem": "HSP có vai trò gì với thụ thể nhân khi chưa được hoạt hóa?",
+      "options": [
+        "Tạo thụ thể màng GPCR",
+        "Chuyển receptor thành GnRH",
+        "Duy trì trạng thái bất hoạt mặc định",
+        "Thay hormone tổng hợp protein"
+      ],
+      "answer": 2,
+      "explanation": "Trang 15 mô tả HSP duy trì ức chế mặc định.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 15 mô tả HSP duy trì ức chế mặc định.",
+        "Không phù hợp trong tình huống này. Trang 15 mô tả HSP duy trì ức chế mặc định.",
+        "Trang 15 mô tả HSP duy trì ức chế mặc định.",
+        "Không phù hợp trong tình huống này. Trang 15 mô tả HSP duy trì ức chế mặc định."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "1. Các hormone sinh dục Kết quả của tác động qua gene là sự kích hoạt gene và dẫn đến kết quả là quá trình sinh tổng hợp protein. Tác động qua gene của steroid buồng trứng được thấy chủ yếu trên các cơ quan đích có nguồn gốc ống Müller. Trong nhân tế bào, các thụ thể chuyên biệt của steroid sinh dục tế bào tồn tại ở trạng thái bất hoạt mặc định. Trạng thái bất hoạt này được duy trì bằng các Heat-Shock Protein (HSP) gắn vào thụ thể."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q008",
+      "topicId": "receptors",
+      "conceptId": "m07-co-regulators",
+      "level": "understand",
+      "stem": "Coactivator và corepressor khác nhau theo bài ở điểm nào?",
+      "options": [
+        "Đều chỉ là thụ thể màng",
+        "Tạo điều kiện mở gene so với không mở gene",
+        "Đều luôn mở mọi gene",
+        "Đều là estrogen lưu hành"
+      ],
+      "answer": 1,
+      "explanation": "Trang 17 mô tả kết quả trái chiều của hai loại yếu tố phối hợp.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 17 mô tả kết quả trái chiều của hai loại yếu tố phối hợp.",
+        "Trang 17 mô tả kết quả trái chiều của hai loại yếu tố phối hợp.",
+        "Không phù hợp trong tình huống này. Trang 17 mô tả kết quả trái chiều của hai loại yếu tố phối hợp.",
+        "Không phù hợp trong tình huống này. Trang 17 mô tả kết quả trái chiều của hai loại yếu tố phối hợp."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "1. Các hormone sinh dục Phức bộ “hormone-coactivator” sẽ mở các gene tương ứng cho chuyển mã RNA. Phức bộ “hormone-thụ thể-corepressor” sẽ không mở được các gene tương ứng cho chuyển mã RNA. Tác động qua gene chỉ đòi hỏi sự hiện diện với nồng độ sinh lý, ở mức picomol, của hormone trong huyết tương. Do kết quả của tác động là là sự sinh tổng hợp protein, nên đặc điểm của kiểu tác động này chậm."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q009",
+      "topicId": "receptors",
+      "conceptId": "m07-genomic-slow",
+      "level": "understand",
+      "stem": "Vì sao tác động qua gene thường chậm?",
+      "options": [
+        "Kết quả cần quá trình sinh tổng hợp protein",
+        "Không bao giờ gắn hormone",
+        "Chỉ cần Ca++ thay đổi tức thì",
+        "Chỉ xuất hiện khi không còn DNA"
+      ],
+      "answer": 0,
+      "explanation": "Trang 17 giải thích tính chậm bằng cơ chế tổng hợp protein.",
+      "optionExplanations": [
+        "Trang 17 giải thích tính chậm bằng cơ chế tổng hợp protein.",
+        "Không phù hợp trong tình huống này. Trang 17 giải thích tính chậm bằng cơ chế tổng hợp protein.",
+        "Không phù hợp trong tình huống này. Trang 17 giải thích tính chậm bằng cơ chế tổng hợp protein.",
+        "Không phù hợp trong tình huống này. Trang 17 giải thích tính chậm bằng cơ chế tổng hợp protein."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "1. Các hormone sinh dục Phức bộ “hormone-coactivator” sẽ mở các gene tương ứng cho chuyển mã RNA. Phức bộ “hormone-thụ thể-corepressor” sẽ không mở được các gene tương ứng cho chuyển mã RNA. Tác động qua gene chỉ đòi hỏi sự hiện diện với nồng độ sinh lý, ở mức picomol, của hormone trong huyết tương. Do kết quả của tác động là là sự sinh tổng hợp protein, nên đặc điểm của kiểu tác động này chậm."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q010",
+      "topicId": "receptors",
+      "conceptId": "m07-er-genes",
+      "level": "understand",
+      "stem": "Ghép thụ thể estrogen với gene nào đúng?",
+      "options": [
+        "ER-α–PGR; ER-β–ESR1",
+        "ER-α–ESR2; ER-β–PGR",
+        "Cả hai chỉ do PGR mã hóa",
+        "ER-α–ESR1; ER-β–ESR2"
+      ],
+      "answer": 3,
+      "explanation": "Trang 19 xác định hai gene riêng của ER-α và ER-β.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 19 xác định hai gene riêng của ER-α và ER-β.",
+        "Không phù hợp trong tình huống này. Trang 19 xác định hai gene riêng của ER-α và ER-β.",
+        "Không phù hợp trong tình huống này. Trang 19 xác định hai gene riêng của ER-α và ER-β.",
+        "Trang 19 xác định hai gene riêng của ER-α và ER-β."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "1. Các hormone sinh dục Estrogen có 2 thụ thể nhân chuyên biệt là ER-α và ER-β. Cả hai thụ thể nhân của estrogen là các protein. ER-α được mã hóa bởi gene ESR1 thuộc nhiễm sắc thể 6. ER- β được mã hóa bởi gene ESR2 thuộc nhiễm sắc thể 14. Chúng được điều hòa độc lập với nhau"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q011",
+      "topicId": "receptors",
+      "conceptId": "m07-pgr-chromosome",
+      "level": "understand",
+      "stem": "Vì sao cùng PGR có thể tạo PR-A hoặc PR-B?",
+      "options": [
+        "PR-A không phải protein",
+        "PGR chỉ tạo thụ thể estrogen",
+        "Có hai promoter khởi đầu chuyển mã khác nhau",
+        "Hai receptor luôn do hai nhiễm sắc thể khác nhau"
+      ],
+      "answer": 2,
+      "explanation": "Trang 21 nêu hai promoter trong một gene PGR.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 21 nêu hai promoter trong một gene PGR.",
+        "Không phù hợp trong tình huống này. Trang 21 nêu hai promoter trong một gene PGR.",
+        "Trang 21 nêu hai promoter trong một gene PGR.",
+        "Không phù hợp trong tình huống này. Trang 21 nêu hai promoter trong một gene PGR."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "1. Các hormone sinh dục Thụ thể nhân của progesterone Progesterone có 2 thụ thể nhân chuyên biệt là PR-A và PR-B. Cả hai thụ thể nhân của progesterone là các protein. Cả PR-A và PR-B được mã hóa bởi cùng một gene PGR chung thuộc nhiễm sắc thể 11. Trên PGR, có 2 promoter khác nhau. Tùy theo tiến trình chuyển mã RNA bắng đầu bằng promoter nào mà ta sẽ có kết quả dịch mã là PR- A hay PR-B."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q012",
+      "topicId": "receptors",
+      "conceptId": "m07-pra-case",
+      "level": "understand",
+      "stem": "Thiếu AF3 ở PR-A dẫn đến đặc điểm nào theo bài?",
+      "options": [
+        "Luôn mở gene mạnh hơn PR-B",
+        "Không gắn coactivator như PR-B",
+        "Tạo thêm ESR1",
+        "Biến thành GPCR"
+      ],
+      "answer": 1,
+      "explanation": "Trang 22 liên hệ thiếu AF3 với khả năng gắn yếu tố điều hòa.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 22 liên hệ thiếu AF3 với khả năng gắn yếu tố điều hòa.",
+        "Trang 22 liên hệ thiếu AF3 với khả năng gắn yếu tố điều hòa.",
+        "Không phù hợp trong tình huống này. Trang 22 liên hệ thiếu AF3 với khả năng gắn yếu tố điều hòa.",
+        "Không phù hợp trong tình huống này. Trang 22 liên hệ thiếu AF3 với khả năng gắn yếu tố điều hòa."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "1. Các hormone sinh dục Khi progesterone gắn vào PR-B, gene sẽ được mở ra cho tiến trình chuyển mã. Phức bộ giữa progesterone và PR-A không gắn được với coactivator, và do đó không mở được gene để chuyển mã. PR-A ngắn hơn PR-B, do điểm khởi đầu chuyển mã là promoter gần. So với PR-B thì PR-A thiếu một vùng được gọi là AF3. Thiếu AF3 làm cho PR-A không gắn được với co- activator khi chuyển mã, mà chỉ gắn được với co- repressor. Gắn với co-repressor làm cho gene bị khóa. Nói một cách khác, PR-A đảm nhận nhiệm vụ đối kháng với progesterone"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q013",
+      "topicId": "endometrium",
+      "conceptId": "m07-regeneration-case",
+      "level": "understand",
+      "stem": "Vai trò của tế bào nền dự trữ nội mạc là gì?",
+      "options": [
+        "Tái tạo nội mạc sau phá hủy",
+        "Chế tiết FSH vào mạch cửa",
+        "Tạo noãn mới",
+        "Chuyển thành hoàng thể"
+      ],
+      "answer": 0,
+      "explanation": "Trang 26 mô tả nguồn tái tạo từ lớp căn bản.",
+      "optionExplanations": [
+        "Trang 26 mô tả nguồn tái tạo từ lớp căn bản.",
+        "Không phù hợp trong tình huống này. Trang 26 mô tả nguồn tái tạo từ lớp căn bản.",
+        "Không phù hợp trong tình huống này. Trang 26 mô tả nguồn tái tạo từ lớp căn bản.",
+        "Không phù hợp trong tình huống này. Trang 26 mô tả nguồn tái tạo từ lớp căn bản."
+      ],
+      "sources": [
+        {
+          "page": 26,
+          "quote": "2. Chu kỳ nội mạc tử cung Tuyến nội mạc tử cung phát triển từ các tế bào nền dự trữ. Các tế bào nền chỉ có thụ thể với estrogen. Nội mạc tử cung là mô luôn được tạo mới sau mỗi lần bị phá hủy, nhờ có các tế bào nền dự trữ trong lớp căn bản. Các tế bào nền dự trữ của nội mạc tử cung được trang bị các thụ thể với estrogen (ER). Ở thời điểm người phụ nữ đang hành kinh, chỉ còn có khoảng 10 nang noãn thứ cấp, hiện diện trên buồng trứng. Chúng chế tiết một lượng ít ỏi estrogen"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q014",
+      "topicId": "endometrium",
+      "conceptId": "m07-unprepared",
+      "level": "understand",
+      "stem": "Quan hệ E2 và P4 trên nội mạc được bài gọi là gì?",
+      "options": [
+        "Luôn đối kháng hoàn toàn",
+        "Không liên quan nhau",
+        "Chỉ P4 cần thiết từ đầu",
+        "Nối tiếp và hiệp đồng"
+      ],
+      "answer": 3,
+      "explanation": "Trang 32 nêu E2 chuẩn bị nội mạc trước tác động P4.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 32 nêu E2 chuẩn bị nội mạc trước tác động P4.",
+        "Không phù hợp trong tình huống này. Trang 32 nêu E2 chuẩn bị nội mạc trước tác động P4.",
+        "Không phù hợp trong tình huống này. Trang 32 nêu E2 chuẩn bị nội mạc trước tác động P4.",
+        "Trang 32 nêu E2 chuẩn bị nội mạc trước tác động P4."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "2. Chu kỳ nội mạc tử cung Tr ê n n ộ i m ạ c t ử c u n g , e s t r o g e n v à progesterone có tác dụng hiệp đồng. Do PR chỉ được tổng hợp bởi estrogen, nên progesterone chỉ tác động được lên một nội mạc đã được chuẩn bị trước với estrogen. Progesterone không thể tác động lên một nội mạc không được chuẩn bị trước với estrogen. Trên nội mạc tử cung, estrogen và progesterone có vai trò nối tiếp và có tác dụng hiệp đồng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q015",
+      "topicId": "endometrium",
+      "conceptId": "m07-secretory-glycogen",
+      "level": "understand",
+      "stem": "Tuyến nội mạc đã phát triển chuyển sang chế tiết chủ yếu dưới tác động nào?",
+      "options": [
+        "FSH trong lòng tử cung",
+        "Androgen từ tuyến cổ tử cung",
+        "Progesterone từ hoàng thể",
+        "GnRH từ tế bào nền"
+      ],
+      "answer": 2,
+      "explanation": "Trang 31 mô tả P4 chuyển hoạt động tuyến sang chế tiết.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 31 mô tả P4 chuyển hoạt động tuyến sang chế tiết.",
+        "Không phù hợp trong tình huống này. Trang 31 mô tả P4 chuyển hoạt động tuyến sang chế tiết.",
+        "Trang 31 mô tả P4 chuyển hoạt động tuyến sang chế tiết.",
+        "Không phù hợp trong tình huống này. Trang 31 mô tả P4 chuyển hoạt động tuyến sang chế tiết."
+      ],
+      "sources": [
+        {
+          "page": 31,
+          "quote": "2. Chu kỳ nội mạc tử cung Progesterone phân tiết tuyến nội mạc tử cung đã phát triển, sẵn sàng tiếp nhận noãn đã thụ tinh đến để làm tổ Hiện tượng phóng noãn dẫn đến thành lập hoàng thể. Hoàng thể chế tiết progesterone. Progesterone sẽ tác động trên các tuyến nội mạc, lúc này đã sẵn sàng để tiếp nhận progesterone. Dưới tác động của progesterone, các tuyến nội mạc đã phát triển trước đó sẽ ngưng phân chia và phát triển. Chúng bắt đầu chuyển sang hoạt động chế tiết, tích lũy glycogen, với các mạch máu trở thành xoắn ốc, cung cấp máu tối đa cho nội mạc. Mô đệm nội mạc trở nên phù nề và sẵn sàng tiếp nhận noãn đã thụ tinh đến làm tổ. Như vậy, progesterone là hormone của “sự hoài thai”"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q016",
+      "topicId": "endometrium",
+      "conceptId": "m07-withdrawal-case",
+      "level": "understand",
+      "stem": "Biến đổi nội tiết trực tiếp được bài gắn với hành kinh là gì?",
+      "options": [
+        "FSH biến thành tế bào nội mạc",
+        "Sụt giảm cả E2 và P4 lưu hành",
+        "E2 tăng liên tục đơn độc",
+        "P4 luôn duy trì cao"
+      ],
+      "answer": 1,
+      "explanation": "Trang 33–34 mô tả sự mất hỗ trợ của hai steroid.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 33–34 mô tả sự mất hỗ trợ của hai steroid.",
+        "Trang 33–34 mô tả sự mất hỗ trợ của hai steroid.",
+        "Không phù hợp trong tình huống này. Trang 33–34 mô tả sự mất hỗ trợ của hai steroid.",
+        "Không phù hợp trong tình huống này. Trang 33–34 mô tả sự mất hỗ trợ của hai steroid."
+      ],
+      "sources": [
+        {
+          "page": 33,
+          "quote": "2. Chu kỳ nội mạc tử cung Hành kinh là kết quả của sự sụt giảm đột ngột của nồng độ của cả hai steroid sinh dục lưu hành, gây sụp đổ hoàn toàn nội mạc tử cung Vào cuối chu kỳ buồng trứng, hoàng thể bị thoái triển do không còn LH. Sự thoái triển này dẫn đến việc sụt giảm đột ngột nồng độ của cả hai steroid sinh dục lưu hành"
+        },
+        {
+          "page": 34,
+          "quote": "2. Chu kỳ nội mạc tử cung Nội mạc tử cung không còn nhận được hormone, sẽ bị hoại tử, bong tróc và sụp đổ hoàn toàn, một cách nhanh chóng, gây ra hiện tượng hành kinh. Như vậy, hành kinh bình thường đòi hỏi đồng thời hai điều kiện về nội tiết quan trọng là: 1. Nội mạc tử cung phải tiếp nhận tuần tự cả hai loại steroid sinh dục 2. Cả hai steroid sinh dục này phải chấm dứt hoạt động cùng lúc"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q017",
+      "topicId": "targets",
+      "conceptId": "m07-midcycle-mucus",
+      "level": "understand",
+      "stem": "Chất nhầy cổ tử cung dưới ưu thế estrogen có đặc điểm nào?",
+      "options": [
+        "Trong, loãng, nhiều, dai",
+        "Đặc, đục, bở, ít",
+        "Luôn hoàn toàn không có",
+        "Đồng nhất với mô xương"
+      ],
+      "answer": 0,
+      "explanation": "Trang 37 mô tả chất nhầy thuận lợi cho tinh trùng.",
+      "optionExplanations": [
+        "Trang 37 mô tả chất nhầy thuận lợi cho tinh trùng.",
+        "Không phù hợp trong tình huống này. Trang 37 mô tả chất nhầy thuận lợi cho tinh trùng.",
+        "Không phù hợp trong tình huống này. Trang 37 mô tả chất nhầy thuận lợi cho tinh trùng.",
+        "Không phù hợp trong tình huống này. Trang 37 mô tả chất nhầy thuận lợi cho tinh trùng."
+      ],
+      "sources": [
+        {
+          "page": 37,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích CHẤT NHẦY CỔ TỬ CUNG Trên tuyến cổ tử cung, estrogen tạo ra một chất nhầy thuận lợi cho sự xâm nhập của tinh trùng. Tương tự như các cơ quan nguồn gốc ống Müller khác, biểu mô tuyến của kênh cổ tử cung chịu tác động qua gene của cả hai loại steroid sinh dục. Trong giai đoạn phát triển nang noãn, dưới tác dụng của estrogen, tuyến cổ tử cung chế tiết ra chất nhầy cổ tử cung. Nồng độ estrogen càng cao thì sự chế tiết chất nhầy càng nhiều. Vào giữa chu kỳ, nồng độ estrogen huyết tương rất cao do hoạt động của nang de Graaf làm cho chất nhầy cổ tử cung đạt mức tối đa. Chất nhầy trở nên trong, loãng, nhiều và dai, với matrix rất thưa, tạo điều kiện thuận lợi nhất cho sự xâm nhập lên trên của tinh trùng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q018",
+      "topicId": "targets",
+      "conceptId": "m07-postovulation-mucus",
+      "level": "understand",
+      "stem": "Progesterone làm chất nhầy cổ tử cung đổi theo hướng nào?",
+      "options": [
+        "Trong, loãng, nhiều và dai",
+        "Tạo nang noãn mới",
+        "Biến thành GnRH",
+        "Đặc, đục, bở và ít"
+      ],
+      "answer": 3,
+      "explanation": "Trang 38 nêu tác dụng đông đặc chất nhầy.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 38 nêu tác dụng đông đặc chất nhầy.",
+        "Không phù hợp trong tình huống này. Trang 38 nêu tác dụng đông đặc chất nhầy.",
+        "Không phù hợp trong tình huống này. Trang 38 nêu tác dụng đông đặc chất nhầy.",
+        "Trang 38 nêu tác dụng đông đặc chất nhầy."
+      ],
+      "sources": [
+        {
+          "page": 38,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Trên tuyến cổ tử cung, progesterone làm đông đặc chất nhầy cổ tử cung, ngăn tinh trùng và vi khuẩn xâm nhập. Sau khi phóng noãn, progesterone từ hoàng thể sẽ tạo ra một tác động đối kháng với estrogen trên chất nhầy cổ tử cung. Dưới tác động của progesterone, chất nhầy cổ tử cung trở nên đặc, đục, bở và ít. Tinh trùng và phần lớn các vi sinh khác sẽ không thể xâm nhập lên đường sinh dục trên qua ngả cổ tử cung. Đường sinh dục trên đã được bảo vệ cẩn mật sau khi đã có sự xâm nhập của tinh trùng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q019",
+      "topicId": "targets",
+      "conceptId": "m07-rapid-contraction",
+      "level": "understand",
+      "stem": "Co hoặc giãn cơ trơn nhanh do steroid thuộc kiểu tác động nào trong bài?",
+      "options": [
+        "Không cần receptor",
+        "Chỉ do tế bào nền nội mạc",
+        "Không qua gene",
+        "Chỉ qua tổng hợp protein mới"
+      ],
+      "answer": 2,
+      "explanation": "Trang 39 nêu receptor màng và dòng thác Ca++ tức thời.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 39 nêu receptor màng và dòng thác Ca++ tức thời.",
+        "Không phù hợp trong tình huống này. Trang 39 nêu receptor màng và dòng thác Ca++ tức thời.",
+        "Trang 39 nêu receptor màng và dòng thác Ca++ tức thời.",
+        "Không phù hợp trong tình huống này. Trang 39 nêu receptor màng và dòng thác Ca++ tức thời."
+      ],
+      "sources": [
+        {
+          "page": 39,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích CƠ TRƠN TỬ CUNG VÀ CƠ TRƠN VÒI FALLOPE Tác động của steroid sinh dục trên cơ trơn của các cơ quan có nguồn gốc ống Muller là tác động không qua gene. Estrogen và progesterone đều có thể có tác động trên cơ trơn của tử cung và của ống dẫn trứng. Đây là một tác động không qua gene. Hormone gắn kết với thụ thể ở màng bào tương và khởi phát một dòng thác phản ứng liên quan đến Ca++, dẫn đến hiện tượng co thắt cơ trơn hay thư giãn cơ trơn xảy ra tức thời ngay sau đó."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q020",
+      "topicId": "targets",
+      "conceptId": "m07-source-not-mechanism",
+      "level": "understand",
+      "stem": "Tuyến vú cho thấy điều gì về cơ quan đích steroid?",
+      "options": [
+        "Steroid không tác động tuyến vú",
+        "Cơ quan không nguồn gốc Müller vẫn có thể chịu cả E2 và P4",
+        "Chỉ cơ quan Müller mới có ER và PR",
+        "Tuyến vú chỉ đáp ứng GnRH"
+      ],
+      "answer": 1,
+      "explanation": "Trang 10 và 43 mô tả tuyến vú là ngoại lệ của cách khái quát theo nguồn gốc.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 10 và 43 mô tả tuyến vú là ngoại lệ của cách khái quát theo nguồn gốc.",
+        "Trang 10 và 43 mô tả tuyến vú là ngoại lệ của cách khái quát theo nguồn gốc.",
+        "Không phù hợp trong tình huống này. Trang 10 và 43 mô tả tuyến vú là ngoại lệ của cách khái quát theo nguồn gốc.",
+        "Không phù hợp trong tình huống này. Trang 10 và 43 mô tả tuyến vú là ngoại lệ của cách khái quát theo nguồn gốc."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "1. Các hormone sinh dục Nhiều cơ quan không có nguồn gốc ống Müller cũng chịu tác động của steroid sinh dục. Tuyến vú là cơ quan không có nguồn gốc ống Müller, nhưng cũng chịu ảnh hưởng của cả hai steroid sinh dục là estrogen và progesterone. Một số cơ quan không có nguồn gốc Müller cũng chịu ảnh hưởng của chỉ một trong hai steroid sinh dục, như một số quá trình chuyển hóa lipid hay carbohydrate, các nhân xám hạ đồi, xương…"
+        },
+        {
+          "page": 43,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Tuyến vú là cơ quan không có nguồn gốc ống Muller nhưng chịu tác động của cả hai steroids sinh dục. Hiện diện của ER và PR trên các thành phần ống và tuyến của tuyến vú cho thấy cả estrogen lẫn progesterone đều tác động lên tuyến vú bằng cơ chế qua gene. Trên các cơ quan không có nguồn gốc ống Muller khác, steroids sinh dục tác động bằng cơ chế không qua gene. Nhiều cơ quan không có nguồn gốc ống Muller bị chi phối bởi steroids sinh dục như sự tạo xương, chuyển hóa lipid … Chúng thường chỉ chịu ảnh hưởng của một trong hai steroids sinh dục. Hầu hết các tác động này là tác động không qua gene, và thường xảy ra một cách tức thời"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q021",
+      "topicId": "steroids",
+      "conceptId": "m07-early-products",
+      "level": "understand",
+      "stem": "Một nang tiền hốc chưa lệ thuộc gonadotropin. Sản phẩm chính nào được trang 4 nêu?",
+      "options": [
+        "DHEA và androstenedione",
+        "FSH và LH",
+        "GnRH và kisspeptin",
+        "ER-α và ER-β lưu hành"
+      ],
+      "answer": 0,
+      "explanation": "Trang 4 xác định hai androgen chủ yếu của các nang này.",
+      "optionExplanations": [
+        "Trang 4 xác định hai androgen chủ yếu của các nang này.",
+        "Không phù hợp trong tình huống này. Trang 4 xác định hai androgen chủ yếu của các nang này.",
+        "Không phù hợp trong tình huống này. Trang 4 xác định hai androgen chủ yếu của các nang này.",
+        "Không phù hợp trong tình huống này. Trang 4 xác định hai androgen chủ yếu của các nang này."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "1. Các hormone sinh dục Sau khi được chiêu mộ, các nang noãn tiền hốc và nang hốc nhỏ là các nang noãn chưa lệ thuộc gonadotropin. DHEA và androstenedione là các sản phẩm chính của các nang noãn này. Tại các nang noãn chưa lệ thuộc gonadotropin, androgen có vai trò chuẩn bị cho nang noãn có đủ khả năng để đi vào các giai đoạn phát triển sau đó Androgen có nguồn gốc từ các nang noãn chưa lệ thuộc gonadotropin, giữ vai trò quan trọng trong giai đoạn này"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q022",
+      "topicId": "steroids",
+      "conceptId": "m07-theca-pathway",
+      "level": "understand",
+      "stem": "Tế bào vỏ dùng pregnenolone tạo androstenedione. Phân tử trung gian nào được bài nêu?",
+      "options": [
+        "FSH",
+        "PGR",
+        "Inhibin B",
+        "DHEA"
+      ],
+      "answer": 3,
+      "explanation": "Trang 6 nêu DHEA là trung gian trong đường tổng hợp của tế bào vỏ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 6 nêu DHEA là trung gian trong đường tổng hợp của tế bào vỏ.",
+        "Không phù hợp trong tình huống này. Trang 6 nêu DHEA là trung gian trong đường tổng hợp của tế bào vỏ.",
+        "Không phù hợp trong tình huống này. Trang 6 nêu DHEA là trung gian trong đường tổng hợp của tế bào vỏ.",
+        "Trang 6 nêu DHEA là trung gian trong đường tổng hợp của tế bào vỏ."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "1. Các hormone sinh dục Các nang noãn dùng androgen để tổng hợp estrogen. Hiện tượng này xảy ra nhờ men aromatase P450 Tế bào vỏ của nang noãn sử dụng pregnenolone làm nguyên liệu để tổng hợp androstenedione q u a p h â n t ử t r u n g g i a n l à dehydroepiandrosterone (DHEA). Tại các nang hốc lớn, tế bào hạt của chúng sử dụng hầu hết lượng androstenedione từ tế bào vỏ cho hoạt động thơm hóa steroid, để tổng hợp estrone và estradiol. Vì thế, chúng phóng thích rất ít androgen vào máu ngoại vi"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q023",
+      "topicId": "steroids",
+      "conceptId": "m07-aromatase-product",
+      "level": "understand",
+      "stem": "Thơm hóa androstenedione ở tế bào hạt tạo trực tiếp chất nào?",
+      "options": [
+        "GnRH",
+        "PGR",
+        "Estrone",
+        "Progesterone"
+      ],
+      "answer": 2,
+      "explanation": "Trang 7 nêu E1 là sản phẩm trực tiếp của tiến trình thơm hóa.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 7 nêu E1 là sản phẩm trực tiếp của tiến trình thơm hóa.",
+        "Không phù hợp trong tình huống này. Trang 7 nêu E1 là sản phẩm trực tiếp của tiến trình thơm hóa.",
+        "Trang 7 nêu E1 là sản phẩm trực tiếp của tiến trình thơm hóa.",
+        "Không phù hợp trong tình huống này. Trang 7 nêu E1 là sản phẩm trực tiếp của tiến trình thơm hóa."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "1. Các hormone sinh dục Estrone là sản phẩm trực tiếp của tiến trình thơm hóa tiền chất của nó là androstenedione. Tiến trình thơm hóa diễn ra tại tế bào hạt, với sự tham gia của aromatase P450. Hoạt động thơm hóa androstenedione để tạo ra estrone chịu ảnh hưởng gián tiếp của FSH. Estrone có là một estrogen yếu. Estrone sẽ được chuyển đổi thuận nghịch thành estradiol. Là một estrogen rất mạnh, estradiol là estrogen quan trọng nhất trong các estrogen. Estradiol đảm nhận các chức năng trọng yếu của các cơ quan có nguồn gốc ống Müller"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q024",
+      "topicId": "steroids",
+      "conceptId": "m07-p4-source",
+      "level": "understand",
+      "stem": "Sau phóng noãn, nhóm tế bào tùy hành đã hoàng thể hóa. Steroid nào bắt đầu được nhấn mạnh bên cạnh E2?",
+      "options": [
+        "GnRH",
+        "Progesterone",
+        "FSH",
+        "LH"
+      ],
+      "answer": 1,
+      "explanation": "Trang 8 nêu hoàng thể vừa tiếp tục E2 vừa sản xuất P4.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 8 nêu hoàng thể vừa tiếp tục E2 vừa sản xuất P4.",
+        "Trang 8 nêu hoàng thể vừa tiếp tục E2 vừa sản xuất P4.",
+        "Không phù hợp trong tình huống này. Trang 8 nêu hoàng thể vừa tiếp tục E2 vừa sản xuất P4.",
+        "Không phù hợp trong tình huống này. Trang 8 nêu hoàng thể vừa tiếp tục E2 vừa sản xuất P4."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "1. Các hormone sinh dục Progesterone có nguồn gốc từ tế bào hoàng thể. Sau phóng noãn, các tế bào tùy hành của noãn nang được hoàng thể hóa, hình thành hoàng thể. Các tế bào hoàng thể tiếp tục sản xuất estradiol, đồng thời cũng sản xuất progesterone từ pregnenolone. Progesterone cùng với estradiol đảm nhận các chức năng trọng yếu của các cơ quan có nguồn gốc ống Müller. 17α-hydroxy progesterone là sản phẩm chuyển hóa từ 17α- hydroxypregnenolone. 17α-hydroxy progesterone có thể có nguồn gốc hoàng thể, nhưng nó được biết đến như là một progesterone có nguồn gốc thượng thận. Phân tử này là phân tử gốc của các glucocorticoids"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q025",
+      "topicId": "steroids",
+      "conceptId": "m07-muller-target",
+      "level": "understand",
+      "stem": "Đang phân loại cơ quan đích được bài liệt kê. Nhóm nào thuộc danh sách nguồn gốc Müller?",
+      "options": [
+        "Nội mạc tử cung và cơ trơn vòi trứng",
+        "Tuyến vú và xương",
+        "Nhân xám hạ đồi và xương",
+        "Gan và tuyến yên"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 liệt kê nội mạc và cơ trơn tử cung, vòi trứng.",
+      "optionExplanations": [
+        "Trang 9 liệt kê nội mạc và cơ trơn tử cung, vòi trứng.",
+        "Không phù hợp trong tình huống này. Trang 9 liệt kê nội mạc và cơ trơn tử cung, vòi trứng.",
+        "Không phù hợp trong tình huống này. Trang 9 liệt kê nội mạc và cơ trơn tử cung, vòi trứng.",
+        "Không phù hợp trong tình huống này. Trang 9 liệt kê nội mạc và cơ trơn tử cung, vòi trứng."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "1. Các hormone sinh dục Các cơ quan có nguồn gốc ống Müller là cơ quan đích của các steroid sinh dục. Được sản xuất từ tuyến sinh dục, các steroid sinh dục sẽ lưu hành trong máu ngoại vi và đi đến các cơ quan đích của chúng. Cơ quan đích chủ yếu của các steroid sinh dục là tất cả các cơ quan có nguồn gốc ống Müller, không có ngoại trừ, bao gồm: phần trên của âm đạo, tuyến cổ tử cung, nội mạc tử cung, cơ trơn của tử cung và của ống dẫn trứng. Các cơ quan có nguồn gốc ống Müller chịu ảnh hưởng của cả hai loại steroid sinh dục là estrogen và progesterone"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q026",
+      "topicId": "receptors",
+      "conceptId": "m07-gpcra",
+      "level": "apply",
+      "stem": "Steroid gắn GPCR trên màng và Ca++ thay đổi tức khắc. Xếp cơ chế nào?",
+      "options": [
+        "Qua gene tại receptor nhân",
+        "Không thông qua receptor",
+        "Chỉ là sao chép DNA",
+        "Không qua gene"
+      ],
+      "answer": 3,
+      "explanation": "Trang 12–13 mô tả đặc trưng tín hiệu màng và đáp ứng nhanh.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 12–13 mô tả đặc trưng tín hiệu màng và đáp ứng nhanh.",
+        "Không phù hợp trong tình huống này. Trang 12–13 mô tả đặc trưng tín hiệu màng và đáp ứng nhanh.",
+        "Không phù hợp trong tình huống này. Trang 12–13 mô tả đặc trưng tín hiệu màng và đáp ứng nhanh.",
+        "Trang 12–13 mô tả đặc trưng tín hiệu màng và đáp ứng nhanh."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "1. Các hormone sinh dục Steroids sinh dục có hai kiểu tác động: 1. Tác động không qua gene (non-genomic) 2. Tác động qua gene (genomic) Các steroid sinh dục có thể có hai kiểu tác động khác nhau trên cơ quan đích, tùy theo việc ligand đến gắn với thụ thể thụ thể màng hay thụ thể nhân. 1. Nếu steroid sinh dục đến gắn với thụ thể GPCR ở màng tế bào, chúng sẽ có các tác động qua không qua gene. 2. Nếu steroid sinh dục gắn đến với thụ thể nhân, chúng sẽ có các tác động qua gene."
+        },
+        {
+          "page": 13,
+          "quote": "1. Các hormone sinh dục Tác động không qua gene của steroid sinh dục có thể thấy trên các cơ quan đích có nguồn gốc Müller lẫn các cơ quan đích không có nguồn gốc Müller. Trong kiểu tác động không qua gene, hormone gắn vào thụ thể kiểu GPCR trên màng bào tương. Hàng loạt các phản ứng dây chuyền, là các dòng thác tín hiệu thứ cấp của các phân tử trọng yếu như Ca + +, PI3K/Akt, MAPK, Protein Kinase C, AMP vòng… được kích hoạt tức khắc sau khi hormone tiếp xúc với thụ thể. Các dòng thác tín hiệu thứ cấp này sẽ tạo ra biểu hiện của tác động không qua gene của hormone: co cơ, phóng thích kisspeptin từ các KNDy neuron thuộc nhân cung…"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q027",
+      "topicId": "receptors",
+      "conceptId": "m07-nuclear-binding",
+      "level": "apply",
+      "stem": "Steroid gắn receptor trong nhân và giải phóng HSP. Đây là bước của cơ chế nào?",
+      "options": [
+        "Chiêu mộ nang nguyên thủy",
+        "Tạo mạch cửa",
+        "Qua gene",
+        "Không qua gene tại GPCR"
+      ],
+      "answer": 2,
+      "explanation": "Trang 16 mô tả bước loại bỏ HSP trong tác động qua gene.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 16 mô tả bước loại bỏ HSP trong tác động qua gene.",
+        "Không phù hợp trong tình huống này. Trang 16 mô tả bước loại bỏ HSP trong tác động qua gene.",
+        "Trang 16 mô tả bước loại bỏ HSP trong tác động qua gene.",
+        "Không phù hợp trong tình huống này. Trang 16 mô tả bước loại bỏ HSP trong tác động qua gene."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "1. Các hormone sinh dục Trong kiểu tác động qua gien, thoạt tiên các steroid sinh dục được gắn với các thụ thể chuyên biệt của chúng trong nhân. Sự gắn kết này loại bỏ HSP, giải phóng thụ thể khỏi ức chế mặc định. - Phức bộ hormone-thụ thể sau đó sẽ được gắn vào DNA ở các vị trí cần chuyển mã RNA. - Phức bộ hormone-thụ thể không đơn độc gắn v à o D N A . M ộ t y ế u t ố đ ồ n g k í c h h o ạ t (coactivator) hoặc đồng ức chế (corepressor) cũng đến gắn vào phức bộ hormone-thụ thể"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q028",
+      "topicId": "receptors",
+      "conceptId": "m07-dna-binding",
+      "level": "apply",
+      "stem": "Sau khi receptor được giải ức chế, phức hormone–receptor gắn vào đâu trong cơ chế qua gene?",
+      "options": [
+        "Màng trong suốt của noãn",
+        "DNA ở vị trí cần chuyển mã RNA",
+        "Lòng vòi trứng",
+        "Cholesterol trong máu"
+      ],
+      "answer": 1,
+      "explanation": "Trang 16 nêu vị trí gắn tiếp theo trên DNA.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 16 nêu vị trí gắn tiếp theo trên DNA.",
+        "Trang 16 nêu vị trí gắn tiếp theo trên DNA.",
+        "Không phù hợp trong tình huống này. Trang 16 nêu vị trí gắn tiếp theo trên DNA.",
+        "Không phù hợp trong tình huống này. Trang 16 nêu vị trí gắn tiếp theo trên DNA."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "1. Các hormone sinh dục Trong kiểu tác động qua gien, thoạt tiên các steroid sinh dục được gắn với các thụ thể chuyên biệt của chúng trong nhân. Sự gắn kết này loại bỏ HSP, giải phóng thụ thể khỏi ức chế mặc định. - Phức bộ hormone-thụ thể sau đó sẽ được gắn vào DNA ở các vị trí cần chuyển mã RNA. - Phức bộ hormone-thụ thể không đơn độc gắn v à o D N A . M ộ t y ế u t ố đ ồ n g k í c h h o ạ t (coactivator) hoặc đồng ức chế (corepressor) cũng đến gắn vào phức bộ hormone-thụ thể"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q029",
+      "topicId": "receptors",
+      "conceptId": "m07-coactivator-case",
+      "level": "apply",
+      "stem": "Phức hormone–receptor gắn được coactivator. Kết quả được mô tả là gì?",
+      "options": [
+        "Mở gene tương ứng cho chuyển mã",
+        "Khóa mọi gene vĩnh viễn",
+        "Loại bỏ toàn bộ DNA",
+        "Biến thành receptor màng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 17 mô tả vai trò thúc đẩy chuyển mã của coactivator.",
+      "optionExplanations": [
+        "Trang 17 mô tả vai trò thúc đẩy chuyển mã của coactivator.",
+        "Không phù hợp trong tình huống này. Trang 17 mô tả vai trò thúc đẩy chuyển mã của coactivator.",
+        "Không phù hợp trong tình huống này. Trang 17 mô tả vai trò thúc đẩy chuyển mã của coactivator.",
+        "Không phù hợp trong tình huống này. Trang 17 mô tả vai trò thúc đẩy chuyển mã của coactivator."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "1. Các hormone sinh dục Phức bộ “hormone-coactivator” sẽ mở các gene tương ứng cho chuyển mã RNA. Phức bộ “hormone-thụ thể-corepressor” sẽ không mở được các gene tương ứng cho chuyển mã RNA. Tác động qua gene chỉ đòi hỏi sự hiện diện với nồng độ sinh lý, ở mức picomol, của hormone trong huyết tương. Do kết quả của tác động là là sự sinh tổng hợp protein, nên đặc điểm của kiểu tác động này chậm."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q030",
+      "topicId": "receptors",
+      "conceptId": "m07-corepressor-case",
+      "level": "apply",
+      "stem": "Phức hormone–receptor kết hợp corepressor. Kết quả nào phù hợp?",
+      "options": [
+        "Luôn tăng chuyển mã mọi gene",
+        "Tạo E2 tại tuyến yên",
+        "Chuyển HSP thành P4",
+        "Không mở được gene tương ứng"
+      ],
+      "answer": 3,
+      "explanation": "Trang 17 mô tả kết quả của phức có corepressor.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 17 mô tả kết quả của phức có corepressor.",
+        "Không phù hợp trong tình huống này. Trang 17 mô tả kết quả của phức có corepressor.",
+        "Không phù hợp trong tình huống này. Trang 17 mô tả kết quả của phức có corepressor.",
+        "Trang 17 mô tả kết quả của phức có corepressor."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "1. Các hormone sinh dục Phức bộ “hormone-coactivator” sẽ mở các gene tương ứng cho chuyển mã RNA. Phức bộ “hormone-thụ thể-corepressor” sẽ không mở được các gene tương ứng cho chuyển mã RNA. Tác động qua gene chỉ đòi hỏi sự hiện diện với nồng độ sinh lý, ở mức picomol, của hormone trong huyết tương. Do kết quả của tác động là là sự sinh tổng hợp protein, nên đặc điểm của kiểu tác động này chậm."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q031",
+      "topicId": "receptors",
+      "conceptId": "m07-concentration-genomic",
+      "level": "apply",
+      "stem": "Trong mô hình bài, hormone ở mức picomol vẫn gây tác động. Cơ chế nào được nêu cần nồng độ này?",
+      "options": [
+        "Không có cơ chế nào",
+        "Tổng hợp GnRH từ cholesterol",
+        "Qua gene",
+        "Chỉ cơ chế không qua gene mức micromol"
+      ],
+      "answer": 2,
+      "explanation": "Trang 17 nêu tác động qua gene cần nồng độ sinh lý mức picomol.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 17 nêu tác động qua gene cần nồng độ sinh lý mức picomol.",
+        "Không phù hợp trong tình huống này. Trang 17 nêu tác động qua gene cần nồng độ sinh lý mức picomol.",
+        "Trang 17 nêu tác động qua gene cần nồng độ sinh lý mức picomol.",
+        "Không phù hợp trong tình huống này. Trang 17 nêu tác động qua gene cần nồng độ sinh lý mức picomol."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "1. Các hormone sinh dục Phức bộ “hormone-coactivator” sẽ mở các gene tương ứng cho chuyển mã RNA. Phức bộ “hormone-thụ thể-corepressor” sẽ không mở được các gene tương ứng cho chuyển mã RNA. Tác động qua gene chỉ đòi hỏi sự hiện diện với nồng độ sinh lý, ở mức picomol, của hormone trong huyết tương. Do kết quả của tác động là là sự sinh tổng hợp protein, nên đặc điểm của kiểu tác động này chậm."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q032",
+      "topicId": "receptors",
+      "conceptId": "m07-non-genomic-indirect",
+      "level": "apply",
+      "stem": "Một tín hiệu màng làm thay đổi biểu hiện gene qua chất truyền tin thứ cấp. Có mâu thuẫn với nhãn không qua gene không?",
+      "options": [
+        "Không vì receptor màng chính là DNA",
+        "Không; ảnh hưởng gián tiếp lên điều hòa gene vẫn có thể xảy ra",
+        "Có; mọi tác động lên gene đều phải gắn DNA trực tiếp",
+        "Có; thụ thể màng không thể tạo tín hiệu"
+      ],
+      "answer": 1,
+      "explanation": "Trang 14 phân biệt không gắn trực tiếp gene với ảnh hưởng gián tiếp.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 14 phân biệt không gắn trực tiếp gene với ảnh hưởng gián tiếp.",
+        "Trang 14 phân biệt không gắn trực tiếp gene với ảnh hưởng gián tiếp.",
+        "Không phù hợp trong tình huống này. Trang 14 phân biệt không gắn trực tiếp gene với ảnh hưởng gián tiếp.",
+        "Không phù hợp trong tình huống này. Trang 14 phân biệt không gắn trực tiếp gene với ảnh hưởng gián tiếp."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "1. Các hormone sinh dục Tác động không qua gene lệ thuộc mạnh vào nồng độ của hormone4, và thường đòi hỏi các nồng độ tương đối cao (ở mức micromol) của hormone hay chất tương tự. Cần lưu ý rằng dù phức bộ ligand-thụ thể không trực tiếp gắn lên các đoạn gene chuyên biệt, nhưng các dòng thác tín hiệu thứ cấp vẫn có thể tạo ảnh hưởng đến tiến trình điều hòa biểu hiện gene"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q033",
+      "topicId": "receptors",
+      "conceptId": "m07-esr1-chromosome",
+      "level": "understand",
+      "stem": "Một sơ đồ đặt ESR1 ở nhiễm sắc thể 6. Receptor phù hợp là gì?",
+      "options": [
+        "ER-α",
+        "ER-β",
+        "PR-A",
+        "PR-B"
+      ],
+      "answer": 0,
+      "explanation": "Trang 19 ghép ESR1, nhiễm sắc thể 6 và ER-α.",
+      "optionExplanations": [
+        "Trang 19 ghép ESR1, nhiễm sắc thể 6 và ER-α.",
+        "Không phù hợp trong tình huống này. Trang 19 ghép ESR1, nhiễm sắc thể 6 và ER-α.",
+        "Không phù hợp trong tình huống này. Trang 19 ghép ESR1, nhiễm sắc thể 6 và ER-α.",
+        "Không phù hợp trong tình huống này. Trang 19 ghép ESR1, nhiễm sắc thể 6 và ER-α."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "1. Các hormone sinh dục Estrogen có 2 thụ thể nhân chuyên biệt là ER-α và ER-β. Cả hai thụ thể nhân của estrogen là các protein. ER-α được mã hóa bởi gene ESR1 thuộc nhiễm sắc thể 6. ER- β được mã hóa bởi gene ESR2 thuộc nhiễm sắc thể 14. Chúng được điều hòa độc lập với nhau"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q034",
+      "topicId": "receptors",
+      "conceptId": "m07-esr2-chromosome",
+      "level": "understand",
+      "stem": "Một sơ đồ đặt ESR2 ở nhiễm sắc thể 14. Receptor phù hợp là gì?",
+      "options": [
+        "ER-α",
+        "PR-A",
+        "PR-B",
+        "ER-β"
+      ],
+      "answer": 3,
+      "explanation": "Trang 19 ghép ESR2, nhiễm sắc thể 14 và ER-β.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 19 ghép ESR2, nhiễm sắc thể 14 và ER-β.",
+        "Không phù hợp trong tình huống này. Trang 19 ghép ESR2, nhiễm sắc thể 14 và ER-β.",
+        "Không phù hợp trong tình huống này. Trang 19 ghép ESR2, nhiễm sắc thể 14 và ER-β.",
+        "Trang 19 ghép ESR2, nhiễm sắc thể 14 và ER-β."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "1. Các hormone sinh dục Estrogen có 2 thụ thể nhân chuyên biệt là ER-α và ER-β. Cả hai thụ thể nhân của estrogen là các protein. ER-α được mã hóa bởi gene ESR1 thuộc nhiễm sắc thể 6. ER- β được mã hóa bởi gene ESR2 thuộc nhiễm sắc thể 14. Chúng được điều hòa độc lập với nhau"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q035",
+      "topicId": "receptors",
+      "conceptId": "m07-er-dimer",
+      "level": "understand",
+      "stem": "Hai đơn nguyên ER–estrogen kết hợp. Cấu trúc tạo ra là gì theo bài?",
+      "options": [
+        "PGR mới",
+        "Hoàng thể mới",
+        "Nhị nguyên đồng dạng hoặc không đồng dạng",
+        "GnRH mới"
+      ],
+      "answer": 2,
+      "explanation": "Trang 20 mô tả sự tạo nhị nguyên ER–estrogen.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 20 mô tả sự tạo nhị nguyên ER–estrogen.",
+        "Không phù hợp trong tình huống này. Trang 20 mô tả sự tạo nhị nguyên ER–estrogen.",
+        "Trang 20 mô tả sự tạo nhị nguyên ER–estrogen.",
+        "Không phù hợp trong tình huống này. Trang 20 mô tả sự tạo nhị nguyên ER–estrogen."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "1. Các hormone sinh dục Sau khi đã tách rời khỏi HSP, các ER sẽ gắn với estrogen tạo các đơn nguyên ER-estrogen. Hai đơn nguyên ERestrogen sẽ gắn với nhau tạo thành nhị nguyên. Nhị nguyên ER-estrogen có thể là đồng dạng hay không đồng dạng6. Các ER-α và ER-β điều hòa các gene khác nhau. Các ER-α và ER-β có vị trí gắn vào gene khác nhau, với các đoạn DNA downstream khác nhau, và do đó có chức năng rất khác nhau."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q036",
+      "topicId": "receptors",
+      "conceptId": "m07-pgr-chromosome",
+      "level": "understand",
+      "stem": "Hai sản phẩm PR-A và PR-B cùng được khảo sát. Gene và nhiễm sắc thể nào phù hợp bài?",
+      "options": [
+        "Hai gene hoàn toàn khác nhau",
+        "PGR trên nhiễm sắc thể 11",
+        "ESR1 trên nhiễm sắc thể 6",
+        "ESR2 trên nhiễm sắc thể 14"
+      ],
+      "answer": 1,
+      "explanation": "Trang 21 nêu nguồn gene chung của hai PR.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 21 nêu nguồn gene chung của hai PR.",
+        "Trang 21 nêu nguồn gene chung của hai PR.",
+        "Không phù hợp trong tình huống này. Trang 21 nêu nguồn gene chung của hai PR.",
+        "Không phù hợp trong tình huống này. Trang 21 nêu nguồn gene chung của hai PR."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "1. Các hormone sinh dục Thụ thể nhân của progesterone Progesterone có 2 thụ thể nhân chuyên biệt là PR-A và PR-B. Cả hai thụ thể nhân của progesterone là các protein. Cả PR-A và PR-B được mã hóa bởi cùng một gene PGR chung thuộc nhiễm sắc thể 11. Trên PGR, có 2 promoter khác nhau. Tùy theo tiến trình chuyển mã RNA bắng đầu bằng promoter nào mà ta sẽ có kết quả dịch mã là PR- A hay PR-B."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q037",
+      "topicId": "receptors",
+      "conceptId": "m07-pra-case",
+      "level": "understand",
+      "stem": "Một isoform ngắn hơn, thiếu AF3 và ưu tiên corepressor. Isoform nào được mô tả?",
+      "options": [
+        "PR-A",
+        "PR-B",
+        "ER-α",
+        "ER-β"
+      ],
+      "answer": 0,
+      "explanation": "Trang 22 xác định cấu trúc và chức năng PR-A.",
+      "optionExplanations": [
+        "Trang 22 xác định cấu trúc và chức năng PR-A.",
+        "Không phù hợp trong tình huống này. Trang 22 xác định cấu trúc và chức năng PR-A.",
+        "Không phù hợp trong tình huống này. Trang 22 xác định cấu trúc và chức năng PR-A.",
+        "Không phù hợp trong tình huống này. Trang 22 xác định cấu trúc và chức năng PR-A."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "1. Các hormone sinh dục Khi progesterone gắn vào PR-B, gene sẽ được mở ra cho tiến trình chuyển mã. Phức bộ giữa progesterone và PR-A không gắn được với coactivator, và do đó không mở được gene để chuyển mã. PR-A ngắn hơn PR-B, do điểm khởi đầu chuyển mã là promoter gần. So với PR-B thì PR-A thiếu một vùng được gọi là AF3. Thiếu AF3 làm cho PR-A không gắn được với co- activator khi chuyển mã, mà chỉ gắn được với co- repressor. Gắn với co-repressor làm cho gene bị khóa. Nói một cách khác, PR-A đảm nhận nhiệm vụ đối kháng với progesterone"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q038",
+      "topicId": "receptors",
+      "conceptId": "m07-prb-case",
+      "level": "understand",
+      "stem": "Progesterone gắn isoform cho phép mở gene chuyển mã trong mô hình bài. Isoform nào?",
+      "options": [
+        "PR-A thiếu AF3",
+        "GPCR bất hoạt",
+        "HSP tự do",
+        "PR-B"
+      ],
+      "answer": 3,
+      "explanation": "Trang 22 đối chiếu PR-B với PR-A.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 22 đối chiếu PR-B với PR-A.",
+        "Không phù hợp trong tình huống này. Trang 22 đối chiếu PR-B với PR-A.",
+        "Không phù hợp trong tình huống này. Trang 22 đối chiếu PR-B với PR-A.",
+        "Trang 22 đối chiếu PR-B với PR-A."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "1. Các hormone sinh dục Khi progesterone gắn vào PR-B, gene sẽ được mở ra cho tiến trình chuyển mã. Phức bộ giữa progesterone và PR-A không gắn được với coactivator, và do đó không mở được gene để chuyển mã. PR-A ngắn hơn PR-B, do điểm khởi đầu chuyển mã là promoter gần. So với PR-B thì PR-A thiếu một vùng được gọi là AF3. Thiếu AF3 làm cho PR-A không gắn được với co- activator khi chuyển mã, mà chỉ gắn được với co- repressor. Gắn với co-repressor làm cho gene bị khóa. Nói một cách khác, PR-A đảm nhận nhiệm vụ đối kháng với progesterone"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q039",
+      "topicId": "endometrium",
+      "conceptId": "m07-regeneration-case",
+      "level": "understand",
+      "stem": "Nội mạc cần tái tạo sau bong tróc. Nguồn tế bào dự trữ nằm ở lớp nào được bài nêu?",
+      "options": [
+        "Vỏ buồng trứng",
+        "Nhân cung",
+        "Lớp căn bản",
+        "Lớp cơ vòi trứng"
+      ],
+      "answer": 2,
+      "explanation": "Trang 26 mô tả tế bào nền dự trữ trong lớp căn bản.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 26 mô tả tế bào nền dự trữ trong lớp căn bản.",
+        "Không phù hợp trong tình huống này. Trang 26 mô tả tế bào nền dự trữ trong lớp căn bản.",
+        "Trang 26 mô tả tế bào nền dự trữ trong lớp căn bản.",
+        "Không phù hợp trong tình huống này. Trang 26 mô tả tế bào nền dự trữ trong lớp căn bản."
+      ],
+      "sources": [
+        {
+          "page": 26,
+          "quote": "2. Chu kỳ nội mạc tử cung Tuyến nội mạc tử cung phát triển từ các tế bào nền dự trữ. Các tế bào nền chỉ có thụ thể với estrogen. Nội mạc tử cung là mô luôn được tạo mới sau mỗi lần bị phá hủy, nhờ có các tế bào nền dự trữ trong lớp căn bản. Các tế bào nền dự trữ của nội mạc tử cung được trang bị các thụ thể với estrogen (ER). Ở thời điểm người phụ nữ đang hành kinh, chỉ còn có khoảng 10 nang noãn thứ cấp, hiện diện trên buồng trứng. Chúng chế tiết một lượng ít ỏi estrogen"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q040",
+      "topicId": "endometrium",
+      "conceptId": "m07-low-e2-case",
+      "level": "apply",
+      "stem": "Lượng estrogen ít ở đầu chu kỳ vẫn thúc đẩy tế bào nền phát triển. Cơ chế nào giải thích theo bài?",
+      "options": [
+        "Không cần receptor estrogen",
+        "Tác động qua gene",
+        "Chỉ co cơ tức thời",
+        "Thay thế tế bào nền bằng noãn"
+      ],
+      "answer": 1,
+      "explanation": "Trang 27 nêu lượng estrogen ít vẫn đủ gây tác động qua gene.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 27 nêu lượng estrogen ít vẫn đủ gây tác động qua gene.",
+        "Trang 27 nêu lượng estrogen ít vẫn đủ gây tác động qua gene.",
+        "Không phù hợp trong tình huống này. Trang 27 nêu lượng estrogen ít vẫn đủ gây tác động qua gene.",
+        "Không phù hợp trong tình huống này. Trang 27 nêu lượng estrogen ít vẫn đủ gây tác động qua gene."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "2. Chu kỳ nội mạc tử cung Lượng estrogen ít ỏi này đủ để gây tác động qua gene, thúc đẩy phát triển các tế bào nền dự trữ của nội mạc tử cung, làm chúng trở thành tế bào nội mạc tử cung hoạt động. Các tế bào nền dự trữ của nội mạc tử cung có rất ít thụ thể với progesterone (PR). Không có PR, tại tế bào nền, progesterone không thể gây ra tác động qua gene trên các tế bào dự trữ này của nội mạc tử cung."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q041",
+      "topicId": "endometrium",
+      "conceptId": "m07-no-pr-case",
+      "level": "apply",
+      "stem": "Tế bào dự trữ không có PR có chức năng. P4 có thể tác động qua gene trực tiếp lên chúng theo mô hình bài không?",
+      "options": [
+        "Không, thiếu receptor cần thiết",
+        "Có, P4 không cần receptor",
+        "Có, P4 luôn dùng ER thay PR",
+        "Có, mọi hormone đều dùng PGR ngoài tế bào"
+      ],
+      "answer": 0,
+      "explanation": "Trang 27 nêu không có PR thì P4 không thể gây tác động qua gene tại tế bào này.",
+      "optionExplanations": [
+        "Trang 27 nêu không có PR thì P4 không thể gây tác động qua gene tại tế bào này.",
+        "Không phù hợp trong tình huống này. Trang 27 nêu không có PR thì P4 không thể gây tác động qua gene tại tế bào này.",
+        "Không phù hợp trong tình huống này. Trang 27 nêu không có PR thì P4 không thể gây tác động qua gene tại tế bào này.",
+        "Không phù hợp trong tình huống này. Trang 27 nêu không có PR thì P4 không thể gây tác động qua gene tại tế bào này."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "2. Chu kỳ nội mạc tử cung Lượng estrogen ít ỏi này đủ để gây tác động qua gene, thúc đẩy phát triển các tế bào nền dự trữ của nội mạc tử cung, làm chúng trở thành tế bào nội mạc tử cung hoạt động. Các tế bào nền dự trữ của nội mạc tử cung có rất ít thụ thể với progesterone (PR). Không có PR, tại tế bào nền, progesterone không thể gây ra tác động qua gene trên các tế bào dự trữ này của nội mạc tử cung."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q042",
+      "topicId": "endometrium",
+      "conceptId": "m07-proliferation-case",
+      "level": "apply",
+      "stem": "E2 tăng trong pha phát triển nang. Tuyến nội mạc được dự đoán thay đổi thế nào?",
+      "options": [
+        "Ngừng phân chia hoàn toàn ngay",
+        "Mất toàn bộ receptor",
+        "Chuyển thành bạch thể",
+        "Tăng phân chia và tự tổng hợp ER, PR"
+      ],
+      "answer": 3,
+      "explanation": "Trang 29 mô tả tăng sinh và tự tổng hợp thụ thể.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 29 mô tả tăng sinh và tự tổng hợp thụ thể.",
+        "Không phù hợp trong tình huống này. Trang 29 mô tả tăng sinh và tự tổng hợp thụ thể.",
+        "Không phù hợp trong tình huống này. Trang 29 mô tả tăng sinh và tự tổng hợp thụ thể.",
+        "Trang 29 mô tả tăng sinh và tự tổng hợp thụ thể."
+      ],
+      "sources": [
+        {
+          "page": 29,
+          "quote": "2. Chu kỳ nội mạc tử cung Tuyến phát triển có ER và PR Nồng độ của estrogen tăng dần trong quá trình phát triển noãn nang, làm tế bào tuyến nội mạc phân chia. Cũng dưới tác dụng qua gene của estrogen, các mạch máu của nội mạc tử cung cũng phát triển dần, dài ra và thẳng. Tuyến nội mạc tử cung phát triển sẽ tự tổng hợp các ER, giúp tuyến phát triển hơn nữa dưới estrogen. Đồng thời với việc tổng hợp các ER, tế bào nội mạc tử cung tổng hợp các thụ thể PR."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q043",
+      "topicId": "endometrium",
+      "conceptId": "m07-vessels-proliferative",
+      "level": "apply",
+      "stem": "Theo bài, mạch máu nội mạc phát triển dưới E2 trong pha tăng sinh có dạng nào?",
+      "options": [
+        "Không phát triển",
+        "Biến thành nang noãn",
+        "Dài và thẳng",
+        "Xoắn ốc ngay từ đầu do P4"
+      ],
+      "answer": 2,
+      "explanation": "Trang 29 phân biệt hình thái mạch ở pha tăng sinh.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 29 phân biệt hình thái mạch ở pha tăng sinh.",
+        "Không phù hợp trong tình huống này. Trang 29 phân biệt hình thái mạch ở pha tăng sinh.",
+        "Trang 29 phân biệt hình thái mạch ở pha tăng sinh.",
+        "Không phù hợp trong tình huống này. Trang 29 phân biệt hình thái mạch ở pha tăng sinh."
+      ],
+      "sources": [
+        {
+          "page": 29,
+          "quote": "2. Chu kỳ nội mạc tử cung Tuyến phát triển có ER và PR Nồng độ của estrogen tăng dần trong quá trình phát triển noãn nang, làm tế bào tuyến nội mạc phân chia. Cũng dưới tác dụng qua gene của estrogen, các mạch máu của nội mạc tử cung cũng phát triển dần, dài ra và thẳng. Tuyến nội mạc tử cung phát triển sẽ tự tổng hợp các ER, giúp tuyến phát triển hơn nữa dưới estrogen. Đồng thời với việc tổng hợp các ER, tế bào nội mạc tử cung tổng hợp các thụ thể PR."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q044",
+      "topicId": "endometrium",
+      "conceptId": "m07-fewer-follicles",
+      "level": "apply",
+      "stem": "Số nang giảm do chọn lọc nhưng tuyến nội mạc vẫn phát triển. Giải thích nào được bài nêu?",
+      "options": [
+        "P4 luôn cao từ đầu chu kỳ",
+        "Nang được chọn có khối tế bào hạt lớn, vẫn tiết nhiều E2",
+        "Mọi nang mất khả năng tạo E2",
+        "Nội mạc tự tạo LH thay thế"
+      ],
+      "answer": 1,
+      "explanation": "Trang 30 giải thích việc chọn lọc không làm giảm hỗ trợ estrogen cho nội mạc.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 30 giải thích việc chọn lọc không làm giảm hỗ trợ estrogen cho nội mạc.",
+        "Trang 30 giải thích việc chọn lọc không làm giảm hỗ trợ estrogen cho nội mạc.",
+        "Không phù hợp trong tình huống này. Trang 30 giải thích việc chọn lọc không làm giảm hỗ trợ estrogen cho nội mạc.",
+        "Không phù hợp trong tình huống này. Trang 30 giải thích việc chọn lọc không làm giảm hỗ trợ estrogen cho nội mạc."
+      ],
+      "sources": [
+        {
+          "page": 30,
+          "quote": "2. Chu kỳ nội mạc tử cung Số lượng noãn nang phát triển giảm dần trong quá trình chọn lọc noãn nang. Tuy nhiên, sự kiện này không ảnh hưởng đến sự phát triển của tuyến nội mạc tử cung lệ thuộc estrogen, do nang noãn được chọn lọc có một khối lượng lớn tế bào hạt, đảm bảo chế tiết một lượng lớn estrogen. Estrogen vẫn tăng nhanh đều trong giai đoạn chọn lọc noãn nang của chu kỳ buồng trứng. Đến giữa chu kỳ kinh nguyệt, khi trên buồng trứng đã chọn lọc được một nang de Graaf, nồng độ estrogen đã lên cao đến cực điểm. Lúc này, các tuyến nội mạc tử cung đã phát triển đến mức tối đa, nội mạc dầy lên rõ rệt, chứa đầy các ống tuyến thẳng, dài được trang bị các ER và các PR8, với một hệ thống các mạch máu tùy hành phong phú."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q045",
+      "topicId": "endometrium",
+      "conceptId": "m07-secretory-glycogen",
+      "level": "apply",
+      "stem": "Tuyến nội mạc đã được E2 chuẩn bị, nay nhận P4. Thay đổi nào phù hợp?",
+      "options": [
+        "Chế tiết và tích lũy glycogen",
+        "Chỉ tiếp tục nguyên phân vô hạn",
+        "Mất mọi mạch máu ngay",
+        "Chuyển thành tế bào vỏ"
+      ],
+      "answer": 0,
+      "explanation": "Trang 31 mô tả sự chuyển chức năng tuyến dưới progesterone.",
+      "optionExplanations": [
+        "Trang 31 mô tả sự chuyển chức năng tuyến dưới progesterone.",
+        "Không phù hợp trong tình huống này. Trang 31 mô tả sự chuyển chức năng tuyến dưới progesterone.",
+        "Không phù hợp trong tình huống này. Trang 31 mô tả sự chuyển chức năng tuyến dưới progesterone.",
+        "Không phù hợp trong tình huống này. Trang 31 mô tả sự chuyển chức năng tuyến dưới progesterone."
+      ],
+      "sources": [
+        {
+          "page": 31,
+          "quote": "2. Chu kỳ nội mạc tử cung Progesterone phân tiết tuyến nội mạc tử cung đã phát triển, sẵn sàng tiếp nhận noãn đã thụ tinh đến để làm tổ Hiện tượng phóng noãn dẫn đến thành lập hoàng thể. Hoàng thể chế tiết progesterone. Progesterone sẽ tác động trên các tuyến nội mạc, lúc này đã sẵn sàng để tiếp nhận progesterone. Dưới tác động của progesterone, các tuyến nội mạc đã phát triển trước đó sẽ ngưng phân chia và phát triển. Chúng bắt đầu chuyển sang hoạt động chế tiết, tích lũy glycogen, với các mạch máu trở thành xoắn ốc, cung cấp máu tối đa cho nội mạc. Mô đệm nội mạc trở nên phù nề và sẵn sàng tiếp nhận noãn đã thụ tinh đến làm tổ. Như vậy, progesterone là hormone của “sự hoài thai”"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q046",
+      "topicId": "endometrium",
+      "conceptId": "m07-secretory-stroma",
+      "level": "apply",
+      "stem": "Trong pha chế tiết do P4, mô đệm và mạch máu được mô tả thế nào?",
+      "options": [
+        "Mô đệm hóa xương, mạch biến mất",
+        "Mạch luôn thẳng như pha tăng sinh",
+        "Không thay đổi so với trước estrogen",
+        "Mô đệm phù nề, mạch xoắn ốc"
+      ],
+      "answer": 3,
+      "explanation": "Trang 31 nêu các thay đổi chuẩn bị tiếp nhận phôi.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 31 nêu các thay đổi chuẩn bị tiếp nhận phôi.",
+        "Không phù hợp trong tình huống này. Trang 31 nêu các thay đổi chuẩn bị tiếp nhận phôi.",
+        "Không phù hợp trong tình huống này. Trang 31 nêu các thay đổi chuẩn bị tiếp nhận phôi.",
+        "Trang 31 nêu các thay đổi chuẩn bị tiếp nhận phôi."
+      ],
+      "sources": [
+        {
+          "page": 31,
+          "quote": "2. Chu kỳ nội mạc tử cung Progesterone phân tiết tuyến nội mạc tử cung đã phát triển, sẵn sàng tiếp nhận noãn đã thụ tinh đến để làm tổ Hiện tượng phóng noãn dẫn đến thành lập hoàng thể. Hoàng thể chế tiết progesterone. Progesterone sẽ tác động trên các tuyến nội mạc, lúc này đã sẵn sàng để tiếp nhận progesterone. Dưới tác động của progesterone, các tuyến nội mạc đã phát triển trước đó sẽ ngưng phân chia và phát triển. Chúng bắt đầu chuyển sang hoạt động chế tiết, tích lũy glycogen, với các mạch máu trở thành xoắn ốc, cung cấp máu tối đa cho nội mạc. Mô đệm nội mạc trở nên phù nề và sẵn sàng tiếp nhận noãn đã thụ tinh đến làm tổ. Như vậy, progesterone là hormone của “sự hoài thai”"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q047",
+      "topicId": "endometrium",
+      "conceptId": "m07-unprepared",
+      "level": "apply",
+      "stem": "Một nội mạc chưa được E2 chuẩn bị. Theo bài, dùng P4 đơn độc có đạt đầy đủ tác động chế tiết qua PR không?",
+      "options": [
+        "Có, vì PR không bao giờ cần tổng hợp",
+        "Có, vì P4 chính là FSH",
+        "Không, thiếu chuẩn bị receptor bởi E2",
+        "Có, P4 tạo mọi hiệu ứng không cần E2"
+      ],
+      "answer": 2,
+      "explanation": "Trang 32 nhấn mạnh điều kiện nội mạc được estrogen chuẩn bị trước.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 32 nhấn mạnh điều kiện nội mạc được estrogen chuẩn bị trước.",
+        "Không phù hợp trong tình huống này. Trang 32 nhấn mạnh điều kiện nội mạc được estrogen chuẩn bị trước.",
+        "Trang 32 nhấn mạnh điều kiện nội mạc được estrogen chuẩn bị trước.",
+        "Không phù hợp trong tình huống này. Trang 32 nhấn mạnh điều kiện nội mạc được estrogen chuẩn bị trước."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "2. Chu kỳ nội mạc tử cung Tr ê n n ộ i m ạ c t ử c u n g , e s t r o g e n v à progesterone có tác dụng hiệp đồng. Do PR chỉ được tổng hợp bởi estrogen, nên progesterone chỉ tác động được lên một nội mạc đã được chuẩn bị trước với estrogen. Progesterone không thể tác động lên một nội mạc không được chuẩn bị trước với estrogen. Trên nội mạc tử cung, estrogen và progesterone có vai trò nối tiếp và có tác dụng hiệp đồng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q048",
+      "topicId": "endometrium",
+      "conceptId": "m07-withdrawal-case",
+      "level": "apply",
+      "stem": "Cuối chu kỳ, hoàng thể thoái triển và cả hai steroid giảm. Nội mạc có thể diễn tiến theo hướng nào trong bài?",
+      "options": [
+        "Sản xuất GnRH để thay thế",
+        "Hoại tử, bong tróc và hành kinh",
+        "Tăng sinh không giới hạn nhờ P4 tăng",
+        "Tạo nang noãn mới"
+      ],
+      "answer": 1,
+      "explanation": "Trang 33–34 mô tả kết quả rút hỗ trợ hormone.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 33–34 mô tả kết quả rút hỗ trợ hormone.",
+        "Trang 33–34 mô tả kết quả rút hỗ trợ hormone.",
+        "Không phù hợp trong tình huống này. Trang 33–34 mô tả kết quả rút hỗ trợ hormone.",
+        "Không phù hợp trong tình huống này. Trang 33–34 mô tả kết quả rút hỗ trợ hormone."
+      ],
+      "sources": [
+        {
+          "page": 33,
+          "quote": "2. Chu kỳ nội mạc tử cung Hành kinh là kết quả của sự sụt giảm đột ngột của nồng độ của cả hai steroid sinh dục lưu hành, gây sụp đổ hoàn toàn nội mạc tử cung Vào cuối chu kỳ buồng trứng, hoàng thể bị thoái triển do không còn LH. Sự thoái triển này dẫn đến việc sụt giảm đột ngột nồng độ của cả hai steroid sinh dục lưu hành"
+        },
+        {
+          "page": 34,
+          "quote": "2. Chu kỳ nội mạc tử cung Nội mạc tử cung không còn nhận được hormone, sẽ bị hoại tử, bong tróc và sụp đổ hoàn toàn, một cách nhanh chóng, gây ra hiện tượng hành kinh. Như vậy, hành kinh bình thường đòi hỏi đồng thời hai điều kiện về nội tiết quan trọng là: 1. Nội mạc tử cung phải tiếp nhận tuần tự cả hai loại steroid sinh dục 2. Cả hai steroid sinh dục này phải chấm dứt hoạt động cùng lúc"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q049",
+      "topicId": "endometrium",
+      "conceptId": "m07-morphology-proxy",
+      "level": "apply",
+      "stem": "Muốn hiểu hoạt động chế tiết steroid buồng trứng qua một mô đích. Mô nào được bài nhấn mạnh phản ánh chu kỳ này?",
+      "options": [
+        "Nội mạc tử cung",
+        "Da lòng bàn tay",
+        "Sụn vành tai",
+        "Men răng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 25 và 35 nhấn mạnh mối liên hệ hình thái nội mạc với steroid.",
+      "optionExplanations": [
+        "Trang 25 và 35 nhấn mạnh mối liên hệ hình thái nội mạc với steroid.",
+        "Không phù hợp trong tình huống này. Trang 25 và 35 nhấn mạnh mối liên hệ hình thái nội mạc với steroid.",
+        "Không phù hợp trong tình huống này. Trang 25 và 35 nhấn mạnh mối liên hệ hình thái nội mạc với steroid.",
+        "Không phù hợp trong tình huống này. Trang 25 và 35 nhấn mạnh mối liên hệ hình thái nội mạc với steroid."
+      ],
+      "sources": [
+        {
+          "page": 25,
+          "quote": "2. Chu kỳ nội mạc tử cung Tại nội mạc tử cung, steroid sinh dục tác động chủ yếu bằng cơ chế qua gene, thúc đẩy các hoạt động phân bào hay phân tiết tại các tuyến. Nội mạc tử cung là cơ quan đích quan trọng nhất của các steroid sinh dục. Cấu trúc mô học của nội mạc tử cung thay đổi có tính chu kỳ, lệ thuộc chặt chẽ vào các biến đổi có tính chu kỳ của các steroid sinh dục, và do đó phản ánh trung thực hoạt động chế tiết các steroid của buồng trứng. Tác động trên nội mạc tử cung của các steroid sinh dục là các hoạt động phân bào và chế tiết tại các tuyến nội mạc tử cung. Đó là các tác động qua gene."
+        },
+        {
+          "page": 35,
+          "quote": "2. Chu kỳ nội mạc tử cung Sự biến đổi về mô học của nội mạc tử cung có tính chu kỳ, lệ thuộc vào sự biến động có tính chu kỳ của các steroid sinh dục và phản ánh trung thực sự biến động của nồng độ steroid sinh dục lưu hành. Như vậy, sự biến đổi về mô học của nội mạc thể hiện một cách trung thực các thay đổi về sản xuất steroid sinh dục trong chu kỳ buồng trứng. Khảo sát đặc tính của chu kỳ kinh có thể cung cấp các ý niệm quan trọng về hoạt động của buồng trứng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q050",
+      "topicId": "targets",
+      "conceptId": "m07-midcycle-mucus",
+      "level": "apply",
+      "stem": "Giữa chu kỳ, chất nhầy trong, loãng, dai và nhiều. Điều kiện hormone nào phù hợp nhất trong bài?",
+      "options": [
+        "P4 chiếm ưu thế làm đông đặc",
+        "Mất hoàn toàn mọi steroid",
+        "Chỉ GnRH cao trong lòng cổ tử cung",
+        "E2 cao từ nang de Graaf"
+      ],
+      "answer": 3,
+      "explanation": "Trang 37 nối estrogen giữa chu kỳ với kiểu chất nhầy này.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 37 nối estrogen giữa chu kỳ với kiểu chất nhầy này.",
+        "Không phù hợp trong tình huống này. Trang 37 nối estrogen giữa chu kỳ với kiểu chất nhầy này.",
+        "Không phù hợp trong tình huống này. Trang 37 nối estrogen giữa chu kỳ với kiểu chất nhầy này.",
+        "Trang 37 nối estrogen giữa chu kỳ với kiểu chất nhầy này."
+      ],
+      "sources": [
+        {
+          "page": 37,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích CHẤT NHẦY CỔ TỬ CUNG Trên tuyến cổ tử cung, estrogen tạo ra một chất nhầy thuận lợi cho sự xâm nhập của tinh trùng. Tương tự như các cơ quan nguồn gốc ống Müller khác, biểu mô tuyến của kênh cổ tử cung chịu tác động qua gene của cả hai loại steroid sinh dục. Trong giai đoạn phát triển nang noãn, dưới tác dụng của estrogen, tuyến cổ tử cung chế tiết ra chất nhầy cổ tử cung. Nồng độ estrogen càng cao thì sự chế tiết chất nhầy càng nhiều. Vào giữa chu kỳ, nồng độ estrogen huyết tương rất cao do hoạt động của nang de Graaf làm cho chất nhầy cổ tử cung đạt mức tối đa. Chất nhầy trở nên trong, loãng, nhiều và dai, với matrix rất thưa, tạo điều kiện thuận lợi nhất cho sự xâm nhập lên trên của tinh trùng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q051",
+      "topicId": "targets",
+      "conceptId": "m07-postovulation-mucus",
+      "level": "apply",
+      "stem": "Sau phóng noãn, chất nhầy đặc và ít. Hormone nào giải thích thay đổi?",
+      "options": [
+        "FSH do cổ tử cung tạo",
+        "AMH của tuyến yên",
+        "P4 hoàng thể",
+        "E2 đơn độc tăng mãi"
+      ],
+      "answer": 2,
+      "explanation": "Trang 38 nêu tác động progesterone sau phóng noãn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 38 nêu tác động progesterone sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Trang 38 nêu tác động progesterone sau phóng noãn.",
+        "Trang 38 nêu tác động progesterone sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Trang 38 nêu tác động progesterone sau phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 38,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Trên tuyến cổ tử cung, progesterone làm đông đặc chất nhầy cổ tử cung, ngăn tinh trùng và vi khuẩn xâm nhập. Sau khi phóng noãn, progesterone từ hoàng thể sẽ tạo ra một tác động đối kháng với estrogen trên chất nhầy cổ tử cung. Dưới tác động của progesterone, chất nhầy cổ tử cung trở nên đặc, đục, bở và ít. Tinh trùng và phần lớn các vi sinh khác sẽ không thể xâm nhập lên đường sinh dục trên qua ngả cổ tử cung. Đường sinh dục trên đã được bảo vệ cẩn mật sau khi đã có sự xâm nhập của tinh trùng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q052",
+      "topicId": "targets",
+      "conceptId": "m07-mucus-barrier",
+      "level": "apply",
+      "stem": "Chất nhầy đông đặc dưới P4 có tác dụng được bài nêu là gì?",
+      "options": [
+        "Làm mất cổ tử cung",
+        "Cản tinh trùng và phần lớn vi sinh xâm nhập lên trên",
+        "Tạo điều kiện tối đa cho tinh trùng đi lên",
+        "Biến tinh trùng thành noãn"
+      ],
+      "answer": 1,
+      "explanation": "Trang 38 giải thích chức năng bảo vệ của chất nhầy sau phóng noãn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 38 giải thích chức năng bảo vệ của chất nhầy sau phóng noãn.",
+        "Trang 38 giải thích chức năng bảo vệ của chất nhầy sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Trang 38 giải thích chức năng bảo vệ của chất nhầy sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Trang 38 giải thích chức năng bảo vệ của chất nhầy sau phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 38,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Trên tuyến cổ tử cung, progesterone làm đông đặc chất nhầy cổ tử cung, ngăn tinh trùng và vi khuẩn xâm nhập. Sau khi phóng noãn, progesterone từ hoàng thể sẽ tạo ra một tác động đối kháng với estrogen trên chất nhầy cổ tử cung. Dưới tác động của progesterone, chất nhầy cổ tử cung trở nên đặc, đục, bở và ít. Tinh trùng và phần lớn các vi sinh khác sẽ không thể xâm nhập lên đường sinh dục trên qua ngả cổ tử cung. Đường sinh dục trên đã được bảo vệ cẩn mật sau khi đã có sự xâm nhập của tinh trùng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q053",
+      "topicId": "targets",
+      "conceptId": "m07-rapid-contraction",
+      "level": "apply",
+      "stem": "Cơ vòi trứng co ngay sau khi steroid gắn receptor. Tín hiệu nào liên quan trực tiếp theo bài?",
+      "options": [
+        "Dòng thác Ca++ qua receptor màng",
+        "Chỉ tạo protein mới sau chuyển mã",
+        "Không có tín hiệu nội bào",
+        "Tạo thêm noãn nguyên thủy"
+      ],
+      "answer": 0,
+      "explanation": "Trang 39 mô tả cơ chế không qua gene trên cơ trơn.",
+      "optionExplanations": [
+        "Trang 39 mô tả cơ chế không qua gene trên cơ trơn.",
+        "Không phù hợp trong tình huống này. Trang 39 mô tả cơ chế không qua gene trên cơ trơn.",
+        "Không phù hợp trong tình huống này. Trang 39 mô tả cơ chế không qua gene trên cơ trơn.",
+        "Không phù hợp trong tình huống này. Trang 39 mô tả cơ chế không qua gene trên cơ trơn."
+      ],
+      "sources": [
+        {
+          "page": 39,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích CƠ TRƠN TỬ CUNG VÀ CƠ TRƠN VÒI FALLOPE Tác động của steroid sinh dục trên cơ trơn của các cơ quan có nguồn gốc ống Muller là tác động không qua gene. Estrogen và progesterone đều có thể có tác động trên cơ trơn của tử cung và của ống dẫn trứng. Đây là một tác động không qua gene. Hormone gắn kết với thụ thể ở màng bào tương và khởi phát một dòng thác phản ứng liên quan đến Ca++, dẫn đến hiện tượng co thắt cơ trơn hay thư giãn cơ trơn xảy ra tức thời ngay sau đó."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q054",
+      "topicId": "targets",
+      "conceptId": "m07-e2-transport",
+      "level": "apply",
+      "stem": "Quanh phóng noãn, E2 cao làm nhu động vòi trứng thay đổi ra sao?",
+      "options": [
+        "Làm mọi cơ trơn ngừng co",
+        "Đẩy hợp tử ngược vào buồng trứng theo mô tả bài",
+        "Không ảnh hưởng cơ trơn",
+        "Tăng co thắt, vận chuyển về tử cung"
+      ],
+      "answer": 3,
+      "explanation": "Trang 40 nêu vai trò estrogen trong vận chuyển hợp tử.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 40 nêu vai trò estrogen trong vận chuyển hợp tử.",
+        "Không phù hợp trong tình huống này. Trang 40 nêu vai trò estrogen trong vận chuyển hợp tử.",
+        "Không phù hợp trong tình huống này. Trang 40 nêu vai trò estrogen trong vận chuyển hợp tử.",
+        "Trang 40 nêu vai trò estrogen trong vận chuyển hợp tử."
+      ],
+      "sources": [
+        {
+          "page": 40,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Trên cơ trơn ống dẫn trứng, estrogen làm tăng co thắt các cơ trơn, vận chuyển hợp tử đi về phía buồng tử cung. Quanh và ngay sau phóng noãn, nồng độ estrogen rất cao. Nồng độ cao này làm các cơ trơn của ống dẫn trứng co thắt và tạo nên các nhu động vận chuyển trứng đã thụ tinh từ đoạn xa của ống dẫn trứng đi về phía tử cung. Cũng do tác động co thắt của các cơ vòng tại vị trí lỗ cắm của ống dẫn trứng vào buồng tử cung mà lối vào của tử cung từ phía ống dẫn trứng bị đóng lại, ngăn cản trứng đã thụ tinh vào buồng tử cung sớm, khi nội mạc tử cung chưa được chuẩn bị đúng mức với progesterone."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q055",
+      "topicId": "targets",
+      "conceptId": "m07-entry-gate",
+      "level": "apply",
+      "stem": "E2 làm cơ vòng tại lỗ vòi trứng vào tử cung co. Ý nghĩa nào được bài nêu?",
+      "options": [
+        "Chứng minh thụ tinh không xảy ra",
+        "Làm nội mạc trở thành buồng trứng",
+        "Ngăn hợp tử vào quá sớm khi nội mạc chưa chuẩn bị đủ",
+        "Bảo đảm hợp tử vào ngay lập tức"
+      ],
+      "answer": 2,
+      "explanation": "Trang 40 phân biệt vận chuyển trong vòi với kiểm soát cửa vào tử cung.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 40 phân biệt vận chuyển trong vòi với kiểm soát cửa vào tử cung.",
+        "Không phù hợp trong tình huống này. Trang 40 phân biệt vận chuyển trong vòi với kiểm soát cửa vào tử cung.",
+        "Trang 40 phân biệt vận chuyển trong vòi với kiểm soát cửa vào tử cung.",
+        "Không phù hợp trong tình huống này. Trang 40 phân biệt vận chuyển trong vòi với kiểm soát cửa vào tử cung."
+      ],
+      "sources": [
+        {
+          "page": 40,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Trên cơ trơn ống dẫn trứng, estrogen làm tăng co thắt các cơ trơn, vận chuyển hợp tử đi về phía buồng tử cung. Quanh và ngay sau phóng noãn, nồng độ estrogen rất cao. Nồng độ cao này làm các cơ trơn của ống dẫn trứng co thắt và tạo nên các nhu động vận chuyển trứng đã thụ tinh từ đoạn xa của ống dẫn trứng đi về phía tử cung. Cũng do tác động co thắt của các cơ vòng tại vị trí lỗ cắm của ống dẫn trứng vào buồng tử cung mà lối vào của tử cung từ phía ống dẫn trứng bị đóng lại, ngăn cản trứng đã thụ tinh vào buồng tử cung sớm, khi nội mạc tử cung chưa được chuẩn bị đúng mức với progesterone."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q056",
+      "topicId": "targets",
+      "conceptId": "m07-p4-relaxation",
+      "level": "apply",
+      "stem": "P4 đã đủ cao sau phóng noãn. Cơ vòng ở lối vào tử cung thay đổi thế nào?",
+      "options": [
+        "Không thể đáp ứng steroid",
+        "Giãn, thuận lợi hợp tử vào buồng tử cung",
+        "Co tăng vô hạn",
+        "Biến thành nang noãn"
+      ],
+      "answer": 1,
+      "explanation": "Trang 41 nêu progesterone làm ngưng co thắt, kể cả cơ vòng.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 41 nêu progesterone làm ngưng co thắt, kể cả cơ vòng.",
+        "Trang 41 nêu progesterone làm ngưng co thắt, kể cả cơ vòng.",
+        "Không phù hợp trong tình huống này. Trang 41 nêu progesterone làm ngưng co thắt, kể cả cơ vòng.",
+        "Không phù hợp trong tình huống này. Trang 41 nêu progesterone làm ngưng co thắt, kể cả cơ vòng."
+      ],
+      "sources": [
+        {
+          "page": 41,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Progesterone có tác dụng đối kháng với estrogen, mở rộng lối vào buồng tử cung và làm tử cung ngưng co thắt. Vào ngày thứ năm sau phóng noãn, nồng độ progesterone đã đủ cao để chuẩn bị cho sự làm tổ của trứng thụ tinh. Nồng độ cao progesterone làm ngưng các hoạt động co thắt cơ trơn, kể cả cơ vòng án ngữ lối vào buồng tử cung. Hợp tử dễ dàng lọt vào buồng tử cung và tiến hành tiến trình làm tổ. Cơ tử cung lúc này cũng đang ở trạng thái thư giãn dưới tác dụng của progesterone. Như vậy, trên cơ trơn của tử cung và của ống dẫn trứng, estrogen và progesterone có tác dụng đối kháng với nhau"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q057",
+      "topicId": "targets",
+      "conceptId": "m07-uterine-relax",
+      "level": "apply",
+      "stem": "Khi hợp tử vào làm tổ, P4 tác động cơ tử cung theo hướng nào?",
+      "options": [
+        "Thư giãn",
+        "Co thắt tối đa liên tục",
+        "Chuyển thành tế bào hạt",
+        "Ngừng có receptor vĩnh viễn"
+      ],
+      "answer": 0,
+      "explanation": "Trang 41 mô tả trạng thái thư giãn cơ tử cung dưới P4.",
+      "optionExplanations": [
+        "Trang 41 mô tả trạng thái thư giãn cơ tử cung dưới P4.",
+        "Không phù hợp trong tình huống này. Trang 41 mô tả trạng thái thư giãn cơ tử cung dưới P4.",
+        "Không phù hợp trong tình huống này. Trang 41 mô tả trạng thái thư giãn cơ tử cung dưới P4.",
+        "Không phù hợp trong tình huống này. Trang 41 mô tả trạng thái thư giãn cơ tử cung dưới P4."
+      ],
+      "sources": [
+        {
+          "page": 41,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Progesterone có tác dụng đối kháng với estrogen, mở rộng lối vào buồng tử cung và làm tử cung ngưng co thắt. Vào ngày thứ năm sau phóng noãn, nồng độ progesterone đã đủ cao để chuẩn bị cho sự làm tổ của trứng thụ tinh. Nồng độ cao progesterone làm ngưng các hoạt động co thắt cơ trơn, kể cả cơ vòng án ngữ lối vào buồng tử cung. Hợp tử dễ dàng lọt vào buồng tử cung và tiến hành tiến trình làm tổ. Cơ tử cung lúc này cũng đang ở trạng thái thư giãn dưới tác dụng của progesterone. Như vậy, trên cơ trơn của tử cung và của ống dẫn trứng, estrogen và progesterone có tác dụng đối kháng với nhau"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q058",
+      "topicId": "targets",
+      "conceptId": "m07-hypothalamus-p4",
+      "level": "apply",
+      "stem": "P4 cao trong pha hoàng thể tác động hoạt động kisspeptin theo hướng nào?",
+      "options": [
+        "Luôn kích thích tối đa",
+        "Biến kisspeptin thành DNA",
+        "Không có tác động theo bài",
+        "Khống chế hoạt động"
+      ],
+      "answer": 3,
+      "explanation": "Trang 42 đối chiếu P4 pha hoàng thể với E2 giữa chu kỳ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 42 đối chiếu P4 pha hoàng thể với E2 giữa chu kỳ.",
+        "Không phù hợp trong tình huống này. Trang 42 đối chiếu P4 pha hoàng thể với E2 giữa chu kỳ.",
+        "Không phù hợp trong tình huống này. Trang 42 đối chiếu P4 pha hoàng thể với E2 giữa chu kỳ.",
+        "Trang 42 đối chiếu P4 pha hoàng thể với E2 giữa chu kỳ."
+      ],
+      "sources": [
+        {
+          "page": 42,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích HẠ ĐỒI VÀ TUYẾN YÊN Các phản hồi âm và dương của steroid sinh dục trên bình diện hạ đồi-yên là ví dụ điển hình các tác động không qua gene của chúng. Nồng độ cao progesterone trong pha hoàng thể khống chế hoạt động kisspeptin của các KNDy neuron12, trong khi đó, nồng độ cao của estradiol giữa chu kỳ sẽ kích thích hoạt động này và tạo ra đỉnh LH tiền phóng noãn"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q059",
+      "topicId": "targets",
+      "conceptId": "m07-hypothalamus-e2",
+      "level": "apply",
+      "stem": "E2 cao giữa chu kỳ kích thích kisspeptin. Kết quả nội tiết được bài nêu là gì?",
+      "options": [
+        "Chỉ tạo AMH",
+        "Tạo progesterone ngay tại hạ đồi",
+        "Đỉnh LH tiền phóng noãn",
+        "Mất vĩnh viễn LH"
+      ],
+      "answer": 2,
+      "explanation": "Trang 42 nối kích thích kisspeptin với đỉnh LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 42 nối kích thích kisspeptin với đỉnh LH.",
+        "Không phù hợp trong tình huống này. Trang 42 nối kích thích kisspeptin với đỉnh LH.",
+        "Trang 42 nối kích thích kisspeptin với đỉnh LH.",
+        "Không phù hợp trong tình huống này. Trang 42 nối kích thích kisspeptin với đỉnh LH."
+      ],
+      "sources": [
+        {
+          "page": 42,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích HẠ ĐỒI VÀ TUYẾN YÊN Các phản hồi âm và dương của steroid sinh dục trên bình diện hạ đồi-yên là ví dụ điển hình các tác động không qua gene của chúng. Nồng độ cao progesterone trong pha hoàng thể khống chế hoạt động kisspeptin của các KNDy neuron12, trong khi đó, nồng độ cao của estradiol giữa chu kỳ sẽ kích thích hoạt động này và tạo ra đỉnh LH tiền phóng noãn"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q060",
+      "topicId": "targets",
+      "conceptId": "m07-breast-genomic",
+      "level": "apply",
+      "stem": "Có ER và PR trên các thành phần ống, tuyến vú. Bài dùng dữ kiện này để chỉ cơ chế nào?",
+      "options": [
+        "Chỉ tác động GnRH",
+        "Qua gene của cả E2 và P4",
+        "Chỉ co cơ không qua gene",
+        "Không có đáp ứng steroid"
+      ],
+      "answer": 1,
+      "explanation": "Trang 43 giải thích tác động qua gene trên tuyến vú.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 43 giải thích tác động qua gene trên tuyến vú.",
+        "Trang 43 giải thích tác động qua gene trên tuyến vú.",
+        "Không phù hợp trong tình huống này. Trang 43 giải thích tác động qua gene trên tuyến vú.",
+        "Không phù hợp trong tình huống này. Trang 43 giải thích tác động qua gene trên tuyến vú."
+      ],
+      "sources": [
+        {
+          "page": 43,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Tuyến vú là cơ quan không có nguồn gốc ống Muller nhưng chịu tác động của cả hai steroids sinh dục. Hiện diện của ER và PR trên các thành phần ống và tuyến của tuyến vú cho thấy cả estrogen lẫn progesterone đều tác động lên tuyến vú bằng cơ chế qua gene. Trên các cơ quan không có nguồn gốc ống Muller khác, steroids sinh dục tác động bằng cơ chế không qua gene. Nhiều cơ quan không có nguồn gốc ống Muller bị chi phối bởi steroids sinh dục như sự tạo xương, chuyển hóa lipid … Chúng thường chỉ chịu ảnh hưởng của một trong hai steroids sinh dục. Hầu hết các tác động này là tác động không qua gene, và thường xảy ra một cách tức thời"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q061",
+      "topicId": "steroids",
+      "conceptId": "m07-precursor-logic",
+      "level": "analyze",
+      "stem": "Tế bào vỏ tạo androstenedione, tế bào hạt dùng nó tạo E1 rồi E2. Tại sao không thể suy 'androgen và estrogen là hai đường hoàn toàn tách biệt'?",
+      "options": [
+        "Androgen là tiền chất được thơm hóa để tạo estrogen",
+        "E1 trực tiếp tạo FSH",
+        "Hai hormone không dùng tế bào hạt",
+        "Estrogen chỉ từ hạ đồi"
+      ],
+      "answer": 0,
+      "explanation": "Trang 6–7 nối hai nhóm steroid qua bước thơm hóa.",
+      "optionExplanations": [
+        "Trang 6–7 nối hai nhóm steroid qua bước thơm hóa.",
+        "Không phù hợp trong tình huống này. Trang 6–7 nối hai nhóm steroid qua bước thơm hóa.",
+        "Không phù hợp trong tình huống này. Trang 6–7 nối hai nhóm steroid qua bước thơm hóa.",
+        "Không phù hợp trong tình huống này. Trang 6–7 nối hai nhóm steroid qua bước thơm hóa."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "1. Các hormone sinh dục Các nang noãn dùng androgen để tổng hợp estrogen. Hiện tượng này xảy ra nhờ men aromatase P450 Tế bào vỏ của nang noãn sử dụng pregnenolone làm nguyên liệu để tổng hợp androstenedione q u a p h â n t ử t r u n g g i a n l à dehydroepiandrosterone (DHEA). Tại các nang hốc lớn, tế bào hạt của chúng sử dụng hầu hết lượng androstenedione từ tế bào vỏ cho hoạt động thơm hóa steroid, để tổng hợp estrone và estradiol. Vì thế, chúng phóng thích rất ít androgen vào máu ngoại vi"
+        },
+        {
+          "page": 7,
+          "quote": "1. Các hormone sinh dục Estrone là sản phẩm trực tiếp của tiến trình thơm hóa tiền chất của nó là androstenedione. Tiến trình thơm hóa diễn ra tại tế bào hạt, với sự tham gia của aromatase P450. Hoạt động thơm hóa androstenedione để tạo ra estrone chịu ảnh hưởng gián tiếp của FSH. Estrone có là một estrogen yếu. Estrone sẽ được chuyển đổi thuận nghịch thành estradiol. Là một estrogen rất mạnh, estradiol là estrogen quan trọng nhất trong các estrogen. Estradiol đảm nhận các chức năng trọng yếu của các cơ quan có nguồn gốc ống Müller"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q062",
+      "topicId": "steroids",
+      "conceptId": "m07-luteal-e2-p4",
+      "level": "understand",
+      "stem": "Một sơ đồ chỉ ghi P4 ở hoàng thể và xóa hoàn toàn E2 sau phóng noãn. Sửa nào đúng?",
+      "options": [
+        "Xóa P4, chỉ ghi GnRH",
+        "Ghi FSH là steroid chủ lực",
+        "Chuyển nguồn E2 sang cổ tử cung",
+        "Giữ cả E2 và P4 do hoàng thể tiếp tục chế tiết"
+      ],
+      "answer": 3,
+      "explanation": "Trang 8 nêu tiếp tục estradiol đồng thời thêm progesterone.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 8 nêu tiếp tục estradiol đồng thời thêm progesterone.",
+        "Không phù hợp trong tình huống này. Trang 8 nêu tiếp tục estradiol đồng thời thêm progesterone.",
+        "Không phù hợp trong tình huống này. Trang 8 nêu tiếp tục estradiol đồng thời thêm progesterone.",
+        "Trang 8 nêu tiếp tục estradiol đồng thời thêm progesterone."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "1. Các hormone sinh dục Progesterone có nguồn gốc từ tế bào hoàng thể. Sau phóng noãn, các tế bào tùy hành của noãn nang được hoàng thể hóa, hình thành hoàng thể. Các tế bào hoàng thể tiếp tục sản xuất estradiol, đồng thời cũng sản xuất progesterone từ pregnenolone. Progesterone cùng với estradiol đảm nhận các chức năng trọng yếu của các cơ quan có nguồn gốc ống Müller. 17α-hydroxy progesterone là sản phẩm chuyển hóa từ 17α- hydroxypregnenolone. 17α-hydroxy progesterone có thể có nguồn gốc hoàng thể, nhưng nó được biết đến như là một progesterone có nguồn gốc thượng thận. Phân tử này là phân tử gốc của các glucocorticoids"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q063",
+      "topicId": "receptors",
+      "conceptId": "m07-same-hormone-two-paths",
+      "level": "analyze",
+      "stem": "Cùng steroid vừa làm co cơ nhanh vừa làm tuyến tăng tổng hợp protein. Vì sao hai kết quả không mâu thuẫn?",
+      "options": [
+        "Co cơ bắt buộc chứng minh chuyển mã mới",
+        "Mọi receptor đều giống nhau",
+        "Có thể gắn receptor màng hoặc nhân với cơ chế khác nhau",
+        "Steroid không bao giờ tác động hai mô"
+      ],
+      "answer": 2,
+      "explanation": "Trang 11–17 phân biệt hai kiểu receptor và hai động học đáp ứng.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 11–17 phân biệt hai kiểu receptor và hai động học đáp ứng.",
+        "Không phù hợp trong tình huống này. Trang 11–17 phân biệt hai kiểu receptor và hai động học đáp ứng.",
+        "Trang 11–17 phân biệt hai kiểu receptor và hai động học đáp ứng.",
+        "Không phù hợp trong tình huống này. Trang 11–17 phân biệt hai kiểu receptor và hai động học đáp ứng."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "1. Các hormone sinh dục Các steroid sinh dục tác động trên cơ quan đích của chúng thông qua các thụ thể nằm trong nhân hay ở màng tế bào. Các tế bào tại cơ quan đích tiếp nhận hormone thông qua các thụ thể. Một cách tổng quát, các thụ thể này có tính chuyên biệt cao cho mỗi loại steroid sinh dục. Có hai loại thụ thể với steroid sinh dục: một loại thụ thể hiện diện trên bề mặt màng tế bào2 và một loại thụ thể khác hoạt động trong nhân tế bào"
+        },
+        {
+          "page": 12,
+          "quote": "1. Các hormone sinh dục Steroids sinh dục có hai kiểu tác động: 1. Tác động không qua gene (non-genomic) 2. Tác động qua gene (genomic) Các steroid sinh dục có thể có hai kiểu tác động khác nhau trên cơ quan đích, tùy theo việc ligand đến gắn với thụ thể thụ thể màng hay thụ thể nhân. 1. Nếu steroid sinh dục đến gắn với thụ thể GPCR ở màng tế bào, chúng sẽ có các tác động qua không qua gene. 2. Nếu steroid sinh dục gắn đến với thụ thể nhân, chúng sẽ có các tác động qua gene."
+        },
+        {
+          "page": 13,
+          "quote": "1. Các hormone sinh dục Tác động không qua gene của steroid sinh dục có thể thấy trên các cơ quan đích có nguồn gốc Müller lẫn các cơ quan đích không có nguồn gốc Müller. Trong kiểu tác động không qua gene, hormone gắn vào thụ thể kiểu GPCR trên màng bào tương. Hàng loạt các phản ứng dây chuyền, là các dòng thác tín hiệu thứ cấp của các phân tử trọng yếu như Ca + +, PI3K/Akt, MAPK, Protein Kinase C, AMP vòng… được kích hoạt tức khắc sau khi hormone tiếp xúc với thụ thể. Các dòng thác tín hiệu thứ cấp này sẽ tạo ra biểu hiện của tác động không qua gene của hormone: co cơ, phóng thích kisspeptin từ các KNDy neuron thuộc nhân cung…"
+        },
+        {
+          "page": 17,
+          "quote": "1. Các hormone sinh dục Phức bộ “hormone-coactivator” sẽ mở các gene tương ứng cho chuyển mã RNA. Phức bộ “hormone-thụ thể-corepressor” sẽ không mở được các gene tương ứng cho chuyển mã RNA. Tác động qua gene chỉ đòi hỏi sự hiện diện với nồng độ sinh lý, ở mức picomol, của hormone trong huyết tương. Do kết quả của tác động là là sự sinh tổng hợp protein, nên đặc điểm của kiểu tác động này chậm."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q064",
+      "topicId": "receptors",
+      "conceptId": "m07-non-genomic-gene",
+      "level": "analyze",
+      "stem": "Một người phủ nhận tác động không qua gene vì thấy biểu hiện gene cuối cùng thay đổi. Phân tích nào phù hợp?",
+      "options": [
+        "Ca++ không được bài đề cập",
+        "Tín hiệu thứ cấp có thể gián tiếp điều hòa gene dù phức ligand–receptor không gắn trực tiếp DNA",
+        "Mọi thay đổi gene phải do receptor nhân gắn trực tiếp",
+        "Tín hiệu GPCR không tồn tại"
+      ],
+      "answer": 1,
+      "explanation": "Trang 14 nêu rõ ngoại lệ đối với sự khái quát này.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 14 nêu rõ ngoại lệ đối với sự khái quát này.",
+        "Trang 14 nêu rõ ngoại lệ đối với sự khái quát này.",
+        "Không phù hợp trong tình huống này. Trang 14 nêu rõ ngoại lệ đối với sự khái quát này.",
+        "Không phù hợp trong tình huống này. Trang 14 nêu rõ ngoại lệ đối với sự khái quát này."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "1. Các hormone sinh dục Tác động không qua gene lệ thuộc mạnh vào nồng độ của hormone4, và thường đòi hỏi các nồng độ tương đối cao (ở mức micromol) của hormone hay chất tương tự. Cần lưu ý rằng dù phức bộ ligand-thụ thể không trực tiếp gắn lên các đoạn gene chuyên biệt, nhưng các dòng thác tín hiệu thứ cấp vẫn có thể tạo ảnh hưởng đến tiến trình điều hòa biểu hiện gene"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q065",
+      "topicId": "receptors",
+      "conceptId": "m07-hsp-not-sufficient",
+      "level": "analyze",
+      "stem": "Đã giải phóng receptor khỏi HSP nhưng phức gắn corepressor. Vì sao chưa chắc có chuyển mã gene tương ứng?",
+      "options": [
+        "Giải ức chế mặc định chưa thay thế được vai trò yếu tố đồng điều hòa",
+        "HSP chính là DNA",
+        "Corepressor luôn mạnh hơn coactivator để mở gene",
+        "Receptor đã biến thành P4"
+      ],
+      "answer": 0,
+      "explanation": "Trang 16–17 nêu cả bước loại HSP và vai trò coactivator/corepressor.",
+      "optionExplanations": [
+        "Trang 16–17 nêu cả bước loại HSP và vai trò coactivator/corepressor.",
+        "Không phù hợp trong tình huống này. Trang 16–17 nêu cả bước loại HSP và vai trò coactivator/corepressor.",
+        "Không phù hợp trong tình huống này. Trang 16–17 nêu cả bước loại HSP và vai trò coactivator/corepressor.",
+        "Không phù hợp trong tình huống này. Trang 16–17 nêu cả bước loại HSP và vai trò coactivator/corepressor."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "1. Các hormone sinh dục Trong kiểu tác động qua gien, thoạt tiên các steroid sinh dục được gắn với các thụ thể chuyên biệt của chúng trong nhân. Sự gắn kết này loại bỏ HSP, giải phóng thụ thể khỏi ức chế mặc định. - Phức bộ hormone-thụ thể sau đó sẽ được gắn vào DNA ở các vị trí cần chuyển mã RNA. - Phức bộ hormone-thụ thể không đơn độc gắn v à o D N A . M ộ t y ế u t ố đ ồ n g k í c h h o ạ t (coactivator) hoặc đồng ức chế (corepressor) cũng đến gắn vào phức bộ hormone-thụ thể"
+        },
+        {
+          "page": 17,
+          "quote": "1. Các hormone sinh dục Phức bộ “hormone-coactivator” sẽ mở các gene tương ứng cho chuyển mã RNA. Phức bộ “hormone-thụ thể-corepressor” sẽ không mở được các gene tương ứng cho chuyển mã RNA. Tác động qua gene chỉ đòi hỏi sự hiện diện với nồng độ sinh lý, ở mức picomol, của hormone trong huyết tương. Do kết quả của tác động là là sự sinh tổng hợp protein, nên đặc điểm của kiểu tác động này chậm."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q066",
+      "topicId": "receptors",
+      "conceptId": "m07-er-different-targets",
+      "level": "analyze",
+      "stem": "ER-α và ER-β đều nhận estrogen nhưng không được xem là có chức năng hoàn toàn giống nhau vì sao?",
+      "options": [
+        "Chúng đều do PGR tạo ra",
+        "ER-β là progesterone",
+        "ER-α không phải protein",
+        "Chúng điều hòa gene khác nhau tại vị trí DNA khác nhau"
+      ],
+      "answer": 3,
+      "explanation": "Trang 19–20 mô tả hai gene riêng và các đích điều hòa khác nhau.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 19–20 mô tả hai gene riêng và các đích điều hòa khác nhau.",
+        "Không phù hợp trong tình huống này. Trang 19–20 mô tả hai gene riêng và các đích điều hòa khác nhau.",
+        "Không phù hợp trong tình huống này. Trang 19–20 mô tả hai gene riêng và các đích điều hòa khác nhau.",
+        "Trang 19–20 mô tả hai gene riêng và các đích điều hòa khác nhau."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "1. Các hormone sinh dục Estrogen có 2 thụ thể nhân chuyên biệt là ER-α và ER-β. Cả hai thụ thể nhân của estrogen là các protein. ER-α được mã hóa bởi gene ESR1 thuộc nhiễm sắc thể 6. ER- β được mã hóa bởi gene ESR2 thuộc nhiễm sắc thể 14. Chúng được điều hòa độc lập với nhau"
+        },
+        {
+          "page": 20,
+          "quote": "1. Các hormone sinh dục Sau khi đã tách rời khỏi HSP, các ER sẽ gắn với estrogen tạo các đơn nguyên ER-estrogen. Hai đơn nguyên ERestrogen sẽ gắn với nhau tạo thành nhị nguyên. Nhị nguyên ER-estrogen có thể là đồng dạng hay không đồng dạng6. Các ER-α và ER-β điều hòa các gene khác nhau. Các ER-α và ER-β có vị trí gắn vào gene khác nhau, với các đoạn DNA downstream khác nhau, và do đó có chức năng rất khác nhau."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q067",
+      "topicId": "receptors",
+      "conceptId": "m07-pr-samegene-different",
+      "level": "analyze",
+      "stem": "Cùng gene PGR nhưng hai PR có thể cho kết quả khác nhau. Chuỗi giải thích nào đúng?",
+      "options": [
+        "PGR mã hóa estrogen trực tiếp",
+        "PR-A dài hơn và thêm AF3",
+        "Promoter khác → isoform khác → khác vùng AF3 và gắn yếu tố điều hòa",
+        "Cùng gene → bắt buộc mọi chức năng giống nhau"
+      ],
+      "answer": 2,
+      "explanation": "Trang 21–22 nối nguồn gene, isoform và cơ chế điều hòa.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 21–22 nối nguồn gene, isoform và cơ chế điều hòa.",
+        "Không phù hợp trong tình huống này. Trang 21–22 nối nguồn gene, isoform và cơ chế điều hòa.",
+        "Trang 21–22 nối nguồn gene, isoform và cơ chế điều hòa.",
+        "Không phù hợp trong tình huống này. Trang 21–22 nối nguồn gene, isoform và cơ chế điều hòa."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "1. Các hormone sinh dục Thụ thể nhân của progesterone Progesterone có 2 thụ thể nhân chuyên biệt là PR-A và PR-B. Cả hai thụ thể nhân của progesterone là các protein. Cả PR-A và PR-B được mã hóa bởi cùng một gene PGR chung thuộc nhiễm sắc thể 11. Trên PGR, có 2 promoter khác nhau. Tùy theo tiến trình chuyển mã RNA bắng đầu bằng promoter nào mà ta sẽ có kết quả dịch mã là PR- A hay PR-B."
+        },
+        {
+          "page": 22,
+          "quote": "1. Các hormone sinh dục Khi progesterone gắn vào PR-B, gene sẽ được mở ra cho tiến trình chuyển mã. Phức bộ giữa progesterone và PR-A không gắn được với coactivator, và do đó không mở được gene để chuyển mã. PR-A ngắn hơn PR-B, do điểm khởi đầu chuyển mã là promoter gần. So với PR-B thì PR-A thiếu một vùng được gọi là AF3. Thiếu AF3 làm cho PR-A không gắn được với co- activator khi chuyển mã, mà chỉ gắn được với co- repressor. Gắn với co-repressor làm cho gene bị khóa. Nói một cách khác, PR-A đảm nhận nhiệm vụ đối kháng với progesterone"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q068",
+      "topicId": "receptors",
+      "conceptId": "m07-pra-antagonism",
+      "level": "analyze",
+      "stem": "Trong mô hình bài, P4 vẫn gắn PR-A nhưng gene không mở. Vì sao 'có gắn hormone' chưa đủ để suy ra 'có hoạt hóa gene'?",
+      "options": [
+        "DNA không tham gia tác động qua gene",
+        "PR-A thiếu AF3, gắn corepressor thay coactivator",
+        "P4 không phải steroid",
+        "PR-A là receptor ngoài tế bào"
+      ],
+      "answer": 1,
+      "explanation": "Trang 22 phân biệt sự gắn ligand với kết quả của phức điều hòa.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 22 phân biệt sự gắn ligand với kết quả của phức điều hòa.",
+        "Trang 22 phân biệt sự gắn ligand với kết quả của phức điều hòa.",
+        "Không phù hợp trong tình huống này. Trang 22 phân biệt sự gắn ligand với kết quả của phức điều hòa.",
+        "Không phù hợp trong tình huống này. Trang 22 phân biệt sự gắn ligand với kết quả của phức điều hòa."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "1. Các hormone sinh dục Khi progesterone gắn vào PR-B, gene sẽ được mở ra cho tiến trình chuyển mã. Phức bộ giữa progesterone và PR-A không gắn được với coactivator, và do đó không mở được gene để chuyển mã. PR-A ngắn hơn PR-B, do điểm khởi đầu chuyển mã là promoter gần. So với PR-B thì PR-A thiếu một vùng được gọi là AF3. Thiếu AF3 làm cho PR-A không gắn được với co- activator khi chuyển mã, mà chỉ gắn được với co- repressor. Gắn với co-repressor làm cho gene bị khóa. Nói một cách khác, PR-A đảm nhận nhiệm vụ đối kháng với progesterone"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q069",
+      "topicId": "endometrium",
+      "conceptId": "m07-e2-priming-chain",
+      "level": "analyze",
+      "stem": "Chuỗi nào giải thích tác động nối tiếp E2 rồi P4 lên nội mạc?",
+      "options": [
+        "E2 tăng sinh và tạo PR → P4 chuyển tuyến sang chế tiết",
+        "P4 tạo ER trước → E2 chỉ làm đông chất nhầy",
+        "P4 không cần PR → mọi nội mạc đều đáp ứng như nhau",
+        "E2 phá hủy mọi tế bào nền trước P4"
+      ],
+      "answer": 0,
+      "explanation": "Trang 29–32 trình bày điều kiện chuẩn bị và chuyển pha nội mạc.",
+      "optionExplanations": [
+        "Trang 29–32 trình bày điều kiện chuẩn bị và chuyển pha nội mạc.",
+        "Không phù hợp trong tình huống này. Trang 29–32 trình bày điều kiện chuẩn bị và chuyển pha nội mạc.",
+        "Không phù hợp trong tình huống này. Trang 29–32 trình bày điều kiện chuẩn bị và chuyển pha nội mạc.",
+        "Không phù hợp trong tình huống này. Trang 29–32 trình bày điều kiện chuẩn bị và chuyển pha nội mạc."
+      ],
+      "sources": [
+        {
+          "page": 29,
+          "quote": "2. Chu kỳ nội mạc tử cung Tuyến phát triển có ER và PR Nồng độ của estrogen tăng dần trong quá trình phát triển noãn nang, làm tế bào tuyến nội mạc phân chia. Cũng dưới tác dụng qua gene của estrogen, các mạch máu của nội mạc tử cung cũng phát triển dần, dài ra và thẳng. Tuyến nội mạc tử cung phát triển sẽ tự tổng hợp các ER, giúp tuyến phát triển hơn nữa dưới estrogen. Đồng thời với việc tổng hợp các ER, tế bào nội mạc tử cung tổng hợp các thụ thể PR."
+        },
+        {
+          "page": 31,
+          "quote": "2. Chu kỳ nội mạc tử cung Progesterone phân tiết tuyến nội mạc tử cung đã phát triển, sẵn sàng tiếp nhận noãn đã thụ tinh đến để làm tổ Hiện tượng phóng noãn dẫn đến thành lập hoàng thể. Hoàng thể chế tiết progesterone. Progesterone sẽ tác động trên các tuyến nội mạc, lúc này đã sẵn sàng để tiếp nhận progesterone. Dưới tác động của progesterone, các tuyến nội mạc đã phát triển trước đó sẽ ngưng phân chia và phát triển. Chúng bắt đầu chuyển sang hoạt động chế tiết, tích lũy glycogen, với các mạch máu trở thành xoắn ốc, cung cấp máu tối đa cho nội mạc. Mô đệm nội mạc trở nên phù nề và sẵn sàng tiếp nhận noãn đã thụ tinh đến làm tổ. Như vậy, progesterone là hormone của “sự hoài thai”"
+        },
+        {
+          "page": 32,
+          "quote": "2. Chu kỳ nội mạc tử cung Tr ê n n ộ i m ạ c t ử c u n g , e s t r o g e n v à progesterone có tác dụng hiệp đồng. Do PR chỉ được tổng hợp bởi estrogen, nên progesterone chỉ tác động được lên một nội mạc đã được chuẩn bị trước với estrogen. Progesterone không thể tác động lên một nội mạc không được chuẩn bị trước với estrogen. Trên nội mạc tử cung, estrogen và progesterone có vai trò nối tiếp và có tác dụng hiệp đồng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q070",
+      "topicId": "endometrium",
+      "conceptId": "m07-unprepared-vs-prepared",
+      "level": "analyze",
+      "stem": "Hai mô nhận cùng P4 nhưng một mô đã được E2 chuẩn bị, mô kia chưa. Khác biệt đáp ứng nào được bài giải thích?",
+      "options": [
+        "Hai mô bắt buộc giống nhau vì cùng P4",
+        "Mô chưa chuẩn bị luôn chế tiết mạnh hơn",
+        "E2 chuẩn bị bằng cách xóa PR",
+        "Mô đã chuẩn bị có PR và có thể chuyển sang chế tiết"
+      ],
+      "answer": 3,
+      "explanation": "Trang 27 và 32 nhấn mạnh thụ thể và chuẩn bị trước.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 27 và 32 nhấn mạnh thụ thể và chuẩn bị trước.",
+        "Không phù hợp trong tình huống này. Trang 27 và 32 nhấn mạnh thụ thể và chuẩn bị trước.",
+        "Không phù hợp trong tình huống này. Trang 27 và 32 nhấn mạnh thụ thể và chuẩn bị trước.",
+        "Trang 27 và 32 nhấn mạnh thụ thể và chuẩn bị trước."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "2. Chu kỳ nội mạc tử cung Lượng estrogen ít ỏi này đủ để gây tác động qua gene, thúc đẩy phát triển các tế bào nền dự trữ của nội mạc tử cung, làm chúng trở thành tế bào nội mạc tử cung hoạt động. Các tế bào nền dự trữ của nội mạc tử cung có rất ít thụ thể với progesterone (PR). Không có PR, tại tế bào nền, progesterone không thể gây ra tác động qua gene trên các tế bào dự trữ này của nội mạc tử cung."
+        },
+        {
+          "page": 32,
+          "quote": "2. Chu kỳ nội mạc tử cung Tr ê n n ộ i m ạ c t ử c u n g , e s t r o g e n v à progesterone có tác dụng hiệp đồng. Do PR chỉ được tổng hợp bởi estrogen, nên progesterone chỉ tác động được lên một nội mạc đã được chuẩn bị trước với estrogen. Progesterone không thể tác động lên một nội mạc không được chuẩn bị trước với estrogen. Trên nội mạc tử cung, estrogen và progesterone có vai trò nối tiếp và có tác dụng hiệp đồng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q071",
+      "topicId": "endometrium",
+      "conceptId": "m07-few-follicles-manycells",
+      "level": "analyze",
+      "stem": "Số nang giảm nhưng E2 tăng và nội mạc vẫn dày lên. Phân tích nào tránh nhầm số nang với hoạt tính nội tiết?",
+      "options": [
+        "Nội mạc dày chứng minh P4 không tồn tại",
+        "Số nang và E2 luôn tỉ lệ cố định",
+        "Nang ưu thế có khối tế bào hạt lớn tạo nhiều E2",
+        "Mọi nang phải tăng số lượng mới có E2"
+      ],
+      "answer": 2,
+      "explanation": "Trang 30 giải thích khối tế bào hạt trong nang được chọn lọc.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 30 giải thích khối tế bào hạt trong nang được chọn lọc.",
+        "Không phù hợp trong tình huống này. Trang 30 giải thích khối tế bào hạt trong nang được chọn lọc.",
+        "Trang 30 giải thích khối tế bào hạt trong nang được chọn lọc.",
+        "Không phù hợp trong tình huống này. Trang 30 giải thích khối tế bào hạt trong nang được chọn lọc."
+      ],
+      "sources": [
+        {
+          "page": 30,
+          "quote": "2. Chu kỳ nội mạc tử cung Số lượng noãn nang phát triển giảm dần trong quá trình chọn lọc noãn nang. Tuy nhiên, sự kiện này không ảnh hưởng đến sự phát triển của tuyến nội mạc tử cung lệ thuộc estrogen, do nang noãn được chọn lọc có một khối lượng lớn tế bào hạt, đảm bảo chế tiết một lượng lớn estrogen. Estrogen vẫn tăng nhanh đều trong giai đoạn chọn lọc noãn nang của chu kỳ buồng trứng. Đến giữa chu kỳ kinh nguyệt, khi trên buồng trứng đã chọn lọc được một nang de Graaf, nồng độ estrogen đã lên cao đến cực điểm. Lúc này, các tuyến nội mạc tử cung đã phát triển đến mức tối đa, nội mạc dầy lên rõ rệt, chứa đầy các ống tuyến thẳng, dài được trang bị các ER và các PR8, với một hệ thống các mạch máu tùy hành phong phú."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q072",
+      "topicId": "endometrium",
+      "conceptId": "m07-proliferation-vs-secretory",
+      "level": "analyze",
+      "stem": "Tuyến ngừng tăng sinh, tích glycogen và mạch xoắn ốc sau một pha tăng sinh dưới E2. Giải thích tích hợp nào phù hợp?",
+      "options": [
+        "Đây là bằng chứng hoàng thể chưa bao giờ hình thành",
+        "P4 tác động lên nội mạc đã được E2 chuẩn bị",
+        "E2 hoàn toàn không có vai trò trước đó",
+        "Mọi biến đổi chỉ do GnRH tại tử cung"
+      ],
+      "answer": 1,
+      "explanation": "Trang 29–32 nối các đặc điểm hình thái với trình tự steroid.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 29–32 nối các đặc điểm hình thái với trình tự steroid.",
+        "Trang 29–32 nối các đặc điểm hình thái với trình tự steroid.",
+        "Không phù hợp trong tình huống này. Trang 29–32 nối các đặc điểm hình thái với trình tự steroid.",
+        "Không phù hợp trong tình huống này. Trang 29–32 nối các đặc điểm hình thái với trình tự steroid."
+      ],
+      "sources": [
+        {
+          "page": 29,
+          "quote": "2. Chu kỳ nội mạc tử cung Tuyến phát triển có ER và PR Nồng độ của estrogen tăng dần trong quá trình phát triển noãn nang, làm tế bào tuyến nội mạc phân chia. Cũng dưới tác dụng qua gene của estrogen, các mạch máu của nội mạc tử cung cũng phát triển dần, dài ra và thẳng. Tuyến nội mạc tử cung phát triển sẽ tự tổng hợp các ER, giúp tuyến phát triển hơn nữa dưới estrogen. Đồng thời với việc tổng hợp các ER, tế bào nội mạc tử cung tổng hợp các thụ thể PR."
+        },
+        {
+          "page": 31,
+          "quote": "2. Chu kỳ nội mạc tử cung Progesterone phân tiết tuyến nội mạc tử cung đã phát triển, sẵn sàng tiếp nhận noãn đã thụ tinh đến để làm tổ Hiện tượng phóng noãn dẫn đến thành lập hoàng thể. Hoàng thể chế tiết progesterone. Progesterone sẽ tác động trên các tuyến nội mạc, lúc này đã sẵn sàng để tiếp nhận progesterone. Dưới tác động của progesterone, các tuyến nội mạc đã phát triển trước đó sẽ ngưng phân chia và phát triển. Chúng bắt đầu chuyển sang hoạt động chế tiết, tích lũy glycogen, với các mạch máu trở thành xoắn ốc, cung cấp máu tối đa cho nội mạc. Mô đệm nội mạc trở nên phù nề và sẵn sàng tiếp nhận noãn đã thụ tinh đến làm tổ. Như vậy, progesterone là hormone của “sự hoài thai”"
+        },
+        {
+          "page": 32,
+          "quote": "2. Chu kỳ nội mạc tử cung Tr ê n n ộ i m ạ c t ử c u n g , e s t r o g e n v à progesterone có tác dụng hiệp đồng. Do PR chỉ được tổng hợp bởi estrogen, nên progesterone chỉ tác động được lên một nội mạc đã được chuẩn bị trước với estrogen. Progesterone không thể tác động lên một nội mạc không được chuẩn bị trước với estrogen. Trên nội mạc tử cung, estrogen và progesterone có vai trò nối tiếp và có tác dụng hiệp đồng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q073",
+      "topicId": "endometrium",
+      "conceptId": "m07-normal-menses-two-conditions",
+      "level": "analyze",
+      "stem": "Theo bài, chỉ có một đợt giảm P4 có đủ để mô tả toàn bộ điều kiện nội tiết hành kinh bình thường không?",
+      "options": [
+        "Chưa; cần nội mạc nhận tuần tự hai steroid và cả hai cùng chấm dứt hoạt động",
+        "Có; E2 không liên quan nội mạc",
+        "Có; trình tự trước đó không quan trọng",
+        "Không vì P4 phải tăng mãi"
+      ],
+      "answer": 0,
+      "explanation": "Trang 34 nêu hai điều kiện đồng thời của hành kinh bình thường.",
+      "optionExplanations": [
+        "Trang 34 nêu hai điều kiện đồng thời của hành kinh bình thường.",
+        "Không phù hợp trong tình huống này. Trang 34 nêu hai điều kiện đồng thời của hành kinh bình thường.",
+        "Không phù hợp trong tình huống này. Trang 34 nêu hai điều kiện đồng thời của hành kinh bình thường.",
+        "Không phù hợp trong tình huống này. Trang 34 nêu hai điều kiện đồng thời của hành kinh bình thường."
+      ],
+      "sources": [
+        {
+          "page": 34,
+          "quote": "2. Chu kỳ nội mạc tử cung Nội mạc tử cung không còn nhận được hormone, sẽ bị hoại tử, bong tróc và sụp đổ hoàn toàn, một cách nhanh chóng, gây ra hiện tượng hành kinh. Như vậy, hành kinh bình thường đòi hỏi đồng thời hai điều kiện về nội tiết quan trọng là: 1. Nội mạc tử cung phải tiếp nhận tuần tự cả hai loại steroid sinh dục 2. Cả hai steroid sinh dục này phải chấm dứt hoạt động cùng lúc"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q074",
+      "topicId": "endometrium",
+      "conceptId": "m07-withdrawal-not-increase",
+      "level": "analyze",
+      "stem": "Hoàng thể thoái triển, nội mạc bong tróc. Chuỗi nào đúng thay cho nhận định 'do steroid tăng quá mạnh'?",
+      "options": [
+        "E2 tăng → tạo hoàng thể ngay trong tử cung",
+        "P4 tăng → mất mọi receptor",
+        "GnRH biến nội mạc thành máu",
+        "E2 và P4 giảm → mất hỗ trợ nội mạc → bong tróc"
+      ],
+      "answer": 3,
+      "explanation": "Trang 33–34 liên hệ thoái triển hoàng thể và rút steroid.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 33–34 liên hệ thoái triển hoàng thể và rút steroid.",
+        "Không phù hợp trong tình huống này. Trang 33–34 liên hệ thoái triển hoàng thể và rút steroid.",
+        "Không phù hợp trong tình huống này. Trang 33–34 liên hệ thoái triển hoàng thể và rút steroid.",
+        "Trang 33–34 liên hệ thoái triển hoàng thể và rút steroid."
+      ],
+      "sources": [
+        {
+          "page": 33,
+          "quote": "2. Chu kỳ nội mạc tử cung Hành kinh là kết quả của sự sụt giảm đột ngột của nồng độ của cả hai steroid sinh dục lưu hành, gây sụp đổ hoàn toàn nội mạc tử cung Vào cuối chu kỳ buồng trứng, hoàng thể bị thoái triển do không còn LH. Sự thoái triển này dẫn đến việc sụt giảm đột ngột nồng độ của cả hai steroid sinh dục lưu hành"
+        },
+        {
+          "page": 34,
+          "quote": "2. Chu kỳ nội mạc tử cung Nội mạc tử cung không còn nhận được hormone, sẽ bị hoại tử, bong tróc và sụp đổ hoàn toàn, một cách nhanh chóng, gây ra hiện tượng hành kinh. Như vậy, hành kinh bình thường đòi hỏi đồng thời hai điều kiện về nội tiết quan trọng là: 1. Nội mạc tử cung phải tiếp nhận tuần tự cả hai loại steroid sinh dục 2. Cả hai steroid sinh dục này phải chấm dứt hoạt động cùng lúc"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q075",
+      "topicId": "targets",
+      "conceptId": "m07-organ-specific-opposition",
+      "level": "analyze",
+      "stem": "E2 và P4 hiệp đồng ở nội mạc nhưng đối kháng ở chất nhầy. Kết luận nào đúng?",
+      "options": [
+        "Hai hormone luôn hiệp đồng ở mọi mô",
+        "P4 chỉ tác động một cơ quan duy nhất",
+        "Quan hệ tác động phụ thuộc mô đích",
+        "Hai hormone luôn đối kháng ở mọi mô"
+      ],
+      "answer": 2,
+      "explanation": "Trang 32 và 38 cho thấy hai quan hệ khác nhau theo cơ quan.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 32 và 38 cho thấy hai quan hệ khác nhau theo cơ quan.",
+        "Không phù hợp trong tình huống này. Trang 32 và 38 cho thấy hai quan hệ khác nhau theo cơ quan.",
+        "Trang 32 và 38 cho thấy hai quan hệ khác nhau theo cơ quan.",
+        "Không phù hợp trong tình huống này. Trang 32 và 38 cho thấy hai quan hệ khác nhau theo cơ quan."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "2. Chu kỳ nội mạc tử cung Tr ê n n ộ i m ạ c t ử c u n g , e s t r o g e n v à progesterone có tác dụng hiệp đồng. Do PR chỉ được tổng hợp bởi estrogen, nên progesterone chỉ tác động được lên một nội mạc đã được chuẩn bị trước với estrogen. Progesterone không thể tác động lên một nội mạc không được chuẩn bị trước với estrogen. Trên nội mạc tử cung, estrogen và progesterone có vai trò nối tiếp và có tác dụng hiệp đồng."
+        },
+        {
+          "page": 38,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Trên tuyến cổ tử cung, progesterone làm đông đặc chất nhầy cổ tử cung, ngăn tinh trùng và vi khuẩn xâm nhập. Sau khi phóng noãn, progesterone từ hoàng thể sẽ tạo ra một tác động đối kháng với estrogen trên chất nhầy cổ tử cung. Dưới tác động của progesterone, chất nhầy cổ tử cung trở nên đặc, đục, bở và ít. Tinh trùng và phần lớn các vi sinh khác sẽ không thể xâm nhập lên đường sinh dục trên qua ngả cổ tử cung. Đường sinh dục trên đã được bảo vệ cẩn mật sau khi đã có sự xâm nhập của tinh trùng."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q076",
+      "topicId": "targets",
+      "conceptId": "m07-transport-vs-entry",
+      "level": "analyze",
+      "stem": "E2 giúp vận chuyển hợp tử về tử cung nhưng cũng co cơ vòng lối vào. Vì sao hai tác dụng không trái logic bài?",
+      "options": [
+        "Hợp tử luôn phải vào trước chuẩn bị nội mạc",
+        "Vận chuyển dọc vòi và thời điểm vào buồng tử cung là hai bước được phối hợp",
+        "E2 không hề gây nhu động",
+        "Cơ vòng hoàn toàn không đáp ứng steroid"
+      ],
+      "answer": 1,
+      "explanation": "Trang 40 phân biệt nhu động vận chuyển với đóng lối vào tạm thời.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 40 phân biệt nhu động vận chuyển với đóng lối vào tạm thời.",
+        "Trang 40 phân biệt nhu động vận chuyển với đóng lối vào tạm thời.",
+        "Không phù hợp trong tình huống này. Trang 40 phân biệt nhu động vận chuyển với đóng lối vào tạm thời.",
+        "Không phù hợp trong tình huống này. Trang 40 phân biệt nhu động vận chuyển với đóng lối vào tạm thời."
+      ],
+      "sources": [
+        {
+          "page": 40,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Trên cơ trơn ống dẫn trứng, estrogen làm tăng co thắt các cơ trơn, vận chuyển hợp tử đi về phía buồng tử cung. Quanh và ngay sau phóng noãn, nồng độ estrogen rất cao. Nồng độ cao này làm các cơ trơn của ống dẫn trứng co thắt và tạo nên các nhu động vận chuyển trứng đã thụ tinh từ đoạn xa của ống dẫn trứng đi về phía tử cung. Cũng do tác động co thắt của các cơ vòng tại vị trí lỗ cắm của ống dẫn trứng vào buồng tử cung mà lối vào của tử cung từ phía ống dẫn trứng bị đóng lại, ngăn cản trứng đã thụ tinh vào buồng tử cung sớm, khi nội mạc tử cung chưa được chuẩn bị đúng mức với progesterone."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q077",
+      "topicId": "targets",
+      "conceptId": "m07-p4-synchrony",
+      "level": "analyze",
+      "stem": "P4 vừa làm nội mạc chế tiết vừa làm giãn cơ vòng vòi–tử cung. Sự phối hợp này phù hợp mục đích nào trong bài?",
+      "options": [
+        "Cho hợp tử vào khi nội mạc đã sẵn sàng tiếp nhận",
+        "Ngăn vĩnh viễn mọi phôi vào tử cung",
+        "Đưa noãn trở lại buồng trứng",
+        "Hủy toàn bộ nội mạc trước làm tổ"
+      ],
+      "answer": 0,
+      "explanation": "Trang 31 và 41 liên kết chuẩn bị nội mạc với khả năng vào buồng tử cung.",
+      "optionExplanations": [
+        "Trang 31 và 41 liên kết chuẩn bị nội mạc với khả năng vào buồng tử cung.",
+        "Không phù hợp trong tình huống này. Trang 31 và 41 liên kết chuẩn bị nội mạc với khả năng vào buồng tử cung.",
+        "Không phù hợp trong tình huống này. Trang 31 và 41 liên kết chuẩn bị nội mạc với khả năng vào buồng tử cung.",
+        "Không phù hợp trong tình huống này. Trang 31 và 41 liên kết chuẩn bị nội mạc với khả năng vào buồng tử cung."
+      ],
+      "sources": [
+        {
+          "page": 31,
+          "quote": "2. Chu kỳ nội mạc tử cung Progesterone phân tiết tuyến nội mạc tử cung đã phát triển, sẵn sàng tiếp nhận noãn đã thụ tinh đến để làm tổ Hiện tượng phóng noãn dẫn đến thành lập hoàng thể. Hoàng thể chế tiết progesterone. Progesterone sẽ tác động trên các tuyến nội mạc, lúc này đã sẵn sàng để tiếp nhận progesterone. Dưới tác động của progesterone, các tuyến nội mạc đã phát triển trước đó sẽ ngưng phân chia và phát triển. Chúng bắt đầu chuyển sang hoạt động chế tiết, tích lũy glycogen, với các mạch máu trở thành xoắn ốc, cung cấp máu tối đa cho nội mạc. Mô đệm nội mạc trở nên phù nề và sẵn sàng tiếp nhận noãn đã thụ tinh đến làm tổ. Như vậy, progesterone là hormone của “sự hoài thai”"
+        },
+        {
+          "page": 41,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Progesterone có tác dụng đối kháng với estrogen, mở rộng lối vào buồng tử cung và làm tử cung ngưng co thắt. Vào ngày thứ năm sau phóng noãn, nồng độ progesterone đã đủ cao để chuẩn bị cho sự làm tổ của trứng thụ tinh. Nồng độ cao progesterone làm ngưng các hoạt động co thắt cơ trơn, kể cả cơ vòng án ngữ lối vào buồng tử cung. Hợp tử dễ dàng lọt vào buồng tử cung và tiến hành tiến trình làm tổ. Cơ tử cung lúc này cũng đang ở trạng thái thư giãn dưới tác dụng của progesterone. Như vậy, trên cơ trơn của tử cung và của ống dẫn trứng, estrogen và progesterone có tác dụng đối kháng với nhau"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q078",
+      "topicId": "targets",
+      "conceptId": "m07-different-times",
+      "level": "analyze",
+      "stem": "Sau phóng noãn, cổ tử cung cản tinh trùng nhưng lối vòi–tử cung có thể mở dưới P4. Vì sao không mâu thuẫn?",
+      "options": [
+        "Cổ tử cung chính là cơ vòng vòi trứng",
+        "P4 chỉ có một tác động giống nhau ở mọi mô",
+        "E2 và P4 là cùng một phân tử",
+        "Là hai vị trí, chức năng khác nhau: hàng rào cổ tử cung và đường hợp tử vào tử cung"
+      ],
+      "answer": 3,
+      "explanation": "Trang 38 và 41 mô tả riêng hai cơ quan đích.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 38 và 41 mô tả riêng hai cơ quan đích.",
+        "Không phù hợp trong tình huống này. Trang 38 và 41 mô tả riêng hai cơ quan đích.",
+        "Không phù hợp trong tình huống này. Trang 38 và 41 mô tả riêng hai cơ quan đích.",
+        "Trang 38 và 41 mô tả riêng hai cơ quan đích."
+      ],
+      "sources": [
+        {
+          "page": 38,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Trên tuyến cổ tử cung, progesterone làm đông đặc chất nhầy cổ tử cung, ngăn tinh trùng và vi khuẩn xâm nhập. Sau khi phóng noãn, progesterone từ hoàng thể sẽ tạo ra một tác động đối kháng với estrogen trên chất nhầy cổ tử cung. Dưới tác động của progesterone, chất nhầy cổ tử cung trở nên đặc, đục, bở và ít. Tinh trùng và phần lớn các vi sinh khác sẽ không thể xâm nhập lên đường sinh dục trên qua ngả cổ tử cung. Đường sinh dục trên đã được bảo vệ cẩn mật sau khi đã có sự xâm nhập của tinh trùng."
+        },
+        {
+          "page": 41,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Progesterone có tác dụng đối kháng với estrogen, mở rộng lối vào buồng tử cung và làm tử cung ngưng co thắt. Vào ngày thứ năm sau phóng noãn, nồng độ progesterone đã đủ cao để chuẩn bị cho sự làm tổ của trứng thụ tinh. Nồng độ cao progesterone làm ngưng các hoạt động co thắt cơ trơn, kể cả cơ vòng án ngữ lối vào buồng tử cung. Hợp tử dễ dàng lọt vào buồng tử cung và tiến hành tiến trình làm tổ. Cơ tử cung lúc này cũng đang ở trạng thái thư giãn dưới tác dụng của progesterone. Như vậy, trên cơ trơn của tử cung và của ống dẫn trứng, estrogen và progesterone có tác dụng đối kháng với nhau"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q079",
+      "topicId": "targets",
+      "conceptId": "m07-source-not-mechanism",
+      "level": "apply",
+      "stem": "Một người suy mọi cơ quan không nguồn gốc Müller chỉ có tác động không qua gene. Dữ kiện nào trong bài bác bỏ điều đó?",
+      "options": [
+        "Tuyến vú thuộc ống Müller theo bài",
+        "Chỉ cơ trơn mới có tác động qua gene",
+        "Tuyến vú có ER, PR và tác động qua gene của cả hai steroid",
+        "Mọi cơ quan không Müller đều không có receptor"
+      ],
+      "answer": 2,
+      "explanation": "Trang 43 nêu rõ tuyến vú là trường hợp tác động qua gene ngoài nguồn gốc Müller.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 43 nêu rõ tuyến vú là trường hợp tác động qua gene ngoài nguồn gốc Müller.",
+        "Không phù hợp trong tình huống này. Trang 43 nêu rõ tuyến vú là trường hợp tác động qua gene ngoài nguồn gốc Müller.",
+        "Trang 43 nêu rõ tuyến vú là trường hợp tác động qua gene ngoài nguồn gốc Müller.",
+        "Không phù hợp trong tình huống này. Trang 43 nêu rõ tuyến vú là trường hợp tác động qua gene ngoài nguồn gốc Müller."
+      ],
+      "sources": [
+        {
+          "page": 43,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích Tuyến vú là cơ quan không có nguồn gốc ống Muller nhưng chịu tác động của cả hai steroids sinh dục. Hiện diện của ER và PR trên các thành phần ống và tuyến của tuyến vú cho thấy cả estrogen lẫn progesterone đều tác động lên tuyến vú bằng cơ chế qua gene. Trên các cơ quan không có nguồn gốc ống Muller khác, steroids sinh dục tác động bằng cơ chế không qua gene. Nhiều cơ quan không có nguồn gốc ống Muller bị chi phối bởi steroids sinh dục như sự tạo xương, chuyển hóa lipid … Chúng thường chỉ chịu ảnh hưởng của một trong hai steroids sinh dục. Hầu hết các tác động này là tác động không qua gene, và thường xảy ra một cách tức thời"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m07-q080",
+      "topicId": "targets",
+      "conceptId": "m07-hypothalamic-contrast",
+      "level": "analyze",
+      "stem": "So sánh E2 cao giữa chu kỳ với P4 cao pha hoàng thể trên kisspeptin cho thấy gì?",
+      "options": [
+        "P4 biến trực tiếp thành kisspeptin",
+        "E2 kích thích tạo đỉnh LH; P4 khống chế hoạt động",
+        "Cả hai luôn tạo đỉnh LH giống nhau",
+        "Cả hai không tác động hạ đồi"
+      ],
+      "answer": 1,
+      "explanation": "Trang 42 mô tả sự khác biệt theo steroid và giai đoạn chu kỳ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 42 mô tả sự khác biệt theo steroid và giai đoạn chu kỳ.",
+        "Trang 42 mô tả sự khác biệt theo steroid và giai đoạn chu kỳ.",
+        "Không phù hợp trong tình huống này. Trang 42 mô tả sự khác biệt theo steroid và giai đoạn chu kỳ.",
+        "Không phù hợp trong tình huống này. Trang 42 mô tả sự khác biệt theo steroid và giai đoạn chu kỳ."
+      ],
+      "sources": [
+        {
+          "page": 42,
+          "quote": "3. Ảnh hưởng của hormone sinh dục lên các CQ đích HẠ ĐỒI VÀ TUYẾN YÊN Các phản hồi âm và dương của steroid sinh dục trên bình diện hạ đồi-yên là ví dụ điển hình các tác động không qua gene của chúng. Nồng độ cao progesterone trong pha hoàng thể khống chế hoạt động kisspeptin của các KNDy neuron12, trong khi đó, nồng độ cao của estradiol giữa chu kỳ sẽ kích thích hoạt động này và tạo ra đỉnh LH tiền phóng noãn"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    }
+  ],
+  "reviewStatus": "passed2",
+  "reviewReport": "content/reviews/endocrine-rounds12.md"
+}

@@ -1,0 +1,67 @@
+﻿{
+    "id":  "m10",
+    "title":  "SỰ SINH TINH",
+    "original":  "10. SỰ SINH TINH.pptx",
+    "file":  "sources/m10.pptx",
+    "format":  "pptx",
+    "sha256":  "bd2400b6ea5b99b4e5fbc26b0084bad670d77eaf0c6bacbe0066dcd3420f194e",
+    "pages":  [
+                  {
+                      "page":  1,
+                      "text":  "SỰ SINH TINH TRÙNG\nTHS. BS PHẠM DUY HÙNG"
+                  },
+                  {
+                      "page":  2,
+                      "text":  "MỤC TIÊU HỌC TẬP\nTRÌNH BÀY ĐƯỢC CẤU TRÚC CỦA TINH TRÙNG\nTRÌNH BÀY ĐƯỢC TIẾN TRÌNH SẢN SINH TINH TRÙNG\n"
+                  },
+                  {
+                      "page":  3,
+                      "text":  "CẤU TẠO TINH TRÙNG"
+                  },
+                  {
+                      "page":  4,
+                      "text":  "CẤU TẠO TINH TRÙNG"
+                  },
+                  {
+                      "page":  5,
+                      "text":  "QUÁ TRÌNH SINH TINH"
+                  },
+                  {
+                      "page":  6,
+                      "text":  "TINH TỬ"
+                  },
+                  {
+                      "page":  7,
+                      "text":  "TINH TỬ"
+                  },
+                  {
+                      "page":  8,
+                      "text":  "ỐNG SINH TINH"
+                  },
+                  {
+                      "page":  9,
+                      "text":  "TẾ BÀO SERTOLI"
+                  },
+                  {
+                      "page":  10,
+                      "text":  "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn\n"
+                  },
+                  {
+                      "page":  11,
+                      "text":  "HÀNG RÀO MÁU-TINH HOÀN"
+                  },
+                  {
+                      "page":  12,
+                      "text":  "VẬN CHUYỂN TINH TRÙNG"
+                  },
+                  {
+                      "page":  13,
+                      "text":  "QUÁ TRÌNH SINH GIAO TỬ"
+                  },
+                  {
+                      "page":  14,
+                      "text":  "HẾT"
+                  }
+              ],
+    "viewFile":  "sources/m10.pdf"
+}

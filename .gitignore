@@ -1,0 +1,8 @@
+node_modules/
+dist/
+tmp/
+content/*-page-*.jpg
+content/*.ocr.txt
+*.log
+.DS_Store
+

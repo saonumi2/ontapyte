@@ -1,0 +1,31 @@
+from pathlib import Path
+import json, shutil, sys
+from collections import Counter
+
+ROOT=Path(__file__).resolve().parents[1]
+DIST=ROOT/'dist'
+if DIST.exists(): shutil.rmtree(DIST)
+DIST.mkdir()
+for item in (ROOT/'src').iterdir():
+    shutil.copy2(item,DIST/item.name)
+shutil.copytree(ROOT/'public'/'sources',DIST/'sources')
+(DIST/'data').mkdir()
+catalog=[]
+for path in sorted((ROOT/'content').glob('m[0-9][0-9].json')):
+    doc=json.loads(path.read_text(encoding='utf-8-sig'))
+    bank_path=ROOT/'content'/'banks'/path.name
+    bank=json.loads(bank_path.read_text(encoding='utf-8-sig')) if bank_path.exists() else None
+    q=bank['questions'] if bank else []
+    level_counts=Counter(x['level'] for x in q)
+    all_reviewed=all(all(x.get('review',{}).get(k) is True for k in ('source','semantic')) for x in q)
+    concepts={l:len({x.get('conceptId') for x in q if x['level']==l}) for l in ('understand','apply','analyze')}
+    enough=all(concepts[l]>=n for l,n in [('understand',10),('apply',20),('analyze',10)])
+    ready=bool(q) and all_reviewed and enough and bank.get('reviewStatus')=='passed2'
+    file_name=doc.get('viewFile',doc['file'])
+    catalog.append({'id':doc['id'],'title':doc['title'],'original':doc['original'],'file':file_name,
+                    'pageCount':len(doc['pages']),'questionCount':len(q),'levels':level_counts,'ready':ready})
+    if ready:
+        public_bank={k:v for k,v in bank.items() if k in ('moduleId','title','topics','questions')}
+        (DIST/'data'/path.name).write_text(json.dumps(public_bank,ensure_ascii=False),encoding='utf-8')
+(DIST/'data'/'catalog.json').write_text(json.dumps(catalog,ensure_ascii=False),encoding='utf-8')
+print('Built',DIST,'ready',sum(x['ready'] for x in catalog),'of',len(catalog))

@@ -1,0 +1,2940 @@
+{
+  "moduleId": "m06",
+  "title": "Trục HPO - Chu Kỳ BT",
+  "sourceSha256": "5ab60bada66113c016c9ac6e9ec70eccca7d02965c58dd1903b48aabe245db82",
+  "topics": [
+    {
+      "id": "origin",
+      "title": "Chiêu mộ, AMH và điều hòa tại chỗ",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "axis",
+      "title": "Kisspeptin, GnRH và hai tế bào – hai hormone",
+      "pages": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "selection",
+      "title": "Inhibin B, chọn lọc và phản hồi E2",
+      "pages": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "id": "ovulation",
+      "title": "Phóng noãn và hoàng thể",
+      "pages": [
+        34,
+        35,
+        36,
+        37,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "id": "cycle",
+      "title": "Đoàn hệ và thời gian chu kỳ",
+      "pages": [
+        44,
+        45,
+        47,
+        48
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m06-q001",
+      "topicId": "origin",
+      "conceptId": "m06-amh-peak",
+      "level": "understand",
+      "stem": "Vì sao AMH được xem là tín hiệu từ nang đã được chiêu mộ?",
+      "options": [
+        "Do tế bào hạt nang tiền hốc và hốc nhỏ chế tiết",
+        "Do nhân cung chế tiết",
+        "Do bạch thể chế tiết",
+        "Do tuyến yên chế tiết"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 xác định nguồn AMH ở các nang đã được chiêu mộ.",
+      "optionExplanations": [
+        "Trang 7 xác định nguồn AMH ở các nang đã được chiêu mộ.",
+        "Không phù hợp trong tình huống này. Trang 7 xác định nguồn AMH ở các nang đã được chiêu mộ.",
+        "Không phù hợp trong tình huống này. Trang 7 xác định nguồn AMH ở các nang đã được chiêu mộ.",
+        "Không phù hợp trong tình huống này. Trang 7 xác định nguồn AMH ở các nang đã được chiêu mộ."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "AMH có nguồn gốc từ tế bào hạt của các phức bộ nang noãn đã được chiêu mộ, từ giai đoạn nang tiền hốc đến nang hốc nhỏ. Chế tiết AMH của tế bào hạt đạt đến mức cao nhất khi nang noãn đang ở giai đoạn nang tiền hốc và hốc nhỏ. Sau đó, chế tiết AMH sẽ giảm dần.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q002",
+      "topicId": "origin",
+      "conceptId": "m06-amh-gate",
+      "level": "understand",
+      "stem": "Vai trò 'người gác cổng' của AMH chỉ việc gì?",
+      "options": [
+        "Đảm bảo mọi nang đều phóng noãn",
+        "Tăng LH không giới hạn",
+        "Đóng lỗ tử cung",
+        "Hạn chế số nang nguyên thủy được chiêu mộ"
+      ],
+      "answer": 3,
+      "explanation": "Trang 8–10 mô tả AMH kiểm soát số nang đi vào chu kỳ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 8–10 mô tả AMH kiểm soát số nang đi vào chu kỳ.",
+        "Không phù hợp trong tình huống này. Trang 8–10 mô tả AMH kiểm soát số nang đi vào chu kỳ.",
+        "Không phù hợp trong tình huống này. Trang 8–10 mô tả AMH kiểm soát số nang đi vào chu kỳ.",
+        "Trang 8–10 mô tả AMH kiểm soát số nang đi vào chu kỳ."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "AMH điều hòa tiến trình chiêu mộ bằng cách khống chế số lượng noãn nang nguyên thủy đi vào chiêu mộ. Trong hoạt động chiêu mộ noãn nang, AMH đóng vai trò là một yếu tố cận tiết. Từ nang noãn đã được chiêu mộ, AMH sẽ tác động trở lại những nang noãn nguyên thủy khác chưa được chiêu mộ. AMH can thiệp vào tiến trình chiêu mộ thông qua kiểm soát cân bằng PTEN/PI3K, nhờ vậy hạn chế được số nang noãn được chiêu mộ.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 10,
+          "quote": "PI3K/Akt thúc đẩy tiến trình chiêu mộ noãn nang. AMH kiểm soát cân bằng PI3K-PTEN, theo chiều hướng ức chế, qua đó khống chế được số nang được chiêu mộ.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q003",
+      "topicId": "origin",
+      "conceptId": "m06-paracrine",
+      "level": "understand",
+      "stem": "AMH từ nang đã chiêu mộ tác động nang nguyên thủy lân cận là kiểu điều hòa nào?",
+      "options": [
+        "Dẫn truyền trong lòng tử cung",
+        "Thay thế toàn bộ gonadotropin",
+        "Cận tiết",
+        "Xung thần kinh trực tiếp đến tuyến yên"
+      ],
+      "answer": 2,
+      "explanation": "Trang 8 gọi đây là vai trò cận tiết của AMH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 8 gọi đây là vai trò cận tiết của AMH.",
+        "Không phù hợp trong tình huống này. Trang 8 gọi đây là vai trò cận tiết của AMH.",
+        "Trang 8 gọi đây là vai trò cận tiết của AMH.",
+        "Không phù hợp trong tình huống này. Trang 8 gọi đây là vai trò cận tiết của AMH."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "AMH điều hòa tiến trình chiêu mộ bằng cách khống chế số lượng noãn nang nguyên thủy đi vào chiêu mộ. Trong hoạt động chiêu mộ noãn nang, AMH đóng vai trò là một yếu tố cận tiết. Từ nang noãn đã được chiêu mộ, AMH sẽ tác động trở lại những nang noãn nguyên thủy khác chưa được chiêu mộ. AMH can thiệp vào tiến trình chiêu mộ thông qua kiểm soát cân bằng PTEN/PI3K, nhờ vậy hạn chế được số nang noãn được chiêu mộ.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q004",
+      "topicId": "origin",
+      "conceptId": "m06-pten-pi3k",
+      "level": "understand",
+      "stem": "Quan hệ PTEN và PI3K trong sơ đồ là gì?",
+      "options": [
+        "Không liên quan chiêu mộ",
+        "Tác dụng trái ngược trên chuyển đổi PIP2/PIP3",
+        "Cùng biến PIP2 thành PIP3",
+        "Đều chỉ tổng hợp LH"
+      ],
+      "answer": 1,
+      "explanation": "Trang 9 mô tả hai chiều chuyển đổi ngược nhau.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 9 mô tả hai chiều chuyển đổi ngược nhau.",
+        "Trang 9 mô tả hai chiều chuyển đổi ngược nhau.",
+        "Không phù hợp trong tình huống này. Trang 9 mô tả hai chiều chuyển đổi ngược nhau.",
+        "Không phù hợp trong tình huống này. Trang 9 mô tả hai chiều chuyển đổi ngược nhau."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "PTEN và PI3K có tác dụng trái ngược. PI3K chuyển đổi PIP2 thành PIP3, trong khi đó PTEN gây ra chuyển đổi ngược lại. PIP3 phosphoryl hóa AKT, dẫn đến phosphoryl hóa FOXO3. FOXO3 được phosphoryl hóa sẽ không còn phong tỏa DNA. Tế bào được kích hoạt. Akt được phosphoryl hóa cũng phosphoryl hóa TSC1 và TSC2, kích hoạt mTOR và thúc đẩy dịch mã RNA.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q005",
+      "topicId": "axis",
+      "conceptId": "m06-kndy-mediator",
+      "level": "understand",
+      "stem": "KNDy kiểm soát neuron GnRH qua chất trung gian nào được nhấn mạnh?",
+      "options": [
+        "Kisspeptin",
+        "Cholesterol",
+        "Inhibin B",
+        "Androstenedione"
+      ],
+      "answer": 0,
+      "explanation": "Trang 14 xác định kisspeptin là peptide trung gian.",
+      "optionExplanations": [
+        "Trang 14 xác định kisspeptin là peptide trung gian.",
+        "Không phù hợp trong tình huống này. Trang 14 xác định kisspeptin là peptide trung gian.",
+        "Không phù hợp trong tình huống này. Trang 14 xác định kisspeptin là peptide trung gian.",
+        "Không phù hợp trong tình huống này. Trang 14 xác định kisspeptin là peptide trung gian."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Tại nhân cung của hạ đồi, các KNDy neuron kiểm soát các GnRH neuron, thông qua kisspeptin. Nhân cung của hạ đồi là cơ quan cao nhất của trục hạ đồi-yên-buồng trứng. Nhân này có chứa hai loại neuron là KNDy neuron và GnRH neuron.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q006",
+      "topicId": "selection",
+      "conceptId": "m06-inhibin-source",
+      "level": "understand",
+      "stem": "Nguồn Inhibin B được mô tả trong bài là gì?",
+      "options": [
+        "Tế bào mạch cửa",
+        "Bạch thể",
+        "Neuron GnRH",
+        "Tế bào hạt nang thứ cấp"
+      ],
+      "answer": 3,
+      "explanation": "Trang 23 xác định tế bào hạt sản xuất Inhibin B.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 23 xác định tế bào hạt sản xuất Inhibin B.",
+        "Không phù hợp trong tình huống này. Trang 23 xác định tế bào hạt sản xuất Inhibin B.",
+        "Không phù hợp trong tình huống này. Trang 23 xác định tế bào hạt sản xuất Inhibin B.",
+        "Trang 23 xác định tế bào hạt sản xuất Inhibin B."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Tế bào hạt của nang noãn thứ cấp sản xuất ra Inhibin B. Inhibin B cũng ức chế tuyến yên sản xuất FSH. Inhibin B là một hormone protein, thuộc nhóm các transforming growth factor β. Inhibin B chỉ được sản xuất kể từ khi các nang noãn đạt đến giai đoạn nang thứ cấp muộn. Nồng độ Inhibin B biến thiên thuận với tổng khối tế bào hạt.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q007",
+      "topicId": "selection",
+      "conceptId": "m06-dual-control",
+      "level": "understand",
+      "stem": "Inhibin B phối hợp E2 kiểm soát tuyến yên theo hướng nào?",
+      "options": [
+        "Biến FSH thành LH",
+        "Chỉ làm tăng cholesterol",
+        "Ức chế chế tiết FSH",
+        "Tăng FSH không giới hạn"
+      ],
+      "answer": 2,
+      "explanation": "Trang 23–24 mô tả kiểm soát kép làm FSH thiếu hụt.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 23–24 mô tả kiểm soát kép làm FSH thiếu hụt.",
+        "Không phù hợp trong tình huống này. Trang 23–24 mô tả kiểm soát kép làm FSH thiếu hụt.",
+        "Trang 23–24 mô tả kiểm soát kép làm FSH thiếu hụt.",
+        "Không phù hợp trong tình huống này. Trang 23–24 mô tả kiểm soát kép làm FSH thiếu hụt."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Tế bào hạt của nang noãn thứ cấp sản xuất ra Inhibin B. Inhibin B cũng ức chế tuyến yên sản xuất FSH. Inhibin B là một hormone protein, thuộc nhóm các transforming growth factor β. Inhibin B chỉ được sản xuất kể từ khi các nang noãn đạt đến giai đoạn nang thứ cấp muộn. Nồng độ Inhibin B biến thiên thuận với tổng khối tế bào hạt.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 24,
+          "quote": "Như vậy, trong giai đoạn phát triển noãn nang, tuyến yên chịu sự kiểm soát kép bởi hai hormone từ buồng trứng là estradiol và Inhibin B. Kiểm soát này gây nên tình trạng thiếu hụt FSH từ tuyến yên.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q008",
+      "topicId": "cycle",
+      "conceptId": "m06-duration-distinction",
+      "level": "understand",
+      "stem": "Khoảng 90–120 ngày trong bài được tính giữa hai mốc nào?",
+      "options": [
+        "Hai lần hành kinh luôn liên tiếp",
+        "Chiêu mộ đoàn hệ đến hoàng thể thành bạch thể",
+        "Hai đỉnh LH liên tiếp",
+        "Thụ tinh đến sinh"
+      ],
+      "answer": 1,
+      "explanation": "Trang 44 định nghĩa rõ khoảng thời gian theo đời một đoàn hệ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 44 định nghĩa rõ khoảng thời gian theo đời một đoàn hệ.",
+        "Trang 44 định nghĩa rõ khoảng thời gian theo đời một đoàn hệ.",
+        "Không phù hợp trong tình huống này. Trang 44 định nghĩa rõ khoảng thời gian theo đời một đoàn hệ.",
+        "Không phù hợp trong tình huống này. Trang 44 định nghĩa rõ khoảng thời gian theo đời một đoàn hệ."
+      ],
+      "sources": [
+        {
+          "page": 44,
+          "quote": "Mỗi chu kỳ buồng trứng có độ dài 90-120 ngày, kể từ khi một đoàn hệ nang noãn nguyên thủy được chiêu mộ cho đến thành viên còn lại cuối cùng của đoàn hệ này là hoàng thể bị thoái hóa thành bạch thể. Trong hơn 60 ngày đầu tiên kể từ khi được chiêu mộ, các nang noãn phát triển hoàn toàn độc lập với các hormone của trục hạ đồi-yên-buồng trứng.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q009",
+      "topicId": "cycle",
+      "conceptId": "m06-successive-observation",
+      "level": "understand",
+      "stem": "Vì sao tại một thời điểm có nhiều đoàn hệ nang khác nhau?",
+      "options": [
+        "Chúng được chiêu mộ ở những thời điểm khác nhau",
+        "Một noãn tự biến thành mọi đoàn hệ",
+        "Mỗi nang đều cùng tuổi",
+        "Chỉ có một lần chiêu mộ suốt đời"
+      ],
+      "answer": 0,
+      "explanation": "Trang 47 mô tả sự tồn tại song song các đoàn hệ.",
+      "optionExplanations": [
+        "Trang 47 mô tả sự tồn tại song song các đoàn hệ.",
+        "Không phù hợp trong tình huống này. Trang 47 mô tả sự tồn tại song song các đoàn hệ.",
+        "Không phù hợp trong tình huống này. Trang 47 mô tả sự tồn tại song song các đoàn hệ.",
+        "Không phù hợp trong tình huống này. Trang 47 mô tả sự tồn tại song song các đoàn hệ."
+      ],
+      "sources": [
+        {
+          "page": 47,
+          "quote": "Tại một thời điểm cho trước, tồn tại cùng lúc nhiều đoàn hệ noãn nang được chiêu mộ ở các thời điểm khác nhau. Như vậy, tại mỗi thời điểm nhất định, song song xảy ra 3-4 chu kỳ buồng trứng khác nhau.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q010",
+      "topicId": "origin",
+      "conceptId": "m06-amh-peak",
+      "level": "apply",
+      "stem": "Một nang ở giai đoạn tiền hốc/hốc nhỏ. Chế tiết AMH theo bài có đặc điểm nào?",
+      "options": [
+        "Chưa bao giờ có AMH",
+        "Chỉ tăng sau thành bạch thể",
+        "Chỉ do LH tạo trực tiếp",
+        "Đạt mức cao nhất rồi giảm ở giai đoạn sau"
+      ],
+      "answer": 3,
+      "explanation": "Trang 7 nêu thời điểm chế tiết AMH cao nhất.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 7 nêu thời điểm chế tiết AMH cao nhất.",
+        "Không phù hợp trong tình huống này. Trang 7 nêu thời điểm chế tiết AMH cao nhất.",
+        "Không phù hợp trong tình huống này. Trang 7 nêu thời điểm chế tiết AMH cao nhất.",
+        "Trang 7 nêu thời điểm chế tiết AMH cao nhất."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "AMH có nguồn gốc từ tế bào hạt của các phức bộ nang noãn đã được chiêu mộ, từ giai đoạn nang tiền hốc đến nang hốc nhỏ. Chế tiết AMH của tế bào hạt đạt đến mức cao nhất khi nang noãn đang ở giai đoạn nang tiền hốc và hốc nhỏ. Sau đó, chế tiết AMH sẽ giảm dần.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q011",
+      "topicId": "origin",
+      "conceptId": "m06-amh-after-recruit",
+      "level": "apply",
+      "stem": "Một nang đã được chiêu mộ nhưng chưa nên bước sớm vào giai đoạn lệ thuộc gonadotropin. Yếu tố nào được bài nêu giúp kìm tốc độ?",
+      "options": [
+        "Bạch thể",
+        "Androstenedione ngoại vi",
+        "AMH",
+        "Đỉnh LH"
+      ],
+      "answer": 2,
+      "explanation": "Trang 12 mô tả AMH kìm hãm tiến triển quá sớm.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 12 mô tả AMH kìm hãm tiến triển quá sớm.",
+        "Không phù hợp trong tình huống này. Trang 12 mô tả AMH kìm hãm tiến triển quá sớm.",
+        "Trang 12 mô tả AMH kìm hãm tiến triển quá sớm.",
+        "Không phù hợp trong tình huống này. Trang 12 mô tả AMH kìm hãm tiến triển quá sớm."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "AMH là yếu tố chuẩn bị cho nang noãn đã được chiêu mộ trở nên sẵn sàng để đón nhận gonadotropin. Trên những nang noãn đã được chiêu mộ, AMH có nhiệm vụ bảo vệ cho chúng thoát khỏi hiện tượng thoái triển. Trong các giai đoạn sớm sau chiêu mộ, AMH còn có nhiệm vụ kìm hãm tốc độ phát triển nang noãn, không cho chúng bước quá sớm vào giai đoạn lệ thuộc gonadotropin. Trong điều kiện bình thường, phần lớn các phức bộ nang noãn đã được chiêu mộ sẽ thoái triển. Sau 60-90 ngày, chỉ còn lại khoảng 10 trong số chúng là đến được giai đoạn kế tiếp. Lúc này, trên các tế bào tùy hành của nang thứ cấp muộn đã có đầy đủ các thụ thể với gonadotropin.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q012",
+      "topicId": "origin",
+      "conceptId": "m06-amh-protect",
+      "level": "apply",
+      "stem": "Ngoài kìm tốc độ phát triển, nhiệm vụ AMH trên nang đã chiêu mộ được nêu là gì?",
+      "options": [
+        "Làm noãn hoàn tất giảm phân II ngay",
+        "Bảo vệ khỏi thoái triển",
+        "Ép tất cả nang phóng noãn",
+        "Tạo thụ thể ở tuyến yên"
+      ],
+      "answer": 1,
+      "explanation": "Trang 12 nêu chức năng bảo vệ nang đã chiêu mộ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 12 nêu chức năng bảo vệ nang đã chiêu mộ.",
+        "Trang 12 nêu chức năng bảo vệ nang đã chiêu mộ.",
+        "Không phù hợp trong tình huống này. Trang 12 nêu chức năng bảo vệ nang đã chiêu mộ.",
+        "Không phù hợp trong tình huống này. Trang 12 nêu chức năng bảo vệ nang đã chiêu mộ."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "AMH là yếu tố chuẩn bị cho nang noãn đã được chiêu mộ trở nên sẵn sàng để đón nhận gonadotropin. Trên những nang noãn đã được chiêu mộ, AMH có nhiệm vụ bảo vệ cho chúng thoát khỏi hiện tượng thoái triển. Trong các giai đoạn sớm sau chiêu mộ, AMH còn có nhiệm vụ kìm hãm tốc độ phát triển nang noãn, không cho chúng bước quá sớm vào giai đoạn lệ thuộc gonadotropin. Trong điều kiện bình thường, phần lớn các phức bộ nang noãn đã được chiêu mộ sẽ thoái triển. Sau 60-90 ngày, chỉ còn lại khoảng 10 trong số chúng là đến được giai đoạn kế tiếp. Lúc này, trên các tế bào tùy hành của nang thứ cấp muộn đã có đầy đủ các thụ thể với gonadotropin.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q013",
+      "topicId": "origin",
+      "conceptId": "m06-pi3k-product",
+      "level": "apply",
+      "stem": "Theo sơ đồ, PI3K hoạt động sẽ thúc đẩy chuyển đổi nào?",
+      "options": [
+        "PIP2 thành PIP3",
+        "PIP3 thành PIP2",
+        "E2 thành FSH",
+        "LH thành GnRH"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 chỉ rõ chiều tác động của PI3K.",
+      "optionExplanations": [
+        "Trang 9 chỉ rõ chiều tác động của PI3K.",
+        "Không phù hợp trong tình huống này. Trang 9 chỉ rõ chiều tác động của PI3K.",
+        "Không phù hợp trong tình huống này. Trang 9 chỉ rõ chiều tác động của PI3K.",
+        "Không phù hợp trong tình huống này. Trang 9 chỉ rõ chiều tác động của PI3K."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "PTEN và PI3K có tác dụng trái ngược. PI3K chuyển đổi PIP2 thành PIP3, trong khi đó PTEN gây ra chuyển đổi ngược lại. PIP3 phosphoryl hóa AKT, dẫn đến phosphoryl hóa FOXO3. FOXO3 được phosphoryl hóa sẽ không còn phong tỏa DNA. Tế bào được kích hoạt. Akt được phosphoryl hóa cũng phosphoryl hóa TSC1 và TSC2, kích hoạt mTOR và thúc đẩy dịch mã RNA.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q014",
+      "topicId": "origin",
+      "conceptId": "m06-pten-product",
+      "level": "apply",
+      "stem": "Trong cùng sơ đồ, PTEN tác động theo chiều nào?",
+      "options": [
+        "PIP2 thành PIP3",
+        "Progesterone thành LH",
+        "E1 thành FSH",
+        "PIP3 trở về PIP2"
+      ],
+      "answer": 3,
+      "explanation": "PTEN được mô tả có chiều chuyển đổi ngược PI3K.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. PTEN được mô tả có chiều chuyển đổi ngược PI3K.",
+        "Không phù hợp trong tình huống này. PTEN được mô tả có chiều chuyển đổi ngược PI3K.",
+        "Không phù hợp trong tình huống này. PTEN được mô tả có chiều chuyển đổi ngược PI3K.",
+        "PTEN được mô tả có chiều chuyển đổi ngược PI3K."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "PTEN và PI3K có tác dụng trái ngược. PI3K chuyển đổi PIP2 thành PIP3, trong khi đó PTEN gây ra chuyển đổi ngược lại. PIP3 phosphoryl hóa AKT, dẫn đến phosphoryl hóa FOXO3. FOXO3 được phosphoryl hóa sẽ không còn phong tỏa DNA. Tế bào được kích hoạt. Akt được phosphoryl hóa cũng phosphoryl hóa TSC1 và TSC2, kích hoạt mTOR và thúc đẩy dịch mã RNA.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q015",
+      "topicId": "origin",
+      "conceptId": "m06-foxo3",
+      "level": "apply",
+      "stem": "FOXO3 được phosphoryl hóa trong sơ đồ. Điều gì xảy ra với sự phong tỏa DNA?",
+      "options": [
+        "DNA biến thành AMH",
+        "Tế bào lập tức thành bạch thể",
+        "Không còn phong tỏa, tế bào được kích hoạt",
+        "Phong tỏa tăng vĩnh viễn"
+      ],
+      "answer": 2,
+      "explanation": "Trang 9 liên kết phosphoryl hóa FOXO3 với giải phóng phong tỏa DNA.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 9 liên kết phosphoryl hóa FOXO3 với giải phóng phong tỏa DNA.",
+        "Không phù hợp trong tình huống này. Trang 9 liên kết phosphoryl hóa FOXO3 với giải phóng phong tỏa DNA.",
+        "Trang 9 liên kết phosphoryl hóa FOXO3 với giải phóng phong tỏa DNA.",
+        "Không phù hợp trong tình huống này. Trang 9 liên kết phosphoryl hóa FOXO3 với giải phóng phong tỏa DNA."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "PTEN và PI3K có tác dụng trái ngược. PI3K chuyển đổi PIP2 thành PIP3, trong khi đó PTEN gây ra chuyển đổi ngược lại. PIP3 phosphoryl hóa AKT, dẫn đến phosphoryl hóa FOXO3. FOXO3 được phosphoryl hóa sẽ không còn phong tỏa DNA. Tế bào được kích hoạt. Akt được phosphoryl hóa cũng phosphoryl hóa TSC1 và TSC2, kích hoạt mTOR và thúc đẩy dịch mã RNA.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q016",
+      "topicId": "origin",
+      "conceptId": "m06-mtor",
+      "level": "apply",
+      "stem": "Nhánh Akt–TSC1/TSC2 kích hoạt mTOR. Kết quả nào được bài nêu?",
+      "options": [
+        "Hủy mọi thụ thể FSH",
+        "Thúc đẩy dịch mã RNA",
+        "Ngừng mọi tổng hợp protein",
+        "Tạo trực tiếp đỉnh LH"
+      ],
+      "answer": 1,
+      "explanation": "Trang 9 mô tả mTOR thúc đẩy dịch mã.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 9 mô tả mTOR thúc đẩy dịch mã.",
+        "Trang 9 mô tả mTOR thúc đẩy dịch mã.",
+        "Không phù hợp trong tình huống này. Trang 9 mô tả mTOR thúc đẩy dịch mã.",
+        "Không phù hợp trong tình huống này. Trang 9 mô tả mTOR thúc đẩy dịch mã."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "PTEN và PI3K có tác dụng trái ngược. PI3K chuyển đổi PIP2 thành PIP3, trong khi đó PTEN gây ra chuyển đổi ngược lại. PIP3 phosphoryl hóa AKT, dẫn đến phosphoryl hóa FOXO3. FOXO3 được phosphoryl hóa sẽ không còn phong tỏa DNA. Tế bào được kích hoạt. Akt được phosphoryl hóa cũng phosphoryl hóa TSC1 và TSC2, kích hoạt mTOR và thúc đẩy dịch mã RNA.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q017",
+      "topicId": "axis",
+      "conceptId": "m06-slow-pulse",
+      "level": "apply",
+      "stem": "Tần số xung GnRH thưa. Tuyến yên ưu tiên đáp ứng nào theo bài?",
+      "options": [
+        "FSH",
+        "LH",
+        "AMH",
+        "Progesterone"
+      ],
+      "answer": 0,
+      "explanation": "Trang 17 phân biệt ưu thế FSH khi xung thưa.",
+      "optionExplanations": [
+        "Trang 17 phân biệt ưu thế FSH khi xung thưa.",
+        "Không phù hợp trong tình huống này. Trang 17 phân biệt ưu thế FSH khi xung thưa.",
+        "Không phù hợp trong tình huống này. Trang 17 phân biệt ưu thế FSH khi xung thưa.",
+        "Không phù hợp trong tình huống này. Trang 17 phân biệt ưu thế FSH khi xung thưa."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Dưới tác động của các xung GnRH, tuyến yên phóng thích các gonadotropin là FSH và LH. Tùy tần số của xung GnRH mà tuyến yên đáp ứng khác nhau. Tuyến yên sẽ đáp ứng ưu tiên bằng FSH nếu tần số xung GnRH thưa, và sẽ đáp ứng ưu tiên bằng LH nếu tần số xung GnRH dồn dập.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q018",
+      "topicId": "axis",
+      "conceptId": "m06-fast-pulse",
+      "level": "apply",
+      "stem": "Tần số xung GnRH dồn dập. Tuyến yên ưu tiên đáp ứng nào theo bài?",
+      "options": [
+        "AMH",
+        "Inhibin B",
+        "Estradiol",
+        "LH"
+      ],
+      "answer": 3,
+      "explanation": "Trang 17 phân biệt ưu thế LH khi xung dồn dập.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 17 phân biệt ưu thế LH khi xung dồn dập.",
+        "Không phù hợp trong tình huống này. Trang 17 phân biệt ưu thế LH khi xung dồn dập.",
+        "Không phù hợp trong tình huống này. Trang 17 phân biệt ưu thế LH khi xung dồn dập.",
+        "Trang 17 phân biệt ưu thế LH khi xung dồn dập."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Dưới tác động của các xung GnRH, tuyến yên phóng thích các gonadotropin là FSH và LH. Tùy tần số của xung GnRH mà tuyến yên đáp ứng khác nhau. Tuyến yên sẽ đáp ứng ưu tiên bằng FSH nếu tần số xung GnRH thưa, và sẽ đáp ứng ưu tiên bằng LH nếu tần số xung GnRH dồn dập.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q019",
+      "topicId": "axis",
+      "conceptId": "m06-kisspeptin-effect",
+      "level": "apply",
+      "stem": "Kisspeptin kích thích neuron GnRH. Đầu ra trực tiếp nào được bài mô tả?",
+      "options": [
+        "Bạch thể mới",
+        "Progesterone từ tuyến yên",
+        "Xung GnRH vào mạch cửa",
+        "AMH vào dịch nang"
+      ],
+      "answer": 2,
+      "explanation": "Trang 15 mô tả tác dụng dương tính của kisspeptin lên GnRH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 15 mô tả tác dụng dương tính của kisspeptin lên GnRH.",
+        "Không phù hợp trong tình huống này. Trang 15 mô tả tác dụng dương tính của kisspeptin lên GnRH.",
+        "Trang 15 mô tả tác dụng dương tính của kisspeptin lên GnRH.",
+        "Không phù hợp trong tình huống này. Trang 15 mô tả tác dụng dương tính của kisspeptin lên GnRH."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Dưới sự kiểm soát của kisspeptin, các GnRH neuron phóng thích các xung GnRH vào hệ mạch cửa hạ đồi-yên. Kisspeptin có tác dụng dương tính trên GnRH neuron. GnRH được phóng thích từ hạ đồi theo dạng xung, với nhịp độ thay đổi, theo hoạt động của KNDy neuron.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q020",
+      "topicId": "selection",
+      "conceptId": "m06-inhibin-class",
+      "level": "apply",
+      "stem": "Phân tử do nang tiết, thuộc nhóm TGF-β và ức chế FSH, là gì?",
+      "options": [
+        "Cholesterol",
+        "Inhibin B",
+        "Estradiol",
+        "Progesterone"
+      ],
+      "answer": 1,
+      "explanation": "Trang 23 mô tả Inhibin B là hormone protein thuộc nhóm TGF-β.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 23 mô tả Inhibin B là hormone protein thuộc nhóm TGF-β.",
+        "Trang 23 mô tả Inhibin B là hormone protein thuộc nhóm TGF-β.",
+        "Không phù hợp trong tình huống này. Trang 23 mô tả Inhibin B là hormone protein thuộc nhóm TGF-β.",
+        "Không phù hợp trong tình huống này. Trang 23 mô tả Inhibin B là hormone protein thuộc nhóm TGF-β."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Tế bào hạt của nang noãn thứ cấp sản xuất ra Inhibin B. Inhibin B cũng ức chế tuyến yên sản xuất FSH. Inhibin B là một hormone protein, thuộc nhóm các transforming growth factor β. Inhibin B chỉ được sản xuất kể từ khi các nang noãn đạt đến giai đoạn nang thứ cấp muộn. Nồng độ Inhibin B biến thiên thuận với tổng khối tế bào hạt.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q021",
+      "topicId": "selection",
+      "conceptId": "m06-inhibin-mass",
+      "level": "apply",
+      "stem": "Tổng khối tế bào hạt tăng trong mô hình bài. Nồng độ Inhibin B có chiều biến thiên nào?",
+      "options": [
+        "Thuận chiều tổng khối tế bào hạt",
+        "Luôn nghịch chiều",
+        "Luôn bằng không",
+        "Chỉ phụ thuộc bạch thể"
+      ],
+      "answer": 0,
+      "explanation": "Trang 23 nêu quan hệ biến thiên thuận.",
+      "optionExplanations": [
+        "Trang 23 nêu quan hệ biến thiên thuận.",
+        "Không phù hợp trong tình huống này. Trang 23 nêu quan hệ biến thiên thuận.",
+        "Không phù hợp trong tình huống này. Trang 23 nêu quan hệ biến thiên thuận.",
+        "Không phù hợp trong tình huống này. Trang 23 nêu quan hệ biến thiên thuận."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "Tế bào hạt của nang noãn thứ cấp sản xuất ra Inhibin B. Inhibin B cũng ức chế tuyến yên sản xuất FSH. Inhibin B là một hormone protein, thuộc nhóm các transforming growth factor β. Inhibin B chỉ được sản xuất kể từ khi các nang noãn đạt đến giai đoạn nang thứ cấp muộn. Nồng độ Inhibin B biến thiên thuận với tổng khối tế bào hạt.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q022",
+      "topicId": "selection",
+      "conceptId": "m06-dual-control",
+      "level": "apply",
+      "stem": "Một sơ đồ chỉ ghi E2 kiểm soát FSH trong pha nang. Hormone buồng trứng nào cần bổ sung theo bài?",
+      "options": [
+        "GnRH",
+        "LH",
+        "FSH",
+        "Inhibin B"
+      ],
+      "answer": 3,
+      "explanation": "Trang 24 mô tả kiểm soát kép E2 và Inhibin B.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 24 mô tả kiểm soát kép E2 và Inhibin B.",
+        "Không phù hợp trong tình huống này. Trang 24 mô tả kiểm soát kép E2 và Inhibin B.",
+        "Không phù hợp trong tình huống này. Trang 24 mô tả kiểm soát kép E2 và Inhibin B.",
+        "Trang 24 mô tả kiểm soát kép E2 và Inhibin B."
+      ],
+      "sources": [
+        {
+          "page": 24,
+          "quote": "Như vậy, trong giai đoạn phát triển noãn nang, tuyến yên chịu sự kiểm soát kép bởi hai hormone từ buồng trứng là estradiol và Inhibin B. Kiểm soát này gây nên tình trạng thiếu hụt FSH từ tuyến yên.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q023",
+      "topicId": "cycle",
+      "conceptId": "m06-visible-part",
+      "level": "apply",
+      "stem": "Theo bài, biến đổi hình thái và nội tiết quan sát được chủ yếu thuộc phần nào của đời đoàn hệ?",
+      "options": [
+        "Chỉ lúc nang đang nghỉ",
+        "Chỉ thời gian đã thành bạch thể",
+        "28 ngày cuối, lệ thuộc gonadotropin",
+        "Toàn bộ giai đoạn từ lúc phôi thai"
+      ],
+      "answer": 2,
+      "explanation": "Trang 48 giới hạn phần quan sát được ở giai đoạn cuối.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 48 giới hạn phần quan sát được ở giai đoạn cuối.",
+        "Không phù hợp trong tình huống này. Trang 48 giới hạn phần quan sát được ở giai đoạn cuối.",
+        "Trang 48 giới hạn phần quan sát được ở giai đoạn cuối.",
+        "Không phù hợp trong tình huống này. Trang 48 giới hạn phần quan sát được ở giai đoạn cuối."
+      ],
+      "sources": [
+        {
+          "page": 48,
+          "quote": "Chỉ có một chu kỳ là có thể quan sát được. Đó là chu kỳ đang ở trong 28 ngày cuối cùng, đang chịu tác động của các gonadotropin và đang sản xuất steroid sinh dục, với những thay đổi về hình thái và nội tiết.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q024",
+      "topicId": "cycle",
+      "conceptId": "m06-early-independence",
+      "level": "apply",
+      "stem": "Đoàn hệ đang ở hơn 60 ngày đầu sau chiêu mộ. Bài mô tả quan hệ với hormone trục HPO thế nào?",
+      "options": [
+        "Đã hoàn tất toàn bộ chu kỳ",
+        "Phát triển độc lập với hormone trục",
+        "Bắt buộc có đỉnh LH hằng ngày",
+        "Đã tiết P4 như hoàng thể"
+      ],
+      "answer": 1,
+      "explanation": "Trang 44 mô tả phần đầu không lệ thuộc hormone trục.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 44 mô tả phần đầu không lệ thuộc hormone trục.",
+        "Trang 44 mô tả phần đầu không lệ thuộc hormone trục.",
+        "Không phù hợp trong tình huống này. Trang 44 mô tả phần đầu không lệ thuộc hormone trục.",
+        "Không phù hợp trong tình huống này. Trang 44 mô tả phần đầu không lệ thuộc hormone trục."
+      ],
+      "sources": [
+        {
+          "page": 44,
+          "quote": "Mỗi chu kỳ buồng trứng có độ dài 90-120 ngày, kể từ khi một đoàn hệ nang noãn nguyên thủy được chiêu mộ cho đến thành viên còn lại cuối cùng của đoàn hệ này là hoàng thể bị thoái hóa thành bạch thể. Trong hơn 60 ngày đầu tiên kể từ khi được chiêu mộ, các nang noãn phát triển hoàn toàn độc lập với các hormone của trục hạ đồi-yên-buồng trứng.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q025",
+      "topicId": "ovulation",
+      "conceptId": "m06-prostaglandin-local",
+      "level": "apply",
+      "stem": "Theo bài, bề mặt buồng trứng tại nang mỏng dần trước vỡ có liên quan yếu tố tại chỗ nào?",
+      "options": [
+        "Prostaglandin",
+        "Inhibin B từ tuyến yên",
+        "GnRH trong lòng nang",
+        "Bạch thể từ cổ tử cung"
+      ],
+      "answer": 0,
+      "explanation": "Trang 35 nêu prostaglandin tại chỗ làm bề mặt mỏng dần.",
+      "optionExplanations": [
+        "Trang 35 nêu prostaglandin tại chỗ làm bề mặt mỏng dần.",
+        "Không phù hợp trong tình huống này. Trang 35 nêu prostaglandin tại chỗ làm bề mặt mỏng dần.",
+        "Không phù hợp trong tình huống này. Trang 35 nêu prostaglandin tại chỗ làm bề mặt mỏng dần.",
+        "Không phù hợp trong tình huống này. Trang 35 nêu prostaglandin tại chỗ làm bề mặt mỏng dần."
+      ],
+      "sources": [
+        {
+          "page": 35,
+          "quote": "Các tế bào hạt bao quanh noãn bào sẽ tăng cường phân chia, tạo ra một khối tế bào có nhiệm vụ đi theo noãn bào sau khi phóng noãn. Chúng tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng, được gọi là đám mây noãn bào. Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần do chịu tác dụng của prostaglandin tại chỗ. Cuối cùng, nang noãn bị vỡ và phóng thích đám mây noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q026",
+      "topicId": "origin",
+      "conceptId": "m06-amh-two-functions",
+      "level": "analyze",
+      "stem": "Một người cho rằng AMH chỉ ngăn chiêu mộ nên không có vai trò sau chiêu mộ. Phân tích nào đúng?",
+      "options": [
+        "AMH chỉ do tuyến yên sản xuất",
+        "AMH luôn làm mọi nang thoái triển",
+        "AMH thay toàn bộ FSH ở nang lớn",
+        "AMH còn bảo vệ nang và kìm bước quá sớm vào giai đoạn lệ thuộc gonadotropin"
+      ],
+      "answer": 3,
+      "explanation": "Trang 8 nói về hạn chế chiêu mộ; trang 12 bổ sung vai trò sau chiêu mộ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 8 nói về hạn chế chiêu mộ; trang 12 bổ sung vai trò sau chiêu mộ.",
+        "Không phù hợp trong tình huống này. Trang 8 nói về hạn chế chiêu mộ; trang 12 bổ sung vai trò sau chiêu mộ.",
+        "Không phù hợp trong tình huống này. Trang 8 nói về hạn chế chiêu mộ; trang 12 bổ sung vai trò sau chiêu mộ.",
+        "Trang 8 nói về hạn chế chiêu mộ; trang 12 bổ sung vai trò sau chiêu mộ."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "AMH điều hòa tiến trình chiêu mộ bằng cách khống chế số lượng noãn nang nguyên thủy đi vào chiêu mộ. Trong hoạt động chiêu mộ noãn nang, AMH đóng vai trò là một yếu tố cận tiết. Từ nang noãn đã được chiêu mộ, AMH sẽ tác động trở lại những nang noãn nguyên thủy khác chưa được chiêu mộ. AMH can thiệp vào tiến trình chiêu mộ thông qua kiểm soát cân bằng PTEN/PI3K, nhờ vậy hạn chế được số nang noãn được chiêu mộ.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 12,
+          "quote": "AMH là yếu tố chuẩn bị cho nang noãn đã được chiêu mộ trở nên sẵn sàng để đón nhận gonadotropin. Trên những nang noãn đã được chiêu mộ, AMH có nhiệm vụ bảo vệ cho chúng thoát khỏi hiện tượng thoái triển. Trong các giai đoạn sớm sau chiêu mộ, AMH còn có nhiệm vụ kìm hãm tốc độ phát triển nang noãn, không cho chúng bước quá sớm vào giai đoạn lệ thuộc gonadotropin. Trong điều kiện bình thường, phần lớn các phức bộ nang noãn đã được chiêu mộ sẽ thoái triển. Sau 60-90 ngày, chỉ còn lại khoảng 10 trong số chúng là đến được giai đoạn kế tiếp. Lúc này, trên các tế bào tùy hành của nang thứ cấp muộn đã có đầy đủ các thụ thể với gonadotropin.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q027",
+      "topicId": "origin",
+      "conceptId": "m06-signal-chain",
+      "level": "analyze",
+      "stem": "Chuỗi nào phù hợp sơ đồ hoạt hóa nang qua PI3K?",
+      "options": [
+        "PTEN và PI3K luôn cùng chiều",
+        "AMH trực tiếp trở thành DNA",
+        "PIP3 tăng → AKT/FOXO3 phosphoryl hóa → giải phong tỏa DNA",
+        "PIP3 tăng → FOXO3 phong tỏa DNA mãi"
+      ],
+      "answer": 2,
+      "explanation": "Trang 9 nối chuyển đổi phosphoinositide với hoạt hóa tế bào.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 9 nối chuyển đổi phosphoinositide với hoạt hóa tế bào.",
+        "Không phù hợp trong tình huống này. Trang 9 nối chuyển đổi phosphoinositide với hoạt hóa tế bào.",
+        "Trang 9 nối chuyển đổi phosphoinositide với hoạt hóa tế bào.",
+        "Không phù hợp trong tình huống này. Trang 9 nối chuyển đổi phosphoinositide với hoạt hóa tế bào."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "PTEN và PI3K có tác dụng trái ngược. PI3K chuyển đổi PIP2 thành PIP3, trong khi đó PTEN gây ra chuyển đổi ngược lại. PIP3 phosphoryl hóa AKT, dẫn đến phosphoryl hóa FOXO3. FOXO3 được phosphoryl hóa sẽ không còn phong tỏa DNA. Tế bào được kích hoạt. Akt được phosphoryl hóa cũng phosphoryl hóa TSC1 và TSC2, kích hoạt mTOR và thúc đẩy dịch mã RNA.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q028",
+      "topicId": "selection",
+      "conceptId": "m06-amh-inhibin-compare",
+      "level": "analyze",
+      "stem": "Hai hormone cùng từ tế bào hạt nhưng AMH và Inhibin B không thể coi là đồng chức năng vì sao?",
+      "options": [
+        "Cả hai đều là steroid giống E2",
+        "AMH điều hòa chiêu mộ; Inhibin B cùng E2 kiểm soát gonadotropin tuyến yên",
+        "AMH chỉ từ hạ đồi còn Inhibin B từ tử cung",
+        "Cả hai đều trực tiếp tạo đỉnh LH"
+      ],
+      "answer": 1,
+      "explanation": "Trang 25 phân biệt giai đoạn và đích tác động của hai hormone.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 25 phân biệt giai đoạn và đích tác động của hai hormone.",
+        "Trang 25 phân biệt giai đoạn và đích tác động của hai hormone.",
+        "Không phù hợp trong tình huống này. Trang 25 phân biệt giai đoạn và đích tác động của hai hormone.",
+        "Không phù hợp trong tình huống này. Trang 25 phân biệt giai đoạn và đích tác động của hai hormone."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "AMH điều hòa tiến trình chiêu mộ bằng cách khống chế số lượng noãn nang nguyên thủy đi vào chiêu mộ. Trong hoạt động chiêu mộ noãn nang, AMH đóng vai trò là một yếu tố cận tiết. Từ nang noãn đã được chiêu mộ, AMH sẽ tác động trở lại những nang noãn nguyên thủy khác chưa được chiêu mộ. AMH can thiệp vào tiến trình chiêu mộ thông qua kiểm soát cân bằng PTEN/PI3K, nhờ vậy hạn chế được số nang noãn được chiêu mộ.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 25,
+          "quote": "Cả AMH lẫn Inhibin B đều có nguồn gốc từ tế bào hạt của nang noãn. AMH được sản xuất từ các nang tiền hốc và nang hốc nhỏ. Inhibin B được sản xuất từ các nang hốc nhỏ và nang hốc lớn. AMH có vai trò chuẩn bị cho nang noãn đi vào giai đoạn lệ thuộc gonadotropin. Trong khi đó, Inhibin B (cùng phối hợp với estradiol) có nhiệm vụ kiểm soát tình trạng chế tiết gonadotropin của tuyến yên.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q029",
+      "topicId": "axis",
+      "conceptId": "m06-signal-order",
+      "level": "analyze",
+      "stem": "Chuỗi truyền tín hiệu nào giải thích đáp ứng LH trong phản hồi dương?",
+      "options": [
+        "KNDy → kisspeptin → neuron GnRH → tuyến yên",
+        "LH → tạo nhân cung → AMH",
+        "Tế bào vỏ → GnRH trực tiếp trong noãn",
+        "Bạch thể → kisspeptin → noãn nguyên thủy"
+      ],
+      "answer": 0,
+      "explanation": "Trang 32 mô tả thứ tự liên hệ từ KNDy đến phóng thích gonadotropin.",
+      "optionExplanations": [
+        "Trang 32 mô tả thứ tự liên hệ từ KNDy đến phóng thích gonadotropin.",
+        "Không phù hợp trong tình huống này. Trang 32 mô tả thứ tự liên hệ từ KNDy đến phóng thích gonadotropin.",
+        "Không phù hợp trong tình huống này. Trang 32 mô tả thứ tự liên hệ từ KNDy đến phóng thích gonadotropin.",
+        "Không phù hợp trong tình huống này. Trang 32 mô tả thứ tự liên hệ từ KNDy đến phóng thích gonadotropin."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "Trong phản hồi này, tuyến yên sẽ đáp ứng bằng cách phóng thích một lượng lớn LH, trong một thời gian rất ngắn, tạo một đỉnh LH trong máu ngoại vi. Trong phản hồi dương của estradiol, KNDy neuron phóng thích kisspeptin. Kisspeptin kích hoạt GnRH neuron phóng thích GnRH. GnRH kích hoạt tuyến yên phóng thích ồ ạt LH và FSH.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q030",
+      "topicId": "cycle",
+      "conceptId": "m06-duration-distinction",
+      "level": "analyze",
+      "stem": "Một người nói 'chu kỳ dài 90–120 ngày' nên hình thái nội tiết quan sát được phải kéo dài trọn thời gian đó. Sai ở đâu?",
+      "options": [
+        "Bài không hề mô tả đoàn hệ",
+        "Mọi nang chỉ sống 28 ngày từ lúc chiêu mộ",
+        "Bạch thể là giai đoạn đầu",
+        "Nhầm toàn đời đoàn hệ với phần cuối lệ thuộc gonadotropin"
+      ],
+      "answer": 3,
+      "explanation": "Trang 44 định nghĩa toàn đời đoàn hệ; trang 45 và 48 giới hạn phần cuối biểu hiện rõ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 44 định nghĩa toàn đời đoàn hệ; trang 45 và 48 giới hạn phần cuối biểu hiện rõ.",
+        "Không phù hợp trong tình huống này. Trang 44 định nghĩa toàn đời đoàn hệ; trang 45 và 48 giới hạn phần cuối biểu hiện rõ.",
+        "Không phù hợp trong tình huống này. Trang 44 định nghĩa toàn đời đoàn hệ; trang 45 và 48 giới hạn phần cuối biểu hiện rõ.",
+        "Trang 44 định nghĩa toàn đời đoàn hệ; trang 45 và 48 giới hạn phần cuối biểu hiện rõ."
+      ],
+      "sources": [
+        {
+          "page": 44,
+          "quote": "Mỗi chu kỳ buồng trứng có độ dài 90-120 ngày, kể từ khi một đoàn hệ nang noãn nguyên thủy được chiêu mộ cho đến thành viên còn lại cuối cùng của đoàn hệ này là hoàng thể bị thoái hóa thành bạch thể. Trong hơn 60 ngày đầu tiên kể từ khi được chiêu mộ, các nang noãn phát triển hoàn toàn độc lập với các hormone của trục hạ đồi-yên-buồng trứng.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 45,
+          "quote": "Chỉ trong 4 tuần cuối cùng của chu kỳ buồng trứng thì các noãn nang mới chịu tác động của các hormone hạ đồi-yên, sản xuất các steroid sinh dục và Inhibin B, tác động ngược lại lên trục này qua các feed-back và cơ chế tinh chỉnh.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 48,
+          "quote": "Chỉ có một chu kỳ là có thể quan sát được. Đó là chu kỳ đang ở trong 28 ngày cuối cùng, đang chịu tác động của các gonadotropin và đang sản xuất steroid sinh dục, với những thay đổi về hình thái và nội tiết.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q031",
+      "topicId": "cycle",
+      "conceptId": "m06-successive-observation",
+      "level": "analyze",
+      "stem": "Vì sao khi đoàn hệ đang quan sát kết thúc vẫn có đoàn hệ tiếp nối, theo mô hình bài?",
+      "options": [
+        "Chỉ lúc hành kinh mới tạo tế bào sinh dục mới",
+        "Mọi đoàn hệ đều kết thúc cùng lúc",
+        "Nhiều đoàn hệ ở các giai đoạn khác nhau đã tồn tại song song",
+        "Bạch thể biến trực tiếp thành nang de Graaf"
+      ],
+      "answer": 2,
+      "explanation": "Trang 47–48 giải thích sự chồng lấp và phần cuối quan sát được.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang 47–48 giải thích sự chồng lấp và phần cuối quan sát được.",
+        "Không phù hợp trong tình huống này. Trang 47–48 giải thích sự chồng lấp và phần cuối quan sát được.",
+        "Trang 47–48 giải thích sự chồng lấp và phần cuối quan sát được.",
+        "Không phù hợp trong tình huống này. Trang 47–48 giải thích sự chồng lấp và phần cuối quan sát được."
+      ],
+      "sources": [
+        {
+          "page": 47,
+          "quote": "Tại một thời điểm cho trước, tồn tại cùng lúc nhiều đoàn hệ noãn nang được chiêu mộ ở các thời điểm khác nhau. Như vậy, tại mỗi thời điểm nhất định, song song xảy ra 3-4 chu kỳ buồng trứng khác nhau.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 48,
+          "quote": "Chỉ có một chu kỳ là có thể quan sát được. Đó là chu kỳ đang ở trong 28 ngày cuối cùng, đang chịu tác động của các gonadotropin và đang sản xuất steroid sinh dục, với những thay đổi về hình thái và nội tiết.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q032",
+      "topicId": "origin",
+      "conceptId": "m06-recruit-local",
+      "level": "understand",
+      "stem": "Vì sao chiêu mộ nguyên thủy được xem là quá trình điều hòa tại chỗ?",
+      "options": [
+        "Do progesterone hoàng thể trực tiếp khởi phát",
+        "Chịu tác động cận tiết và tự tiết",
+        "Do đỉnh LH trực tiếp khởi phát",
+        "Do FSH ngoại vi quyết định hoàn toàn"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi.",
+        "Trang trích dẫn nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Quá trình chiêu mộ nguyên khởi lệ thuộc vào các yếu tố nội tại của buồng trứng. Quá trình này độc lập với các hormone ngoại vi lưu hành.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 6,
+          "quote": "Đối thoại cận tiết giữa noãn bào với tế bào tùy hành của nó, cũng như đối thoại cận tiết giữa các phức bộ noãn nang nguyên thủy liền kề là những động lực chính của các làn sóng chiêu mộ nguyên khởi. Trong khi đó, đối thoại cận tiết giữa các phức bộ noãn nang nguyên thủy được thực hiện thông qua con đường PTEN/PI3K/Akt. Tiến trình này được điều hòa bởi Anti-Mullerian Hormone (AMH).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q033",
+      "topicId": "axis",
+      "conceptId": "m06-portal",
+      "level": "understand",
+      "stem": "Xung GnRH đến tuyến yên qua hệ thống nào?",
+      "options": [
+        "Dịch nang noãn",
+        "Mạch máu hoàng thể",
+        "Lòng vòi trứng",
+        "Mạch cửa hạ đồi – yên"
+      ],
+      "answer": 3,
+      "explanation": "Trang trích dẫn nêu đường truyền GnRH từ nhân cung đến tuyến yên.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu đường truyền GnRH từ nhân cung đến tuyến yên.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu đường truyền GnRH từ nhân cung đến tuyến yên.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu đường truyền GnRH từ nhân cung đến tuyến yên.",
+        "Trang trích dẫn nêu đường truyền GnRH từ nhân cung đến tuyến yên."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Dưới sự kiểm soát của kisspeptin, các GnRH neuron phóng thích các xung GnRH vào hệ mạch cửa hạ đồi-yên. Kisspeptin có tác dụng dương tính trên GnRH neuron. GnRH được phóng thích từ hạ đồi theo dạng xung, với nhịp độ thay đổi, theo hoạt động của KNDy neuron.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q034",
+      "topicId": "axis",
+      "conceptId": "m06-theca-lh",
+      "level": "understand",
+      "stem": "Ghép tế bào – thụ thể nào đúng ở nang thứ cấp theo bài?",
+      "options": [
+        "Vỏ–GnRH; hạt–LH",
+        "Vỏ–FSH; hạt–GnRH",
+        "Vỏ–LH; hạt–FSH",
+        "Vỏ–FSH; hạt–LH"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt.",
+        "Trang trích dẫn xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH. Các tế bào này bắt giữ các gonadotropin để phát triển, tăng về số lượng để tạo nên sự phát triển của các nang thứ cấp. Tại các nang thứ cấp đang phát triển, dưới tác động của gonadotropin, các tế bào hạt tùy hành phân chia nguyên nhiễm, đồng thời tổng hợp thụ thể gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q035",
+      "topicId": "axis",
+      "conceptId": "m06-two-cell-dependence",
+      "level": "understand",
+      "stem": "Androstenedione từ tế bào vỏ có vai trò gì đối với tế bào hạt?",
+      "options": [
+        "Chất thay thế DNA",
+        "Nguyên liệu tổng hợp estrogen",
+        "Sản phẩm cuối không được sử dụng",
+        "Thụ thể bắt FSH"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn mô tả sự chuyển nguyên liệu từ vỏ vào hạt.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả sự chuyển nguyên liệu từ vỏ vào hạt.",
+        "Trang trích dẫn mô tả sự chuyển nguyên liệu từ vỏ vào hạt.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả sự chuyển nguyên liệu từ vỏ vào hạt.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả sự chuyển nguyên liệu từ vỏ vào hạt."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới tác dụng của LH, tế bào vỏ sản xuất androgen. Dưới tác dụng của FSH, tế bào hạt sản xuất estrogen. Tế bào vỏ tổng hợp androstenedione từ cholesterol, dưới tác dụng của LH. Androstenedione từ tế bào vỏ được chuyển đến các tế bào hạt phía trong của noãn nang. Tại tế bào hạt, dưới tác động của FSH, androstenedione được thơm hóa thành estrone (E1) nhờ men aromatase P450. Estrone sẽ chuyển đổi thành estradiol (E2).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q036",
+      "topicId": "axis",
+      "conceptId": "m06-e1-direct",
+      "level": "understand",
+      "stem": "Trong tế bào hạt, aromatase P450 tham gia bước nào?",
+      "options": [
+        "Thơm hóa androstenedione",
+        "Tạo thụ thể LH ở tuyến yên",
+        "Phóng thích GnRH",
+        "Biến hoàng thể thành bạch thể"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn nêu chức năng thơm hóa androgen của aromatase.",
+      "optionExplanations": [
+        "Trang trích dẫn nêu chức năng thơm hóa androgen của aromatase.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu chức năng thơm hóa androgen của aromatase.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu chức năng thơm hóa androgen của aromatase.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu chức năng thơm hóa androgen của aromatase."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới tác dụng của LH, tế bào vỏ sản xuất androgen. Dưới tác dụng của FSH, tế bào hạt sản xuất estrogen. Tế bào vỏ tổng hợp androstenedione từ cholesterol, dưới tác dụng của LH. Androstenedione từ tế bào vỏ được chuyển đến các tế bào hạt phía trong của noãn nang. Tại tế bào hạt, dưới tác động của FSH, androstenedione được thơm hóa thành estrone (E1) nhờ men aromatase P450. Estrone sẽ chuyển đổi thành estradiol (E2).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q037",
+      "topicId": "selection",
+      "conceptId": "m06-e2-fsh-trend",
+      "level": "understand",
+      "stem": "Phản hồi thứ nhất của estradiol tác động lên FSH theo hướng nào?",
+      "options": [
+        "Tăng FSH không giới hạn",
+        "Giữ FSH không đổi",
+        "Chuyển FSH thành LH",
+        "Ức chế sản xuất FSH"
+      ],
+      "answer": 3,
+      "explanation": "Trang trích dẫn mô tả E2 tăng đi kèm FSH giảm.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả E2 tăng đi kèm FSH giảm.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả E2 tăng đi kèm FSH giảm.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả E2 tăng đi kèm FSH giảm.",
+        "Trang trích dẫn mô tả E2 tăng đi kèm FSH giảm."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Hiện diện của estradiol trong huyết tương gây ra một phản hồi âm trên tuyến yên, ức chế tuyến yên sản xuất FSH. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Hệ quả của phản hồi này là nồng độ FSH lưu hành giảm dần, biến thiên theo chiều nghịch với sự tăng của estradiol.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q038",
+      "topicId": "selection",
+      "conceptId": "m06-poor-receptors",
+      "level": "understand",
+      "stem": "Khi FSH khan hiếm, nang nào có lợi thế tiếp tục phát triển?",
+      "options": [
+        "Nang không có thụ thể FSH",
+        "Mọi nang có lợi thế như nhau",
+        "Nang nhiều tế bào hạt và thụ thể FSH",
+        "Nang ít tế bào hạt nhất"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn giải thích lợi thế bắt giữ FSH của nang phát triển tốt.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn giải thích lợi thế bắt giữ FSH của nang phát triển tốt.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn giải thích lợi thế bắt giữ FSH của nang phát triển tốt.",
+        "Trang trích dẫn giải thích lợi thế bắt giữ FSH của nang phát triển tốt.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn giải thích lợi thế bắt giữ FSH của nang phát triển tốt."
+      ],
+      "sources": [
+        {
+          "page": 26,
+          "quote": "Thiếu hụt FSH là động lực của chọn lọc noãn nang. Các nang noãn thứ cấp nào có sự phát triển tốt hơn, có nhiều tế bào hạt hơn, đồng nghĩa với có nhiều thụ thể và khả năng bắt giữ FSH tốt hơn sẽ thu gom dễ dàng các phân tử FSH hiếm hoi còn lưu hành để tiếp tục phát triển. Các nang thứ cấp nào đã phát triển kém thì ngày càng kém hơn và đi vào thoái triển.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q039",
+      "topicId": "selection",
+      "conceptId": "m06-high-e2-duration",
+      "level": "understand",
+      "stem": "Điều kiện E2 nào kích hoạt phản hồi dương theo bài?",
+      "options": [
+        "Luôn giữ ở nồng độ thấp",
+        "Vượt ngưỡng trong thời gian đủ dài",
+        "Chỉ tăng thoáng qua dưới ngưỡng",
+        "Giảm đột ngột về thấp"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì.",
+        "Trang trích dẫn yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì."
+      ],
+      "sources": [
+        {
+          "page": 30,
+          "quote": "Nồng độ estradiol vượt ngưỡng và duy trì trên ngưỡng trong thời gian đủ dài sẽ kích hoạt phản hồi dương của estradiol, tạo đỉnh LH, gây hiện tượng trưởng thành cuối cùng của noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 31,
+          "quote": "Nồng độ estradiol được duy trì trên ngưỡng trong thời gian đủ dài là điều kiện đủ để tuyến yên cho phản hồi dương với nồng độ cao estradiol. Khi thỏa cả hai điều kiện trên, estradiol sẽ kích hoạt phản hồi thứ nhì của nó trên hệ thống các neuron hạ đồi. Đây là một phản hồi dương.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q040",
+      "topicId": "ovulation",
+      "conceptId": "m06-fertilization-release",
+      "level": "understand",
+      "stem": "Sau đỉnh LH, giảm phân của noãn dừng ở đâu để chờ tinh trùng?",
+      "options": [
+        "Kỳ giữa giảm phân II",
+        "Kỳ đầu nguyên phân",
+        "Kỳ cuối giảm phân II đã hoàn tất",
+        "Trước khi vào giảm phân I"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn mô tả hoàn tất giảm phân I rồi dừng tại metaphase II.",
+      "optionExplanations": [
+        "Trang trích dẫn mô tả hoàn tất giảm phân I rồi dừng tại metaphase II.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả hoàn tất giảm phân I rồi dừng tại metaphase II.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả hoàn tất giảm phân I rồi dừng tại metaphase II.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả hoàn tất giảm phân I rồi dừng tại metaphase II."
+      ],
+      "sources": [
+        {
+          "page": 34,
+          "quote": "Phân bào giảm nhiễm của noãn bào dừng lại ở metaphase của phân bào II, cho đến khi nó được một tinh trùng xâm nhập.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q041",
+      "topicId": "ovulation",
+      "conceptId": "m06-lh-dual-role",
+      "level": "understand",
+      "stem": "Hormone tuyến yên nào tạo lập và duy trì hoàng thể?",
+      "options": [
+        "GnRH",
+        "Estradiol",
+        "Progesterone",
+        "LH"
+      ],
+      "answer": 3,
+      "explanation": "Trang trích dẫn nêu hoàng thể được tạo lập và duy trì nhờ LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu hoàng thể được tạo lập và duy trì nhờ LH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu hoàng thể được tạo lập và duy trì nhờ LH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu hoàng thể được tạo lập và duy trì nhờ LH.",
+        "Trang trích dẫn nêu hoàng thể được tạo lập và duy trì nhờ LH."
+      ],
+      "sources": [
+        {
+          "page": 36,
+          "quote": "Hoàng thể được thành lập từ khối tế bào hạt và tế bào vỏ còn lại trên buồng trứng, bắt đầu chế tiết progesterone. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới gọi là hoàng thể. Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q042",
+      "topicId": "ovulation",
+      "conceptId": "m06-lh-withdrawal",
+      "level": "understand",
+      "stem": "Bạch thể biểu thị giai đoạn nào của nang noãn?",
+      "options": [
+        "Nang thứ cấp đang tăng sinh",
+        "Khối noãn sắp phóng thích",
+        "Sẹo sau thoái triển hoàng thể",
+        "Nang vừa được chiêu mộ"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể.",
+        "Trang trích dẫn gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể."
+      ],
+      "sources": [
+        {
+          "page": 40,
+          "quote": "Sụt giảm LH dẫn đến tiêu vong của hoàng thể, chấm dứt chế tiết steroid sinh dục và chấm dứt chu kỳ buồng trứng. Do không còn được nuôi dưỡng bởi LH, hoàng thể sẽ dần dần đi vào thoái triển, để lại một sẹo trên buồng trứng, gọi là bạch thể.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q043",
+      "topicId": "origin",
+      "conceptId": "m06-recruit-local",
+      "level": "apply",
+      "stem": "Trong mô hình bài học, thay đổi chỉ tác động yếu tố tự tiết tại buồng trứng. Quá trình nào liên quan trực tiếp nhất?",
+      "options": [
+        "Hình thành nhân cung",
+        "Chiêu mộ noãn nguyên thủy",
+        "Vận chuyển GnRH trong mạch cửa",
+        "Phóng thích LH từ tuyến yên"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn quy chiêu mộ cho yếu tố cận tiết và tự tiết.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn quy chiêu mộ cho yếu tố cận tiết và tự tiết.",
+        "Trang trích dẫn quy chiêu mộ cho yếu tố cận tiết và tự tiết.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn quy chiêu mộ cho yếu tố cận tiết và tự tiết.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn quy chiêu mộ cho yếu tố cận tiết và tự tiết."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Quá trình chiêu mộ nguyên khởi lệ thuộc vào các yếu tố nội tại của buồng trứng. Quá trình này độc lập với các hormone ngoại vi lưu hành.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 6,
+          "quote": "Đối thoại cận tiết giữa noãn bào với tế bào tùy hành của nó, cũng như đối thoại cận tiết giữa các phức bộ noãn nang nguyên thủy liền kề là những động lực chính của các làn sóng chiêu mộ nguyên khởi. Trong khi đó, đối thoại cận tiết giữa các phức bộ noãn nang nguyên thủy được thực hiện thông qua con đường PTEN/PI3K/Akt. Tiến trình này được điều hòa bởi Anti-Mullerian Hormone (AMH).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q044",
+      "topicId": "origin",
+      "conceptId": "m06-stage-sequence",
+      "level": "understand",
+      "stem": "Một nang đã qua sơ cấp và thứ cấp sớm. Giai đoạn tiếp theo được trang trích dẫn nêu là gì?",
+      "options": [
+        "Thứ cấp muộn",
+        "Bạch thể",
+        "Hoàng thể",
+        "Tế bào sinh dục nguyên thủy"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn.",
+      "optionExplanations": [
+        "Trang trích dẫn trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Sau chiêu mộ, các nang noãn vẫn tiếp tục phát triển không lệ thuộc gonadotropin, đến giai đoạn nang thứ cấp muộn. Các nang noãn đã chiêu mộ sẽ lần lượt phát triển qua các giai đoạn noãn sơ cấp, rồi thứ cấp sớm và cuối cùng là thứ cấp muộn.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q045",
+      "topicId": "axis",
+      "conceptId": "m06-gnrh-output",
+      "level": "apply",
+      "stem": "Trong mô hình bài, nếu tín hiệu xung GnRH đến tuyến yên bị gián đoạn, khâu đáp ứng nào trực tiếp mất kích thích này?",
+      "options": [
+        "Chế tiết FSH và LH ở tuyến yên",
+        "Di trú tế bào từ túi noãn hoàng",
+        "Chuyển bạch thể thành noãn nguyên thủy",
+        "Tạo cholesterol tại mạch cửa"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không.",
+      "optionExplanations": [
+        "Trang trích dẫn nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không.",
+        "Không phù hợp với tình huống. Trang trích dẫn nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không.",
+        "Không phù hợp với tình huống. Trang trích dẫn nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không.",
+        "Không phù hợp với tình huống. Trang trích dẫn nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Dưới tác động của các xung GnRH, tuyến yên phóng thích các gonadotropin là FSH và LH. Tùy tần số của xung GnRH mà tuyến yên đáp ứng khác nhau. Tuyến yên sẽ đáp ứng ưu tiên bằng FSH nếu tần số xung GnRH thưa, và sẽ đáp ứng ưu tiên bằng LH nếu tần số xung GnRH dồn dập.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q046",
+      "topicId": "axis",
+      "conceptId": "m06-pulse-rate",
+      "level": "apply",
+      "stem": "Hai tín hiệu GnRH có tần số khác nhau. Khác biệt đáp ứng nào được bài cho phép dự đoán?",
+      "options": [
+        "Không thể thay đổi đáp ứng tuyến yên",
+        "Luôn mất toàn bộ thụ thể nang",
+        "Ưu thế FSH hoặc LH khác nhau",
+        "Luôn sản xuất P4 thay FSH"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn nêu tần số xung làm thay đổi ưu thế FSH hay LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu tần số xung làm thay đổi ưu thế FSH hay LH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu tần số xung làm thay đổi ưu thế FSH hay LH.",
+        "Trang trích dẫn nêu tần số xung làm thay đổi ưu thế FSH hay LH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu tần số xung làm thay đổi ưu thế FSH hay LH."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Dưới tác động của các xung GnRH, tuyến yên phóng thích các gonadotropin là FSH và LH. Tùy tần số của xung GnRH mà tuyến yên đáp ứng khác nhau. Tuyến yên sẽ đáp ứng ưu tiên bằng FSH nếu tần số xung GnRH thưa, và sẽ đáp ứng ưu tiên bằng LH nếu tần số xung GnRH dồn dập.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q047",
+      "topicId": "axis",
+      "conceptId": "m06-theca-lh",
+      "level": "understand",
+      "stem": "Một tế bào nang bắt LH và tổng hợp androstenedione từ cholesterol. Đó là tế bào nào?",
+      "options": [
+        "Neuron nhân cung",
+        "Tế bào vỏ",
+        "Tế bào hạt",
+        "Noãn bào"
+      ],
+      "answer": 1,
+      "explanation": "Các đặc điểm chức năng này được gắn với tế bào vỏ ở Trang trích dẫn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Các đặc điểm chức năng này được gắn với tế bào vỏ ở Trang trích dẫn.",
+        "Các đặc điểm chức năng này được gắn với tế bào vỏ ở Trang trích dẫn.",
+        "Không phù hợp trong tình huống này. Các đặc điểm chức năng này được gắn với tế bào vỏ ở Trang trích dẫn.",
+        "Không phù hợp trong tình huống này. Các đặc điểm chức năng này được gắn với tế bào vỏ ở Trang trích dẫn."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới tác dụng của LH, tế bào vỏ sản xuất androgen. Dưới tác dụng của FSH, tế bào hạt sản xuất estrogen. Tế bào vỏ tổng hợp androstenedione từ cholesterol, dưới tác dụng của LH. Androstenedione từ tế bào vỏ được chuyển đến các tế bào hạt phía trong của noãn nang. Tại tế bào hạt, dưới tác động của FSH, androstenedione được thơm hóa thành estrone (E1) nhờ men aromatase P450. Estrone sẽ chuyển đổi thành estradiol (E2).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q048",
+      "topicId": "axis",
+      "conceptId": "m06-granulosa-fsh",
+      "level": "understand",
+      "stem": "Một tế bào nang đáp ứng FSH và thơm hóa androgen. Đó là tế bào nào?",
+      "options": [
+        "Tế bào hạt",
+        "Tế bào vỏ",
+        "Noãn bào",
+        "Neuron GnRH"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn gắn FSH và aromatase với tế bào hạt.",
+      "optionExplanations": [
+        "Trang trích dẫn gắn FSH và aromatase với tế bào hạt.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn gắn FSH và aromatase với tế bào hạt.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn gắn FSH và aromatase với tế bào hạt.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn gắn FSH và aromatase với tế bào hạt."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới tác dụng của LH, tế bào vỏ sản xuất androgen. Dưới tác dụng của FSH, tế bào hạt sản xuất estrogen. Tế bào vỏ tổng hợp androstenedione từ cholesterol, dưới tác dụng của LH. Androstenedione từ tế bào vỏ được chuyển đến các tế bào hạt phía trong của noãn nang. Tại tế bào hạt, dưới tác động của FSH, androstenedione được thơm hóa thành estrone (E1) nhờ men aromatase P450. Estrone sẽ chuyển đổi thành estradiol (E2).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q049",
+      "topicId": "axis",
+      "conceptId": "m06-e1-direct",
+      "level": "apply",
+      "stem": "Trong mô hình chỉ xét bước thơm hóa androstenedione tại tế bào hạt, bước này bị chặn. Sản phẩm trực tiếp nào không còn được tạo qua chính bước đó?",
+      "options": [
+        "Estrone (E1)",
+        "Progesterone từ hoàng thể",
+        "GnRH từ nhân cung",
+        "LH từ tuyến yên"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn.",
+      "optionExplanations": [
+        "Trang trích dẫn nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn.",
+        "Không phù hợp với tình huống. Trang trích dẫn nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn.",
+        "Không phù hợp với tình huống. Trang trích dẫn nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn.",
+        "Không phù hợp với tình huống. Trang trích dẫn nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới tác dụng của LH, tế bào vỏ sản xuất androgen. Dưới tác dụng của FSH, tế bào hạt sản xuất estrogen. Tế bào vỏ tổng hợp androstenedione từ cholesterol, dưới tác dụng của LH. Androstenedione từ tế bào vỏ được chuyển đến các tế bào hạt phía trong của noãn nang. Tại tế bào hạt, dưới tác động của FSH, androstenedione được thơm hóa thành estrone (E1) nhờ men aromatase P450. Estrone sẽ chuyển đổi thành estradiol (E2).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q050",
+      "topicId": "axis",
+      "conceptId": "m06-receptors-amplify",
+      "level": "apply",
+      "stem": "Tế bào nang vừa tăng số lượng vừa tổng hợp thêm thụ thể gonadotropin. Hệ quả nào phù hợp?",
+      "options": [
+        "GnRH không còn qua mạch cửa",
+        "Nang nhạy với gonadotropin hơn",
+        "Nang mất khả năng bắt hormone",
+        "Nang trở thành bạch thể ngay"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn liên hệ tăng thụ thể với tăng độ nhạy gonadotropin.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn liên hệ tăng thụ thể với tăng độ nhạy gonadotropin.",
+        "Trang trích dẫn liên hệ tăng thụ thể với tăng độ nhạy gonadotropin.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn liên hệ tăng thụ thể với tăng độ nhạy gonadotropin.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn liên hệ tăng thụ thể với tăng độ nhạy gonadotropin."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH. Các tế bào này bắt giữ các gonadotropin để phát triển, tăng về số lượng để tạo nên sự phát triển của các nang thứ cấp. Tại các nang thứ cấp đang phát triển, dưới tác động của gonadotropin, các tế bào hạt tùy hành phân chia nguyên nhiễm, đồng thời tổng hợp thụ thể gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q051",
+      "topicId": "selection",
+      "conceptId": "m06-asynchrony",
+      "level": "apply",
+      "stem": "Hai nang thứ cấp có lượng thụ thể khác nhau. Kết quả nào phù hợp bài?",
+      "options": [
+        "Phát triển không đồng bộ",
+        "Bắt hormone luôn ngang nhau",
+        "Chắc chắn cùng thành nang de Graaf",
+        "Cả hai không thể đáp ứng hormone"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn giải thích phát triển không đồng bộ bằng khác biệt thụ thể.",
+      "optionExplanations": [
+        "Trang trích dẫn giải thích phát triển không đồng bộ bằng khác biệt thụ thể.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn giải thích phát triển không đồng bộ bằng khác biệt thụ thể.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn giải thích phát triển không đồng bộ bằng khác biệt thụ thể.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn giải thích phát triển không đồng bộ bằng khác biệt thụ thể."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "Do các nang thứ cấp khác nhau không sở hữu lượng thụ thể gonadotropin như nhau, nên khả năng bắt gonadotropin của chúng khác nhau, dẫn đến sự phát triển khác nhau.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q052",
+      "topicId": "selection",
+      "conceptId": "m06-e2-fsh-trend",
+      "level": "apply",
+      "stem": "Ở giai đoạn phản hồi thứ nhất, E2 đang tăng. Chiều biến thiên FSH nào phù hợp?",
+      "options": [
+        "Tăng cùng chiều bắt buộc",
+        "Không đổi bắt buộc",
+        "Chuyển thành E2",
+        "Giảm"
+      ],
+      "answer": 3,
+      "explanation": "Trang trích dẫn nêu FSH biến thiên nghịch với estradiol trong phản hồi này.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu FSH biến thiên nghịch với estradiol trong phản hồi này.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu FSH biến thiên nghịch với estradiol trong phản hồi này.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu FSH biến thiên nghịch với estradiol trong phản hồi này.",
+        "Trang trích dẫn nêu FSH biến thiên nghịch với estradiol trong phản hồi này."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Hiện diện của estradiol trong huyết tương gây ra một phản hồi âm trên tuyến yên, ức chế tuyến yên sản xuất FSH. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Hệ quả của phản hồi này là nồng độ FSH lưu hành giảm dần, biến thiên theo chiều nghịch với sự tăng của estradiol.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q053",
+      "topicId": "selection",
+      "conceptId": "m06-poor-receptors",
+      "level": "apply",
+      "stem": "FSH giảm, một nang có rất ít tế bào hạt và thụ thể. Diễn tiến nào được bài mô tả?",
+      "options": [
+        "Tăng trưởng không cần FSH",
+        "Trở thành tế bào tuyến yên",
+        "Thoái triển vì cạnh tranh FSH kém",
+        "Ưu tiên phát triển thành de Graaf"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn mô tả nang ít thụ thể không thu gom đủ FSH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả nang ít thụ thể không thu gom đủ FSH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả nang ít thụ thể không thu gom đủ FSH.",
+        "Trang trích dẫn mô tả nang ít thụ thể không thu gom đủ FSH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả nang ít thụ thể không thu gom đủ FSH."
+      ],
+      "sources": [
+        {
+          "page": 26,
+          "quote": "Thiếu hụt FSH là động lực của chọn lọc noãn nang. Các nang noãn thứ cấp nào có sự phát triển tốt hơn, có nhiều tế bào hạt hơn, đồng nghĩa với có nhiều thụ thể và khả năng bắt giữ FSH tốt hơn sẽ thu gom dễ dàng các phân tử FSH hiếm hoi còn lưu hành để tiếp tục phát triển. Các nang thứ cấp nào đã phát triển kém thì ngày càng kém hơn và đi vào thoái triển.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q054",
+      "topicId": "selection",
+      "conceptId": "m06-dominant-name",
+      "level": "understand",
+      "stem": "Nang cuối cùng có nhiều tế bào tùy hành, nhiều thụ thể và tiết E2 mạnh nhất được gọi là gì?",
+      "options": [
+        "Nang nguyên thủy đang nghỉ",
+        "Nang de Graaf",
+        "Bạch thể",
+        "Hoàng thể thoái triển"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn gọi nang phát triển đến tận cùng là nang de Graaf.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn gọi nang phát triển đến tận cùng là nang de Graaf.",
+        "Trang trích dẫn gọi nang phát triển đến tận cùng là nang de Graaf.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn gọi nang phát triển đến tận cùng là nang de Graaf.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn gọi nang phát triển đến tận cùng là nang de Graaf."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "Cuối cùng, chỉ có một nang noãn tốt nhất, sở hữu nhiều tế bào tùy hành nhất, có nhiều thụ thể với gonadotropin nhất, sản xuất được nhiều estradiol nhất mới có cơ hội phát triển đến tận cùng, gọi là nang trưởng thành (nang de Graaf).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q055",
+      "topicId": "selection",
+      "conceptId": "m06-prelh-oocyte",
+      "level": "understand",
+      "stem": "Theo trang trích dẫn, trước đỉnh LH, noãn trong nang de Graaf đang ở trạng thái nào?",
+      "options": [
+        "Vẫn trong tiền kỳ giảm phân I",
+        "Đã hoàn tất giảm phân II",
+        "Đã là hợp tử",
+        "Đang nguyên phân thành hai noãn"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất.",
+      "optionExplanations": [
+        "Trang trích dẫn mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất."
+      ],
+      "sources": [
+        {
+          "page": 28,
+          "quote": "Nang de Graaf gồm noãn bào và các tế bào hạt và các tế bào vỏ tùy hành. Lúc này, noãn bào trong nang de Graaf vẫn còn đang chậm chạp trong tiền kỳ của phân bào thứ nhất của phân bào giảm nhiễm.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q056",
+      "topicId": "selection",
+      "conceptId": "m06-high-e2-duration",
+      "level": "apply",
+      "stem": "E2 chỉ vượt ngưỡng trong một thời gian quá ngắn. Theo điều kiện ở trang trích dẫn, kết luận nào đúng?",
+      "options": [
+        "Chắc chắn đã có đỉnh LH",
+        "Chắc chắn đã phóng noãn",
+        "Đã hoàn tất thụ tinh",
+        "Chưa đủ điều kiện phản hồi dương"
+      ],
+      "answer": 3,
+      "explanation": "Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua.",
+        "Không phù hợp trong tình huống này. Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua.",
+        "Không phù hợp trong tình huống này. Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua.",
+        "Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua."
+      ],
+      "sources": [
+        {
+          "page": 30,
+          "quote": "Nồng độ estradiol vượt ngưỡng và duy trì trên ngưỡng trong thời gian đủ dài sẽ kích hoạt phản hồi dương của estradiol, tạo đỉnh LH, gây hiện tượng trưởng thành cuối cùng của noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 31,
+          "quote": "Nồng độ estradiol được duy trì trên ngưỡng trong thời gian đủ dài là điều kiện đủ để tuyến yên cho phản hồi dương với nồng độ cao estradiol. Khi thỏa cả hai điều kiện trên, estradiol sẽ kích hoạt phản hồi thứ nhì của nó trên hệ thống các neuron hạ đồi. Đây là một phản hồi dương.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q057",
+      "topicId": "selection",
+      "conceptId": "m06-surge-output",
+      "level": "apply",
+      "stem": "Một nang tạo E2 vượt ngưỡng đủ lâu và phản hồi dương đã được kích hoạt. Dạng đáp ứng LH nào phù hợp nhất với mô hình bài?",
+      "options": [
+        "Một đợt phóng thích lớn trong thời gian ngắn",
+        "LH thấp không thay đổi do phản hồi dương",
+        "LH biến mất vĩnh viễn ngay",
+        "LH được sản xuất trực tiếp trong noãn thay tuyến yên"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn.",
+      "optionExplanations": [
+        "Trang trích dẫn mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn.",
+        "Không phù hợp với tình huống. Trang trích dẫn mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn.",
+        "Không phù hợp với tình huống. Trang trích dẫn mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn.",
+        "Không phù hợp với tình huống. Trang trích dẫn mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "Trong phản hồi này, tuyến yên sẽ đáp ứng bằng cách phóng thích một lượng lớn LH, trong một thời gian rất ngắn, tạo một đỉnh LH trong máu ngoại vi. Trong phản hồi dương của estradiol, KNDy neuron phóng thích kisspeptin. Kisspeptin kích hoạt GnRH neuron phóng thích GnRH. GnRH kích hoạt tuyến yên phóng thích ồ ạt LH và FSH.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q058",
+      "topicId": "ovulation",
+      "conceptId": "m06-fertilization-release",
+      "level": "apply",
+      "stem": "Một noãn đã đến kỳ giữa giảm phân II nhưng chưa có tinh trùng xâm nhập. Theo bài, có được ghi rằng toàn bộ giảm phân đã hoàn tất không?",
+      "options": [
+        "Không; vẫn ở điểm dừng chờ tinh trùng",
+        "Có; chỉ cần nang vỡ là đủ",
+        "Có; giảm phân II luôn hoàn tất trước LH",
+        "Không vì noãn chưa từng vào giảm phân I"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân.",
+      "optionExplanations": [
+        "Trang trích dẫn nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân.",
+        "Không phù hợp với tình huống. Trang trích dẫn nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân.",
+        "Không phù hợp với tình huống. Trang trích dẫn nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân.",
+        "Không phù hợp với tình huống. Trang trích dẫn nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân."
+      ],
+      "sources": [
+        {
+          "page": 34,
+          "quote": "Phân bào giảm nhiễm của noãn bào dừng lại ở metaphase của phân bào II, cho đến khi nó được một tinh trùng xâm nhập.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q059",
+      "topicId": "ovulation",
+      "conceptId": "m06-cumulus",
+      "level": "understand",
+      "stem": "Noãn cùng nhóm tế bào hạt bao quanh tách khỏi phần hạt còn lại, chuẩn bị rời buồng trứng. Cấu trúc này là gì?",
+      "options": [
+        "Corpus albicans",
+        "Nhân cung",
+        "Mạch cửa",
+        "Đám mây noãn bào"
+      ],
+      "answer": 3,
+      "explanation": "Trang trích dẫn gọi cấu trúc sẵn sàng được phóng thích là đám mây noãn bào.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn gọi cấu trúc sẵn sàng được phóng thích là đám mây noãn bào.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn gọi cấu trúc sẵn sàng được phóng thích là đám mây noãn bào.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn gọi cấu trúc sẵn sàng được phóng thích là đám mây noãn bào.",
+        "Trang trích dẫn gọi cấu trúc sẵn sàng được phóng thích là đám mây noãn bào."
+      ],
+      "sources": [
+        {
+          "page": 35,
+          "quote": "Các tế bào hạt bao quanh noãn bào sẽ tăng cường phân chia, tạo ra một khối tế bào có nhiệm vụ đi theo noãn bào sau khi phóng noãn. Chúng tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng, được gọi là đám mây noãn bào. Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần do chịu tác dụng của prostaglandin tại chỗ. Cuối cùng, nang noãn bị vỡ và phóng thích đám mây noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q060",
+      "topicId": "ovulation",
+      "conceptId": "m06-rupture",
+      "level": "understand",
+      "stem": "Bề mặt buồng trứng tại nang mỏng dần rồi nang vỡ. Thành phần được phóng thích theo bài là gì?",
+      "options": [
+        "Bạch thể",
+        "Mạch cửa hạ đồi",
+        "Đám mây noãn bào",
+        "Toàn bộ tuyến yên"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn nối sự vỡ nang với phóng thích đám mây noãn bào.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn nối sự vỡ nang với phóng thích đám mây noãn bào.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nối sự vỡ nang với phóng thích đám mây noãn bào.",
+        "Trang trích dẫn nối sự vỡ nang với phóng thích đám mây noãn bào.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nối sự vỡ nang với phóng thích đám mây noãn bào."
+      ],
+      "sources": [
+        {
+          "page": 35,
+          "quote": "Các tế bào hạt bao quanh noãn bào sẽ tăng cường phân chia, tạo ra một khối tế bào có nhiệm vụ đi theo noãn bào sau khi phóng noãn. Chúng tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng, được gọi là đám mây noãn bào. Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần do chịu tác dụng của prostaglandin tại chỗ. Cuối cùng, nang noãn bị vỡ và phóng thích đám mây noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q061",
+      "topicId": "ovulation",
+      "conceptId": "m06-vascularization",
+      "level": "apply",
+      "stem": "Nếu trong mô hình hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả trong bài đang bị hạn chế?",
+      "options": [
+        "Cholesterol từ mạch máu vào cấu trúc nang",
+        "GnRH từ chính noãn bào",
+        "FSH do tế bào hạt tự tạo",
+        "DNA do hormone lưu hành tạo ra"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết.",
+      "optionExplanations": [
+        "Trang trích dẫn mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết.",
+        "Không phù hợp với tình huống. Trang trích dẫn mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết.",
+        "Không phù hợp với tình huống. Trang trích dẫn mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết.",
+        "Không phù hợp với tình huống. Trang trích dẫn mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết."
+      ],
+      "sources": [
+        {
+          "page": 36,
+          "quote": "Hoàng thể được thành lập từ khối tế bào hạt và tế bào vỏ còn lại trên buồng trứng, bắt đầu chế tiết progesterone. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới gọi là hoàng thể. Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q062",
+      "topicId": "ovulation",
+      "conceptId": "m06-two-steroids-same-source",
+      "level": "apply",
+      "stem": "Sau phóng noãn, xét về mô hình nội tiết của bài, E2 vẫn được sản xuất đồng thời P4 xuất hiện nổi bật. Diễn giải nào phù hợp?",
+      "options": [
+        "Phần nang còn lại đã hoàng thể hóa, tiếp tục E2 và sản xuất thêm P4",
+        "E2 còn tồn tại chứng minh chưa thể có hoàng thể",
+        "P4 xuất hiện chứng minh toàn bộ E2 phải bằng không",
+        "P4 do tuyến yên thay FSH sản xuất"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone.",
+      "optionExplanations": [
+        "Trang trích dẫn mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone.",
+        "Không phù hợp với tình huống. Trang trích dẫn mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone.",
+        "Không phù hợp với tình huống. Trang trích dẫn mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone.",
+        "Không phù hợp với tình huống. Trang trích dẫn mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone."
+      ],
+      "sources": [
+        {
+          "page": 37,
+          "quote": "Hoàng thể tiếp tục sản xuất estradiol, nhưng quan trọng nhất là một steroid sinh dục mới, đặc hữu của hoàng thể: progesterone. Nồng độ progesterone tăng cao dần, tạo ra một phản hồi âm trên hạ đồi và tuyến yên, ức chế sản xuất LH.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q063",
+      "topicId": "ovulation",
+      "conceptId": "m06-peak-day",
+      "level": "understand",
+      "stem": "Theo bài, đánh giá đỉnh sản xuất steroid của hoàng thể nên gắn với mốc tương đối nào?",
+      "options": [
+        "Ngay khi nang nguyên thủy được chiêu mộ",
+        "Trước dậy thì",
+        "Lúc bạch thể đã hoàn toàn hình thành",
+        "Khoảng 7 ngày sau phóng noãn"
+      ],
+      "answer": 3,
+      "explanation": "Trang trích dẫn đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn.",
+        "Trang trích dẫn đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 39,
+          "quote": "Dưới tác dụng của LH, các tế bào hoàng thể chế tiết estradiol và progesterone. Sản xuất steroid sinh dục của hoàng thể đạt đỉnh vào khoảng 7 ngày sau phóng noãn. Trên hạ đồi, progesterone làm giảm nhịp điệu của các xung GnRH. Do không còn được kích thích bởi GnRH, sản xuất LH của tuyến yên bị sụt giảm.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q064",
+      "topicId": "ovulation",
+      "conceptId": "m06-p4-luteolysis-chain",
+      "level": "apply",
+      "stem": "Progesterone tăng trong pha hoàng thể. Tác động lên nhịp GnRH nào được bài nêu?",
+      "options": [
+        "Không thể tác động hạ đồi",
+        "Biến GnRH thành FSH",
+        "Giảm nhịp xung",
+        "Tăng nhịp vô hạn"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn mô tả phản hồi ức chế làm giảm nhịp GnRH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả phản hồi ức chế làm giảm nhịp GnRH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả phản hồi ức chế làm giảm nhịp GnRH.",
+        "Trang trích dẫn mô tả phản hồi ức chế làm giảm nhịp GnRH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả phản hồi ức chế làm giảm nhịp GnRH."
+      ],
+      "sources": [
+        {
+          "page": 39,
+          "quote": "Dưới tác dụng của LH, các tế bào hoàng thể chế tiết estradiol và progesterone. Sản xuất steroid sinh dục của hoàng thể đạt đỉnh vào khoảng 7 ngày sau phóng noãn. Trên hạ đồi, progesterone làm giảm nhịp điệu của các xung GnRH. Do không còn được kích thích bởi GnRH, sản xuất LH của tuyến yên bị sụt giảm.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q065",
+      "topicId": "ovulation",
+      "conceptId": "m06-lh-withdrawal",
+      "level": "apply",
+      "stem": "Một hoàng thể không còn được duy trì bởi LH. Diễn tiến nào phù hợp?",
+      "options": [
+        "Biến thành noãn bào",
+        "Thoái triển thành bạch thể",
+        "Trở thành nang nguyên thủy",
+        "Tăng steroid vĩnh viễn"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn liên hệ mất hỗ trợ LH với thoái triển hoàng thể.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn liên hệ mất hỗ trợ LH với thoái triển hoàng thể.",
+        "Trang trích dẫn liên hệ mất hỗ trợ LH với thoái triển hoàng thể.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn liên hệ mất hỗ trợ LH với thoái triển hoàng thể.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn liên hệ mất hỗ trợ LH với thoái triển hoàng thể."
+      ],
+      "sources": [
+        {
+          "page": 40,
+          "quote": "Sụt giảm LH dẫn đến tiêu vong của hoàng thể, chấm dứt chế tiết steroid sinh dục và chấm dứt chu kỳ buồng trứng. Do không còn được nuôi dưỡng bởi LH, hoàng thể sẽ dần dần đi vào thoái triển, để lại một sẹo trên buồng trứng, gọi là bạch thể.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q066",
+      "topicId": "ovulation",
+      "conceptId": "m06-cycle-reset-reason",
+      "level": "apply",
+      "stem": "Hoàng thể thoái triển, E2 và P4 cùng giảm. Trục hạ đồi–yên được bài mô tả thế nào?",
+      "options": [
+        "Thoát ràng buộc chu kỳ trước, sẵn sàng chu kỳ mới",
+        "Bị ức chế vĩnh viễn",
+        "Trở thành hoàng thể mới",
+        "Ngừng hoạt động suốt đời"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn nêu ý nghĩa giải phóng trục của sự giảm hai steroid.",
+      "optionExplanations": [
+        "Trang trích dẫn nêu ý nghĩa giải phóng trục của sự giảm hai steroid.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu ý nghĩa giải phóng trục của sự giảm hai steroid.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu ý nghĩa giải phóng trục của sự giảm hai steroid.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu ý nghĩa giải phóng trục của sự giảm hai steroid."
+      ],
+      "sources": [
+        {
+          "page": 41,
+          "quote": "Hoàng thể thoái triển không còn sản xuất steroid sinh dục nữa, tạo ra sự sụt giảm của cả estradiol lẫn progesterone trong máu ngoại vi. Sự sụt giảm của nồng độ các steroid sinh dục giải phóng trục hạ đồi-tuyến yên khỏi các ràng buộc của chu kỳ buồng trứng trước và sẵn sàng cho một chu kỳ buồng trứng mới.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q067",
+      "topicId": "origin",
+      "conceptId": "m06-local-vs-axis",
+      "level": "analyze",
+      "stem": "Một nhận định cho rằng FSH ngoại vi trực tiếp chiêu mộ nang nguyên thủy vì FSH làm nang thứ cấp phát triển. Sai ở chỗ nào?",
+      "options": [
+        "FSH không tác động bất kỳ tế bào nào",
+        "Mọi nang đều là hoàng thể",
+        "Chiêu mộ chỉ diễn ra trong tuyến yên",
+        "Đánh đồng chiêu mộ tại chỗ với giai đoạn đáp ứng gonadotropin"
+      ],
+      "answer": 3,
+      "explanation": "Trang trích dẫn phân biệt điều hòa chiêu mộ tại chỗ; Trang trích dẫn mô tả tác động gonadotropin ở nang thứ cấp.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn phân biệt điều hòa chiêu mộ tại chỗ; Trang trích dẫn mô tả tác động gonadotropin ở nang thứ cấp.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn phân biệt điều hòa chiêu mộ tại chỗ; Trang trích dẫn mô tả tác động gonadotropin ở nang thứ cấp.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn phân biệt điều hòa chiêu mộ tại chỗ; Trang trích dẫn mô tả tác động gonadotropin ở nang thứ cấp.",
+        "Trang trích dẫn phân biệt điều hòa chiêu mộ tại chỗ; Trang trích dẫn mô tả tác động gonadotropin ở nang thứ cấp."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Quá trình chiêu mộ nguyên khởi lệ thuộc vào các yếu tố nội tại của buồng trứng. Quá trình này độc lập với các hormone ngoại vi lưu hành.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 18,
+          "quote": "Trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH. Các tế bào này bắt giữ các gonadotropin để phát triển, tăng về số lượng để tạo nên sự phát triển của các nang thứ cấp. Tại các nang thứ cấp đang phát triển, dưới tác động của gonadotropin, các tế bào hạt tùy hành phân chia nguyên nhiễm, đồng thời tổng hợp thụ thể gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q068",
+      "topicId": "axis",
+      "conceptId": "m06-two-cell-dependence",
+      "level": "analyze",
+      "stem": "Tế bào vỏ tạo androgen bình thường nhưng bước thơm hóa ở tế bào hạt không thực hiện. Chuỗi tổng hợp nào bị gián đoạn trực tiếp?",
+      "options": [
+        "Hoàng thể → bạch thể",
+        "Túi noãn hoàng → ụ sinh dục",
+        "Androstenedione → E1 → E2",
+        "GnRH → FSH và LH"
+      ],
+      "answer": 2,
+      "explanation": "Kết hợp Trang trích dẫn: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Kết hợp Trang trích dẫn: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen.",
+        "Không phù hợp trong tình huống này. Kết hợp Trang trích dẫn: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen.",
+        "Kết hợp Trang trích dẫn: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen.",
+        "Không phù hợp trong tình huống này. Kết hợp Trang trích dẫn: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới tác dụng của LH, tế bào vỏ sản xuất androgen. Dưới tác dụng của FSH, tế bào hạt sản xuất estrogen. Tế bào vỏ tổng hợp androstenedione từ cholesterol, dưới tác dụng của LH. Androstenedione từ tế bào vỏ được chuyển đến các tế bào hạt phía trong của noãn nang. Tại tế bào hạt, dưới tác động của FSH, androstenedione được thơm hóa thành estrone (E1) nhờ men aromatase P450. Estrone sẽ chuyển đổi thành estradiol (E2).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q069",
+      "topicId": "axis",
+      "conceptId": "m06-fsh-not-lh-substitute",
+      "level": "analyze",
+      "stem": "Một mô hình thay FSH bằng LH tại tế bào hạt và vẫn dự đoán thơm hóa bình thường. Điểm nào không đúng với bài?",
+      "options": [
+        "Tế bào hạt không dùng androgen",
+        "Nhầm hormone điều khiển tế bào hạt với hormone của tế bào vỏ",
+        "LH chính là aromatase",
+        "E1 không liên quan E2"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen.",
+        "Trang trích dẫn tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH. Các tế bào này bắt giữ các gonadotropin để phát triển, tăng về số lượng để tạo nên sự phát triển của các nang thứ cấp. Tại các nang thứ cấp đang phát triển, dưới tác động của gonadotropin, các tế bào hạt tùy hành phân chia nguyên nhiễm, đồng thời tổng hợp thụ thể gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 19,
+          "quote": "Dưới tác dụng của LH, tế bào vỏ sản xuất androgen. Dưới tác dụng của FSH, tế bào hạt sản xuất estrogen. Tế bào vỏ tổng hợp androstenedione từ cholesterol, dưới tác dụng của LH. Androstenedione từ tế bào vỏ được chuyển đến các tế bào hạt phía trong của noãn nang. Tại tế bào hạt, dưới tác động của FSH, androstenedione được thơm hóa thành estrone (E1) nhờ men aromatase P450. Estrone sẽ chuyển đổi thành estradiol (E2).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q070",
+      "topicId": "selection",
+      "conceptId": "m06-positive-loop-local",
+      "level": "analyze",
+      "stem": "Nang nhiều thụ thể bắt hormone tốt, tăng tế bào rồi tạo thêm thụ thể. Chuỗi này giải thích điều gì?",
+      "options": [
+        "Lợi thế phát triển của nang được củng cố",
+        "Tất cả nang trở nên đồng bộ",
+        "Nang ít thụ thể luôn thắng",
+        "FSH không còn cần thiết ở nang thứ cấp"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn mô tả vòng tăng lợi thế bắt gonadotropin của một số nang.",
+      "optionExplanations": [
+        "Trang trích dẫn mô tả vòng tăng lợi thế bắt gonadotropin của một số nang.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả vòng tăng lợi thế bắt gonadotropin của một số nang.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả vòng tăng lợi thế bắt gonadotropin của một số nang.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả vòng tăng lợi thế bắt gonadotropin của một số nang."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "Một số ít nang thứ cấp nào sở hữu nhiều thụ thể với gonadotropin hơn sẽ bắt giữ gonadotropin dễ dàng hơn, phát triển tổng khối tế bào tùy hành tốt hơn và tự tổng hợp ra nhiều thụ thể với gonadotropin hơn, làm cho chúng càng có khả năng bắt giữ gonadotropin tốt hơn nữa.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q071",
+      "topicId": "selection",
+      "conceptId": "m06-global-fsh-paradox",
+      "level": "analyze",
+      "stem": "FSH toàn thể giảm nhưng một nang vẫn phát triển mạnh. Giải thích nào kết hợp đúng các dữ kiện?",
+      "options": [
+        "Nang tự sản xuất FSH thay tuyến yên",
+        "E2 chỉ ức chế nang mạnh nhất",
+        "Nang mạnh nhất không có tế bào hạt",
+        "Nang nhiều thụ thể thu gom FSH tốt hơn đối thủ"
+      ],
+      "answer": 3,
+      "explanation": "E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển.",
+        "Không phù hợp trong tình huống này. E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển.",
+        "Không phù hợp trong tình huống này. E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển.",
+        "E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Hiện diện của estradiol trong huyết tương gây ra một phản hồi âm trên tuyến yên, ức chế tuyến yên sản xuất FSH. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Hệ quả của phản hồi này là nồng độ FSH lưu hành giảm dần, biến thiên theo chiều nghịch với sự tăng của estradiol.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 26,
+          "quote": "Thiếu hụt FSH là động lực của chọn lọc noãn nang. Các nang noãn thứ cấp nào có sự phát triển tốt hơn, có nhiều tế bào hạt hơn, đồng nghĩa với có nhiều thụ thể và khả năng bắt giữ FSH tốt hơn sẽ thu gom dễ dàng các phân tử FSH hiếm hoi còn lưu hành để tiếp tục phát triển. Các nang thứ cấp nào đã phát triển kém thì ngày càng kém hơn và đi vào thoái triển.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q072",
+      "topicId": "selection",
+      "conceptId": "m06-feedback-selection",
+      "level": "analyze",
+      "stem": "Chuỗi nào mô tả đúng liên hệ giữa E2 và chọn lọc nang?",
+      "options": [
+        "E2 giảm → mất thụ thể ở mọi nang",
+        "E2 biến thành FSH → phóng noãn",
+        "E2 tăng → FSH giảm → nang bắt FSH tốt có lợi thế",
+        "E2 tăng → FSH tăng → mọi nang cùng thắng"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang.",
+        "Trang trích dẫn nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Hiện diện của estradiol trong huyết tương gây ra một phản hồi âm trên tuyến yên, ức chế tuyến yên sản xuất FSH. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Hệ quả của phản hồi này là nồng độ FSH lưu hành giảm dần, biến thiên theo chiều nghịch với sự tăng của estradiol.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 26,
+          "quote": "Thiếu hụt FSH là động lực của chọn lọc noãn nang. Các nang noãn thứ cấp nào có sự phát triển tốt hơn, có nhiều tế bào hạt hơn, đồng nghĩa với có nhiều thụ thể và khả năng bắt giữ FSH tốt hơn sẽ thu gom dễ dàng các phân tử FSH hiếm hoi còn lưu hành để tiếp tục phát triển. Các nang thứ cấp nào đã phát triển kém thì ngày càng kém hơn và đi vào thoái triển.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q073",
+      "topicId": "selection",
+      "conceptId": "m06-two-feedbacks",
+      "level": "analyze",
+      "stem": "Một người kết luận E2 luôn chỉ ức chế tuyến yên vì đã thấy FSH giảm. Dữ kiện nào bác bỏ sự khái quát đó?",
+      "options": [
+        "Mọi phản hồi E2 đều là dương",
+        "E2 vượt ngưỡng đủ lâu có thể tạo phản hồi dương và đỉnh LH",
+        "E2 không bao giờ ảnh hưởng tuyến yên",
+        "FSH là nguồn duy nhất tạo E2"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn trình bày hai phản hồi khác nhau tùy điều kiện.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn trình bày hai phản hồi khác nhau tùy điều kiện.",
+        "Trang trích dẫn trình bày hai phản hồi khác nhau tùy điều kiện.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn trình bày hai phản hồi khác nhau tùy điều kiện.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn trình bày hai phản hồi khác nhau tùy điều kiện."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Hiện diện của estradiol trong huyết tương gây ra một phản hồi âm trên tuyến yên, ức chế tuyến yên sản xuất FSH. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Hệ quả của phản hồi này là nồng độ FSH lưu hành giảm dần, biến thiên theo chiều nghịch với sự tăng của estradiol.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 30,
+          "quote": "Nồng độ estradiol vượt ngưỡng và duy trì trên ngưỡng trong thời gian đủ dài sẽ kích hoạt phản hồi dương của estradiol, tạo đỉnh LH, gây hiện tượng trưởng thành cuối cùng của noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q074",
+      "topicId": "selection",
+      "conceptId": "m06-e2-proxy",
+      "level": "analyze",
+      "stem": "Vì sao E2 cao vượt ngưỡng đủ lâu được bài xem là dấu hiệu nang đáp ứng điều kiện phóng noãn?",
+      "options": [
+        "Phản ánh khối tế bào hạt lớn và chế tiết ổn định",
+        "Chứng minh mọi nang đã thành bạch thể",
+        "Chứng minh thụ tinh đã xảy ra",
+        "Chứng minh không cần LH"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH.",
+      "optionExplanations": [
+        "Trang trích dẫn nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "Cuối cùng, chỉ có một nang noãn tốt nhất, sở hữu nhiều tế bào tùy hành nhất, có nhiều thụ thể với gonadotropin nhất, sản xuất được nhiều estradiol nhất mới có cơ hội phát triển đến tận cùng, gọi là nang trưởng thành (nang de Graaf).",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 29,
+          "quote": "Tổng khối tế bào hạt dồi dào đảm bảo cho nang de Graaf tiếp tục sản xuất ra một lượng lớn estradiol, đẩy nồng độ estradiol lên cao, vượt cao hơn một nồng độ ngưỡng, trong một thời gian đủ dài. Ở thời điểm này, Inhibin B giữ nhiệm vụ kiểm soát, tinh chỉnh đáp ứng của tuyến yên với nồng độ estradiol cao.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 30,
+          "quote": "Nồng độ estradiol vượt ngưỡng và duy trì trên ngưỡng trong thời gian đủ dài sẽ kích hoạt phản hồi dương của estradiol, tạo đỉnh LH, gây hiện tượng trưởng thành cuối cùng của noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q075",
+      "topicId": "ovulation",
+      "conceptId": "m06-ovulation-not-fertilization",
+      "level": "analyze",
+      "stem": "Đã có đỉnh LH và phóng noãn có đủ để kết luận noãn hoàn tất toàn bộ giảm phân không?",
+      "options": [
+        "Có; nang vỡ đồng nghĩa thụ tinh",
+        "Không; noãn chưa từng vào giảm phân",
+        "Không; noãn còn dừng ở kỳ giữa II chờ tinh trùng",
+        "Có; giảm phân II luôn hoàn tất trước đỉnh LH"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng.",
+        "Trang trích dẫn phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng."
+      ],
+      "sources": [
+        {
+          "page": 34,
+          "quote": "Phân bào giảm nhiễm của noãn bào dừng lại ở metaphase của phân bào II, cho đến khi nó được một tinh trùng xâm nhập.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 35,
+          "quote": "Các tế bào hạt bao quanh noãn bào sẽ tăng cường phân chia, tạo ra một khối tế bào có nhiệm vụ đi theo noãn bào sau khi phóng noãn. Chúng tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng, được gọi là đám mây noãn bào. Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần do chịu tác dụng của prostaglandin tại chỗ. Cuối cùng, nang noãn bị vỡ và phóng thích đám mây noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q076",
+      "topicId": "ovulation",
+      "conceptId": "m06-cell-fates",
+      "level": "analyze",
+      "stem": "Sau phóng noãn, điều gì phân biệt khối được phóng thích với phần nang ở lại?",
+      "options": [
+        "Không còn bất kỳ tế bào nào ở buồng trứng",
+        "Noãn và hạt quanh noãn rời đi; phần còn lại hình thành hoàng thể",
+        "Toàn bộ hoàng thể rời buồng trứng cùng noãn",
+        "Bạch thể tạo noãn mới ngay"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn mô tả hai số phận khác nhau sau nang vỡ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả hai số phận khác nhau sau nang vỡ.",
+        "Trang trích dẫn mô tả hai số phận khác nhau sau nang vỡ.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả hai số phận khác nhau sau nang vỡ.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả hai số phận khác nhau sau nang vỡ."
+      ],
+      "sources": [
+        {
+          "page": 35,
+          "quote": "Các tế bào hạt bao quanh noãn bào sẽ tăng cường phân chia, tạo ra một khối tế bào có nhiệm vụ đi theo noãn bào sau khi phóng noãn. Chúng tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng, được gọi là đám mây noãn bào. Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần do chịu tác dụng của prostaglandin tại chỗ. Cuối cùng, nang noãn bị vỡ và phóng thích đám mây noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 36,
+          "quote": "Hoàng thể được thành lập từ khối tế bào hạt và tế bào vỏ còn lại trên buồng trứng, bắt đầu chế tiết progesterone. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới gọi là hoàng thể. Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q077",
+      "topicId": "ovulation",
+      "conceptId": "m06-lh-dual-role",
+      "level": "analyze",
+      "stem": "Vì sao không thể xem LH chỉ có vai trò gây phóng noãn?",
+      "options": [
+        "LH còn tạo lập và duy trì hoàng thể sau đó",
+        "LH là sản phẩm duy nhất của hoàng thể",
+        "LH trực tiếp tạo tế bào sinh dục nguyên thủy",
+        "LH chỉ tác động trước dậy thì"
+      ],
+      "answer": 0,
+      "explanation": "Trang trích dẫn nêu vai trò đỉnh LH; Trang trích dẫn nêu vai trò duy trì cấu trúc sau phóng noãn.",
+      "optionExplanations": [
+        "Trang trích dẫn nêu vai trò đỉnh LH; Trang trích dẫn nêu vai trò duy trì cấu trúc sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu vai trò đỉnh LH; Trang trích dẫn nêu vai trò duy trì cấu trúc sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu vai trò đỉnh LH; Trang trích dẫn nêu vai trò duy trì cấu trúc sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu vai trò đỉnh LH; Trang trích dẫn nêu vai trò duy trì cấu trúc sau phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 30,
+          "quote": "Nồng độ estradiol vượt ngưỡng và duy trì trên ngưỡng trong thời gian đủ dài sẽ kích hoạt phản hồi dương của estradiol, tạo đỉnh LH, gây hiện tượng trưởng thành cuối cùng của noãn bào.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 36,
+          "quote": "Hoàng thể được thành lập từ khối tế bào hạt và tế bào vỏ còn lại trên buồng trứng, bắt đầu chế tiết progesterone. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới gọi là hoàng thể. Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q078",
+      "topicId": "ovulation",
+      "conceptId": "m06-p4-luteolysis-chain",
+      "level": "analyze",
+      "stem": "Chuỗi nào nối được phản hồi P4 với thoái triển hoàng thể trong mô hình bài?",
+      "options": [
+        "P4 cao → LH tăng mãi → bạch thể",
+        "P4 biến thành FSH → hoàng thể vỡ",
+        "P4 thấp → GnRH mất vĩnh viễn",
+        "P4 cao → nhịp GnRH giảm → LH giảm → hoàng thể thoái triển"
+      ],
+      "answer": 3,
+      "explanation": "Kết hợp Trang trích dẫn để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Kết hợp Trang trích dẫn để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể.",
+        "Không phù hợp trong tình huống này. Kết hợp Trang trích dẫn để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể.",
+        "Không phù hợp trong tình huống này. Kết hợp Trang trích dẫn để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể.",
+        "Kết hợp Trang trích dẫn để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể."
+      ],
+      "sources": [
+        {
+          "page": 39,
+          "quote": "Dưới tác dụng của LH, các tế bào hoàng thể chế tiết estradiol và progesterone. Sản xuất steroid sinh dục của hoàng thể đạt đỉnh vào khoảng 7 ngày sau phóng noãn. Trên hạ đồi, progesterone làm giảm nhịp điệu của các xung GnRH. Do không còn được kích thích bởi GnRH, sản xuất LH của tuyến yên bị sụt giảm.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 40,
+          "quote": "Sụt giảm LH dẫn đến tiêu vong của hoàng thể, chấm dứt chế tiết steroid sinh dục và chấm dứt chu kỳ buồng trứng. Do không còn được nuôi dưỡng bởi LH, hoàng thể sẽ dần dần đi vào thoái triển, để lại một sẹo trên buồng trứng, gọi là bạch thể.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q079",
+      "topicId": "ovulation",
+      "conceptId": "m06-cycle-reset-reason",
+      "level": "analyze",
+      "stem": "Nếu hoàng thể thoái triển khiến cả E2 và P4 giảm, vì sao có thể bắt đầu chu kỳ mới?",
+      "options": [
+        "Noãn biến thành tế bào tuyến yên",
+        "FSH không còn thụ thể nào",
+        "Trục được giải phóng khỏi phản hồi steroid của chu kỳ trước",
+        "Bạch thể tự tạo GnRH"
+      ],
+      "answer": 2,
+      "explanation": "Trang trích dẫn mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc.",
+        "Trang trích dẫn mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc."
+      ],
+      "sources": [
+        {
+          "page": 41,
+          "quote": "Hoàng thể thoái triển không còn sản xuất steroid sinh dục nữa, tạo ra sự sụt giảm của cả estradiol lẫn progesterone trong máu ngoại vi. Sự sụt giảm của nồng độ các steroid sinh dục giải phóng trục hạ đồi-tuyến yên khỏi các ràng buộc của chu kỳ buồng trứng trước và sẵn sàng cho một chu kỳ buồng trứng mới.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m06-q080",
+      "topicId": "ovulation",
+      "conceptId": "m06-two-steroids-same-source",
+      "level": "understand",
+      "stem": "Một nhận định nói hoàng thể chỉ tạo P4 và ngừng hoàn toàn E2 ngay khi phóng noãn. Sửa thế nào?",
+      "options": [
+        "E2 chỉ có trước sinh",
+        "Hoàng thể tiếp tục tạo E2 và tạo thêm P4",
+        "Hoàng thể chỉ tạo FSH",
+        "P4 chỉ có từ nhân cung"
+      ],
+      "answer": 1,
+      "explanation": "Trang trích dẫn nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết.",
+        "Trang trích dẫn nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết.",
+        "Không phù hợp trong tình huống này. Trang trích dẫn nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết."
+      ],
+      "sources": [
+        {
+          "page": 37,
+          "quote": "Hoàng thể tiếp tục sản xuất estradiol, nhưng quan trọng nhất là một steroid sinh dục mới, đặc hữu của hoàng thể: progesterone. Nồng độ progesterone tăng cao dần, tạo ra một phản hồi âm trên hạ đồi và tuyến yên, ức chế sản xuất LH.",
+          "type": "visual",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 39,
+          "quote": "Dưới tác dụng của LH, các tế bào hoàng thể chế tiết estradiol và progesterone. Sản xuất steroid sinh dục của hoàng thể đạt đỉnh vào khoảng 7 ngày sau phóng noãn. Trên hạ đồi, progesterone làm giảm nhịp điệu của các xung GnRH. Do không còn được kích thích bởi GnRH, sản xuất LH của tuyến yên bị sụt giảm.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    }
+  ],
+  "reviewStatus": "passed2",
+  "reviewReport": "content/reviews/endocrine-rounds12.md"
+}

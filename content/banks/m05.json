@@ -1,0 +1,2026 @@
+{
+  "moduleId": "m05",
+  "title": "TT Sự phát triển noãn nang - Sinh tổng hợp Steroids sinh dục",
+  "sourceSha256": "37b39d7ac9d9dc6bf8b75a3ac63d2a4c52fec63ee1eef2144fad15bd8884acb8",
+  "topics": [
+    {
+      "id": "origin",
+      "title": "Nguồn gốc và chiêu mộ nang noãn",
+      "pages": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "axis",
+      "title": "Trục hạ đồi – yên và hai tế bào, hai hormone",
+      "pages": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "selection",
+      "title": "Chọn lọc nang và phản hồi estradiol",
+      "pages": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "ovulation",
+      "title": "Phóng noãn và hoàng thể",
+      "pages": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m05-q001",
+      "topicId": "origin",
+      "conceptId": "m05-migration",
+      "level": "understand",
+      "stem": "Tế bào sinh dục nguyên thủy đến ụ sinh dục theo đường nào trong bài?",
+      "options": [
+        "Dọc mạc treo ruột từ túi noãn hoàng",
+        "Từ tuyến yên qua máu",
+        "Từ buồng tử cung qua vòi trứng",
+        "Từ hoàng thể qua mạch cửa"
+      ],
+      "answer": 0,
+      "explanation": "Slide 3 mô tả sự di trú từ túi noãn hoàng dọc mạc treo ruột.",
+      "optionExplanations": [
+        "Slide 3 mô tả sự di trú từ túi noãn hoàng dọc mạc treo ruột.",
+        "Không phù hợp trong tình huống này. Slide 3 mô tả sự di trú từ túi noãn hoàng dọc mạc treo ruột.",
+        "Không phù hợp trong tình huống này. Slide 3 mô tả sự di trú từ túi noãn hoàng dọc mạc treo ruột.",
+        "Không phù hợp trong tình huống này. Slide 3 mô tả sự di trú từ túi noãn hoàng dọc mạc treo ruột."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "Vào tuần lễ thứ 3 của thời kỳ phôi thai, các tế bào sinh dục nguyên thủy (primordial germ cell) có nguồn gốc từ túi noãn hoàng (yolk-sac) sẽ bắt đầu quá trình di trú đến ụ sinh dục Từ túi noãn hoàng, các tế bào sinh dục nguyên thủy sẽ di chuyển dọc theo mạc treo ruột (hindgut) (mũi tên đỏ) để đến ụ sinh dục (mũi tên nâu) và trú đóng ở đó Yen & Jaffe's Reproductive Endocrinology, 9th edition, p.87"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q002",
+      "topicId": "origin",
+      "conceptId": "m05-granulosa-origin",
+      "level": "understand",
+      "stem": "Trong mô tả hình thành nang, tế bào hạt bắt nguồn từ đâu?",
+      "options": [
+        "Túi noãn hoàng",
+        "Nhân cung",
+        "Hoàng thể chu kỳ trước",
+        "Phúc mạc nguyên thủy"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5 phân biệt tiền thân tế bào hạt với tế bào sinh dục và tế bào vỏ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 5 phân biệt tiền thân tế bào hạt với tế bào sinh dục và tế bào vỏ.",
+        "Không phù hợp trong tình huống này. Slide 5 phân biệt tiền thân tế bào hạt với tế bào sinh dục và tế bào vỏ.",
+        "Không phù hợp trong tình huống này. Slide 5 phân biệt tiền thân tế bào hạt với tế bào sinh dục và tế bào vỏ.",
+        "Slide 5 phân biệt tiền thân tế bào hạt với tế bào sinh dục và tế bào vỏ."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Các tế bào của phúc mạc nguyên thủy (common epithelium) (hình B) sẽ phát triển dầy lên và bao bọc các tế bào sinh dục nguyên thủy. Đây là tiền thân của tế bào hạt sau này Các tế bào của trung mô sẽ tạo thành các lưỡi trung mô gọi là dây giới bào (sex cord) (hình C) tiến sâu vào khối tế bào vừa được hình thành, tách rẽ chúng thành các phức bộ riêng biệt, mỗi phức bộ gồm một tế bào sinh dục nguyên thủy, bọc bởi vài tế bào thượng mô chung tiền thân của tế bào hạt và ngoài cùng là các tế bào của sex cord, tiền thân của tế bào vỏ Các tế bào sinh dục nguyên thủy sẽ phân chia nguyên nhiễm để gia tăng số lượng đạt đủ 5x106 lúc thai khoảng 8 tuần tuổi Yen & Jaffe's Reproductive Endocrinology, 9th edition, p.87"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q003",
+      "topicId": "origin",
+      "conceptId": "m05-theca-origin",
+      "level": "understand",
+      "stem": "Các tế bào sex cord được mô tả là tiền thân của thành phần nào?",
+      "options": [
+        "Tế bào hạt",
+        "Neuron GnRH",
+        "Tế bào vỏ",
+        "Noãn bào"
+      ],
+      "answer": 2,
+      "explanation": "Slide 5 gắn lớp ngoài từ sex cord với tiền thân tế bào vỏ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 5 gắn lớp ngoài từ sex cord với tiền thân tế bào vỏ.",
+        "Không phù hợp trong tình huống này. Slide 5 gắn lớp ngoài từ sex cord với tiền thân tế bào vỏ.",
+        "Slide 5 gắn lớp ngoài từ sex cord với tiền thân tế bào vỏ.",
+        "Không phù hợp trong tình huống này. Slide 5 gắn lớp ngoài từ sex cord với tiền thân tế bào vỏ."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Các tế bào của phúc mạc nguyên thủy (common epithelium) (hình B) sẽ phát triển dầy lên và bao bọc các tế bào sinh dục nguyên thủy. Đây là tiền thân của tế bào hạt sau này Các tế bào của trung mô sẽ tạo thành các lưỡi trung mô gọi là dây giới bào (sex cord) (hình C) tiến sâu vào khối tế bào vừa được hình thành, tách rẽ chúng thành các phức bộ riêng biệt, mỗi phức bộ gồm một tế bào sinh dục nguyên thủy, bọc bởi vài tế bào thượng mô chung tiền thân của tế bào hạt và ngoài cùng là các tế bào của sex cord, tiền thân của tế bào vỏ Các tế bào sinh dục nguyên thủy sẽ phân chia nguyên nhiễm để gia tăng số lượng đạt đủ 5x106 lúc thai khoảng 8 tuần tuổi Yen & Jaffe's Reproductive Endocrinology, 9th edition, p.87"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q004",
+      "topicId": "origin",
+      "conceptId": "m05-recruit-local",
+      "level": "understand",
+      "stem": "Vì sao chiêu mộ nguyên thủy được xem là quá trình điều hòa tại chỗ?",
+      "options": [
+        "Do progesterone hoàng thể trực tiếp khởi phát",
+        "Chịu tác động cận tiết và tự tiết",
+        "Do đỉnh LH trực tiếp khởi phát",
+        "Do FSH ngoại vi quyết định hoàn toàn"
+      ],
+      "answer": 1,
+      "explanation": "Slide 8 nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 8 nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi.",
+        "Slide 8 nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi.",
+        "Không phù hợp trong tình huống này. Slide 8 nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi.",
+        "Không phù hợp trong tình huống này. Slide 8 nêu chiêu mộ không chịu tác động hormone lưu hành ngoại vi."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "Kể từ sau khi đứa bé gái dậy thì, định kỳ một lần mỗi khoảng 30 ngày, ước chừng có 102 noãn nguyên thủy sẽ được chiêu mộ vào chu kỳ buồng trứng (mũi tên) Hiện tượng chiêu mộ chỉ chịu tác dụng của các yếu tố nội tiết lân cận (paracrine) hay tự thân (autocrine), mà không chịu tác động của các hormone lưu hành trong máu ngoại vi"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q005",
+      "topicId": "origin",
+      "conceptId": "m05-attrition",
+      "level": "understand",
+      "stem": "Từ đoàn hệ được chiêu mộ đến nang thứ cấp muộn, số nang biến đổi thế nào?",
+      "options": [
+        "Giảm còn khoảng 10 nang",
+        "Giữ nguyên toàn bộ",
+        "Tăng liên tục không thoái triển",
+        "Chỉ còn hoàng thể"
+      ],
+      "answer": 0,
+      "explanation": "Slide 9 mô tả sự giảm số nang trong quá trình phát triển.",
+      "optionExplanations": [
+        "Slide 9 mô tả sự giảm số nang trong quá trình phát triển.",
+        "Không phù hợp trong tình huống này. Slide 9 mô tả sự giảm số nang trong quá trình phát triển.",
+        "Không phù hợp trong tình huống này. Slide 9 mô tả sự giảm số nang trong quá trình phát triển.",
+        "Không phù hợp trong tình huống này. Slide 9 mô tả sự giảm số nang trong quá trình phát triển."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "Các phức bộ noãn nguyên thủy(mũi tên xanh)được chiêu mộ tiếp tục trở lại tiến trình giảm phân đã bị đình trệ trước đó để chuẩn bị cho việc tạo giao tử (gamete) Trong 120 ngày,chúng lần lượt qua các giai đoạn nang noãn sơ cấp (primary follicle) (mũi tên đỏ), nang noãn thứ cấp sớm (early secondary follicle) (mũi tên nâu) Sau hơn 120 ngày, từ đoàn hệ hơn 102 nang noãn nguyên thủy khởi đầu, chỉ còn có 10 nang đến được giai đoạn nang noãn thứ cấp muộn (late secondary follicle) (mũi tên xanh lá)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q006",
+      "topicId": "axis",
+      "conceptId": "m05-portal",
+      "level": "understand",
+      "stem": "Xung GnRH đến tuyến yên qua hệ thống nào?",
+      "options": [
+        "Dịch nang noãn",
+        "Mạch máu hoàng thể",
+        "Lòng vòi trứng",
+        "Mạch cửa hạ đồi – yên"
+      ],
+      "answer": 3,
+      "explanation": "Slide 11 nêu đường truyền GnRH từ nhân cung đến tuyến yên.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 11 nêu đường truyền GnRH từ nhân cung đến tuyến yên.",
+        "Không phù hợp trong tình huống này. Slide 11 nêu đường truyền GnRH từ nhân cung đến tuyến yên.",
+        "Không phù hợp trong tình huống này. Slide 11 nêu đường truyền GnRH từ nhân cung đến tuyến yên.",
+        "Slide 11 nêu đường truyền GnRH từ nhân cung đến tuyến yên."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Hạ đồi là cơ quan cao nhất của trục hạ đồi-yên-buồng trứng. Hạ đồi chứa các nhân xám, trong đó có nhân cung (mũi tên xanh) Nhân cung định kỳ phóng thích các xung Gonadotropin Releasing Hormone (GnRH) vào hệ thống mạch cửa giữa hạ đồi và tuyến yên (mũi tên đỏ) Dưới ảnh hưởng của các xung GnRH, tuyến yên đáp ứng bằng cách chế tiết 2 hormone hướng sinh dục (gonadotropin) là Follicle Stimulating Hormone (FSH) và Luteinizing Hormone (LH). Tùy tần số của xung GnRH mà tuyến yên đáp ứng khác nhau, với ưu thế FSH hay với ưu thế LH (mũi tên nâu và hình phải)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q007",
+      "topicId": "axis",
+      "conceptId": "m05-theca-lh",
+      "level": "understand",
+      "stem": "Ghép tế bào – thụ thể nào đúng ở nang thứ cấp theo bài?",
+      "options": [
+        "Vỏ–GnRH; hạt–LH",
+        "Vỏ–FSH; hạt–GnRH",
+        "Vỏ–LH; hạt–FSH",
+        "Vỏ–FSH; hạt–LH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 12 xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 12 xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt.",
+        "Không phù hợp trong tình huống này. Slide 12 xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt.",
+        "Slide 12 xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt.",
+        "Không phù hợp trong tình huống này. Slide 12 xác định LH tác động tế bào vỏ, FSH tác động tế bào hạt."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Tại các nang thứ cấp, trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH (các thụ thể bắt màu nâu trên hình). Nhờ vậy, các tế bào này bắt giữ các gonadotropin, phân chia nguyên nhiễm tạo nên sự phát triển của các nang thứ cấp. Đồng thời các tế bào này còn tổng hợp các thụ thể với gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn Dưới tác dụng của LH, tế bào vỏ (mũi tên xanh) tổng hợp androstenedione từ cholesterol Androstenedione này được các tế bào hạt ở phía trong của noãn nang thơm hóa thành estrone (E1)và chuyển đổi thành estradiol (E2) sau đó (mũi tên đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q008",
+      "topicId": "axis",
+      "conceptId": "m05-two-cell-dependence",
+      "level": "understand",
+      "stem": "Androstenedione từ tế bào vỏ có vai trò gì đối với tế bào hạt?",
+      "options": [
+        "Chất thay thế DNA",
+        "Nguyên liệu tổng hợp estrogen",
+        "Sản phẩm cuối không được sử dụng",
+        "Thụ thể bắt FSH"
+      ],
+      "answer": 1,
+      "explanation": "Slide 13 mô tả sự chuyển nguyên liệu từ vỏ vào hạt.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 13 mô tả sự chuyển nguyên liệu từ vỏ vào hạt.",
+        "Slide 13 mô tả sự chuyển nguyên liệu từ vỏ vào hạt.",
+        "Không phù hợp trong tình huống này. Slide 13 mô tả sự chuyển nguyên liệu từ vỏ vào hạt.",
+        "Không phù hợp trong tình huống này. Slide 13 mô tả sự chuyển nguyên liệu từ vỏ vào hạt."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "Androstenedione sản phẩm của tế bào vỏ sẽ được các tế bào hạt ở phía trong sử dụng làm nguyên liệu cho quá trình tổng hợp estrogen (hình trái) Hoạt động của tế bào hạt được đảm bảo bởi FSH. Dưới tác động của FSH, tế bào hạt thực hiện quá trình sinh tổng hợp estrogen bằng cách thơm hóa androstenedione bằng cách dùng men thơm hóa aromatase P450 (vòng tròn xanh) Sản phẩm của quá trình thơm hóa là Estrone (E1), sẽ được biến chuyển thuận nghịch sang estradiol (E2), có hoạt tính nhiều lần mạnh hơn estrone. Estradiol là estrogen chủ lực trong hoạt động sinh sản của người nữ (hình chữ nhật đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q009",
+      "topicId": "axis",
+      "conceptId": "m05-e1-direct",
+      "level": "understand",
+      "stem": "Trong tế bào hạt, aromatase P450 tham gia bước nào?",
+      "options": [
+        "Thơm hóa androstenedione",
+        "Tạo thụ thể LH ở tuyến yên",
+        "Phóng thích GnRH",
+        "Biến hoàng thể thành bạch thể"
+      ],
+      "answer": 0,
+      "explanation": "Slide 13 nêu chức năng thơm hóa androgen của aromatase.",
+      "optionExplanations": [
+        "Slide 13 nêu chức năng thơm hóa androgen của aromatase.",
+        "Không phù hợp trong tình huống này. Slide 13 nêu chức năng thơm hóa androgen của aromatase.",
+        "Không phù hợp trong tình huống này. Slide 13 nêu chức năng thơm hóa androgen của aromatase.",
+        "Không phù hợp trong tình huống này. Slide 13 nêu chức năng thơm hóa androgen của aromatase."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "Androstenedione sản phẩm của tế bào vỏ sẽ được các tế bào hạt ở phía trong sử dụng làm nguyên liệu cho quá trình tổng hợp estrogen (hình trái) Hoạt động của tế bào hạt được đảm bảo bởi FSH. Dưới tác động của FSH, tế bào hạt thực hiện quá trình sinh tổng hợp estrogen bằng cách thơm hóa androstenedione bằng cách dùng men thơm hóa aromatase P450 (vòng tròn xanh) Sản phẩm của quá trình thơm hóa là Estrone (E1), sẽ được biến chuyển thuận nghịch sang estradiol (E2), có hoạt tính nhiều lần mạnh hơn estrone. Estradiol là estrogen chủ lực trong hoạt động sinh sản của người nữ (hình chữ nhật đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q010",
+      "topicId": "selection",
+      "conceptId": "m05-e2-fsh-trend",
+      "level": "understand",
+      "stem": "Phản hồi thứ nhất của estradiol tác động lên FSH theo hướng nào?",
+      "options": [
+        "Tăng FSH không giới hạn",
+        "Giữ FSH không đổi",
+        "Chuyển FSH thành LH",
+        "Ức chế sản xuất FSH"
+      ],
+      "answer": 3,
+      "explanation": "Slide 15 mô tả E2 tăng đi kèm FSH giảm.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 15 mô tả E2 tăng đi kèm FSH giảm.",
+        "Không phù hợp trong tình huống này. Slide 15 mô tả E2 tăng đi kèm FSH giảm.",
+        "Không phù hợp trong tình huống này. Slide 15 mô tả E2 tăng đi kèm FSH giảm.",
+        "Slide 15 mô tả E2 tăng đi kèm FSH giảm."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Các nang thứ cấp phát triển làm nồng độ E2 tăng dần Sự tăng nồng độ E2 gây một phản hồi âm tính trên tuyến yên, ức chế tuyến yên sản xuất FSH Đây là phản hồi thứ nhất của estradiol. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Nồng độ FSH giảm dần, và biến thiên theo chiều nghịch với sự tăng của estradiol Thiếu hụt FSH là hệ quả của phản hồi thứ nhất của E2"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q011",
+      "topicId": "selection",
+      "conceptId": "m05-poor-receptors",
+      "level": "understand",
+      "stem": "Khi FSH khan hiếm, nang nào có lợi thế tiếp tục phát triển?",
+      "options": [
+        "Nang không có thụ thể FSH",
+        "Mọi nang có lợi thế như nhau",
+        "Nang nhiều tế bào hạt và thụ thể FSH",
+        "Nang ít tế bào hạt nhất"
+      ],
+      "answer": 2,
+      "explanation": "Slide 16 giải thích lợi thế bắt giữ FSH của nang phát triển tốt.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 16 giải thích lợi thế bắt giữ FSH của nang phát triển tốt.",
+        "Không phù hợp trong tình huống này. Slide 16 giải thích lợi thế bắt giữ FSH của nang phát triển tốt.",
+        "Slide 16 giải thích lợi thế bắt giữ FSH của nang phát triển tốt.",
+        "Không phù hợp trong tình huống này. Slide 16 giải thích lợi thế bắt giữ FSH của nang phát triển tốt."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "Trong bối cảnh của thiếu hụt FSH toàn thể, các nang noãn thứ cấp nào đã phát triển tốt hơn, có nhiều tế bào hạt hơn, do đó có nhiều thụ thể và khả năng bắt FSH tốt hơn sẽ thu gom dễ dàng các phân tử FSH hiếm hoi để tiếp tục phát triển (hình trái) Trong khi đó, với các nang thứ cấp còn lại, do chúng sở hữu rất ít tế bào hạt và rất ít thụ thể với FSH, nên chúng sẽ không thể cạnh tranh được về khả năng bắt giữ các phân tử FSH hiếm hoi còn lại. Chúng sẽ đi vào thoái triển (hình phải) Như vậy tình trạng thiếu hụt FSH, kết quả của phản hồi âm của estradiol, là sự chọn lọc noãn nang"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q012",
+      "topicId": "selection",
+      "conceptId": "m05-high-e2-duration",
+      "level": "understand",
+      "stem": "Điều kiện E2 nào kích hoạt phản hồi dương theo bài?",
+      "options": [
+        "Luôn giữ ở nồng độ thấp",
+        "Vượt ngưỡng trong thời gian đủ dài",
+        "Chỉ tăng thoáng qua dưới ngưỡng",
+        "Giảm đột ngột về thấp"
+      ],
+      "answer": 1,
+      "explanation": "Slide 18 yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 18 yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì.",
+        "Slide 18 yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì.",
+        "Không phù hợp trong tình huống này. Slide 18 yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì.",
+        "Không phù hợp trong tình huống này. Slide 18 yêu cầu đồng thời mức vượt ngưỡng và thời gian duy trì."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Tổng khối tế bào hạt dồi dào đảm bảo cho nang de Graaf tiếp tục sản xuất ra một khối lượng lớn estradiol, đẩy nồng độ estradiol lên cao, vượt một nồng độ ngưỡng, trong một thời gian đủ dài Nồng độ vượt ngưỡng trong thời gian dài này là minh chứng cho thấy nang noãn này là một nang tốt nhất, đáp ứng các điều kiện cho quá trình phóng noãn, thụ tinh, làm tổ và mang thai. Khi đó, E2 gây ra một phản hồi thứ nhì trên hạ đồi-yên. Đây là một phản hồi dương Khi đó, tuyến yên đáp ứng bằng cách phóng thích một lượng lớn LH, trong một thời gian rất ngắn, tạo một đỉnh cao LH (và của cả FSH) trong máu ngoại vi"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q013",
+      "topicId": "ovulation",
+      "conceptId": "m05-fertilization-release",
+      "level": "understand",
+      "stem": "Sau đỉnh LH, giảm phân của noãn dừng ở đâu để chờ tinh trùng?",
+      "options": [
+        "Kỳ giữa giảm phân II",
+        "Kỳ đầu nguyên phân",
+        "Kỳ cuối giảm phân II đã hoàn tất",
+        "Trước khi vào giảm phân I"
+      ],
+      "answer": 0,
+      "explanation": "Slide 19 mô tả hoàn tất giảm phân I rồi dừng tại metaphase II.",
+      "optionExplanations": [
+        "Slide 19 mô tả hoàn tất giảm phân I rồi dừng tại metaphase II.",
+        "Không phù hợp trong tình huống này. Slide 19 mô tả hoàn tất giảm phân I rồi dừng tại metaphase II.",
+        "Không phù hợp trong tình huống này. Slide 19 mô tả hoàn tất giảm phân I rồi dừng tại metaphase II.",
+        "Không phù hợp trong tình huống này. Slide 19 mô tả hoàn tất giảm phân I rồi dừng tại metaphase II."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới ảnh hưởng của đỉnh LH, noãn bào nhanh chóng hoàn meiosis I, ngay sau đó đi vào meiosis II. 36 giờ sau khi xuất hiện đỉnh LH, noãn bào đã đi đến metaphase của meiosis II. Phân bào giảm nhiễm sẽ dừng lại ở kỳ này, cho đến khi nó được một tinh trùng xâm nhập (hình trái) Sau đỉnh LH, mitosis tại các tế bào hạt sẽ dừng lại. Các tế bào hạt ở quanh nang noãn sẽ tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng: cumulus oophora (hình giữa) Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần, cuối cùng, nang noãn bị vỡ và phóng thích cumulus oophora (hình phải)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q014",
+      "topicId": "ovulation",
+      "conceptId": "m05-lh-dual-role",
+      "level": "understand",
+      "stem": "Hormone tuyến yên nào tạo lập và duy trì hoàng thể?",
+      "options": [
+        "GnRH",
+        "Estradiol",
+        "Progesterone",
+        "LH"
+      ],
+      "answer": 3,
+      "explanation": "Slide 20 nêu hoàng thể được tạo lập và duy trì nhờ LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 20 nêu hoàng thể được tạo lập và duy trì nhờ LH.",
+        "Không phù hợp trong tình huống này. Slide 20 nêu hoàng thể được tạo lập và duy trì nhờ LH.",
+        "Không phù hợp trong tình huống này. Slide 20 nêu hoàng thể được tạo lập và duy trì nhờ LH.",
+        "Slide 20 nêu hoàng thể được tạo lập và duy trì nhờ LH."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "Sau khi đã vỡ và phóng thích cumulus oophora, phần còn lại của noãn nang co cụm lại. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới có màu vàng của cholesterol, gọi là hoàng thể (corpus luteum) (mũi tên) Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên. Về phương diện nội tiết, hoàng thể tiếp tục sản xuất estradiol, nhưng quan trọng nhất là một steroid sinh dục mới, đặc hữu của hoàng thể: progesterone (Δ-4 progesterone: P4)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q015",
+      "topicId": "ovulation",
+      "conceptId": "m05-lh-withdrawal",
+      "level": "understand",
+      "stem": "Bạch thể biểu thị giai đoạn nào của nang noãn?",
+      "options": [
+        "Nang thứ cấp đang tăng sinh",
+        "Khối noãn sắp phóng thích",
+        "Sẹo sau thoái triển hoàng thể",
+        "Nang vừa được chiêu mộ"
+      ],
+      "answer": 2,
+      "explanation": "Slide 22 gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 22 gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể.",
+        "Không phù hợp trong tình huống này. Slide 22 gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể.",
+        "Slide 22 gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể.",
+        "Không phù hợp trong tình huống này. Slide 22 gọi sẹo còn lại sau hoàng thể thoái triển là bạch thể."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Do không còn được nuôi dưỡng bởi LH, hoàng thể sẽ dần dần đi vào thoái triển, để lại một sẹo trên buồng trứng, gọi là bạch thể (corpus albicans) Hoàng thể thoái triển không còn sản xuất steroid sinh dục nữa, tạo ra một sự sút giảm của cả estradiol và progesterone trong máu ngoại vi. Sự sút giảm của nồng độ các steroid sinh duc giải phóng trục hạ đồi-tuyến yên khỏi các ràng buộc của chu kỳ buồng trứng trước và sẵn sàng cho một chu kỳ buồng trứng mới"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q016",
+      "topicId": "origin",
+      "conceptId": "m05-location-scenario",
+      "level": "apply",
+      "stem": "Trong mô hình di trú của bài, tế bào từ túi noãn hoàng đã đi dọc mạc treo ruột nhưng bị chặn trước ụ sinh dục. Kết quả nào chưa đạt?",
+      "options": [
+        "Tế bào chưa đến được ụ sinh dục",
+        "Tế bào đã hoàn tất di trú vào ụ sinh dục",
+        "Đường di trú đã kết thúc ở tuyến yên",
+        "Đường di trú bình thường kết thúc tại tử cung"
+      ],
+      "answer": 0,
+      "explanation": "Slide 3 xác định ụ sinh dục là đích của đường di trú; bị chặn trước đích nghĩa là chưa hoàn tất bước đến ụ sinh dục.",
+      "optionExplanations": [
+        "Slide 3 xác định ụ sinh dục là đích của đường di trú; bị chặn trước đích nghĩa là chưa hoàn tất bước đến ụ sinh dục.",
+        "Không phù hợp với tình huống. Slide 3 xác định ụ sinh dục là đích của đường di trú; bị chặn trước đích nghĩa là chưa hoàn tất bước đến ụ sinh dục.",
+        "Không phù hợp với tình huống. Slide 3 xác định ụ sinh dục là đích của đường di trú; bị chặn trước đích nghĩa là chưa hoàn tất bước đến ụ sinh dục.",
+        "Không phù hợp với tình huống. Slide 3 xác định ụ sinh dục là đích của đường di trú; bị chặn trước đích nghĩa là chưa hoàn tất bước đến ụ sinh dục."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "Vào tuần lễ thứ 3 của thời kỳ phôi thai, các tế bào sinh dục nguyên thủy (primordial germ cell) có nguồn gốc từ túi noãn hoàng (yolk-sac) sẽ bắt đầu quá trình di trú đến ụ sinh dục Từ túi noãn hoàng, các tế bào sinh dục nguyên thủy sẽ di chuyển dọc theo mạc treo ruột (hindgut) (mũi tên đỏ) để đến ụ sinh dục (mũi tên nâu) và trú đóng ở đó Yen & Jaffe's Reproductive Endocrinology, 9th edition, p.87"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q017",
+      "topicId": "origin",
+      "conceptId": "m05-encapsulation",
+      "level": "understand",
+      "stem": "Một phức bộ có tế bào sinh dục ở giữa, tế bào hạt bao quanh và tế bào vỏ ngoài cùng. Bài gọi đây là gì?",
+      "options": [
+        "Phức bộ noãn nguyên thủy",
+        "Bạch thể",
+        "Nhân cung",
+        "Mạch cửa"
+      ],
+      "answer": 0,
+      "explanation": "Slide 7 mô tả ba thành phần của phức bộ trên buồng trứng sơ sinh.",
+      "optionExplanations": [
+        "Slide 7 mô tả ba thành phần của phức bộ trên buồng trứng sơ sinh.",
+        "Không phù hợp trong tình huống này. Slide 7 mô tả ba thành phần của phức bộ trên buồng trứng sơ sinh.",
+        "Không phù hợp trong tình huống này. Slide 7 mô tả ba thành phần của phức bộ trên buồng trứng sơ sinh.",
+        "Không phù hợp trong tình huống này. Slide 7 mô tả ba thành phần của phức bộ trên buồng trứng sơ sinh."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "Trên buồng trứng của bé gái sơ sinh, có khoảng hơn 1x106 phức bộ noãn nguyên thủy (primordial follicles) (hình trái) Mỗi phức bộ được cấu tạo bằng Một tế bào sinh dục nguyên thủy (mũi tên xanh) Bọc bởi vài tế bào hạt (mũi tên đỏ) Ngoài cùng là các tế bào vỏ (mũi tên nâu)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q018",
+      "topicId": "origin",
+      "conceptId": "m05-mitosis-stop",
+      "level": "apply",
+      "stem": "Theo mô hình slide 6, tế bào sinh dục đã ngừng nguyên phân vĩnh viễn và đi vào giảm phân. Nhận định nào phù hợp về cách tăng số lượng bằng nguyên phân sau mốc này?",
+      "options": [
+        "Không thể tiếp tục tăng bằng nguyên phân ở chính nhóm tế bào đã ngừng này",
+        "Nhóm này tiếp tục nguyên phân như trước",
+        "Ngừng nguyên phân đồng nghĩa đã hoàn tất giảm phân II",
+        "Ngừng nguyên phân làm tế bào biến thành tuyến yên"
+      ],
+      "answer": 0,
+      "explanation": "Trong phạm vi mô tả slide 6, sự ngừng nguyên phân là vĩnh viễn; không được suy giảm phân là tiếp tục nguyên phân.",
+      "optionExplanations": [
+        "Trong phạm vi mô tả slide 6, sự ngừng nguyên phân là vĩnh viễn; không được suy giảm phân là tiếp tục nguyên phân.",
+        "Không phù hợp với tình huống. Trong phạm vi mô tả slide 6, sự ngừng nguyên phân là vĩnh viễn; không được suy giảm phân là tiếp tục nguyên phân.",
+        "Không phù hợp với tình huống. Trong phạm vi mô tả slide 6, sự ngừng nguyên phân là vĩnh viễn; không được suy giảm phân là tiếp tục nguyên phân.",
+        "Không phù hợp với tình huống. Trong phạm vi mô tả slide 6, sự ngừng nguyên phân là vĩnh viễn; không được suy giảm phân là tiếp tục nguyên phân."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vào thời điểm thai được 8 tuần tuổi, 5x106 tế bào sinh dục nguyên thủy đồng loạt ngưng phân chia nguyên nhiễm (mũi tên xanh). Sự ngưng này là vĩnh viễn Các tế bào sinh dục nguyên thủy bắt đầu tiến trình phân chia giảm nhiễm ở thời điểm chúng ngừng phân chia nguyên nhiễm (mũi tên đỏ) Phân chia giảm nhiễm cũng gián đoạn đột ngột và đồng bộ ở tiền kỳ của phân bào I giảm nhiễm vào tuần 24th của thai kỳ (mũi tên nâu) Noãn bào chỉ tiếp tục trở lại tiến trình phân bào giảm nhiễm kể từ sau khi dậy thì, tại các noãn nang được chiêu mộ (mũi tên xanh lá) Ngưng gián phân lúc 8 tuần Vào giảm phân I lúc 8 tuần Ngưng giảm phân I lúc 24 tuần Tái tục giảm phân I sau dậy thì Histone Chaperones as Cardinal Players in Development, 2022"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q019",
+      "topicId": "origin",
+      "conceptId": "m05-arrest-I",
+      "level": "apply",
+      "stem": "Một sơ đồ đặt việc tái tục giảm phân của nhóm nang được chiêu mộ hoàn toàn trước dậy thì. Cách sửa nào phù hợp slide 6?",
+      "options": [
+        "Đặt sự tái tục ở nang được chiêu mộ kể từ sau dậy thì",
+        "Đặt mọi noãn hoàn tất giảm phân II trước sinh",
+        "Bỏ hoàn toàn giai đoạn đình trệ giảm phân",
+        "Đổi giảm phân thành nguyên phân liên tục"
+      ],
+      "answer": 0,
+      "explanation": "Slide 6 phân biệt giai đoạn đình trệ trong thai kỳ với sự tiếp tục sau dậy thì ở nhóm nang được chiêu mộ.",
+      "optionExplanations": [
+        "Slide 6 phân biệt giai đoạn đình trệ trong thai kỳ với sự tiếp tục sau dậy thì ở nhóm nang được chiêu mộ.",
+        "Không phù hợp với tình huống. Slide 6 phân biệt giai đoạn đình trệ trong thai kỳ với sự tiếp tục sau dậy thì ở nhóm nang được chiêu mộ.",
+        "Không phù hợp với tình huống. Slide 6 phân biệt giai đoạn đình trệ trong thai kỳ với sự tiếp tục sau dậy thì ở nhóm nang được chiêu mộ.",
+        "Không phù hợp với tình huống. Slide 6 phân biệt giai đoạn đình trệ trong thai kỳ với sự tiếp tục sau dậy thì ở nhóm nang được chiêu mộ."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vào thời điểm thai được 8 tuần tuổi, 5x106 tế bào sinh dục nguyên thủy đồng loạt ngưng phân chia nguyên nhiễm (mũi tên xanh). Sự ngưng này là vĩnh viễn Các tế bào sinh dục nguyên thủy bắt đầu tiến trình phân chia giảm nhiễm ở thời điểm chúng ngừng phân chia nguyên nhiễm (mũi tên đỏ) Phân chia giảm nhiễm cũng gián đoạn đột ngột và đồng bộ ở tiền kỳ của phân bào I giảm nhiễm vào tuần 24th của thai kỳ (mũi tên nâu) Noãn bào chỉ tiếp tục trở lại tiến trình phân bào giảm nhiễm kể từ sau khi dậy thì, tại các noãn nang được chiêu mộ (mũi tên xanh lá) Ngưng gián phân lúc 8 tuần Vào giảm phân I lúc 8 tuần Ngưng giảm phân I lúc 24 tuần Tái tục giảm phân I sau dậy thì Histone Chaperones as Cardinal Players in Development, 2022"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q020",
+      "topicId": "origin",
+      "conceptId": "m05-recruit-local",
+      "level": "apply",
+      "stem": "Trong mô hình bài học, thay đổi chỉ tác động yếu tố tự tiết tại buồng trứng. Quá trình nào liên quan trực tiếp nhất?",
+      "options": [
+        "Hình thành nhân cung",
+        "Chiêu mộ noãn nguyên thủy",
+        "Vận chuyển GnRH trong mạch cửa",
+        "Phóng thích LH từ tuyến yên"
+      ],
+      "answer": 1,
+      "explanation": "Slide 8 quy chiêu mộ cho yếu tố cận tiết và tự tiết.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 8 quy chiêu mộ cho yếu tố cận tiết và tự tiết.",
+        "Slide 8 quy chiêu mộ cho yếu tố cận tiết và tự tiết.",
+        "Không phù hợp trong tình huống này. Slide 8 quy chiêu mộ cho yếu tố cận tiết và tự tiết.",
+        "Không phù hợp trong tình huống này. Slide 8 quy chiêu mộ cho yếu tố cận tiết và tự tiết."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "Kể từ sau khi đứa bé gái dậy thì, định kỳ một lần mỗi khoảng 30 ngày, ước chừng có 102 noãn nguyên thủy sẽ được chiêu mộ vào chu kỳ buồng trứng (mũi tên) Hiện tượng chiêu mộ chỉ chịu tác dụng của các yếu tố nội tiết lân cận (paracrine) hay tự thân (autocrine), mà không chịu tác động của các hormone lưu hành trong máu ngoại vi"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q021",
+      "topicId": "origin",
+      "conceptId": "m05-stage-sequence",
+      "level": "understand",
+      "stem": "Một nang đã qua sơ cấp và thứ cấp sớm. Giai đoạn tiếp theo được slide 9 nêu là gì?",
+      "options": [
+        "Thứ cấp muộn",
+        "Bạch thể",
+        "Hoàng thể",
+        "Tế bào sinh dục nguyên thủy"
+      ],
+      "answer": 0,
+      "explanation": "Slide 9 trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn.",
+      "optionExplanations": [
+        "Slide 9 trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn.",
+        "Không phù hợp trong tình huống này. Slide 9 trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn.",
+        "Không phù hợp trong tình huống này. Slide 9 trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn.",
+        "Không phù hợp trong tình huống này. Slide 9 trình bày chuỗi sơ cấp, thứ cấp sớm, thứ cấp muộn."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "Các phức bộ noãn nguyên thủy(mũi tên xanh)được chiêu mộ tiếp tục trở lại tiến trình giảm phân đã bị đình trệ trước đó để chuẩn bị cho việc tạo giao tử (gamete) Trong 120 ngày,chúng lần lượt qua các giai đoạn nang noãn sơ cấp (primary follicle) (mũi tên đỏ), nang noãn thứ cấp sớm (early secondary follicle) (mũi tên nâu) Sau hơn 120 ngày, từ đoàn hệ hơn 102 nang noãn nguyên thủy khởi đầu, chỉ còn có 10 nang đến được giai đoạn nang noãn thứ cấp muộn (late secondary follicle) (mũi tên xanh lá)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q022",
+      "topicId": "axis",
+      "conceptId": "m05-gnrh-output",
+      "level": "apply",
+      "stem": "Trong mô hình bài, nếu tín hiệu xung GnRH đến tuyến yên bị gián đoạn, khâu đáp ứng nào trực tiếp mất kích thích này?",
+      "options": [
+        "Chế tiết FSH và LH ở tuyến yên",
+        "Di trú tế bào từ túi noãn hoàng",
+        "Chuyển bạch thể thành noãn nguyên thủy",
+        "Tạo cholesterol tại mạch cửa"
+      ],
+      "answer": 0,
+      "explanation": "Slide 11 nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không.",
+      "optionExplanations": [
+        "Slide 11 nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không.",
+        "Không phù hợp với tình huống. Slide 11 nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không.",
+        "Không phù hợp với tình huống. Slide 11 nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không.",
+        "Không phù hợp với tình huống. Slide 11 nêu tuyến yên đáp ứng xung GnRH bằng FSH và LH; câu hỏi chỉ suy khâu mất kích thích, không khẳng định mọi nồng độ về không."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Hạ đồi là cơ quan cao nhất của trục hạ đồi-yên-buồng trứng. Hạ đồi chứa các nhân xám, trong đó có nhân cung (mũi tên xanh) Nhân cung định kỳ phóng thích các xung Gonadotropin Releasing Hormone (GnRH) vào hệ thống mạch cửa giữa hạ đồi và tuyến yên (mũi tên đỏ) Dưới ảnh hưởng của các xung GnRH, tuyến yên đáp ứng bằng cách chế tiết 2 hormone hướng sinh dục (gonadotropin) là Follicle Stimulating Hormone (FSH) và Luteinizing Hormone (LH). Tùy tần số của xung GnRH mà tuyến yên đáp ứng khác nhau, với ưu thế FSH hay với ưu thế LH (mũi tên nâu và hình phải)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q023",
+      "topicId": "axis",
+      "conceptId": "m05-pulse-rate",
+      "level": "apply",
+      "stem": "Hai tín hiệu GnRH có tần số khác nhau. Khác biệt đáp ứng nào được bài cho phép dự đoán?",
+      "options": [
+        "Không thể thay đổi đáp ứng tuyến yên",
+        "Luôn mất toàn bộ thụ thể nang",
+        "Ưu thế FSH hoặc LH khác nhau",
+        "Luôn sản xuất P4 thay FSH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 11 nêu tần số xung làm thay đổi ưu thế FSH hay LH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 11 nêu tần số xung làm thay đổi ưu thế FSH hay LH.",
+        "Không phù hợp trong tình huống này. Slide 11 nêu tần số xung làm thay đổi ưu thế FSH hay LH.",
+        "Slide 11 nêu tần số xung làm thay đổi ưu thế FSH hay LH.",
+        "Không phù hợp trong tình huống này. Slide 11 nêu tần số xung làm thay đổi ưu thế FSH hay LH."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Hạ đồi là cơ quan cao nhất của trục hạ đồi-yên-buồng trứng. Hạ đồi chứa các nhân xám, trong đó có nhân cung (mũi tên xanh) Nhân cung định kỳ phóng thích các xung Gonadotropin Releasing Hormone (GnRH) vào hệ thống mạch cửa giữa hạ đồi và tuyến yên (mũi tên đỏ) Dưới ảnh hưởng của các xung GnRH, tuyến yên đáp ứng bằng cách chế tiết 2 hormone hướng sinh dục (gonadotropin) là Follicle Stimulating Hormone (FSH) và Luteinizing Hormone (LH). Tùy tần số của xung GnRH mà tuyến yên đáp ứng khác nhau, với ưu thế FSH hay với ưu thế LH (mũi tên nâu và hình phải)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q024",
+      "topicId": "axis",
+      "conceptId": "m05-theca-lh",
+      "level": "understand",
+      "stem": "Một tế bào nang bắt LH và tổng hợp androstenedione từ cholesterol. Đó là tế bào nào?",
+      "options": [
+        "Neuron nhân cung",
+        "Tế bào vỏ",
+        "Tế bào hạt",
+        "Noãn bào"
+      ],
+      "answer": 1,
+      "explanation": "Các đặc điểm chức năng này được gắn với tế bào vỏ ở slide 12.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Các đặc điểm chức năng này được gắn với tế bào vỏ ở slide 12.",
+        "Các đặc điểm chức năng này được gắn với tế bào vỏ ở slide 12.",
+        "Không phù hợp trong tình huống này. Các đặc điểm chức năng này được gắn với tế bào vỏ ở slide 12.",
+        "Không phù hợp trong tình huống này. Các đặc điểm chức năng này được gắn với tế bào vỏ ở slide 12."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Tại các nang thứ cấp, trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH (các thụ thể bắt màu nâu trên hình). Nhờ vậy, các tế bào này bắt giữ các gonadotropin, phân chia nguyên nhiễm tạo nên sự phát triển của các nang thứ cấp. Đồng thời các tế bào này còn tổng hợp các thụ thể với gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn Dưới tác dụng của LH, tế bào vỏ (mũi tên xanh) tổng hợp androstenedione từ cholesterol Androstenedione này được các tế bào hạt ở phía trong của noãn nang thơm hóa thành estrone (E1)và chuyển đổi thành estradiol (E2) sau đó (mũi tên đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q025",
+      "topicId": "axis",
+      "conceptId": "m05-granulosa-fsh",
+      "level": "understand",
+      "stem": "Một tế bào nang đáp ứng FSH và thơm hóa androgen. Đó là tế bào nào?",
+      "options": [
+        "Tế bào hạt",
+        "Tế bào vỏ",
+        "Noãn bào",
+        "Neuron GnRH"
+      ],
+      "answer": 0,
+      "explanation": "Slide 13 gắn FSH và aromatase với tế bào hạt.",
+      "optionExplanations": [
+        "Slide 13 gắn FSH và aromatase với tế bào hạt.",
+        "Không phù hợp trong tình huống này. Slide 13 gắn FSH và aromatase với tế bào hạt.",
+        "Không phù hợp trong tình huống này. Slide 13 gắn FSH và aromatase với tế bào hạt.",
+        "Không phù hợp trong tình huống này. Slide 13 gắn FSH và aromatase với tế bào hạt."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "Androstenedione sản phẩm của tế bào vỏ sẽ được các tế bào hạt ở phía trong sử dụng làm nguyên liệu cho quá trình tổng hợp estrogen (hình trái) Hoạt động của tế bào hạt được đảm bảo bởi FSH. Dưới tác động của FSH, tế bào hạt thực hiện quá trình sinh tổng hợp estrogen bằng cách thơm hóa androstenedione bằng cách dùng men thơm hóa aromatase P450 (vòng tròn xanh) Sản phẩm của quá trình thơm hóa là Estrone (E1), sẽ được biến chuyển thuận nghịch sang estradiol (E2), có hoạt tính nhiều lần mạnh hơn estrone. Estradiol là estrogen chủ lực trong hoạt động sinh sản của người nữ (hình chữ nhật đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q026",
+      "topicId": "axis",
+      "conceptId": "m05-e1-direct",
+      "level": "apply",
+      "stem": "Trong mô hình chỉ xét bước thơm hóa androstenedione tại tế bào hạt, bước này bị chặn. Sản phẩm trực tiếp nào không còn được tạo qua chính bước đó?",
+      "options": [
+        "Estrone (E1)",
+        "Progesterone từ hoàng thể",
+        "GnRH từ nhân cung",
+        "LH từ tuyến yên"
+      ],
+      "answer": 0,
+      "explanation": "Slide 13 nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn.",
+      "optionExplanations": [
+        "Slide 13 nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn.",
+        "Không phù hợp với tình huống. Slide 13 nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn.",
+        "Không phù hợp với tình huống. Slide 13 nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn.",
+        "Không phù hợp với tình huống. Slide 13 nêu E1 là sản phẩm trực tiếp của thơm hóa androstenedione; không suy rằng các nguồn hormone khác đều bị chặn."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "Androstenedione sản phẩm của tế bào vỏ sẽ được các tế bào hạt ở phía trong sử dụng làm nguyên liệu cho quá trình tổng hợp estrogen (hình trái) Hoạt động của tế bào hạt được đảm bảo bởi FSH. Dưới tác động của FSH, tế bào hạt thực hiện quá trình sinh tổng hợp estrogen bằng cách thơm hóa androstenedione bằng cách dùng men thơm hóa aromatase P450 (vòng tròn xanh) Sản phẩm của quá trình thơm hóa là Estrone (E1), sẽ được biến chuyển thuận nghịch sang estradiol (E2), có hoạt tính nhiều lần mạnh hơn estrone. Estradiol là estrogen chủ lực trong hoạt động sinh sản của người nữ (hình chữ nhật đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q027",
+      "topicId": "axis",
+      "conceptId": "m05-e2-potency",
+      "level": "understand",
+      "stem": "So với E1, estrogen chủ lực E2 được bài mô tả thế nào?",
+      "options": [
+        "Là gonadotropin",
+        "Chỉ được sản xuất ở tuyến yên",
+        "Có hoạt tính mạnh hơn nhiều lần",
+        "Không có hoạt tính sinh sản"
+      ],
+      "answer": 2,
+      "explanation": "Slide 13 mô tả E2 có hoạt tính mạnh và giữ vai trò chủ lực.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 13 mô tả E2 có hoạt tính mạnh và giữ vai trò chủ lực.",
+        "Không phù hợp trong tình huống này. Slide 13 mô tả E2 có hoạt tính mạnh và giữ vai trò chủ lực.",
+        "Slide 13 mô tả E2 có hoạt tính mạnh và giữ vai trò chủ lực.",
+        "Không phù hợp trong tình huống này. Slide 13 mô tả E2 có hoạt tính mạnh và giữ vai trò chủ lực."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "Androstenedione sản phẩm của tế bào vỏ sẽ được các tế bào hạt ở phía trong sử dụng làm nguyên liệu cho quá trình tổng hợp estrogen (hình trái) Hoạt động của tế bào hạt được đảm bảo bởi FSH. Dưới tác động của FSH, tế bào hạt thực hiện quá trình sinh tổng hợp estrogen bằng cách thơm hóa androstenedione bằng cách dùng men thơm hóa aromatase P450 (vòng tròn xanh) Sản phẩm của quá trình thơm hóa là Estrone (E1), sẽ được biến chuyển thuận nghịch sang estradiol (E2), có hoạt tính nhiều lần mạnh hơn estrone. Estradiol là estrogen chủ lực trong hoạt động sinh sản của người nữ (hình chữ nhật đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q028",
+      "topicId": "axis",
+      "conceptId": "m05-receptors-amplify",
+      "level": "apply",
+      "stem": "Tế bào nang vừa tăng số lượng vừa tổng hợp thêm thụ thể gonadotropin. Hệ quả nào phù hợp?",
+      "options": [
+        "GnRH không còn qua mạch cửa",
+        "Nang nhạy với gonadotropin hơn",
+        "Nang mất khả năng bắt hormone",
+        "Nang trở thành bạch thể ngay"
+      ],
+      "answer": 1,
+      "explanation": "Slide 12 liên hệ tăng thụ thể với tăng độ nhạy gonadotropin.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 12 liên hệ tăng thụ thể với tăng độ nhạy gonadotropin.",
+        "Slide 12 liên hệ tăng thụ thể với tăng độ nhạy gonadotropin.",
+        "Không phù hợp trong tình huống này. Slide 12 liên hệ tăng thụ thể với tăng độ nhạy gonadotropin.",
+        "Không phù hợp trong tình huống này. Slide 12 liên hệ tăng thụ thể với tăng độ nhạy gonadotropin."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Tại các nang thứ cấp, trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH (các thụ thể bắt màu nâu trên hình). Nhờ vậy, các tế bào này bắt giữ các gonadotropin, phân chia nguyên nhiễm tạo nên sự phát triển của các nang thứ cấp. Đồng thời các tế bào này còn tổng hợp các thụ thể với gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn Dưới tác dụng của LH, tế bào vỏ (mũi tên xanh) tổng hợp androstenedione từ cholesterol Androstenedione này được các tế bào hạt ở phía trong của noãn nang thơm hóa thành estrone (E1)và chuyển đổi thành estradiol (E2) sau đó (mũi tên đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q029",
+      "topicId": "selection",
+      "conceptId": "m05-asynchrony",
+      "level": "apply",
+      "stem": "Hai nang thứ cấp có lượng thụ thể khác nhau. Kết quả nào phù hợp bài?",
+      "options": [
+        "Phát triển không đồng bộ",
+        "Bắt hormone luôn ngang nhau",
+        "Chắc chắn cùng thành nang de Graaf",
+        "Cả hai không thể đáp ứng hormone"
+      ],
+      "answer": 0,
+      "explanation": "Slide 14 giải thích phát triển không đồng bộ bằng khác biệt thụ thể.",
+      "optionExplanations": [
+        "Slide 14 giải thích phát triển không đồng bộ bằng khác biệt thụ thể.",
+        "Không phù hợp trong tình huống này. Slide 14 giải thích phát triển không đồng bộ bằng khác biệt thụ thể.",
+        "Không phù hợp trong tình huống này. Slide 14 giải thích phát triển không đồng bộ bằng khác biệt thụ thể.",
+        "Không phù hợp trong tình huống này. Slide 14 giải thích phát triển không đồng bộ bằng khác biệt thụ thể."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Mỗi nang thứ cấp có số lượng thụ thể với LH và FSH khác nhau (nhuộm màu nâu), nên khả năng bắt giữ gonadotropin và phát triển của các nang thứ cấp là không giống nhau (hình trái) Hiện tượng này tạo ra một sự không đồng bộ trong phát triển của các nang thứ cấp (hình phải). Một số ít nang thứ cấp nào sở hữu nhiều thụ thể với gonadotropin hơn sẽ bắt giữ gonadotropin dễ dàng hơn, phát triển tổng khối tế bào tùy hành tốt hơn và tự tổng hợp ra nhiều thụ thể với gonadotropin hơn, làm cho chúng càng có khả năng bắt giữ gonadotropin tốt hơn nữa"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q030",
+      "topicId": "selection",
+      "conceptId": "m05-e2-fsh-trend",
+      "level": "apply",
+      "stem": "Ở giai đoạn phản hồi thứ nhất, E2 đang tăng. Chiều biến thiên FSH nào phù hợp?",
+      "options": [
+        "Tăng cùng chiều bắt buộc",
+        "Không đổi bắt buộc",
+        "Chuyển thành E2",
+        "Giảm"
+      ],
+      "answer": 3,
+      "explanation": "Slide 15 nêu FSH biến thiên nghịch với estradiol trong phản hồi này.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 15 nêu FSH biến thiên nghịch với estradiol trong phản hồi này.",
+        "Không phù hợp trong tình huống này. Slide 15 nêu FSH biến thiên nghịch với estradiol trong phản hồi này.",
+        "Không phù hợp trong tình huống này. Slide 15 nêu FSH biến thiên nghịch với estradiol trong phản hồi này.",
+        "Slide 15 nêu FSH biến thiên nghịch với estradiol trong phản hồi này."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Các nang thứ cấp phát triển làm nồng độ E2 tăng dần Sự tăng nồng độ E2 gây một phản hồi âm tính trên tuyến yên, ức chế tuyến yên sản xuất FSH Đây là phản hồi thứ nhất của estradiol. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Nồng độ FSH giảm dần, và biến thiên theo chiều nghịch với sự tăng của estradiol Thiếu hụt FSH là hệ quả của phản hồi thứ nhất của E2"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q031",
+      "topicId": "selection",
+      "conceptId": "m05-poor-receptors",
+      "level": "apply",
+      "stem": "FSH giảm, một nang có rất ít tế bào hạt và thụ thể. Diễn tiến nào được bài mô tả?",
+      "options": [
+        "Tăng trưởng không cần FSH",
+        "Trở thành tế bào tuyến yên",
+        "Thoái triển vì cạnh tranh FSH kém",
+        "Ưu tiên phát triển thành de Graaf"
+      ],
+      "answer": 2,
+      "explanation": "Slide 16 mô tả nang ít thụ thể không thu gom đủ FSH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 16 mô tả nang ít thụ thể không thu gom đủ FSH.",
+        "Không phù hợp trong tình huống này. Slide 16 mô tả nang ít thụ thể không thu gom đủ FSH.",
+        "Slide 16 mô tả nang ít thụ thể không thu gom đủ FSH.",
+        "Không phù hợp trong tình huống này. Slide 16 mô tả nang ít thụ thể không thu gom đủ FSH."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "Trong bối cảnh của thiếu hụt FSH toàn thể, các nang noãn thứ cấp nào đã phát triển tốt hơn, có nhiều tế bào hạt hơn, do đó có nhiều thụ thể và khả năng bắt FSH tốt hơn sẽ thu gom dễ dàng các phân tử FSH hiếm hoi để tiếp tục phát triển (hình trái) Trong khi đó, với các nang thứ cấp còn lại, do chúng sở hữu rất ít tế bào hạt và rất ít thụ thể với FSH, nên chúng sẽ không thể cạnh tranh được về khả năng bắt giữ các phân tử FSH hiếm hoi còn lại. Chúng sẽ đi vào thoái triển (hình phải) Như vậy tình trạng thiếu hụt FSH, kết quả của phản hồi âm của estradiol, là sự chọn lọc noãn nang"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q032",
+      "topicId": "selection",
+      "conceptId": "m05-dominant-name",
+      "level": "understand",
+      "stem": "Nang cuối cùng có nhiều tế bào tùy hành, nhiều thụ thể và tiết E2 mạnh nhất được gọi là gì?",
+      "options": [
+        "Nang nguyên thủy đang nghỉ",
+        "Nang de Graaf",
+        "Bạch thể",
+        "Hoàng thể thoái triển"
+      ],
+      "answer": 1,
+      "explanation": "Slide 17 gọi nang phát triển đến tận cùng là nang de Graaf.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 17 gọi nang phát triển đến tận cùng là nang de Graaf.",
+        "Slide 17 gọi nang phát triển đến tận cùng là nang de Graaf.",
+        "Không phù hợp trong tình huống này. Slide 17 gọi nang phát triển đến tận cùng là nang de Graaf.",
+        "Không phù hợp trong tình huống này. Slide 17 gọi nang phát triển đến tận cùng là nang de Graaf."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Cuối cùng, chỉ có một nang noãn tốt nhất, sở hữu nhiều tế bào tùy hành nhất, có nhiều thụ thể với gonadotropin nhất, sản xuất được nhiều estradiol nhất mới có cơ hội phát triển đến tận cùng, gọi là nang trưởng thành (nang de Graaf). Nang de Graaf được tạo thành bởi noãn bào và các tế bào tùy hành Noãn bào lúc này vẫn còn đang chậm chạp trong tiền kỳ của phân bào thứ nhất của phân bào giảm nhiễm (mũi tên xanh) Các tế bào hạt vẫn đang phân chia mãnh liệt theo cấp số nhân dưới ảnh hưởng của lượng FSH dồi dào mà nang de Graaf đã tước đoạt được từ máu ngoại vi (mũi tên đỏ) Các tế bào vỏ phát triển mạnh và chứa đầy các thụ thể với LH, cung cấp androgen cho tế bào hạt (mũi tên nâu)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q033",
+      "topicId": "selection",
+      "conceptId": "m05-prelh-oocyte",
+      "level": "understand",
+      "stem": "Theo slide 17, trước đỉnh LH, noãn trong nang de Graaf đang ở trạng thái nào?",
+      "options": [
+        "Vẫn trong tiền kỳ giảm phân I",
+        "Đã hoàn tất giảm phân II",
+        "Đã là hợp tử",
+        "Đang nguyên phân thành hai noãn"
+      ],
+      "answer": 0,
+      "explanation": "Slide 17 mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất.",
+      "optionExplanations": [
+        "Slide 17 mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất.",
+        "Không phù hợp trong tình huống này. Slide 17 mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất.",
+        "Không phù hợp trong tình huống này. Slide 17 mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất.",
+        "Không phù hợp trong tình huống này. Slide 17 mô tả noãn vẫn chậm chạp ở tiền kỳ phân bào giảm nhiễm thứ nhất."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Cuối cùng, chỉ có một nang noãn tốt nhất, sở hữu nhiều tế bào tùy hành nhất, có nhiều thụ thể với gonadotropin nhất, sản xuất được nhiều estradiol nhất mới có cơ hội phát triển đến tận cùng, gọi là nang trưởng thành (nang de Graaf). Nang de Graaf được tạo thành bởi noãn bào và các tế bào tùy hành Noãn bào lúc này vẫn còn đang chậm chạp trong tiền kỳ của phân bào thứ nhất của phân bào giảm nhiễm (mũi tên xanh) Các tế bào hạt vẫn đang phân chia mãnh liệt theo cấp số nhân dưới ảnh hưởng của lượng FSH dồi dào mà nang de Graaf đã tước đoạt được từ máu ngoại vi (mũi tên đỏ) Các tế bào vỏ phát triển mạnh và chứa đầy các thụ thể với LH, cung cấp androgen cho tế bào hạt (mũi tên nâu)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q034",
+      "topicId": "selection",
+      "conceptId": "m05-high-e2-duration",
+      "level": "apply",
+      "stem": "E2 chỉ vượt ngưỡng trong một thời gian quá ngắn. Theo điều kiện ở slide 18, kết luận nào đúng?",
+      "options": [
+        "Chắc chắn đã có đỉnh LH",
+        "Chắc chắn đã phóng noãn",
+        "Đã hoàn tất thụ tinh",
+        "Chưa đủ điều kiện phản hồi dương"
+      ],
+      "answer": 3,
+      "explanation": "Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua.",
+        "Không phù hợp trong tình huống này. Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua.",
+        "Không phù hợp trong tình huống này. Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua.",
+        "Nồng độ cao phải duy trì đủ lâu, không chỉ vượt ngưỡng thoáng qua."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Tổng khối tế bào hạt dồi dào đảm bảo cho nang de Graaf tiếp tục sản xuất ra một khối lượng lớn estradiol, đẩy nồng độ estradiol lên cao, vượt một nồng độ ngưỡng, trong một thời gian đủ dài Nồng độ vượt ngưỡng trong thời gian dài này là minh chứng cho thấy nang noãn này là một nang tốt nhất, đáp ứng các điều kiện cho quá trình phóng noãn, thụ tinh, làm tổ và mang thai. Khi đó, E2 gây ra một phản hồi thứ nhì trên hạ đồi-yên. Đây là một phản hồi dương Khi đó, tuyến yên đáp ứng bằng cách phóng thích một lượng lớn LH, trong một thời gian rất ngắn, tạo một đỉnh cao LH (và của cả FSH) trong máu ngoại vi"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q035",
+      "topicId": "selection",
+      "conceptId": "m05-surge-output",
+      "level": "apply",
+      "stem": "Một nang tạo E2 vượt ngưỡng đủ lâu và phản hồi dương đã được kích hoạt. Dạng đáp ứng LH nào phù hợp nhất với mô hình bài?",
+      "options": [
+        "Một đợt phóng thích lớn trong thời gian ngắn",
+        "LH thấp không thay đổi do phản hồi dương",
+        "LH biến mất vĩnh viễn ngay",
+        "LH được sản xuất trực tiếp trong noãn thay tuyến yên"
+      ],
+      "answer": 0,
+      "explanation": "Slide 18 mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn.",
+      "optionExplanations": [
+        "Slide 18 mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn.",
+        "Không phù hợp với tình huống. Slide 18 mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn.",
+        "Không phù hợp với tình huống. Slide 18 mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn.",
+        "Không phù hợp với tình huống. Slide 18 mô tả phản hồi dương tạo đỉnh LH, tức phóng thích lượng lớn trong thời gian ngắn."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Tổng khối tế bào hạt dồi dào đảm bảo cho nang de Graaf tiếp tục sản xuất ra một khối lượng lớn estradiol, đẩy nồng độ estradiol lên cao, vượt một nồng độ ngưỡng, trong một thời gian đủ dài Nồng độ vượt ngưỡng trong thời gian dài này là minh chứng cho thấy nang noãn này là một nang tốt nhất, đáp ứng các điều kiện cho quá trình phóng noãn, thụ tinh, làm tổ và mang thai. Khi đó, E2 gây ra một phản hồi thứ nhì trên hạ đồi-yên. Đây là một phản hồi dương Khi đó, tuyến yên đáp ứng bằng cách phóng thích một lượng lớn LH, trong một thời gian rất ngắn, tạo một đỉnh cao LH (và của cả FSH) trong máu ngoại vi"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q036",
+      "topicId": "ovulation",
+      "conceptId": "m05-lh-meiosis",
+      "level": "apply",
+      "stem": "Sau đỉnh LH, một sơ đồ vẫn vẽ noãn giữ nguyên trạng thái trước đỉnh mà không hoàn tất giảm phân I. Bước cần bổ sung theo bài là gì?",
+      "options": [
+        "Hoàn tất giảm phân I rồi đi vào giảm phân II",
+        "Lặp lại nguyên phân tạo nhiều noãn",
+        "Hoàn tất ngay giảm phân II dù chưa có tinh trùng",
+        "Chuyển noãn thành tế bào vỏ"
+      ],
+      "answer": 0,
+      "explanation": "Slide 19 nối đỉnh LH với hoàn tất giảm phân I và đi vào giảm phân II; noãn sau đó còn dừng chờ tinh trùng.",
+      "optionExplanations": [
+        "Slide 19 nối đỉnh LH với hoàn tất giảm phân I và đi vào giảm phân II; noãn sau đó còn dừng chờ tinh trùng.",
+        "Không phù hợp với tình huống. Slide 19 nối đỉnh LH với hoàn tất giảm phân I và đi vào giảm phân II; noãn sau đó còn dừng chờ tinh trùng.",
+        "Không phù hợp với tình huống. Slide 19 nối đỉnh LH với hoàn tất giảm phân I và đi vào giảm phân II; noãn sau đó còn dừng chờ tinh trùng.",
+        "Không phù hợp với tình huống. Slide 19 nối đỉnh LH với hoàn tất giảm phân I và đi vào giảm phân II; noãn sau đó còn dừng chờ tinh trùng."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới ảnh hưởng của đỉnh LH, noãn bào nhanh chóng hoàn meiosis I, ngay sau đó đi vào meiosis II. 36 giờ sau khi xuất hiện đỉnh LH, noãn bào đã đi đến metaphase của meiosis II. Phân bào giảm nhiễm sẽ dừng lại ở kỳ này, cho đến khi nó được một tinh trùng xâm nhập (hình trái) Sau đỉnh LH, mitosis tại các tế bào hạt sẽ dừng lại. Các tế bào hạt ở quanh nang noãn sẽ tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng: cumulus oophora (hình giữa) Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần, cuối cùng, nang noãn bị vỡ và phóng thích cumulus oophora (hình phải)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q037",
+      "topicId": "ovulation",
+      "conceptId": "m05-fertilization-release",
+      "level": "apply",
+      "stem": "Một noãn đã đến kỳ giữa giảm phân II nhưng chưa có tinh trùng xâm nhập. Theo bài, có được ghi rằng toàn bộ giảm phân đã hoàn tất không?",
+      "options": [
+        "Không; vẫn ở điểm dừng chờ tinh trùng",
+        "Có; chỉ cần nang vỡ là đủ",
+        "Có; giảm phân II luôn hoàn tất trước LH",
+        "Không vì noãn chưa từng vào giảm phân I"
+      ],
+      "answer": 0,
+      "explanation": "Slide 19 nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân.",
+      "optionExplanations": [
+        "Slide 19 nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân.",
+        "Không phù hợp với tình huống. Slide 19 nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân.",
+        "Không phù hợp với tình huống. Slide 19 nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân.",
+        "Không phù hợp với tình huống. Slide 19 nêu điểm dừng metaphase II cho đến khi tinh trùng xâm nhập; không đồng nhất phóng noãn với hoàn tất giảm phân."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới ảnh hưởng của đỉnh LH, noãn bào nhanh chóng hoàn meiosis I, ngay sau đó đi vào meiosis II. 36 giờ sau khi xuất hiện đỉnh LH, noãn bào đã đi đến metaphase của meiosis II. Phân bào giảm nhiễm sẽ dừng lại ở kỳ này, cho đến khi nó được một tinh trùng xâm nhập (hình trái) Sau đỉnh LH, mitosis tại các tế bào hạt sẽ dừng lại. Các tế bào hạt ở quanh nang noãn sẽ tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng: cumulus oophora (hình giữa) Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần, cuối cùng, nang noãn bị vỡ và phóng thích cumulus oophora (hình phải)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q038",
+      "topicId": "ovulation",
+      "conceptId": "m05-cumulus",
+      "level": "understand",
+      "stem": "Noãn cùng nhóm tế bào hạt bao quanh tách khỏi phần hạt còn lại, chuẩn bị rời buồng trứng. Cấu trúc này là gì?",
+      "options": [
+        "Corpus albicans",
+        "Nhân cung",
+        "Mạch cửa",
+        "Cumulus oophora"
+      ],
+      "answer": 3,
+      "explanation": "Slide 19 gọi cấu trúc sẵn sàng được phóng thích là cumulus oophora.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 19 gọi cấu trúc sẵn sàng được phóng thích là cumulus oophora.",
+        "Không phù hợp trong tình huống này. Slide 19 gọi cấu trúc sẵn sàng được phóng thích là cumulus oophora.",
+        "Không phù hợp trong tình huống này. Slide 19 gọi cấu trúc sẵn sàng được phóng thích là cumulus oophora.",
+        "Slide 19 gọi cấu trúc sẵn sàng được phóng thích là cumulus oophora."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới ảnh hưởng của đỉnh LH, noãn bào nhanh chóng hoàn meiosis I, ngay sau đó đi vào meiosis II. 36 giờ sau khi xuất hiện đỉnh LH, noãn bào đã đi đến metaphase của meiosis II. Phân bào giảm nhiễm sẽ dừng lại ở kỳ này, cho đến khi nó được một tinh trùng xâm nhập (hình trái) Sau đỉnh LH, mitosis tại các tế bào hạt sẽ dừng lại. Các tế bào hạt ở quanh nang noãn sẽ tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng: cumulus oophora (hình giữa) Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần, cuối cùng, nang noãn bị vỡ và phóng thích cumulus oophora (hình phải)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q039",
+      "topicId": "ovulation",
+      "conceptId": "m05-rupture",
+      "level": "understand",
+      "stem": "Bề mặt buồng trứng tại nang mỏng dần rồi nang vỡ. Thành phần được phóng thích theo bài là gì?",
+      "options": [
+        "Bạch thể",
+        "Mạch cửa hạ đồi",
+        "Cumulus oophora",
+        "Toàn bộ tuyến yên"
+      ],
+      "answer": 2,
+      "explanation": "Slide 19 nối sự vỡ nang với phóng thích cumulus oophora.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 19 nối sự vỡ nang với phóng thích cumulus oophora.",
+        "Không phù hợp trong tình huống này. Slide 19 nối sự vỡ nang với phóng thích cumulus oophora.",
+        "Slide 19 nối sự vỡ nang với phóng thích cumulus oophora.",
+        "Không phù hợp trong tình huống này. Slide 19 nối sự vỡ nang với phóng thích cumulus oophora."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới ảnh hưởng của đỉnh LH, noãn bào nhanh chóng hoàn meiosis I, ngay sau đó đi vào meiosis II. 36 giờ sau khi xuất hiện đỉnh LH, noãn bào đã đi đến metaphase của meiosis II. Phân bào giảm nhiễm sẽ dừng lại ở kỳ này, cho đến khi nó được một tinh trùng xâm nhập (hình trái) Sau đỉnh LH, mitosis tại các tế bào hạt sẽ dừng lại. Các tế bào hạt ở quanh nang noãn sẽ tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng: cumulus oophora (hình giữa) Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần, cuối cùng, nang noãn bị vỡ và phóng thích cumulus oophora (hình phải)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q040",
+      "topicId": "ovulation",
+      "conceptId": "m05-vascularization",
+      "level": "apply",
+      "stem": "Nếu trong mô hình hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả trong bài đang bị hạn chế?",
+      "options": [
+        "Cholesterol từ mạch máu vào cấu trúc nang",
+        "GnRH từ chính noãn bào",
+        "FSH do tế bào hạt tự tạo",
+        "DNA do hormone lưu hành tạo ra"
+      ],
+      "answer": 0,
+      "explanation": "Slide 20 mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết.",
+      "optionExplanations": [
+        "Slide 20 mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết.",
+        "Không phù hợp với tình huống. Slide 20 mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết.",
+        "Không phù hợp với tình huống. Slide 20 mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết.",
+        "Không phù hợp với tình huống. Slide 20 mô tả mạch máu xâm nhập để cung cấp cholesterol. Câu hỏi không suy rằng mọi cholesterol sẵn có đều đã hết."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "Sau khi đã vỡ và phóng thích cumulus oophora, phần còn lại của noãn nang co cụm lại. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới có màu vàng của cholesterol, gọi là hoàng thể (corpus luteum) (mũi tên) Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên. Về phương diện nội tiết, hoàng thể tiếp tục sản xuất estradiol, nhưng quan trọng nhất là một steroid sinh dục mới, đặc hữu của hoàng thể: progesterone (Δ-4 progesterone: P4)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q041",
+      "topicId": "ovulation",
+      "conceptId": "m05-two-steroids-same-source",
+      "level": "apply",
+      "stem": "Sau phóng noãn, xét về mô hình nội tiết của bài, E2 vẫn được sản xuất đồng thời P4 xuất hiện nổi bật. Diễn giải nào phù hợp?",
+      "options": [
+        "Phần nang còn lại đã hoàng thể hóa, tiếp tục E2 và sản xuất thêm P4",
+        "E2 còn tồn tại chứng minh chưa thể có hoàng thể",
+        "P4 xuất hiện chứng minh toàn bộ E2 phải bằng không",
+        "P4 do tuyến yên thay FSH sản xuất"
+      ],
+      "answer": 0,
+      "explanation": "Slide 20 mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone.",
+      "optionExplanations": [
+        "Slide 20 mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone.",
+        "Không phù hợp với tình huống. Slide 20 mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone.",
+        "Không phù hợp với tình huống. Slide 20 mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone.",
+        "Không phù hợp với tình huống. Slide 20 mô tả hoàng thể tiếp tục sản xuất estradiol và đặc biệt sản xuất progesterone."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "Sau khi đã vỡ và phóng thích cumulus oophora, phần còn lại của noãn nang co cụm lại. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới có màu vàng của cholesterol, gọi là hoàng thể (corpus luteum) (mũi tên) Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên. Về phương diện nội tiết, hoàng thể tiếp tục sản xuất estradiol, nhưng quan trọng nhất là một steroid sinh dục mới, đặc hữu của hoàng thể: progesterone (Δ-4 progesterone: P4)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q042",
+      "topicId": "ovulation",
+      "conceptId": "m05-peak-day",
+      "level": "understand",
+      "stem": "Theo bài, đánh giá đỉnh sản xuất steroid của hoàng thể nên gắn với mốc tương đối nào?",
+      "options": [
+        "Ngay khi nang nguyên thủy được chiêu mộ",
+        "Trước dậy thì",
+        "Lúc bạch thể đã hoàn toàn hình thành",
+        "Khoảng 7 ngày sau phóng noãn"
+      ],
+      "answer": 3,
+      "explanation": "Slide 21 đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 21 đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 21 đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 21 đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn.",
+        "Slide 21 đặt đỉnh chế tiết steroid khoảng 7 ngày sau phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "Dưới tác dụng của LH, các tế bào hoàng thể chế tiết estradiol và progesterone. Sản xuất steroid sinh dục của hoàng thể đạt đến đỉnh cao vào khoảng 7 ngày sau phóng noãn (mũi tên đỏ, hình trên) Nồng độ progesterone cao trong máu ngoại vi gây ra một phản hồi có tính ức chế lên các tầng trên của trục. Trên hạ đồi, progesterone làm giảm nhịp điệu của các xung GnRH. Do suy giảm kích thích, sản xuất LH của tuyến yên bị sút giảm (mũi tên đỏ, hình dưới)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q043",
+      "topicId": "ovulation",
+      "conceptId": "m05-p4-luteolysis-chain",
+      "level": "apply",
+      "stem": "Progesterone tăng trong pha hoàng thể. Tác động lên nhịp GnRH nào được bài nêu?",
+      "options": [
+        "Không thể tác động hạ đồi",
+        "Biến GnRH thành FSH",
+        "Giảm nhịp xung",
+        "Tăng nhịp vô hạn"
+      ],
+      "answer": 2,
+      "explanation": "Slide 21 mô tả phản hồi ức chế làm giảm nhịp GnRH.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 21 mô tả phản hồi ức chế làm giảm nhịp GnRH.",
+        "Không phù hợp trong tình huống này. Slide 21 mô tả phản hồi ức chế làm giảm nhịp GnRH.",
+        "Slide 21 mô tả phản hồi ức chế làm giảm nhịp GnRH.",
+        "Không phù hợp trong tình huống này. Slide 21 mô tả phản hồi ức chế làm giảm nhịp GnRH."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "Dưới tác dụng của LH, các tế bào hoàng thể chế tiết estradiol và progesterone. Sản xuất steroid sinh dục của hoàng thể đạt đến đỉnh cao vào khoảng 7 ngày sau phóng noãn (mũi tên đỏ, hình trên) Nồng độ progesterone cao trong máu ngoại vi gây ra một phản hồi có tính ức chế lên các tầng trên của trục. Trên hạ đồi, progesterone làm giảm nhịp điệu của các xung GnRH. Do suy giảm kích thích, sản xuất LH của tuyến yên bị sút giảm (mũi tên đỏ, hình dưới)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q044",
+      "topicId": "ovulation",
+      "conceptId": "m05-lh-withdrawal",
+      "level": "apply",
+      "stem": "Một hoàng thể không còn được duy trì bởi LH. Diễn tiến nào phù hợp?",
+      "options": [
+        "Biến thành noãn bào",
+        "Thoái triển thành bạch thể",
+        "Trở thành nang nguyên thủy",
+        "Tăng steroid vĩnh viễn"
+      ],
+      "answer": 1,
+      "explanation": "Slide 22 liên hệ mất hỗ trợ LH với thoái triển hoàng thể.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 22 liên hệ mất hỗ trợ LH với thoái triển hoàng thể.",
+        "Slide 22 liên hệ mất hỗ trợ LH với thoái triển hoàng thể.",
+        "Không phù hợp trong tình huống này. Slide 22 liên hệ mất hỗ trợ LH với thoái triển hoàng thể.",
+        "Không phù hợp trong tình huống này. Slide 22 liên hệ mất hỗ trợ LH với thoái triển hoàng thể."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Do không còn được nuôi dưỡng bởi LH, hoàng thể sẽ dần dần đi vào thoái triển, để lại một sẹo trên buồng trứng, gọi là bạch thể (corpus albicans) Hoàng thể thoái triển không còn sản xuất steroid sinh dục nữa, tạo ra một sự sút giảm của cả estradiol và progesterone trong máu ngoại vi. Sự sút giảm của nồng độ các steroid sinh duc giải phóng trục hạ đồi-tuyến yên khỏi các ràng buộc của chu kỳ buồng trứng trước và sẵn sàng cho một chu kỳ buồng trứng mới"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q045",
+      "topicId": "ovulation",
+      "conceptId": "m05-cycle-reset-reason",
+      "level": "apply",
+      "stem": "Hoàng thể thoái triển, E2 và P4 cùng giảm. Trục hạ đồi–yên được bài mô tả thế nào?",
+      "options": [
+        "Thoát ràng buộc chu kỳ trước, sẵn sàng chu kỳ mới",
+        "Bị ức chế vĩnh viễn",
+        "Trở thành hoàng thể mới",
+        "Ngừng hoạt động suốt đời"
+      ],
+      "answer": 0,
+      "explanation": "Slide 22 nêu ý nghĩa giải phóng trục của sự giảm hai steroid.",
+      "optionExplanations": [
+        "Slide 22 nêu ý nghĩa giải phóng trục của sự giảm hai steroid.",
+        "Không phù hợp trong tình huống này. Slide 22 nêu ý nghĩa giải phóng trục của sự giảm hai steroid.",
+        "Không phù hợp trong tình huống này. Slide 22 nêu ý nghĩa giải phóng trục của sự giảm hai steroid.",
+        "Không phù hợp trong tình huống này. Slide 22 nêu ý nghĩa giải phóng trục của sự giảm hai steroid."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Do không còn được nuôi dưỡng bởi LH, hoàng thể sẽ dần dần đi vào thoái triển, để lại một sẹo trên buồng trứng, gọi là bạch thể (corpus albicans) Hoàng thể thoái triển không còn sản xuất steroid sinh dục nữa, tạo ra một sự sút giảm của cả estradiol và progesterone trong máu ngoại vi. Sự sút giảm của nồng độ các steroid sinh duc giải phóng trục hạ đồi-tuyến yên khỏi các ràng buộc của chu kỳ buồng trứng trước và sẵn sàng cho một chu kỳ buồng trứng mới"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q046",
+      "topicId": "origin",
+      "conceptId": "m05-local-vs-axis",
+      "level": "analyze",
+      "stem": "Một nhận định cho rằng FSH ngoại vi trực tiếp chiêu mộ nang nguyên thủy vì FSH làm nang thứ cấp phát triển. Sai ở chỗ nào?",
+      "options": [
+        "FSH không tác động bất kỳ tế bào nào",
+        "Mọi nang đều là hoàng thể",
+        "Chiêu mộ chỉ diễn ra trong tuyến yên",
+        "Đánh đồng chiêu mộ tại chỗ với giai đoạn đáp ứng gonadotropin"
+      ],
+      "answer": 3,
+      "explanation": "Slide 8 phân biệt điều hòa chiêu mộ tại chỗ; slide 12 mô tả tác động gonadotropin ở nang thứ cấp.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 8 phân biệt điều hòa chiêu mộ tại chỗ; slide 12 mô tả tác động gonadotropin ở nang thứ cấp.",
+        "Không phù hợp trong tình huống này. Slide 8 phân biệt điều hòa chiêu mộ tại chỗ; slide 12 mô tả tác động gonadotropin ở nang thứ cấp.",
+        "Không phù hợp trong tình huống này. Slide 8 phân biệt điều hòa chiêu mộ tại chỗ; slide 12 mô tả tác động gonadotropin ở nang thứ cấp.",
+        "Slide 8 phân biệt điều hòa chiêu mộ tại chỗ; slide 12 mô tả tác động gonadotropin ở nang thứ cấp."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "Kể từ sau khi đứa bé gái dậy thì, định kỳ một lần mỗi khoảng 30 ngày, ước chừng có 102 noãn nguyên thủy sẽ được chiêu mộ vào chu kỳ buồng trứng (mũi tên) Hiện tượng chiêu mộ chỉ chịu tác dụng của các yếu tố nội tiết lân cận (paracrine) hay tự thân (autocrine), mà không chịu tác động của các hormone lưu hành trong máu ngoại vi"
+        },
+        {
+          "page": 12,
+          "quote": "Tại các nang thứ cấp, trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH (các thụ thể bắt màu nâu trên hình). Nhờ vậy, các tế bào này bắt giữ các gonadotropin, phân chia nguyên nhiễm tạo nên sự phát triển của các nang thứ cấp. Đồng thời các tế bào này còn tổng hợp các thụ thể với gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn Dưới tác dụng của LH, tế bào vỏ (mũi tên xanh) tổng hợp androstenedione từ cholesterol Androstenedione này được các tế bào hạt ở phía trong của noãn nang thơm hóa thành estrone (E1)và chuyển đổi thành estradiol (E2) sau đó (mũi tên đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q047",
+      "topicId": "axis",
+      "conceptId": "m05-two-cell-dependence",
+      "level": "analyze",
+      "stem": "Tế bào vỏ tạo androgen bình thường nhưng bước thơm hóa ở tế bào hạt không thực hiện. Chuỗi tổng hợp nào bị gián đoạn trực tiếp?",
+      "options": [
+        "Hoàng thể → bạch thể",
+        "Túi noãn hoàng → ụ sinh dục",
+        "Androstenedione → E1 → E2",
+        "GnRH → FSH và LH"
+      ],
+      "answer": 2,
+      "explanation": "Kết hợp slide 12–13: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Kết hợp slide 12–13: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen.",
+        "Không phù hợp trong tình huống này. Kết hợp slide 12–13: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen.",
+        "Kết hợp slide 12–13: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen.",
+        "Không phù hợp trong tình huống này. Kết hợp slide 12–13: androgen từ vỏ phải được aromatase ở hạt sử dụng để tạo estrogen."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Tại các nang thứ cấp, trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH (các thụ thể bắt màu nâu trên hình). Nhờ vậy, các tế bào này bắt giữ các gonadotropin, phân chia nguyên nhiễm tạo nên sự phát triển của các nang thứ cấp. Đồng thời các tế bào này còn tổng hợp các thụ thể với gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn Dưới tác dụng của LH, tế bào vỏ (mũi tên xanh) tổng hợp androstenedione từ cholesterol Androstenedione này được các tế bào hạt ở phía trong của noãn nang thơm hóa thành estrone (E1)và chuyển đổi thành estradiol (E2) sau đó (mũi tên đỏ)"
+        },
+        {
+          "page": 13,
+          "quote": "Androstenedione sản phẩm của tế bào vỏ sẽ được các tế bào hạt ở phía trong sử dụng làm nguyên liệu cho quá trình tổng hợp estrogen (hình trái) Hoạt động của tế bào hạt được đảm bảo bởi FSH. Dưới tác động của FSH, tế bào hạt thực hiện quá trình sinh tổng hợp estrogen bằng cách thơm hóa androstenedione bằng cách dùng men thơm hóa aromatase P450 (vòng tròn xanh) Sản phẩm của quá trình thơm hóa là Estrone (E1), sẽ được biến chuyển thuận nghịch sang estradiol (E2), có hoạt tính nhiều lần mạnh hơn estrone. Estradiol là estrogen chủ lực trong hoạt động sinh sản của người nữ (hình chữ nhật đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q048",
+      "topicId": "axis",
+      "conceptId": "m05-fsh-not-lh-substitute",
+      "level": "analyze",
+      "stem": "Một mô hình thay FSH bằng LH tại tế bào hạt và vẫn dự đoán thơm hóa bình thường. Điểm nào không đúng với bài?",
+      "options": [
+        "Tế bào hạt không dùng androgen",
+        "Nhầm hormone điều khiển tế bào hạt với hormone của tế bào vỏ",
+        "LH chính là aromatase",
+        "E1 không liên quan E2"
+      ],
+      "answer": 1,
+      "explanation": "Slide 12–13 tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 12–13 tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen.",
+        "Slide 12–13 tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen.",
+        "Không phù hợp trong tình huống này. Slide 12–13 tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen.",
+        "Không phù hợp trong tình huống này. Slide 12–13 tách vai trò LH–vỏ và FSH–hạt trong phối hợp tạo estrogen."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Tại các nang thứ cấp, trên bề mặt của tế bào vỏ có thụ thể với LH, và trên bề mặt của tế bào hạt có thụ thể với FSH (các thụ thể bắt màu nâu trên hình). Nhờ vậy, các tế bào này bắt giữ các gonadotropin, phân chia nguyên nhiễm tạo nên sự phát triển của các nang thứ cấp. Đồng thời các tế bào này còn tổng hợp các thụ thể với gonadotropin, làm cho chúng ngày càng nhạy với gonadotropin hơn Dưới tác dụng của LH, tế bào vỏ (mũi tên xanh) tổng hợp androstenedione từ cholesterol Androstenedione này được các tế bào hạt ở phía trong của noãn nang thơm hóa thành estrone (E1)và chuyển đổi thành estradiol (E2) sau đó (mũi tên đỏ)"
+        },
+        {
+          "page": 13,
+          "quote": "Androstenedione sản phẩm của tế bào vỏ sẽ được các tế bào hạt ở phía trong sử dụng làm nguyên liệu cho quá trình tổng hợp estrogen (hình trái) Hoạt động của tế bào hạt được đảm bảo bởi FSH. Dưới tác động của FSH, tế bào hạt thực hiện quá trình sinh tổng hợp estrogen bằng cách thơm hóa androstenedione bằng cách dùng men thơm hóa aromatase P450 (vòng tròn xanh) Sản phẩm của quá trình thơm hóa là Estrone (E1), sẽ được biến chuyển thuận nghịch sang estradiol (E2), có hoạt tính nhiều lần mạnh hơn estrone. Estradiol là estrogen chủ lực trong hoạt động sinh sản của người nữ (hình chữ nhật đỏ)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q049",
+      "topicId": "selection",
+      "conceptId": "m05-positive-loop-local",
+      "level": "analyze",
+      "stem": "Nang nhiều thụ thể bắt hormone tốt, tăng tế bào rồi tạo thêm thụ thể. Chuỗi này giải thích điều gì?",
+      "options": [
+        "Lợi thế phát triển của nang được củng cố",
+        "Tất cả nang trở nên đồng bộ",
+        "Nang ít thụ thể luôn thắng",
+        "FSH không còn cần thiết ở nang thứ cấp"
+      ],
+      "answer": 0,
+      "explanation": "Slide 14 mô tả vòng tăng lợi thế bắt gonadotropin của một số nang.",
+      "optionExplanations": [
+        "Slide 14 mô tả vòng tăng lợi thế bắt gonadotropin của một số nang.",
+        "Không phù hợp trong tình huống này. Slide 14 mô tả vòng tăng lợi thế bắt gonadotropin của một số nang.",
+        "Không phù hợp trong tình huống này. Slide 14 mô tả vòng tăng lợi thế bắt gonadotropin của một số nang.",
+        "Không phù hợp trong tình huống này. Slide 14 mô tả vòng tăng lợi thế bắt gonadotropin của một số nang."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Mỗi nang thứ cấp có số lượng thụ thể với LH và FSH khác nhau (nhuộm màu nâu), nên khả năng bắt giữ gonadotropin và phát triển của các nang thứ cấp là không giống nhau (hình trái) Hiện tượng này tạo ra một sự không đồng bộ trong phát triển của các nang thứ cấp (hình phải). Một số ít nang thứ cấp nào sở hữu nhiều thụ thể với gonadotropin hơn sẽ bắt giữ gonadotropin dễ dàng hơn, phát triển tổng khối tế bào tùy hành tốt hơn và tự tổng hợp ra nhiều thụ thể với gonadotropin hơn, làm cho chúng càng có khả năng bắt giữ gonadotropin tốt hơn nữa"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q050",
+      "topicId": "selection",
+      "conceptId": "m05-global-fsh-paradox",
+      "level": "analyze",
+      "stem": "FSH toàn thể giảm nhưng một nang vẫn phát triển mạnh. Giải thích nào kết hợp đúng các dữ kiện?",
+      "options": [
+        "Nang tự sản xuất FSH thay tuyến yên",
+        "E2 chỉ ức chế nang mạnh nhất",
+        "Nang mạnh nhất không có tế bào hạt",
+        "Nang nhiều thụ thể thu gom FSH tốt hơn đối thủ"
+      ],
+      "answer": 3,
+      "explanation": "E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển.",
+        "Không phù hợp trong tình huống này. E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển.",
+        "Không phù hợp trong tình huống này. E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển.",
+        "E2 làm FSH giảm; sự khác biệt khả năng bắt FSH quyết định nang còn phát triển."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Các nang thứ cấp phát triển làm nồng độ E2 tăng dần Sự tăng nồng độ E2 gây một phản hồi âm tính trên tuyến yên, ức chế tuyến yên sản xuất FSH Đây là phản hồi thứ nhất của estradiol. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Nồng độ FSH giảm dần, và biến thiên theo chiều nghịch với sự tăng của estradiol Thiếu hụt FSH là hệ quả của phản hồi thứ nhất của E2"
+        },
+        {
+          "page": 16,
+          "quote": "Trong bối cảnh của thiếu hụt FSH toàn thể, các nang noãn thứ cấp nào đã phát triển tốt hơn, có nhiều tế bào hạt hơn, do đó có nhiều thụ thể và khả năng bắt FSH tốt hơn sẽ thu gom dễ dàng các phân tử FSH hiếm hoi để tiếp tục phát triển (hình trái) Trong khi đó, với các nang thứ cấp còn lại, do chúng sở hữu rất ít tế bào hạt và rất ít thụ thể với FSH, nên chúng sẽ không thể cạnh tranh được về khả năng bắt giữ các phân tử FSH hiếm hoi còn lại. Chúng sẽ đi vào thoái triển (hình phải) Như vậy tình trạng thiếu hụt FSH, kết quả của phản hồi âm của estradiol, là sự chọn lọc noãn nang"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q051",
+      "topicId": "selection",
+      "conceptId": "m05-feedback-selection",
+      "level": "analyze",
+      "stem": "Chuỗi nào mô tả đúng liên hệ giữa E2 và chọn lọc nang?",
+      "options": [
+        "E2 giảm → mất thụ thể ở mọi nang",
+        "E2 biến thành FSH → phóng noãn",
+        "E2 tăng → FSH giảm → nang bắt FSH tốt có lợi thế",
+        "E2 tăng → FSH tăng → mọi nang cùng thắng"
+      ],
+      "answer": 2,
+      "explanation": "Slide 15–16 nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 15–16 nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang.",
+        "Không phù hợp trong tình huống này. Slide 15–16 nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang.",
+        "Slide 15–16 nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang.",
+        "Không phù hợp trong tình huống này. Slide 15–16 nối phản hồi âm E2 với cạnh tranh FSH và chọn lọc nang."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Các nang thứ cấp phát triển làm nồng độ E2 tăng dần Sự tăng nồng độ E2 gây một phản hồi âm tính trên tuyến yên, ức chế tuyến yên sản xuất FSH Đây là phản hồi thứ nhất của estradiol. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Nồng độ FSH giảm dần, và biến thiên theo chiều nghịch với sự tăng của estradiol Thiếu hụt FSH là hệ quả của phản hồi thứ nhất của E2"
+        },
+        {
+          "page": 16,
+          "quote": "Trong bối cảnh của thiếu hụt FSH toàn thể, các nang noãn thứ cấp nào đã phát triển tốt hơn, có nhiều tế bào hạt hơn, do đó có nhiều thụ thể và khả năng bắt FSH tốt hơn sẽ thu gom dễ dàng các phân tử FSH hiếm hoi để tiếp tục phát triển (hình trái) Trong khi đó, với các nang thứ cấp còn lại, do chúng sở hữu rất ít tế bào hạt và rất ít thụ thể với FSH, nên chúng sẽ không thể cạnh tranh được về khả năng bắt giữ các phân tử FSH hiếm hoi còn lại. Chúng sẽ đi vào thoái triển (hình phải) Như vậy tình trạng thiếu hụt FSH, kết quả của phản hồi âm của estradiol, là sự chọn lọc noãn nang"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q052",
+      "topicId": "selection",
+      "conceptId": "m05-two-feedbacks",
+      "level": "analyze",
+      "stem": "Một người kết luận E2 luôn chỉ ức chế tuyến yên vì đã thấy FSH giảm. Dữ kiện nào bác bỏ sự khái quát đó?",
+      "options": [
+        "Mọi phản hồi E2 đều là dương",
+        "E2 vượt ngưỡng đủ lâu có thể tạo phản hồi dương và đỉnh LH",
+        "E2 không bao giờ ảnh hưởng tuyến yên",
+        "FSH là nguồn duy nhất tạo E2"
+      ],
+      "answer": 1,
+      "explanation": "Slide 15 và 18 trình bày hai phản hồi khác nhau tùy điều kiện.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 15 và 18 trình bày hai phản hồi khác nhau tùy điều kiện.",
+        "Slide 15 và 18 trình bày hai phản hồi khác nhau tùy điều kiện.",
+        "Không phù hợp trong tình huống này. Slide 15 và 18 trình bày hai phản hồi khác nhau tùy điều kiện.",
+        "Không phù hợp trong tình huống này. Slide 15 và 18 trình bày hai phản hồi khác nhau tùy điều kiện."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "Các nang thứ cấp phát triển làm nồng độ E2 tăng dần Sự tăng nồng độ E2 gây một phản hồi âm tính trên tuyến yên, ức chế tuyến yên sản xuất FSH Đây là phản hồi thứ nhất của estradiol. Nồng độ estradiol càng cao thì phản hồi càng mạnh, FSH càng xuống thấp. Nồng độ FSH giảm dần, và biến thiên theo chiều nghịch với sự tăng của estradiol Thiếu hụt FSH là hệ quả của phản hồi thứ nhất của E2"
+        },
+        {
+          "page": 18,
+          "quote": "Tổng khối tế bào hạt dồi dào đảm bảo cho nang de Graaf tiếp tục sản xuất ra một khối lượng lớn estradiol, đẩy nồng độ estradiol lên cao, vượt một nồng độ ngưỡng, trong một thời gian đủ dài Nồng độ vượt ngưỡng trong thời gian dài này là minh chứng cho thấy nang noãn này là một nang tốt nhất, đáp ứng các điều kiện cho quá trình phóng noãn, thụ tinh, làm tổ và mang thai. Khi đó, E2 gây ra một phản hồi thứ nhì trên hạ đồi-yên. Đây là một phản hồi dương Khi đó, tuyến yên đáp ứng bằng cách phóng thích một lượng lớn LH, trong một thời gian rất ngắn, tạo một đỉnh cao LH (và của cả FSH) trong máu ngoại vi"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q053",
+      "topicId": "selection",
+      "conceptId": "m05-e2-proxy",
+      "level": "analyze",
+      "stem": "Vì sao E2 cao vượt ngưỡng đủ lâu được bài xem là dấu hiệu nang đáp ứng điều kiện phóng noãn?",
+      "options": [
+        "Phản ánh khối tế bào hạt lớn và chế tiết ổn định",
+        "Chứng minh mọi nang đã thành bạch thể",
+        "Chứng minh thụ tinh đã xảy ra",
+        "Chứng minh không cần LH"
+      ],
+      "answer": 0,
+      "explanation": "Slide 17–18 nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH.",
+      "optionExplanations": [
+        "Slide 17–18 nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH.",
+        "Không phù hợp trong tình huống này. Slide 17–18 nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH.",
+        "Không phù hợp trong tình huống này. Slide 17–18 nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH.",
+        "Không phù hợp trong tình huống này. Slide 17–18 nối sự phát triển tế bào hạt, sản lượng E2 và phản hồi gây đỉnh LH."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Cuối cùng, chỉ có một nang noãn tốt nhất, sở hữu nhiều tế bào tùy hành nhất, có nhiều thụ thể với gonadotropin nhất, sản xuất được nhiều estradiol nhất mới có cơ hội phát triển đến tận cùng, gọi là nang trưởng thành (nang de Graaf). Nang de Graaf được tạo thành bởi noãn bào và các tế bào tùy hành Noãn bào lúc này vẫn còn đang chậm chạp trong tiền kỳ của phân bào thứ nhất của phân bào giảm nhiễm (mũi tên xanh) Các tế bào hạt vẫn đang phân chia mãnh liệt theo cấp số nhân dưới ảnh hưởng của lượng FSH dồi dào mà nang de Graaf đã tước đoạt được từ máu ngoại vi (mũi tên đỏ) Các tế bào vỏ phát triển mạnh và chứa đầy các thụ thể với LH, cung cấp androgen cho tế bào hạt (mũi tên nâu)"
+        },
+        {
+          "page": 18,
+          "quote": "Tổng khối tế bào hạt dồi dào đảm bảo cho nang de Graaf tiếp tục sản xuất ra một khối lượng lớn estradiol, đẩy nồng độ estradiol lên cao, vượt một nồng độ ngưỡng, trong một thời gian đủ dài Nồng độ vượt ngưỡng trong thời gian dài này là minh chứng cho thấy nang noãn này là một nang tốt nhất, đáp ứng các điều kiện cho quá trình phóng noãn, thụ tinh, làm tổ và mang thai. Khi đó, E2 gây ra một phản hồi thứ nhì trên hạ đồi-yên. Đây là một phản hồi dương Khi đó, tuyến yên đáp ứng bằng cách phóng thích một lượng lớn LH, trong một thời gian rất ngắn, tạo một đỉnh cao LH (và của cả FSH) trong máu ngoại vi"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q054",
+      "topicId": "selection",
+      "conceptId": "m05-maturation-sequence",
+      "level": "analyze",
+      "stem": "Thứ tự nào đúng từ nang trưởng thành đến hoàn tất bước giảm phân I?",
+      "options": [
+        "Hoàn tất giảm phân II → E2 giảm → đỉnh LH",
+        "Bạch thể → GnRH biến thành noãn",
+        "LH mất hoàn toàn → E2 cao → thụ tinh",
+        "E2 vượt ngưỡng đủ lâu → đỉnh LH → hoàn tất giảm phân I"
+      ],
+      "answer": 3,
+      "explanation": "Slide 18–19 liên kết phản hồi E2 với đỉnh LH và trưởng thành noãn.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 18–19 liên kết phản hồi E2 với đỉnh LH và trưởng thành noãn.",
+        "Không phù hợp trong tình huống này. Slide 18–19 liên kết phản hồi E2 với đỉnh LH và trưởng thành noãn.",
+        "Không phù hợp trong tình huống này. Slide 18–19 liên kết phản hồi E2 với đỉnh LH và trưởng thành noãn.",
+        "Slide 18–19 liên kết phản hồi E2 với đỉnh LH và trưởng thành noãn."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "Tổng khối tế bào hạt dồi dào đảm bảo cho nang de Graaf tiếp tục sản xuất ra một khối lượng lớn estradiol, đẩy nồng độ estradiol lên cao, vượt một nồng độ ngưỡng, trong một thời gian đủ dài Nồng độ vượt ngưỡng trong thời gian dài này là minh chứng cho thấy nang noãn này là một nang tốt nhất, đáp ứng các điều kiện cho quá trình phóng noãn, thụ tinh, làm tổ và mang thai. Khi đó, E2 gây ra một phản hồi thứ nhì trên hạ đồi-yên. Đây là một phản hồi dương Khi đó, tuyến yên đáp ứng bằng cách phóng thích một lượng lớn LH, trong một thời gian rất ngắn, tạo một đỉnh cao LH (và của cả FSH) trong máu ngoại vi"
+        },
+        {
+          "page": 19,
+          "quote": "Dưới ảnh hưởng của đỉnh LH, noãn bào nhanh chóng hoàn meiosis I, ngay sau đó đi vào meiosis II. 36 giờ sau khi xuất hiện đỉnh LH, noãn bào đã đi đến metaphase của meiosis II. Phân bào giảm nhiễm sẽ dừng lại ở kỳ này, cho đến khi nó được một tinh trùng xâm nhập (hình trái) Sau đỉnh LH, mitosis tại các tế bào hạt sẽ dừng lại. Các tế bào hạt ở quanh nang noãn sẽ tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng: cumulus oophora (hình giữa) Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần, cuối cùng, nang noãn bị vỡ và phóng thích cumulus oophora (hình phải)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q055",
+      "topicId": "ovulation",
+      "conceptId": "m05-ovulation-not-fertilization",
+      "level": "analyze",
+      "stem": "Đã có đỉnh LH và phóng noãn có đủ để kết luận noãn hoàn tất toàn bộ giảm phân không?",
+      "options": [
+        "Có; nang vỡ đồng nghĩa thụ tinh",
+        "Không; noãn chưa từng vào giảm phân",
+        "Không; noãn còn dừng ở kỳ giữa II chờ tinh trùng",
+        "Có; giảm phân II luôn hoàn tất trước đỉnh LH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 19 phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 19 phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng.",
+        "Không phù hợp trong tình huống này. Slide 19 phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng.",
+        "Slide 19 phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng.",
+        "Không phù hợp trong tình huống này. Slide 19 phân biệt trưởng thành trước phóng noãn với bước còn chờ tinh trùng."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới ảnh hưởng của đỉnh LH, noãn bào nhanh chóng hoàn meiosis I, ngay sau đó đi vào meiosis II. 36 giờ sau khi xuất hiện đỉnh LH, noãn bào đã đi đến metaphase của meiosis II. Phân bào giảm nhiễm sẽ dừng lại ở kỳ này, cho đến khi nó được một tinh trùng xâm nhập (hình trái) Sau đỉnh LH, mitosis tại các tế bào hạt sẽ dừng lại. Các tế bào hạt ở quanh nang noãn sẽ tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng: cumulus oophora (hình giữa) Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần, cuối cùng, nang noãn bị vỡ và phóng thích cumulus oophora (hình phải)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q056",
+      "topicId": "ovulation",
+      "conceptId": "m05-cell-fates",
+      "level": "analyze",
+      "stem": "Sau phóng noãn, điều gì phân biệt khối được phóng thích với phần nang ở lại?",
+      "options": [
+        "Không còn bất kỳ tế bào nào ở buồng trứng",
+        "Noãn và hạt quanh noãn rời đi; phần còn lại hình thành hoàng thể",
+        "Toàn bộ hoàng thể rời buồng trứng cùng noãn",
+        "Bạch thể tạo noãn mới ngay"
+      ],
+      "answer": 1,
+      "explanation": "Slide 19–20 mô tả hai số phận khác nhau sau nang vỡ.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 19–20 mô tả hai số phận khác nhau sau nang vỡ.",
+        "Slide 19–20 mô tả hai số phận khác nhau sau nang vỡ.",
+        "Không phù hợp trong tình huống này. Slide 19–20 mô tả hai số phận khác nhau sau nang vỡ.",
+        "Không phù hợp trong tình huống này. Slide 19–20 mô tả hai số phận khác nhau sau nang vỡ."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới ảnh hưởng của đỉnh LH, noãn bào nhanh chóng hoàn meiosis I, ngay sau đó đi vào meiosis II. 36 giờ sau khi xuất hiện đỉnh LH, noãn bào đã đi đến metaphase của meiosis II. Phân bào giảm nhiễm sẽ dừng lại ở kỳ này, cho đến khi nó được một tinh trùng xâm nhập (hình trái) Sau đỉnh LH, mitosis tại các tế bào hạt sẽ dừng lại. Các tế bào hạt ở quanh nang noãn sẽ tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng: cumulus oophora (hình giữa) Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần, cuối cùng, nang noãn bị vỡ và phóng thích cumulus oophora (hình phải)"
+        },
+        {
+          "page": 20,
+          "quote": "Sau khi đã vỡ và phóng thích cumulus oophora, phần còn lại của noãn nang co cụm lại. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới có màu vàng của cholesterol, gọi là hoàng thể (corpus luteum) (mũi tên) Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên. Về phương diện nội tiết, hoàng thể tiếp tục sản xuất estradiol, nhưng quan trọng nhất là một steroid sinh dục mới, đặc hữu của hoàng thể: progesterone (Δ-4 progesterone: P4)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q057",
+      "topicId": "ovulation",
+      "conceptId": "m05-lh-dual-role",
+      "level": "analyze",
+      "stem": "Vì sao không thể xem LH chỉ có vai trò gây phóng noãn?",
+      "options": [
+        "LH còn tạo lập và duy trì hoàng thể sau đó",
+        "LH là sản phẩm duy nhất của hoàng thể",
+        "LH trực tiếp tạo tế bào sinh dục nguyên thủy",
+        "LH chỉ tác động trước dậy thì"
+      ],
+      "answer": 0,
+      "explanation": "Slide 19 nêu vai trò đỉnh LH; slide 20 nêu vai trò duy trì cấu trúc sau phóng noãn.",
+      "optionExplanations": [
+        "Slide 19 nêu vai trò đỉnh LH; slide 20 nêu vai trò duy trì cấu trúc sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 19 nêu vai trò đỉnh LH; slide 20 nêu vai trò duy trì cấu trúc sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 19 nêu vai trò đỉnh LH; slide 20 nêu vai trò duy trì cấu trúc sau phóng noãn.",
+        "Không phù hợp trong tình huống này. Slide 19 nêu vai trò đỉnh LH; slide 20 nêu vai trò duy trì cấu trúc sau phóng noãn."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "Dưới ảnh hưởng của đỉnh LH, noãn bào nhanh chóng hoàn meiosis I, ngay sau đó đi vào meiosis II. 36 giờ sau khi xuất hiện đỉnh LH, noãn bào đã đi đến metaphase của meiosis II. Phân bào giảm nhiễm sẽ dừng lại ở kỳ này, cho đến khi nó được một tinh trùng xâm nhập (hình trái) Sau đỉnh LH, mitosis tại các tế bào hạt sẽ dừng lại. Các tế bào hạt ở quanh nang noãn sẽ tách khỏi các tế bào hạt còn lại, và cùng với noãn bào tạo ra một cấu trúc sẵn sàng rời khỏi buồng trứng: cumulus oophora (hình giữa) Bề mặt buồng trứng nơi có nang noãn cũng mỏng dần, cuối cùng, nang noãn bị vỡ và phóng thích cumulus oophora (hình phải)"
+        },
+        {
+          "page": 20,
+          "quote": "Sau khi đã vỡ và phóng thích cumulus oophora, phần còn lại của noãn nang co cụm lại. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới có màu vàng của cholesterol, gọi là hoàng thể (corpus luteum) (mũi tên) Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên. Về phương diện nội tiết, hoàng thể tiếp tục sản xuất estradiol, nhưng quan trọng nhất là một steroid sinh dục mới, đặc hữu của hoàng thể: progesterone (Δ-4 progesterone: P4)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q058",
+      "topicId": "ovulation",
+      "conceptId": "m05-p4-luteolysis-chain",
+      "level": "analyze",
+      "stem": "Chuỗi nào nối được phản hồi P4 với thoái triển hoàng thể trong mô hình bài?",
+      "options": [
+        "P4 cao → LH tăng mãi → bạch thể",
+        "P4 biến thành FSH → hoàng thể vỡ",
+        "P4 thấp → GnRH mất vĩnh viễn",
+        "P4 cao → nhịp GnRH giảm → LH giảm → hoàng thể thoái triển"
+      ],
+      "answer": 3,
+      "explanation": "Kết hợp slide 21–22 để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Kết hợp slide 21–22 để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể.",
+        "Không phù hợp trong tình huống này. Kết hợp slide 21–22 để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể.",
+        "Không phù hợp trong tình huống này. Kết hợp slide 21–22 để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể.",
+        "Kết hợp slide 21–22 để nối phản hồi ức chế với mất hỗ trợ LH của hoàng thể."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "Dưới tác dụng của LH, các tế bào hoàng thể chế tiết estradiol và progesterone. Sản xuất steroid sinh dục của hoàng thể đạt đến đỉnh cao vào khoảng 7 ngày sau phóng noãn (mũi tên đỏ, hình trên) Nồng độ progesterone cao trong máu ngoại vi gây ra một phản hồi có tính ức chế lên các tầng trên của trục. Trên hạ đồi, progesterone làm giảm nhịp điệu của các xung GnRH. Do suy giảm kích thích, sản xuất LH của tuyến yên bị sút giảm (mũi tên đỏ, hình dưới)"
+        },
+        {
+          "page": 22,
+          "quote": "Do không còn được nuôi dưỡng bởi LH, hoàng thể sẽ dần dần đi vào thoái triển, để lại một sẹo trên buồng trứng, gọi là bạch thể (corpus albicans) Hoàng thể thoái triển không còn sản xuất steroid sinh dục nữa, tạo ra một sự sút giảm của cả estradiol và progesterone trong máu ngoại vi. Sự sút giảm của nồng độ các steroid sinh duc giải phóng trục hạ đồi-tuyến yên khỏi các ràng buộc của chu kỳ buồng trứng trước và sẵn sàng cho một chu kỳ buồng trứng mới"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q059",
+      "topicId": "ovulation",
+      "conceptId": "m05-cycle-reset-reason",
+      "level": "analyze",
+      "stem": "Nếu hoàng thể thoái triển khiến cả E2 và P4 giảm, vì sao có thể bắt đầu chu kỳ mới?",
+      "options": [
+        "Noãn biến thành tế bào tuyến yên",
+        "FSH không còn thụ thể nào",
+        "Trục được giải phóng khỏi phản hồi steroid của chu kỳ trước",
+        "Bạch thể tự tạo GnRH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 22–23 mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 22–23 mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc.",
+        "Không phù hợp trong tình huống này. Slide 22–23 mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc.",
+        "Slide 22–23 mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc.",
+        "Không phù hợp trong tình huống này. Slide 22–23 mô tả sự giải phóng trục khi sản xuất steroid của hoàng thể kết thúc."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "Do không còn được nuôi dưỡng bởi LH, hoàng thể sẽ dần dần đi vào thoái triển, để lại một sẹo trên buồng trứng, gọi là bạch thể (corpus albicans) Hoàng thể thoái triển không còn sản xuất steroid sinh dục nữa, tạo ra một sự sút giảm của cả estradiol và progesterone trong máu ngoại vi. Sự sút giảm của nồng độ các steroid sinh duc giải phóng trục hạ đồi-tuyến yên khỏi các ràng buộc của chu kỳ buồng trứng trước và sẵn sàng cho một chu kỳ buồng trứng mới"
+        },
+        {
+          "page": 23,
+          "quote": "Phần giữa của hình trình bày các giai đoạn phát triển của noãn nang tại buồng trứng. Phần dưới của hình cho thấy biến động steroid sinh duc song hành với phát triển noãn nang. Phần trên của hình cho thấy biến động của các gonadotropin song hành với biến thiên của các steroid sinh dục và cho thấy rõ diễn biến của các phản hồi của steroid sinh dục trên trục hạ đồi- tuyến yên. Ghi nhận sự giải phóng hoàn toàn của trục hạ đồi- yên đầu chu kỳ, khi tuyến yên không còn chịu tác dụng của các phản hồi gây bởi steroid sinh dục."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m05-q060",
+      "topicId": "ovulation",
+      "conceptId": "m05-two-steroids-same-source",
+      "level": "understand",
+      "stem": "Một nhận định nói hoàng thể chỉ tạo P4 và ngừng hoàn toàn E2 ngay khi phóng noãn. Sửa thế nào?",
+      "options": [
+        "E2 chỉ có trước sinh",
+        "Hoàng thể tiếp tục tạo E2 và tạo thêm P4",
+        "Hoàng thể chỉ tạo FSH",
+        "P4 chỉ có từ nhân cung"
+      ],
+      "answer": 1,
+      "explanation": "Slide 20–21 nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết.",
+      "optionExplanations": [
+        "Không phù hợp trong tình huống này. Slide 20–21 nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết.",
+        "Slide 20–21 nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết.",
+        "Không phù hợp trong tình huống này. Slide 20–21 nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết.",
+        "Không phù hợp trong tình huống này. Slide 20–21 nêu đồng thời E2 và P4 do tế bào hoàng thể chế tiết."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "Sau khi đã vỡ và phóng thích cumulus oophora, phần còn lại của noãn nang co cụm lại. Các mạch máu xâm nhập vào các tế bào bên trong của cấu trúc nang noãn trước đây, cung cấp cholesterol cho chúng và biến chúng thành một cấu trúc mới có màu vàng của cholesterol, gọi là hoàng thể (corpus luteum) (mũi tên) Hoàng thể được tạo lập và được duy trì nhờ LH của tuyến yên. Về phương diện nội tiết, hoàng thể tiếp tục sản xuất estradiol, nhưng quan trọng nhất là một steroid sinh dục mới, đặc hữu của hoàng thể: progesterone (Δ-4 progesterone: P4)"
+        },
+        {
+          "page": 21,
+          "quote": "Dưới tác dụng của LH, các tế bào hoàng thể chế tiết estradiol và progesterone. Sản xuất steroid sinh dục của hoàng thể đạt đến đỉnh cao vào khoảng 7 ngày sau phóng noãn (mũi tên đỏ, hình trên) Nồng độ progesterone cao trong máu ngoại vi gây ra một phản hồi có tính ức chế lên các tầng trên của trục. Trên hạ đồi, progesterone làm giảm nhịp điệu của các xung GnRH. Do suy giảm kích thích, sản xuất LH của tuyến yên bị sút giảm (mũi tên đỏ, hình dưới)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    }
+  ],
+  "reviewStatus": "passed2",
+  "reviewReport": "content/reviews/endocrine-rounds12.md"
+}

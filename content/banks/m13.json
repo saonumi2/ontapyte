@@ -1,0 +1,3090 @@
+{
+  "moduleId": "m13",
+  "title": "Ba tháng đầu thai kì",
+  "topics": [
+    {
+      "id": "diagnosis",
+      "title": "Chẩn đoán có thai",
+      "pages": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "dating",
+      "title": "Tuổi thai và ngày dự sanh",
+      "pages": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "assessment",
+      "title": "Tiếp cận xuất huyết và vai trò xét nghiệm",
+      "pages": [
+        15,
+        16,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "loss",
+      "title": "Thai nghén thất bại sớm",
+      "pages": [
+        22,
+        23,
+        25,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "ectopic",
+      "title": "Thai ngoài tử cung",
+      "pages": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "id": "mole",
+      "title": "Thai trứng",
+      "pages": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m13-q001",
+      "topicId": "diagnosis",
+      "conceptId": "m13-history-signs",
+      "level": "understand",
+      "stem": "Nhóm thông tin nào thuộc bệnh sử gợi ý có thai trong bài học?",
+      "options": [
+        "Trễ kinh, nghén và thay đổi ở vú",
+        "CRL, BPD và HC",
+        "Kết quả MRI và hCG máu",
+        "Dấu hiệu Hegar, Goodell và Chadwick"
+      ],
+      "answer": 0,
+      "explanation": "Trang 3 xếp trễ kinh, nghén và thay đổi ở vú vào bệnh sử; các nhóm còn lại là thăm khám hoặc cận lâm sàng.",
+      "optionExplanations": [
+        "Trang 3 xếp trễ kinh, nghén và thay đổi ở vú vào bệnh sử; các nhóm còn lại là thăm khám hoặc cận lâm sàng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 3 xếp trễ kinh, nghén và thay đổi ở vú vào bệnh sử; các nhóm còn lại là thăm khám hoặc cận lâm sàng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 3 xếp trễ kinh, nghén và thay đổi ở vú vào bệnh sử; các nhóm còn lại là thăm khám hoặc cận lâm sàng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 3 xếp trễ kinh, nghén và thay đổi ở vú vào bệnh sử; các nhóm còn lại là thăm khám hoặc cận lâm sàng."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "BỆNH SỬ/CHẨN ĐOÁN CÓ THAI\n• Trễ kinh/XHTC bất thường\n• Nghén\n• Bụng to, Thai máy\n• Rối loạn đi tiểu\n• Thay đổi ở vú",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q002",
+      "topicId": "diagnosis",
+      "conceptId": "m13-exam-signs",
+      "level": "understand",
+      "stem": "Dấu hiệu Hegar và Goodell được đặt trong nhóm nào của quá trình chẩn đoán có thai?",
+      "options": [
+        "Xét nghiệm hCG nước tiểu",
+        "Siêu âm định tuổi thai",
+        "Khai thác ngày kinh chót",
+        "Khám lâm sàng"
+      ],
+      "answer": 3,
+      "explanation": "Trang 4 liệt kê Hegar, Goodell và Chadwick trong khám lâm sàng; xét nghiệm và siêu âm thuộc cận lâm sàng ở trang 5.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê Hegar, Goodell và Chadwick trong khám lâm sàng; xét nghiệm và siêu âm thuộc cận lâm sàng ở trang 5.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê Hegar, Goodell và Chadwick trong khám lâm sàng; xét nghiệm và siêu âm thuộc cận lâm sàng ở trang 5.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê Hegar, Goodell và Chadwick trong khám lâm sàng; xét nghiệm và siêu âm thuộc cận lâm sàng ở trang 5.",
+        "Trang 4 liệt kê Hegar, Goodell và Chadwick trong khám lâm sàng; xét nghiệm và siêu âm thuộc cận lâm sàng ở trang 5."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "KHÁM LS/CHẨN ĐOÁN CÓ THAI\n• Tử cung to, rạn da, nghe \nđược tim thai, sờ thấy thai\n• Dấu hiệu Chadwick\n• Dấu hiệu Goodell\n• Dấu hiệu Hegar",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 5,
+          "quote": "CLS/CHẨN ĐOÁN CÓ THAI\n• HCG/nước tiểu\n• HCG/máu\n• Siêu âm\n• MRI",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q003",
+      "topicId": "diagnosis",
+      "conceptId": "m13-test-groups",
+      "level": "understand",
+      "stem": "Khi phân biệt thông tin do người bệnh kể với kết quả khảo sát, nhóm nào là cận lâm sàng được bài học nêu?",
+      "options": [
+        "Đau hạ vị, ra máu và tiền sử",
+        "Tử cung to, rạn da và sờ thấy thai",
+        "hCG máu, hCG nước tiểu và siêu âm",
+        "Nghén, trễ kinh và thai máy"
+      ],
+      "answer": 2,
+      "explanation": "Các xét nghiệm hCG và siêu âm nằm trong danh sách cận lâm sàng trang 5, khác với triệu chứng và dấu hiệu khám.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Các xét nghiệm hCG và siêu âm nằm trong danh sách cận lâm sàng trang 5, khác với triệu chứng và dấu hiệu khám.",
+        "Không phù hợp với dữ kiện câu hỏi. Các xét nghiệm hCG và siêu âm nằm trong danh sách cận lâm sàng trang 5, khác với triệu chứng và dấu hiệu khám.",
+        "Các xét nghiệm hCG và siêu âm nằm trong danh sách cận lâm sàng trang 5, khác với triệu chứng và dấu hiệu khám.",
+        "Không phù hợp với dữ kiện câu hỏi. Các xét nghiệm hCG và siêu âm nằm trong danh sách cận lâm sàng trang 5, khác với triệu chứng và dấu hiệu khám."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "CLS/CHẨN ĐOÁN CÓ THAI\n• HCG/nước tiểu\n• HCG/máu\n• Siêu âm\n• MRI",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q004",
+      "topicId": "dating",
+      "conceptId": "m13-due-date",
+      "level": "understand",
+      "stem": "Ngày dự sanh trong bài học được hiểu là ngày nào?",
+      "options": [
+        "Ngày thai bắt đầu máy",
+        "Ngày thai kỳ đạt 40 tuần",
+        "Ngày phát hiện hCG lần đầu",
+        "Ngày siêu âm đầu tiên"
+      ],
+      "answer": 1,
+      "explanation": "Trang 6 định nghĩa ngày dự sanh là ngày thai đạt 40 tuần; các mốc phát hiện thai không phải định nghĩa này.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 6 định nghĩa ngày dự sanh là ngày thai đạt 40 tuần; các mốc phát hiện thai không phải định nghĩa này.",
+        "Trang 6 định nghĩa ngày dự sanh là ngày thai đạt 40 tuần; các mốc phát hiện thai không phải định nghĩa này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 6 định nghĩa ngày dự sanh là ngày thai đạt 40 tuần; các mốc phát hiện thai không phải định nghĩa này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 6 định nghĩa ngày dự sanh là ngày thai đạt 40 tuần; các mốc phát hiện thai không phải định nghĩa này."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Tuổi thai là tuổi của thai kỳ, tính bằng tuần\n• Ngày dự sanh là ngày mà thai đạt 40 tuần\n• Thai đủ tháng khi thai được sanh ở tuổi thai 37 tuần trở lên\n• Con số PARA",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q005",
+      "topicId": "dating",
+      "conceptId": "m13-trimester-accuracy",
+      "level": "understand",
+      "stem": "Vì sao bài học ưu tiên định tuổi thai trong quý 1?",
+      "options": [
+        "Vì xác định ở quý 2 và 3 kém chính xác hơn",
+        "Vì quý 2 và 3 hoàn toàn không thể định tuổi thai",
+        "Vì chỉ quý 1 mới hỏi được bệnh sử",
+        "Vì mọi chỉ số quý 2 đều là CRL"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 và 12 nêu quý 1 chính xác nhất; vẫn có thể dùng dữ kiện quý 2, 3 nhưng độ chính xác thấp hơn.",
+      "optionExplanations": [
+        "Trang 7 và 12 nêu quý 1 chính xác nhất; vẫn có thể dùng dữ kiện quý 2, 3 nhưng độ chính xác thấp hơn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 7 và 12 nêu quý 1 chính xác nhất; vẫn có thể dùng dữ kiện quý 2, 3 nhưng độ chính xác thấp hơn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 7 và 12 nêu quý 1 chính xác nhất; vẫn có thể dùng dữ kiện quý 2, 3 nhưng độ chính xác thấp hơn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 7 và 12 nêu quý 1 chính xác nhất; vẫn có thể dùng dữ kiện quý 2, 3 nhưng độ chính xác thấp hơn."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Tuổi thai/ngày dự sanh được xác định chính xác nhất trong quý 1 \ncủa thai kỳ:\n• Hỏi tiền sử và bệnh sử để định tuổi thai: kinh chót\n• Siêu âm để định tuổi thai: CRL\n• Tuổi thai/ngày dự sanh có thể được xác định trong quý 2 và 3 \nnhưng kém chính xác hơn\n• Hỏi tiền sử, bệnh sử, khám lâm sàng để định tuổi thai: BCTC\n• Siêu âm để định tuổi thai: BPD, HC, FL, AC",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 12,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Khi hoàn toàn không có dữ kiện để xác định chính xác tuổi thai ở \nquý 1  tính tuổi thai/ngày dự sanh theo các dữ kiễn ở quý 2, quý \n3 sẽ kém chính xác hơn:\n• BCTC\n• BPD\n• HC\n• AC\n• FL",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q006",
+      "topicId": "dating",
+      "conceptId": "m13-crl-scope",
+      "level": "understand",
+      "stem": "Giới hạn của công thức tuổi thai bằng CRL cộng 42 trong bài học là gì?",
+      "options": [
+        "Mọi CRL, tuổi thai tính bằng tuần",
+        "CRL trên 30 mm, tuổi thai tính bằng tháng",
+        "Chỉ CRL dưới 10 mm, tuổi thai tính bằng ngày",
+        "CRL từ 10 đến 30 mm, tuổi thai tính bằng ngày"
+      ],
+      "answer": 3,
+      "explanation": "Trang 9 giới hạn công thức ở CRL 10–30 mm; trang 10 không cho dùng công thức đó khi CRL trên 30 mm.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 9 giới hạn công thức ở CRL 10–30 mm; trang 10 không cho dùng công thức đó khi CRL trên 30 mm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 9 giới hạn công thức ở CRL 10–30 mm; trang 10 không cho dùng công thức đó khi CRL trên 30 mm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 9 giới hạn công thức ở CRL 10–30 mm; trang 10 không cho dùng công thức đó khi CRL trên 30 mm.",
+        "Trang 9 giới hạn công thức ở CRL 10–30 mm; trang 10 không cho dùng công thức đó khi CRL trên 30 mm."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Siêu âm xác định CRL là một \nphương pháp phổ biến để \ntính tuổi thai ở quý 1\n• Tuổi thai (ngày) =CRL (mm) \n+ 42\n• Áp dụng khi CRL từ 10-30mm",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 10,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Khi CRL >30mm, vẫn sử \ndụng CRL để xác định tuổi \nthai nhưng không dùng công \nthức CRL (mm) + 42\n• Tính tuổi thai dựa vào phần \nmềm FMF",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q007",
+      "topicId": "dating",
+      "conceptId": "m13-dating-growth",
+      "level": "understand",
+      "stem": "Bài học yêu cầu gắn việc định tuổi thai với việc nào?",
+      "options": [
+        "Xác nhận thai trứng chỉ bằng nghén",
+        "Thay đổi ngày dự sanh sau mọi lần đo",
+        "Đánh giá tăng trưởng của thai",
+        "Chẩn đoán thai ngoài tử cung chỉ bằng hCG"
+      ],
+      "answer": 2,
+      "explanation": "Trang 11 yêu cầu luôn gắn định tuổi thai với đánh giá tăng trưởng; không nêu việc tự thay đổi dự sanh sau mọi lần đo.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 yêu cầu luôn gắn định tuổi thai với đánh giá tăng trưởng; không nêu việc tự thay đổi dự sanh sau mọi lần đo.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 yêu cầu luôn gắn định tuổi thai với đánh giá tăng trưởng; không nêu việc tự thay đổi dự sanh sau mọi lần đo.",
+        "Trang 11 yêu cầu luôn gắn định tuổi thai với đánh giá tăng trưởng; không nêu việc tự thay đổi dự sanh sau mọi lần đo.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 yêu cầu luôn gắn định tuổi thai với đánh giá tăng trưởng; không nêu việc tự thay đổi dự sanh sau mọi lần đo."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Lưu ý:\n• Để xác định ngày dự sanh dựa vào kinh chót, kinh chót phải thoả \ntiêu chuẩn nhất định\n• Khi vừa có dữ kiện kinh chót phù hợp, vừa có siêu âm CRL quý 1, \nnếu ngày dự sanh lệch <5 ngày  chọn dự sanh theo KC\n• Nếu có nhiều KQSA đo CRL ở quý 1 thì nên dung kết quả siêu âm \nsớm nhất với CRL >=10mm\n• Luôn luôn gắn việc định tuổi thai với đánh giá tăng trưởng của thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q008",
+      "topicId": "assessment",
+      "conceptId": "m13-ultrasound-roles",
+      "level": "understand",
+      "stem": "Cặp thông tin chính mà siêu âm cung cấp khi tiếp cận xuất huyết thai sớm là gì?",
+      "options": [
+        "Chắc chắn nguyên nhân di truyền và miễn dịch",
+        "Vị trí thai và tính sinh tồn của thai",
+        "Nguồn gốc bộ nhiễm sắc thể và loại lệch bội",
+        "Liều điều trị và thời gian dùng thuốc"
+      ],
+      "answer": 1,
+      "explanation": "Trang 16 nêu vị trí và tính sinh tồn; các kết luận di truyền hoặc lựa chọn liều không được suy ra từ thông tin này.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 nêu vị trí và tính sinh tồn; các kết luận di truyền hoặc lựa chọn liều không được suy ra từ thông tin này.",
+        "Trang 16 nêu vị trí và tính sinh tồn; các kết luận di truyền hoặc lựa chọn liều không được suy ra từ thông tin này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 nêu vị trí và tính sinh tồn; các kết luận di truyền hoặc lựa chọn liều không được suy ra từ thông tin này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 nêu vị trí và tính sinh tồn; các kết luận di truyền hoặc lựa chọn liều không được suy ra từ thông tin này."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "SIÊU ÂM\n◈ Là phương tiện đầu tay\n◈ TVS ưu thế hơn TAS\n◈ Cung cấp thông tin về vị trí của \nthai, tính sinh tồn của thai\n◈ Một vài hình ảnh điển hình: thai \ntrứng, thai ngoài tử cung sống\n16",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q009",
+      "topicId": "assessment",
+      "conceptId": "m13-hcg-context",
+      "level": "understand",
+      "stem": "Cách hiểu nào phù hợp với các ngưỡng β-hCG ở trang 20?",
+      "options": [
+        "Là các mốc tham khảo tùy điều kiện thực hành",
+        "Là các con số cứng nhắc trong mọi hoàn cảnh",
+        "Là ngưỡng luôn giống nhau ở đơn thai và song thai",
+        "Là những con số thay thế được siêu âm"
+      ],
+      "answer": 0,
+      "explanation": "Trang 20 nói ngưỡng tùy điều kiện thực hành và không cứng nhắc; nêu mốc đơn thai khác song thai.",
+      "optionExplanations": [
+        "Trang 20 nói ngưỡng tùy điều kiện thực hành và không cứng nhắc; nêu mốc đơn thai khác song thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 20 nói ngưỡng tùy điều kiện thực hành và không cứng nhắc; nêu mốc đơn thai khác song thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 20 nói ngưỡng tùy điều kiện thực hành và không cứng nhắc; nêu mốc đơn thai khác song thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 20 nói ngưỡng tùy điều kiện thực hành và không cứng nhắc; nêu mốc đơn thai khác song thai."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "KHÁI NIỆM VỀ NGƯỠNG PHÂN ĐỊNH CỦA BETA-HCG\n◈ Ngưỡng cắt được chọn tùy vào \nđiều kiện thực hành. \n◈ β-hCG 1500-2000mUI/ml đối với \nđơn thai và 3000mUI/ml đối với \nsong thai nhưng không phải là \nnhững con số cứng nhắc\n◈ Khái niệm PUL ra đời\n20",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q010",
+      "topicId": "loss",
+      "conceptId": "m13-demise-definition",
+      "level": "understand",
+      "stem": "Theo bài học, đặc điểm cốt lõi của thai lưu là gì?",
+      "options": [
+        "Thai làm tổ ngoài buồng tử cung",
+        "Mọi lần ra huyết trong thai kỳ",
+        "Mọi trường hợp nghén nặng",
+        "Thai ngừng phát triển trong buồng tử cung"
+      ],
+      "answer": 3,
+      "explanation": "Trang 23 định nghĩa thai lưu theo sự ngừng phát triển trong buồng tử cung; ra huyết hay nghén đơn độc không đủ định nghĩa.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 định nghĩa thai lưu theo sự ngừng phát triển trong buồng tử cung; ra huyết hay nghén đơn độc không đủ định nghĩa.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 định nghĩa thai lưu theo sự ngừng phát triển trong buồng tử cung; ra huyết hay nghén đơn độc không đủ định nghĩa.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 định nghĩa thai lưu theo sự ngừng phát triển trong buồng tử cung; ra huyết hay nghén đơn độc không đủ định nghĩa.",
+        "Trang 23 định nghĩa thai lưu theo sự ngừng phát triển trong buồng tử cung; ra huyết hay nghén đơn độc không đủ định nghĩa."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "THAI LƯU\n◈ Thai ngừng phát triển trong buồng \ntử cung. \n◈ Chẩn đoán dựa vào siêu âm\n◈ β-hCG gần như không có giá trị\n◈ Khi thai đã lưu, phải chấm dứt \nthai kỳ\n23",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q011",
+      "topicId": "loss",
+      "conceptId": "m13-prediction-not-certainty",
+      "level": "understand",
+      "stem": "Bài học phân biệt dự báo với khẳng định như thế nào ở mục dọa sẩy thai lưu?",
+      "options": [
+        "Đau bụng đơn độc xác nhận thai đã lưu",
+        "Ra huyết đơn độc xác nhận thai đã lưu",
+        "Siêu âm có giá trị dự báo nhưng không cho phép khẳng định từ dấu hiệu dự báo đó",
+        "Mọi dấu hiệu dự báo đều chứng minh thai đã lưu"
+      ],
+      "answer": 2,
+      "explanation": "Trang 25 nói rõ giới hạn của dấu hiệu dự báo trên siêu âm; không được biến dấu hiệu gợi ý thành kết luận chắc chắn.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 nói rõ giới hạn của dấu hiệu dự báo trên siêu âm; không được biến dấu hiệu gợi ý thành kết luận chắc chắn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 nói rõ giới hạn của dấu hiệu dự báo trên siêu âm; không được biến dấu hiệu gợi ý thành kết luận chắc chắn.",
+        "Trang 25 nói rõ giới hạn của dấu hiệu dự báo trên siêu âm; không được biến dấu hiệu gợi ý thành kết luận chắc chắn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 nói rõ giới hạn của dấu hiệu dự báo trên siêu âm; không được biến dấu hiệu gợi ý thành kết luận chắc chắn."
+      ],
+      "sources": [
+        {
+          "page": 25,
+          "quote": "DỌA SẨY THAI LƯU\n◈ Dự báo sẽ xảy ra sẩy thai trên một \nthai đã hoặc gần như chắc chắn sẽ \nngưng phát triển\n◈ Là tình trạng gần như không thể \nđảo ngược, nguyên nhân thường là \nlệch bội\n◈ Biểu hiện lâm sàng: đau bụng hoặc \nra huyết\n◈ Siêu âm có giá trị dự báo nhưng \nkhông cho phép khẳng định\n25",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q012",
+      "topicId": "loss",
+      "conceptId": "m13-miscarriage-definition",
+      "level": "understand",
+      "stem": "Yếu tố nào nằm trong định nghĩa sẩy thai được bài học sử dụng?",
+      "options": [
+        "Thai có nghén nhưng chưa làm siêu âm",
+        "Thai tống xuất trước 22 tuần vô kinh, chưa có khả năng tự sống",
+        "Thai làm tổ bên ngoài buồng tử cung",
+        "Thai có hCG cao hơn ngưỡng phân định"
+      ],
+      "answer": 1,
+      "explanation": "Trang 27 định nghĩa bằng sự tống xuất, mốc trước 22 tuần vô kinh và khả năng sống; không định nghĩa bằng hCG hay nghén.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 định nghĩa bằng sự tống xuất, mốc trước 22 tuần vô kinh và khả năng sống; không định nghĩa bằng hCG hay nghén.",
+        "Trang 27 định nghĩa bằng sự tống xuất, mốc trước 22 tuần vô kinh và khả năng sống; không định nghĩa bằng hCG hay nghén.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 định nghĩa bằng sự tống xuất, mốc trước 22 tuần vô kinh và khả năng sống; không định nghĩa bằng hCG hay nghén.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 định nghĩa bằng sự tống xuất, mốc trước 22 tuần vô kinh và khả năng sống; không định nghĩa bằng hCG hay nghén."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "SẨY THAI: ĐỊNH NGHĨA\n◈ Sẩy thai là khi thai được tống \nxuất ra khỏi buồng tử cung \ntrước 22 tuần vô kinh, khi mà \nthai chưa có khả năng tự sống \nđược.\n◈ 15-20% các thai kỳ chấm dứt \nbằng sẩy thai với >80% các \ntrường hợp xảy ra trước 12 \ntuần.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q013",
+      "topicId": "loss",
+      "conceptId": "m13-loss-types",
+      "level": "understand",
+      "stem": "Nhóm nào gồm các hình thái sẩy thai được liệt kê trong bài?",
+      "options": [
+        "Sẩy khó tránh, không trọn, trọn và tái phát",
+        "Thai ngoài tử cung, thai trứng và hoàng thể",
+        "Trứng trống, hCG máu và CRL",
+        "Thai đủ tháng, thai máy và ngày dự sanh"
+      ],
+      "answer": 0,
+      "explanation": "Trang 28 liệt kê bốn hình thái sẩy thai này; các lựa chọn khác trộn bệnh, dấu hiệu hoặc phép đo.",
+      "optionExplanations": [
+        "Trang 28 liệt kê bốn hình thái sẩy thai này; các lựa chọn khác trộn bệnh, dấu hiệu hoặc phép đo.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 28 liệt kê bốn hình thái sẩy thai này; các lựa chọn khác trộn bệnh, dấu hiệu hoặc phép đo.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 28 liệt kê bốn hình thái sẩy thai này; các lựa chọn khác trộn bệnh, dấu hiệu hoặc phép đo.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 28 liệt kê bốn hình thái sẩy thai này; các lựa chọn khác trộn bệnh, dấu hiệu hoặc phép đo."
+      ],
+      "sources": [
+        {
+          "page": 28,
+          "quote": "CÁC HÌNH THÁI SẨY THAI: TiẾP CẬN VÀ XỬ TRÍ\n◈ Sẩy thai khó tránh\n◈ Sẩy thai không trọn\n◈ Sẩy thai trọn\n◈ Sẩy thai tái phát",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q014",
+      "topicId": "ectopic",
+      "conceptId": "m13-ectopic-definition",
+      "level": "understand",
+      "stem": "Điểm phân biệt định nghĩa thai ngoài tử cung với thai lưu trong bài học là gì?",
+      "options": [
+        "Thai ngoài tử cung được định nghĩa bằng nghén nặng",
+        "Thai ngoài tử cung luôn được định nghĩa bằng một nồng độ hCG",
+        "Thai ngoài tử cung chỉ là tên khác của thai lưu trong buồng tử cung",
+        "Thai ngoài tử cung được xác định bởi vị trí làm tổ ngoài buồng tử cung"
+      ],
+      "answer": 3,
+      "explanation": "Trang 32 định nghĩa dựa vào vị trí làm tổ, trong khi thai lưu ở trang 23 là ngừng phát triển trong buồng tử cung.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 32 định nghĩa dựa vào vị trí làm tổ, trong khi thai lưu ở trang 23 là ngừng phát triển trong buồng tử cung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 32 định nghĩa dựa vào vị trí làm tổ, trong khi thai lưu ở trang 23 là ngừng phát triển trong buồng tử cung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 32 định nghĩa dựa vào vị trí làm tổ, trong khi thai lưu ở trang 23 là ngừng phát triển trong buồng tử cung.",
+        "Trang 32 định nghĩa dựa vào vị trí làm tổ, trong khi thai lưu ở trang 23 là ngừng phát triển trong buồng tử cung."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "THAI NGOÀI TỬ CUNG\n◈ Thai làm tổ bên \nngoài buồng tử \ncung\n◈ Nguyên nhân gây \ntử vong mẹ \nthường gặp nhất \ntrong 3 tháng \nđầu \n◈ Vị trí\n◈ Xuất độ 1/80 \nthai kỳ t  nhiên\n32",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q015",
+      "topicId": "ectopic",
+      "conceptId": "m13-tubal-outcomes",
+      "level": "understand",
+      "stem": "Những diễn tiến nào của thai ở vòi tử cung được nêu?",
+      "options": [
+        "Chỉ có chuyển vào buồng tử cung",
+        "Luôn tiến triển thành thai trứng",
+        "Vỡ vòi, sẩy qua loa hoặc thoái triển",
+        "Chỉ có vỡ vòi, không thể có diễn tiến khác"
+      ],
+      "answer": 2,
+      "explanation": "Trang 36 nêu ba khả năng: vỡ vòi trứng, sẩy qua loa, thoái triển. Không có cơ sở nói tất cả đều vỡ.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 nêu ba khả năng: vỡ vòi trứng, sẩy qua loa, thoái triển. Không có cơ sở nói tất cả đều vỡ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 nêu ba khả năng: vỡ vòi trứng, sẩy qua loa, thoái triển. Không có cơ sở nói tất cả đều vỡ.",
+        "Trang 36 nêu ba khả năng: vỡ vòi trứng, sẩy qua loa, thoái triển. Không có cơ sở nói tất cả đều vỡ.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 nêu ba khả năng: vỡ vòi trứng, sẩy qua loa, thoái triển. Không có cơ sở nói tất cả đều vỡ."
+      ],
+      "sources": [
+        {
+          "page": 36,
+          "quote": "THAI Ở VÒI TỬ CUNG\n◈ Vỡ vòi trứng  \nxuất huyết nội\n◈ Sẩy qua loa  \nxuất huyết nội\n◈ Thoái triển\n36",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q016",
+      "topicId": "ectopic",
+      "conceptId": "m13-individualize-treatment",
+      "level": "understand",
+      "stem": "Nguyên tắc chung của phần điều trị thai ngoài tử cung là gì?",
+      "options": [
+        "Mọi trường hợp chỉ điều trị nội khoa",
+        "Cá thể hóa giữa theo dõi, nội khoa và ngoại khoa",
+        "Áp dụng cùng một phương pháp cho mọi người",
+        "Mọi trường hợp chỉ theo dõi"
+      ],
+      "answer": 1,
+      "explanation": "Trang 38 nêu ba hướng và nhấn mạnh cá thể hóa; không đưa một lựa chọn bắt buộc cho mọi trường hợp.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 38 nêu ba hướng và nhấn mạnh cá thể hóa; không đưa một lựa chọn bắt buộc cho mọi trường hợp.",
+        "Trang 38 nêu ba hướng và nhấn mạnh cá thể hóa; không đưa một lựa chọn bắt buộc cho mọi trường hợp.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 38 nêu ba hướng và nhấn mạnh cá thể hóa; không đưa một lựa chọn bắt buộc cho mọi trường hợp.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 38 nêu ba hướng và nhấn mạnh cá thể hóa; không đưa một lựa chọn bắt buộc cho mọi trường hợp."
+      ],
+      "sources": [
+        {
+          "page": 38,
+          "quote": "ĐIỀU TRỊ THAI NGOÀI TỬ CUNG\n◈ Theo dõi\n◈ Điều trị nội khoa\n◈ Điều trị ngoại khoa\n◈ Cá thể hóa điều trị\n38",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q017",
+      "topicId": "mole",
+      "conceptId": "m13-mole-nature",
+      "level": "understand",
+      "stem": "Thai trứng được bài học gắn với sự bất thường của thành phần nào?",
+      "options": [
+        "Nguyên bào nuôi",
+        "Cơ vòng cổ tử cung",
+        "Màng trắng buồng trứng",
+        "Tế bào lông chuyển vòi trứng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 40 mô tả sự tăng sinh bất thường của nguyên bào nuôi; các cấu trúc còn lại không phải định nghĩa được nêu.",
+      "optionExplanations": [
+        "Trang 40 mô tả sự tăng sinh bất thường của nguyên bào nuôi; các cấu trúc còn lại không phải định nghĩa được nêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 40 mô tả sự tăng sinh bất thường của nguyên bào nuôi; các cấu trúc còn lại không phải định nghĩa được nêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 40 mô tả sự tăng sinh bất thường của nguyên bào nuôi; các cấu trúc còn lại không phải định nghĩa được nêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 40 mô tả sự tăng sinh bất thường của nguyên bào nuôi; các cấu trúc còn lại không phải định nghĩa được nêu."
+      ],
+      "sources": [
+        {
+          "page": 40,
+          "quote": "THAI TRỨNG\n◈ Sự tăng sinh bất \nthường của \nnguyên bào nuôi\n◈ Là hậu quả của \nmột thụ tinh bất \nthường có nguồn \ngốc từ cha  \nTTTP, TTBP 40",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q018",
+      "topicId": "mole",
+      "conceptId": "m13-mole-tests",
+      "level": "understand",
+      "stem": "Cách ghép vai trò nào đúng trong khảo sát thai trứng?",
+      "options": [
+        "hCG xác nhận mô học; siêu âm thay giải phẫu bệnh",
+        "Giải phẫu bệnh định tuổi bằng CRL; hCG đo kích thước tử cung",
+        "Nghén xác nhận; siêu âm chỉ dùng sau điều trị",
+        "Siêu âm đầu tay; hCG theo dõi; giải phẫu bệnh xác nhận"
+      ],
+      "answer": 3,
+      "explanation": "Trang 43 phân công rõ ba vai trò: siêu âm khảo sát đầu tay, hCG theo dõi, giải phẫu bệnh xác nhận.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 43 phân công rõ ba vai trò: siêu âm khảo sát đầu tay, hCG theo dõi, giải phẫu bệnh xác nhận.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 43 phân công rõ ba vai trò: siêu âm khảo sát đầu tay, hCG theo dõi, giải phẫu bệnh xác nhận.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 43 phân công rõ ba vai trò: siêu âm khảo sát đầu tay, hCG theo dõi, giải phẫu bệnh xác nhận.",
+        "Trang 43 phân công rõ ba vai trò: siêu âm khảo sát đầu tay, hCG theo dõi, giải phẫu bệnh xác nhận."
+      ],
+      "sources": [
+        {
+          "page": 43,
+          "quote": "THAI TRỨNG\n◈ Siêu âm là khảo \nsát đầu tay\n◈ HCG là phương \ntiện theo dõi\n◈ GPB xác nhận \nchẩn đoán chẩn \nđoán\n43",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q019",
+      "topicId": "mole",
+      "conceptId": "m13-mole-evacuation",
+      "level": "understand",
+      "stem": "Vì sao hút nạo thai trứng có hai vai trò trong bài học?",
+      "options": [
+        "Vừa loại bỏ nhu cầu theo dõi vừa xác nhận khỏi bệnh",
+        "Vừa thay thế hCG vừa loại bỏ nhu cầu ngừa thai",
+        "Vừa điều trị vừa cung cấp công cụ chẩn đoán",
+        "Vừa đo CRL vừa tính tuổi thai"
+      ],
+      "answer": 2,
+      "explanation": "Trang 44 nêu vai trò điều trị và chẩn đoán; đồng thời vẫn yêu cầu theo dõi hCG và ngừa thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 nêu vai trò điều trị và chẩn đoán; đồng thời vẫn yêu cầu theo dõi hCG và ngừa thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 nêu vai trò điều trị và chẩn đoán; đồng thời vẫn yêu cầu theo dõi hCG và ngừa thai.",
+        "Trang 44 nêu vai trò điều trị và chẩn đoán; đồng thời vẫn yêu cầu theo dõi hCG và ngừa thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 nêu vai trò điều trị và chẩn đoán; đồng thời vẫn yêu cầu theo dõi hCG và ngừa thai."
+      ],
+      "sources": [
+        {
+          "page": 44,
+          "quote": "THAI TRỨNG\n◈ Hút nạo thai trứng vừa để điều trị \nvừa là công cụ chẩn đoán\n◈ HCG là phương tiện theo dõi\n◈ Ngừa thai trong quá trình điều trị\n44",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q020",
+      "topicId": "assessment",
+      "conceptId": "m13-clinical-limit",
+      "level": "understand",
+      "stem": "Cách hiểu nào đúng về khám lâm sàng trong tiếp cận xuất huyết thai sớm?",
+      "options": [
+        "Luôn xác nhận được nguyên nhân nhiễm sắc thể",
+        "Có thể cung cấp thông tin quan trọng nhưng đôi khi ít thông tin",
+        "Luôn đủ để xác định mọi vị trí thai",
+        "Không có vai trò trong chẩn đoán"
+      ],
+      "answer": 1,
+      "explanation": "Trang 15 nêu cả giá trị và giới hạn của thăm khám; không cho phép bỏ qua hay tuyệt đối hóa khám lâm sàng.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 nêu cả giá trị và giới hạn của thăm khám; không cho phép bỏ qua hay tuyệt đối hóa khám lâm sàng.",
+        "Trang 15 nêu cả giá trị và giới hạn của thăm khám; không cho phép bỏ qua hay tuyệt đối hóa khám lâm sàng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 nêu cả giá trị và giới hạn của thăm khám; không cho phép bỏ qua hay tuyệt đối hóa khám lâm sàng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 nêu cả giá trị và giới hạn của thăm khám; không cho phép bỏ qua hay tuyệt đối hóa khám lâm sàng."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "HỎI BỆNH SỬ, TIỀN SỬ, KHÁM LÂM SÀNG\n◈ Tìm các YTNC có tính định hướng \ntrong tiền sử\n◈ Những thông tin giúp định hướng \nchẩn đoán trong bệnh sử \n◈ Khám lâm sàng tìm những thông \ntin quan trọng cho chẩn đoán \nnhưng đôi khi lại không tìm được \nnhiều thông tin\n15",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q021",
+      "topicId": "diagnosis",
+      "conceptId": "m13-history-signs",
+      "level": "apply",
+      "stem": "Một người kể trễ kinh, nghén và thay đổi ở vú. Khi ghi nhận theo bài học, nhóm dữ kiện này thuộc phần nào?",
+      "options": [
+        "Bệnh sử gợi ý có thai",
+        "Kết quả giải phẫu bệnh",
+        "Kết quả siêu âm CRL",
+        "Tiêu chuẩn xác nhận thai trứng"
+      ],
+      "answer": 0,
+      "explanation": "Đây là các triệu chứng được trang 3 liệt kê ở bệnh sử; không tự chúng trở thành xét nghiệm hay xác nhận thai trứng.",
+      "optionExplanations": [
+        "Đây là các triệu chứng được trang 3 liệt kê ở bệnh sử; không tự chúng trở thành xét nghiệm hay xác nhận thai trứng.",
+        "Không phù hợp với dữ kiện câu hỏi. Đây là các triệu chứng được trang 3 liệt kê ở bệnh sử; không tự chúng trở thành xét nghiệm hay xác nhận thai trứng.",
+        "Không phù hợp với dữ kiện câu hỏi. Đây là các triệu chứng được trang 3 liệt kê ở bệnh sử; không tự chúng trở thành xét nghiệm hay xác nhận thai trứng.",
+        "Không phù hợp với dữ kiện câu hỏi. Đây là các triệu chứng được trang 3 liệt kê ở bệnh sử; không tự chúng trở thành xét nghiệm hay xác nhận thai trứng."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "BỆNH SỬ/CHẨN ĐOÁN CÓ THAI\n• Trễ kinh/XHTC bất thường\n• Nghén\n• Bụng to, Thai máy\n• Rối loạn đi tiểu\n• Thay đổi ở vú",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q022",
+      "topicId": "diagnosis",
+      "conceptId": "m13-exam-signs",
+      "level": "understand",
+      "stem": "Trong phiếu khám, sinh viên ghi dấu hiệu Chadwick vào mục xét nghiệm máu. Cần sửa vào mục nào?",
+      "options": [
+        "Động học hCG",
+        "Phép đo CRL",
+        "Tiền sử kinh chót",
+        "Khám lâm sàng"
+      ],
+      "answer": 3,
+      "explanation": "Trang 4 liệt kê Chadwick trong khám lâm sàng, không thuộc hCG, phép đo thai hay tiền sử.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê Chadwick trong khám lâm sàng, không thuộc hCG, phép đo thai hay tiền sử.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê Chadwick trong khám lâm sàng, không thuộc hCG, phép đo thai hay tiền sử.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 4 liệt kê Chadwick trong khám lâm sàng, không thuộc hCG, phép đo thai hay tiền sử.",
+        "Trang 4 liệt kê Chadwick trong khám lâm sàng, không thuộc hCG, phép đo thai hay tiền sử."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "KHÁM LS/CHẨN ĐOÁN CÓ THAI\n• Tử cung to, rạn da, nghe \nđược tim thai, sờ thấy thai\n• Dấu hiệu Chadwick\n• Dấu hiệu Goodell\n• Dấu hiệu Hegar",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q023",
+      "topicId": "diagnosis",
+      "conceptId": "m13-test-groups",
+      "level": "understand",
+      "stem": "Một người chưa có kết quả cận lâm sàng, chỉ kể triệu chứng. Khảo sát nào trong danh sách bài học có thể bổ sung cho nhóm cận lâm sàng?",
+      "options": [
+        "Hỏi ngày bắt đầu trễ kinh",
+        "Ghi lại thay đổi ở vú do người bệnh kể",
+        "Xét nghiệm hCG nước tiểu",
+        "Hỏi thêm cảm giác nghén"
+      ],
+      "answer": 2,
+      "explanation": "Trang 5 liệt kê hCG nước tiểu là cận lâm sàng; các phương án khác vẫn là khai thác bệnh sử.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 liệt kê hCG nước tiểu là cận lâm sàng; các phương án khác vẫn là khai thác bệnh sử.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 liệt kê hCG nước tiểu là cận lâm sàng; các phương án khác vẫn là khai thác bệnh sử.",
+        "Trang 5 liệt kê hCG nước tiểu là cận lâm sàng; các phương án khác vẫn là khai thác bệnh sử.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 5 liệt kê hCG nước tiểu là cận lâm sàng; các phương án khác vẫn là khai thác bệnh sử."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "CLS/CHẨN ĐOÁN CÓ THAI\n• HCG/nước tiểu\n• HCG/máu\n• Siêu âm\n• MRI",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q024",
+      "topicId": "dating",
+      "conceptId": "m13-crl-calculation",
+      "level": "apply",
+      "stem": "Trong bài tập dùng đúng công thức của tài liệu, CRL 20 mm tương ứng tuổi thai bao nhiêu ngày?",
+      "options": [
+        "82 ngày",
+        "62 ngày",
+        "42 ngày",
+        "20 ngày"
+      ],
+      "answer": 1,
+      "explanation": "CRL 20 mm nằm trong khoảng 10–30 mm; tuổi thai bằng 20 + 42 = 62 ngày.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. CRL 20 mm nằm trong khoảng 10–30 mm; tuổi thai bằng 20 + 42 = 62 ngày.",
+        "CRL 20 mm nằm trong khoảng 10–30 mm; tuổi thai bằng 20 + 42 = 62 ngày.",
+        "Không phù hợp với dữ kiện câu hỏi. CRL 20 mm nằm trong khoảng 10–30 mm; tuổi thai bằng 20 + 42 = 62 ngày.",
+        "Không phù hợp với dữ kiện câu hỏi. CRL 20 mm nằm trong khoảng 10–30 mm; tuổi thai bằng 20 + 42 = 62 ngày."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Siêu âm xác định CRL là một \nphương pháp phổ biến để \ntính tuổi thai ở quý 1\n• Tuổi thai (ngày) =CRL (mm) \n+ 42\n• Áp dụng khi CRL từ 10-30mm",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q025",
+      "topicId": "dating",
+      "conceptId": "m13-crl-calculation",
+      "level": "apply",
+      "stem": "CRL được đo 10 mm. Theo công thức và phạm vi của bài học, cách tính nào đúng?",
+      "options": [
+        "10 + 42 = 52 ngày",
+        "10 + 42 = 52 tuần",
+        "10 × 42 = 420 ngày",
+        "Không dùng công thức vì 10 mm bị loại khỏi khoảng 10–30 mm"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 dùng CRL từ 10 đến 30 mm và kết quả tính bằng ngày; mốc 10 mm nằm trong phạm vi nêu.",
+      "optionExplanations": [
+        "Trang 9 dùng CRL từ 10 đến 30 mm và kết quả tính bằng ngày; mốc 10 mm nằm trong phạm vi nêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 9 dùng CRL từ 10 đến 30 mm và kết quả tính bằng ngày; mốc 10 mm nằm trong phạm vi nêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 9 dùng CRL từ 10 đến 30 mm và kết quả tính bằng ngày; mốc 10 mm nằm trong phạm vi nêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 9 dùng CRL từ 10 đến 30 mm và kết quả tính bằng ngày; mốc 10 mm nằm trong phạm vi nêu."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Siêu âm xác định CRL là một \nphương pháp phổ biến để \ntính tuổi thai ở quý 1\n• Tuổi thai (ngày) =CRL (mm) \n+ 42\n• Áp dụng khi CRL từ 10-30mm",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q026",
+      "topicId": "dating",
+      "conceptId": "m13-crl-calculation",
+      "level": "apply",
+      "stem": "CRL 30 mm trong bài tập của tài liệu được quy đổi thế nào?",
+      "options": [
+        "30 ngày",
+        "42 tuần",
+        "30 tuần",
+        "72 ngày"
+      ],
+      "answer": 3,
+      "explanation": "30 mm vẫn nằm trong phạm vi công thức; 30 + 42 = 72 ngày.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. 30 mm vẫn nằm trong phạm vi công thức; 30 + 42 = 72 ngày.",
+        "Không phù hợp với dữ kiện câu hỏi. 30 mm vẫn nằm trong phạm vi công thức; 30 + 42 = 72 ngày.",
+        "Không phù hợp với dữ kiện câu hỏi. 30 mm vẫn nằm trong phạm vi công thức; 30 + 42 = 72 ngày.",
+        "30 mm vẫn nằm trong phạm vi công thức; 30 + 42 = 72 ngày."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Siêu âm xác định CRL là một \nphương pháp phổ biến để \ntính tuổi thai ở quý 1\n• Tuổi thai (ngày) =CRL (mm) \n+ 42\n• Áp dụng khi CRL từ 10-30mm",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q027",
+      "topicId": "dating",
+      "conceptId": "m13-crl-over-limit",
+      "level": "apply",
+      "stem": "Siêu âm đo CRL 35 mm. Cách áp dụng bài học phù hợp là gì?",
+      "options": [
+        "Bỏ hoàn toàn CRL vì trên 30 mm",
+        "Đổi 35 mm thành 35 tuần",
+        "Vẫn dùng CRL để định tuổi thai nhưng không dùng phép cộng 42",
+        "Tự động tính 35 + 42 ngày bằng công thức trang 9"
+      ],
+      "answer": 2,
+      "explanation": "Trang 10 nói khi CRL trên 30 mm vẫn có giá trị định tuổi nhưng phải dùng công cụ phù hợp, không áp dụng phép cộng 42.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 nói khi CRL trên 30 mm vẫn có giá trị định tuổi nhưng phải dùng công cụ phù hợp, không áp dụng phép cộng 42.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 nói khi CRL trên 30 mm vẫn có giá trị định tuổi nhưng phải dùng công cụ phù hợp, không áp dụng phép cộng 42.",
+        "Trang 10 nói khi CRL trên 30 mm vẫn có giá trị định tuổi nhưng phải dùng công cụ phù hợp, không áp dụng phép cộng 42.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 10 nói khi CRL trên 30 mm vẫn có giá trị định tuổi nhưng phải dùng công cụ phù hợp, không áp dụng phép cộng 42."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Khi CRL >30mm, vẫn sử \ndụng CRL để xác định tuổi \nthai nhưng không dùng công \nthức CRL (mm) + 42\n• Tính tuổi thai dựa vào phần \nmềm FMF",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q028",
+      "topicId": "dating",
+      "conceptId": "m13-lmp-close",
+      "level": "apply",
+      "stem": "Kinh chót phù hợp và siêu âm quý 1 cho hai ngày dự sanh lệch 3 ngày. Theo quy tắc bài học, chọn mốc nào?",
+      "options": [
+        "Bỏ cả hai và chờ quý 3",
+        "Dự sanh theo kinh chót",
+        "Luôn theo siêu âm muộn nhất",
+        "Lấy trung bình hai ngày"
+      ],
+      "answer": 1,
+      "explanation": "Trang 11 chọn kinh chót khi dữ kiện kinh chót phù hợp và độ lệch dưới 5 ngày; 3 ngày đáp ứng điều kiện.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 chọn kinh chót khi dữ kiện kinh chót phù hợp và độ lệch dưới 5 ngày; 3 ngày đáp ứng điều kiện.",
+        "Trang 11 chọn kinh chót khi dữ kiện kinh chót phù hợp và độ lệch dưới 5 ngày; 3 ngày đáp ứng điều kiện.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 chọn kinh chót khi dữ kiện kinh chót phù hợp và độ lệch dưới 5 ngày; 3 ngày đáp ứng điều kiện.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 chọn kinh chót khi dữ kiện kinh chót phù hợp và độ lệch dưới 5 ngày; 3 ngày đáp ứng điều kiện."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Lưu ý:\n• Để xác định ngày dự sanh dựa vào kinh chót, kinh chót phải thoả \ntiêu chuẩn nhất định\n• Khi vừa có dữ kiện kinh chót phù hợp, vừa có siêu âm CRL quý 1, \nnếu ngày dự sanh lệch <5 ngày  chọn dự sanh theo KC\n• Nếu có nhiều KQSA đo CRL ở quý 1 thì nên dung kết quả siêu âm \nsớm nhất với CRL >=10mm\n• Luôn luôn gắn việc định tuổi thai với đánh giá tăng trưởng của thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q029",
+      "topicId": "dating",
+      "conceptId": "m13-earliest-eligible",
+      "level": "apply",
+      "stem": "Có ba lần đo CRL trong quý 1, theo thứ tự thời gian là 8, 12 và 25 mm. Bài học ưu tiên kết quả nào?",
+      "options": [
+        "Lần đo 12 mm",
+        "Lần đo 8 mm vì sớm nhất bất kể kích thước",
+        "Lần đo 25 mm vì muộn nhất",
+        "Trung bình của cả ba CRL"
+      ],
+      "answer": 0,
+      "explanation": "Trang 11 chọn siêu âm sớm nhất có CRL ít nhất 10 mm; lần 8 mm chưa đạt nên chọn lần 12 mm.",
+      "optionExplanations": [
+        "Trang 11 chọn siêu âm sớm nhất có CRL ít nhất 10 mm; lần 8 mm chưa đạt nên chọn lần 12 mm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 chọn siêu âm sớm nhất có CRL ít nhất 10 mm; lần 8 mm chưa đạt nên chọn lần 12 mm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 chọn siêu âm sớm nhất có CRL ít nhất 10 mm; lần 8 mm chưa đạt nên chọn lần 12 mm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 chọn siêu âm sớm nhất có CRL ít nhất 10 mm; lần 8 mm chưa đạt nên chọn lần 12 mm."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Lưu ý:\n• Để xác định ngày dự sanh dựa vào kinh chót, kinh chót phải thoả \ntiêu chuẩn nhất định\n• Khi vừa có dữ kiện kinh chót phù hợp, vừa có siêu âm CRL quý 1, \nnếu ngày dự sanh lệch <5 ngày  chọn dự sanh theo KC\n• Nếu có nhiều KQSA đo CRL ở quý 1 thì nên dung kết quả siêu âm \nsớm nhất với CRL >=10mm\n• Luôn luôn gắn việc định tuổi thai với đánh giá tăng trưởng của thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q030",
+      "topicId": "dating",
+      "conceptId": "m13-no-first-trimester",
+      "level": "apply",
+      "stem": "Một thai kỳ không có dữ kiện định tuổi quý 1. Nhận định phù hợp về dữ kiện quý 2, 3 là gì?",
+      "options": [
+        "Hoàn toàn không thể định tuổi thai",
+        "Chắc chắn chính xác hơn quý 1",
+        "Chỉ cần lấy CRL bất kỳ cộng 42",
+        "Có thể dùng BCTC, BPD, HC, AC, FL nhưng kém chính xác hơn"
+      ],
+      "answer": 3,
+      "explanation": "Trang 12 cho phép dùng các dữ kiện quý 2, 3 và nêu giới hạn độ chính xác; không cho áp dụng tùy ý công thức CRL.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 cho phép dùng các dữ kiện quý 2, 3 và nêu giới hạn độ chính xác; không cho áp dụng tùy ý công thức CRL.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 cho phép dùng các dữ kiện quý 2, 3 và nêu giới hạn độ chính xác; không cho áp dụng tùy ý công thức CRL.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 12 cho phép dùng các dữ kiện quý 2, 3 và nêu giới hạn độ chính xác; không cho áp dụng tùy ý công thức CRL.",
+        "Trang 12 cho phép dùng các dữ kiện quý 2, 3 và nêu giới hạn độ chính xác; không cho áp dụng tùy ý công thức CRL."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Khi hoàn toàn không có dữ kiện để xác định chính xác tuổi thai ở \nquý 1  tính tuổi thai/ngày dự sanh theo các dữ kiễn ở quý 2, quý \n3 sẽ kém chính xác hơn:\n• BCTC\n• BPD\n• HC\n• AC\n• FL",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q031",
+      "topicId": "dating",
+      "conceptId": "m13-ivf-accuracy",
+      "level": "apply",
+      "stem": "So sánh hai hồ sơ, một hồ sơ có dữ kiện IVF và một hồ sơ chỉ có đo bề cao tử cung. Theo bài học, cách nào cho định tuổi chính xác nhất?",
+      "options": [
+        "Chỉ cảm giác bụng to",
+        "Chỉ mức độ nghén",
+        "Dữ kiện của thai kỳ IVF",
+        "Chỉ đo bề cao tử cung"
+      ],
+      "answer": 2,
+      "explanation": "Trang 8 nêu định tuổi chính xác nhất ở thai kỳ IVF; đo bề cao tử cung kém chính xác hơn.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 8 nêu định tuổi chính xác nhất ở thai kỳ IVF; đo bề cao tử cung kém chính xác hơn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 8 nêu định tuổi chính xác nhất ở thai kỳ IVF; đo bề cao tử cung kém chính xác hơn.",
+        "Trang 8 nêu định tuổi chính xác nhất ở thai kỳ IVF; đo bề cao tử cung kém chính xác hơn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 8 nêu định tuổi chính xác nhất ở thai kỳ IVF; đo bề cao tử cung kém chính xác hơn."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Tuổi thai/ngày dự sanh được xác \nđịnh chính xác nhất đối với các thai \nkỳ thụ tinh trong ống nghiệm\n• Tuổi thai/ngày dự sanh được xác \nđịnh dựa vào kinh chót theo công \nthức Naegele \n• Tuổi thai/ngày dự sanh cũng có thể \nđược xác định bằng việc khám lâm \nsang (đo BCTC) nhưng kém chính \nxác hơn",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q032",
+      "topicId": "dating",
+      "conceptId": "m13-measurement-groups",
+      "level": "apply",
+      "stem": "Một phiếu siêu âm quý 2 ghi BPD, HC, FL và AC. Theo bài học, các số đo này phục vụ mục đích nào?",
+      "options": [
+        "Thay thế ngày kinh chót bằng hCG",
+        "Có thể góp phần định tuổi thai ở quý 2, 3",
+        "Xác nhận mô học thai trứng",
+        "Phân loại tế bào nguyên bào nuôi"
+      ],
+      "answer": 1,
+      "explanation": "Trang 7 liệt kê các chỉ số này trong siêu âm định tuổi thai quý 2, 3; không có vai trò mô học.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 7 liệt kê các chỉ số này trong siêu âm định tuổi thai quý 2, 3; không có vai trò mô học.",
+        "Trang 7 liệt kê các chỉ số này trong siêu âm định tuổi thai quý 2, 3; không có vai trò mô học.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 7 liệt kê các chỉ số này trong siêu âm định tuổi thai quý 2, 3; không có vai trò mô học.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 7 liệt kê các chỉ số này trong siêu âm định tuổi thai quý 2, 3; không có vai trò mô học."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Tuổi thai/ngày dự sanh được xác định chính xác nhất trong quý 1 \ncủa thai kỳ:\n• Hỏi tiền sử và bệnh sử để định tuổi thai: kinh chót\n• Siêu âm để định tuổi thai: CRL\n• Tuổi thai/ngày dự sanh có thể được xác định trong quý 2 và 3 \nnhưng kém chính xác hơn\n• Hỏi tiền sử, bệnh sử, khám lâm sàng để định tuổi thai: BCTC\n• Siêu âm để định tuổi thai: BPD, HC, FL, AC",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q033",
+      "topicId": "dating",
+      "conceptId": "m13-due-date",
+      "level": "apply",
+      "stem": "Một lịch theo dõi đánh dấu ngày thai đạt 40 tuần. Theo định nghĩa bài học, nhãn phù hợp cho ngày này là gì?",
+      "options": [
+        "Ngày dự sanh",
+        "Ngày xác nhận thai sinh hóa",
+        "Ngày thụ tinh được chứng minh",
+        "Ngày bắt buộc xuất hiện thai máy"
+      ],
+      "answer": 0,
+      "explanation": "Trang 6 định nghĩa ngày dự sanh ở mốc 40 tuần; không đồng nhất với các sự kiện còn lại.",
+      "optionExplanations": [
+        "Trang 6 định nghĩa ngày dự sanh ở mốc 40 tuần; không đồng nhất với các sự kiện còn lại.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 6 định nghĩa ngày dự sanh ở mốc 40 tuần; không đồng nhất với các sự kiện còn lại.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 6 định nghĩa ngày dự sanh ở mốc 40 tuần; không đồng nhất với các sự kiện còn lại.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 6 định nghĩa ngày dự sanh ở mốc 40 tuần; không đồng nhất với các sự kiện còn lại."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Tuổi thai là tuổi của thai kỳ, tính bằng tuần\n• Ngày dự sanh là ngày mà thai đạt 40 tuần\n• Thai đủ tháng khi thai được sanh ở tuổi thai 37 tuần trở lên\n• Con số PARA",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q034",
+      "topicId": "assessment",
+      "conceptId": "m13-ultrasound-first",
+      "level": "apply",
+      "stem": "Trong bài tập tiếp cận xuất huyết thai sớm, cần chọn phương tiện đầu tay để khảo sát vị trí và sinh tồn thai. Chọn gì?",
+      "options": [
+        "Giải phẫu bệnh cho tất cả trường hợp ngay lập tức",
+        "Chỉ dựa vào mức độ nghén",
+        "Chỉ dựa vào thay đổi ở vú",
+        "Siêu âm"
+      ],
+      "answer": 3,
+      "explanation": "Trang 16 nêu siêu âm là phương tiện đầu tay, cung cấp vị trí và tính sinh tồn.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 nêu siêu âm là phương tiện đầu tay, cung cấp vị trí và tính sinh tồn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 nêu siêu âm là phương tiện đầu tay, cung cấp vị trí và tính sinh tồn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 nêu siêu âm là phương tiện đầu tay, cung cấp vị trí và tính sinh tồn.",
+        "Trang 16 nêu siêu âm là phương tiện đầu tay, cung cấp vị trí và tính sinh tồn."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "SIÊU ÂM\n◈ Là phương tiện đầu tay\n◈ TVS ưu thế hơn TAS\n◈ Cung cấp thông tin về vị trí của \nthai, tính sinh tồn của thai\n◈ Một vài hình ảnh điển hình: thai \ntrứng, thai ngoài tử cung sống\n16",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q035",
+      "topicId": "assessment",
+      "conceptId": "m13-tvs-tas",
+      "level": "understand",
+      "stem": "Có điều kiện thực hiện cả TVS và TAS khi khảo sát thai sớm. Bài học nêu ưu thế của phương pháp nào?",
+      "options": [
+        "Hai phương pháp không thể so sánh trong tài liệu",
+        "Cả hai đều không khảo sát được vị trí thai",
+        "TVS so với TAS",
+        "TAS luôn ưu thế hơn TVS"
+      ],
+      "answer": 2,
+      "explanation": "Trang 16 ghi TVS ưu thế hơn TAS và siêu âm cho thông tin về vị trí thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 ghi TVS ưu thế hơn TAS và siêu âm cho thông tin về vị trí thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 ghi TVS ưu thế hơn TAS và siêu âm cho thông tin về vị trí thai.",
+        "Trang 16 ghi TVS ưu thế hơn TAS và siêu âm cho thông tin về vị trí thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 ghi TVS ưu thế hơn TAS và siêu âm cho thông tin về vị trí thai."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "SIÊU ÂM\n◈ Là phương tiện đầu tay\n◈ TVS ưu thế hơn TAS\n◈ Cung cấp thông tin về vị trí của \nthai, tính sinh tồn của thai\n◈ Một vài hình ảnh điển hình: thai \ntrứng, thai ngoài tử cung sống\n16",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q036",
+      "topicId": "assessment",
+      "conceptId": "m13-clinical-limit",
+      "level": "apply",
+      "stem": "Khám lâm sàng ở người ra huyết thai sớm cung cấp ít thông tin. Theo bài học, nên hiểu tình huống này thế nào?",
+      "options": [
+        "Chứng minh chắc chắn thai đã lưu",
+        "Vẫn cần khảo sát thêm, trong đó siêu âm là phương tiện đầu tay",
+        "Đủ để loại trừ mọi thai bất thường",
+        "Chứng minh chắc chắn thai trứng"
+      ],
+      "answer": 1,
+      "explanation": "Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu vai trò tiếp theo của siêu âm. Ít thông tin không đồng nghĩa loại trừ hay xác nhận bệnh.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu vai trò tiếp theo của siêu âm. Ít thông tin không đồng nghĩa loại trừ hay xác nhận bệnh.",
+        "Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu vai trò tiếp theo của siêu âm. Ít thông tin không đồng nghĩa loại trừ hay xác nhận bệnh.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu vai trò tiếp theo của siêu âm. Ít thông tin không đồng nghĩa loại trừ hay xác nhận bệnh.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu vai trò tiếp theo của siêu âm. Ít thông tin không đồng nghĩa loại trừ hay xác nhận bệnh."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "HỎI BỆNH SỬ, TIỀN SỬ, KHÁM LÂM SÀNG\n◈ Tìm các YTNC có tính định hướng \ntrong tiền sử\n◈ Những thông tin giúp định hướng \nchẩn đoán trong bệnh sử \n◈ Khám lâm sàng tìm những thông \ntin quan trọng cho chẩn đoán \nnhưng đôi khi lại không tìm được \nnhiều thông tin\n15",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 16,
+          "quote": "SIÊU ÂM\n◈ Là phương tiện đầu tay\n◈ TVS ưu thế hơn TAS\n◈ Cung cấp thông tin về vị trí của \nthai, tính sinh tồn của thai\n◈ Một vài hình ảnh điển hình: thai \ntrứng, thai ngoài tử cung sống\n16",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q037",
+      "topicId": "assessment",
+      "conceptId": "m13-hcg-context",
+      "level": "apply",
+      "stem": "Hai cơ sở chọn ngưỡng β-hCG hơi khác nhau tùy điều kiện thực hành. Điều này có trái mô tả của bài học không?",
+      "options": [
+        "Không; tài liệu nói ngưỡng không phải con số cứng nhắc",
+        "Có; bài học bắt buộc một ngưỡng duy nhất toàn cầu",
+        "Có; đơn thai và song thai luôn cùng ngưỡng",
+        "Có; ngưỡng được chọn không liên quan thực hành"
+      ],
+      "answer": 0,
+      "explanation": "Trang 20 nói rõ ngưỡng cắt tùy điều kiện thực hành và các con số không cứng nhắc.",
+      "optionExplanations": [
+        "Trang 20 nói rõ ngưỡng cắt tùy điều kiện thực hành và các con số không cứng nhắc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 20 nói rõ ngưỡng cắt tùy điều kiện thực hành và các con số không cứng nhắc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 20 nói rõ ngưỡng cắt tùy điều kiện thực hành và các con số không cứng nhắc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 20 nói rõ ngưỡng cắt tùy điều kiện thực hành và các con số không cứng nhắc."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "KHÁI NIỆM VỀ NGƯỠNG PHÂN ĐỊNH CỦA BETA-HCG\n◈ Ngưỡng cắt được chọn tùy vào \nđiều kiện thực hành. \n◈ β-hCG 1500-2000mUI/ml đối với \nđơn thai và 3000mUI/ml đối với \nsong thai nhưng không phải là \nnhững con số cứng nhắc\n◈ Khái niệm PUL ra đời\n20",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q038",
+      "topicId": "loss",
+      "conceptId": "m13-demise-definition",
+      "level": "apply",
+      "stem": "Hồ sơ ghi thai đã được xác định ngừng phát triển trong buồng tử cung. Thuật ngữ phù hợp theo bài học là gì?",
+      "options": [
+        "Thai ngoài tử cung theo định nghĩa vị trí",
+        "Chắc chắn thai trứng",
+        "Ngày dự sanh",
+        "Thai lưu"
+      ],
+      "answer": 3,
+      "explanation": "Trang 23 định nghĩa thai lưu là thai ngừng phát triển trong buồng tử cung; các thuật ngữ khác không khớp dữ kiện.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 định nghĩa thai lưu là thai ngừng phát triển trong buồng tử cung; các thuật ngữ khác không khớp dữ kiện.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 định nghĩa thai lưu là thai ngừng phát triển trong buồng tử cung; các thuật ngữ khác không khớp dữ kiện.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 định nghĩa thai lưu là thai ngừng phát triển trong buồng tử cung; các thuật ngữ khác không khớp dữ kiện.",
+        "Trang 23 định nghĩa thai lưu là thai ngừng phát triển trong buồng tử cung; các thuật ngữ khác không khớp dữ kiện."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "THAI LƯU\n◈ Thai ngừng phát triển trong buồng \ntử cung. \n◈ Chẩn đoán dựa vào siêu âm\n◈ β-hCG gần như không có giá trị\n◈ Khi thai đã lưu, phải chấm dứt \nthai kỳ\n23",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q039",
+      "topicId": "loss",
+      "conceptId": "m13-demise-ultrasound",
+      "level": "apply",
+      "stem": "Khi đánh giá thai lưu, sinh viên đề nghị chỉ dựa vào β-hCG. Phương tiện bài học đặt ở vai trò chẩn đoán là gì?",
+      "options": [
+        "Chỉ mức độ nghén",
+        "Chỉ ngày kinh chót",
+        "Siêu âm",
+        "Chỉ một giá trị β-hCG"
+      ],
+      "answer": 2,
+      "explanation": "Trang 23 nói chẩn đoán dựa vào siêu âm và β-hCG gần như không có giá trị trong đánh giá thai lưu.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 nói chẩn đoán dựa vào siêu âm và β-hCG gần như không có giá trị trong đánh giá thai lưu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 nói chẩn đoán dựa vào siêu âm và β-hCG gần như không có giá trị trong đánh giá thai lưu.",
+        "Trang 23 nói chẩn đoán dựa vào siêu âm và β-hCG gần như không có giá trị trong đánh giá thai lưu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 23 nói chẩn đoán dựa vào siêu âm và β-hCG gần như không có giá trị trong đánh giá thai lưu."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "THAI LƯU\n◈ Thai ngừng phát triển trong buồng \ntử cung. \n◈ Chẩn đoán dựa vào siêu âm\n◈ β-hCG gần như không có giá trị\n◈ Khi thai đã lưu, phải chấm dứt \nthai kỳ\n23",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q040",
+      "topicId": "loss",
+      "conceptId": "m13-prediction-not-certainty",
+      "level": "apply",
+      "stem": "Siêu âm có dấu hiệu dự báo bất lợi nhưng chưa đủ khẳng định. Cách viết kết luận nào tôn trọng giới hạn bài học?",
+      "options": [
+        "Chắc chắn không thể có thai trong tử cung",
+        "Dấu hiệu dự báo không tự nó xác nhận thai đã ngừng phát triển",
+        "Chắc chắn thai đã lưu chỉ vì có dấu hiệu dự báo",
+        "Chắc chắn phải là thai ngoài tử cung"
+      ],
+      "answer": 1,
+      "explanation": "Trang 25 phân biệt giá trị dự báo với khả năng khẳng định; không chuyển mức nghi ngờ thành chẩn đoán chắc chắn.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 phân biệt giá trị dự báo với khả năng khẳng định; không chuyển mức nghi ngờ thành chẩn đoán chắc chắn.",
+        "Trang 25 phân biệt giá trị dự báo với khả năng khẳng định; không chuyển mức nghi ngờ thành chẩn đoán chắc chắn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 phân biệt giá trị dự báo với khả năng khẳng định; không chuyển mức nghi ngờ thành chẩn đoán chắc chắn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 phân biệt giá trị dự báo với khả năng khẳng định; không chuyển mức nghi ngờ thành chẩn đoán chắc chắn."
+      ],
+      "sources": [
+        {
+          "page": 25,
+          "quote": "DỌA SẨY THAI LƯU\n◈ Dự báo sẽ xảy ra sẩy thai trên một \nthai đã hoặc gần như chắc chắn sẽ \nngưng phát triển\n◈ Là tình trạng gần như không thể \nđảo ngược, nguyên nhân thường là \nlệch bội\n◈ Biểu hiện lâm sàng: đau bụng hoặc \nra huyết\n◈ Siêu âm có giá trị dự báo nhưng \nkhông cho phép khẳng định\n25",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q041",
+      "topicId": "loss",
+      "conceptId": "m13-miscarriage-definition",
+      "level": "apply",
+      "stem": "Trong bài tập, thai được tống xuất ở 18 tuần vô kinh và chưa có khả năng tự sống. Sự kiện này thuộc định nghĩa nào?",
+      "options": [
+        "Sẩy thai theo bài học",
+        "Ngày dự sanh",
+        "Thai ngoài tử cung được xác nhận",
+        "Thai trứng được xác nhận"
+      ],
+      "answer": 0,
+      "explanation": "18 tuần nhỏ hơn 22 tuần; dữ kiện tống xuất và chưa thể tự sống phù hợp định nghĩa sẩy thai trang 27.",
+      "optionExplanations": [
+        "18 tuần nhỏ hơn 22 tuần; dữ kiện tống xuất và chưa thể tự sống phù hợp định nghĩa sẩy thai trang 27.",
+        "Không phù hợp với dữ kiện câu hỏi. 18 tuần nhỏ hơn 22 tuần; dữ kiện tống xuất và chưa thể tự sống phù hợp định nghĩa sẩy thai trang 27.",
+        "Không phù hợp với dữ kiện câu hỏi. 18 tuần nhỏ hơn 22 tuần; dữ kiện tống xuất và chưa thể tự sống phù hợp định nghĩa sẩy thai trang 27.",
+        "Không phù hợp với dữ kiện câu hỏi. 18 tuần nhỏ hơn 22 tuần; dữ kiện tống xuất và chưa thể tự sống phù hợp định nghĩa sẩy thai trang 27."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "SẨY THAI: ĐỊNH NGHĨA\n◈ Sẩy thai là khi thai được tống \nxuất ra khỏi buồng tử cung \ntrước 22 tuần vô kinh, khi mà \nthai chưa có khả năng tự sống \nđược.\n◈ 15-20% các thai kỳ chấm dứt \nbằng sẩy thai với >80% các \ntrường hợp xảy ra trước 12 \ntuần.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q042",
+      "topicId": "loss",
+      "conceptId": "m13-loss-timing",
+      "level": "understand",
+      "stem": "Một báo cáo học tập ghi phần lớn sẩy thai xảy ra trước 12 tuần. Con số nào được bài học dùng để mô tả tỷ trọng này?",
+      "options": [
+        "Dưới 1% các trường hợp sẩy thai",
+        "Đúng 5% các trường hợp sẩy thai",
+        "Không có trường hợp nào trước 12 tuần",
+        "Trên 80% các trường hợp sẩy thai"
+      ],
+      "answer": 3,
+      "explanation": "Trang 27 nêu trên 80% trường hợp sẩy thai xảy ra trước 12 tuần; đây là tỷ trọng trong nhóm sẩy thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 nêu trên 80% trường hợp sẩy thai xảy ra trước 12 tuần; đây là tỷ trọng trong nhóm sẩy thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 nêu trên 80% trường hợp sẩy thai xảy ra trước 12 tuần; đây là tỷ trọng trong nhóm sẩy thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 nêu trên 80% trường hợp sẩy thai xảy ra trước 12 tuần; đây là tỷ trọng trong nhóm sẩy thai.",
+        "Trang 27 nêu trên 80% trường hợp sẩy thai xảy ra trước 12 tuần; đây là tỷ trọng trong nhóm sẩy thai."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "SẨY THAI: ĐỊNH NGHĨA\n◈ Sẩy thai là khi thai được tống \nxuất ra khỏi buồng tử cung \ntrước 22 tuần vô kinh, khi mà \nthai chưa có khả năng tự sống \nđược.\n◈ 15-20% các thai kỳ chấm dứt \nbằng sẩy thai với >80% các \ntrường hợp xảy ra trước 12 \ntuần.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q043",
+      "topicId": "loss",
+      "conceptId": "m13-loss-options",
+      "level": "understand",
+      "stem": "Khi liệt kê các hướng xử trí thai nghén thất bại sớm được bài học nêu, nhóm nào đầy đủ?",
+      "options": [
+        "Chỉ đo CRL và không đánh giá diễn tiến",
+        "Chỉ dùng hCG để chọn mọi liều điều trị",
+        "Theo dõi diễn tiến, Misoprostol, hút lòng tử cung",
+        "Chỉ theo dõi, tuyệt đối không có cách khác"
+      ],
+      "answer": 2,
+      "explanation": "Trang 30 liệt kê ba hướng; không cung cấp một lựa chọn duy nhất áp dụng cho mọi tình huống.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 30 liệt kê ba hướng; không cung cấp một lựa chọn duy nhất áp dụng cho mọi tình huống.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 30 liệt kê ba hướng; không cung cấp một lựa chọn duy nhất áp dụng cho mọi tình huống.",
+        "Trang 30 liệt kê ba hướng; không cung cấp một lựa chọn duy nhất áp dụng cho mọi tình huống.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 30 liệt kê ba hướng; không cung cấp một lựa chọn duy nhất áp dụng cho mọi tình huống."
+      ],
+      "sources": [
+        {
+          "page": 30,
+          "quote": "XỬ TRÍ THAI NGHÉN THẤT BẠI SỚM\n◈ Theo dõi diễn tiến\n◈ Chấm dứt thai kỳ bằng Misoprostol\n◈ Chấm dứt thai kỳ bằng hút lòng tử \ncung\n30",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q044",
+      "topicId": "ectopic",
+      "conceptId": "m13-ectopic-definition",
+      "level": "apply",
+      "stem": "Siêu âm đã xác định thai làm tổ bên ngoài buồng tử cung. Thuật ngữ phù hợp là gì?",
+      "options": [
+        "Sẩy thai trọn chỉ dựa vào vị trí",
+        "Thai ngoài tử cung",
+        "Thai lưu trong buồng tử cung",
+        "Thai trứng chỉ dựa vào vị trí"
+      ],
+      "answer": 1,
+      "explanation": "Trang 32 định nghĩa thai ngoài tử cung bằng vị trí làm tổ ngoài buồng tử cung.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 32 định nghĩa thai ngoài tử cung bằng vị trí làm tổ ngoài buồng tử cung.",
+        "Trang 32 định nghĩa thai ngoài tử cung bằng vị trí làm tổ ngoài buồng tử cung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 32 định nghĩa thai ngoài tử cung bằng vị trí làm tổ ngoài buồng tử cung.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 32 định nghĩa thai ngoài tử cung bằng vị trí làm tổ ngoài buồng tử cung."
+      ],
+      "sources": [
+        {
+          "page": 32,
+          "quote": "THAI NGOÀI TỬ CUNG\n◈ Thai làm tổ bên \nngoài buồng tử \ncung\n◈ Nguyên nhân gây \ntử vong mẹ \nthường gặp nhất \ntrong 3 tháng \nđầu \n◈ Vị trí\n◈ Xuất độ 1/80 \nthai kỳ t  nhiên\n32",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q045",
+      "topicId": "ectopic",
+      "conceptId": "m13-tubal-rupture",
+      "level": "apply",
+      "stem": "Trong sơ đồ diễn tiến của bài học, vỡ vòi trứng do thai ở vòi dẫn đến hậu quả nào?",
+      "options": [
+        "Xuất huyết nội",
+        "Tự động chuyển thai vào tử cung",
+        "Chuyển thành thai trứng",
+        "Tự động xác định được ngày dự sanh"
+      ],
+      "answer": 0,
+      "explanation": "Trang 36 nối vỡ vòi trứng với xuất huyết nội; không có cơ sở cho các hậu quả khác nêu.",
+      "optionExplanations": [
+        "Trang 36 nối vỡ vòi trứng với xuất huyết nội; không có cơ sở cho các hậu quả khác nêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 nối vỡ vòi trứng với xuất huyết nội; không có cơ sở cho các hậu quả khác nêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 nối vỡ vòi trứng với xuất huyết nội; không có cơ sở cho các hậu quả khác nêu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 nối vỡ vòi trứng với xuất huyết nội; không có cơ sở cho các hậu quả khác nêu."
+      ],
+      "sources": [
+        {
+          "page": 36,
+          "quote": "THAI Ở VÒI TỬ CUNG\n◈ Vỡ vòi trứng  \nxuất huyết nội\n◈ Sẩy qua loa  \nxuất huyết nội\n◈ Thoái triển\n36",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q046",
+      "topicId": "ectopic",
+      "conceptId": "m13-tubal-expulsion",
+      "level": "apply",
+      "stem": "Thai ở vòi sẩy qua loa. Theo sơ đồ của bài học, biến cố nào có thể đi kèm?",
+      "options": [
+        "Chắc chắn trở thành thai trong tử cung bình thường",
+        "Chắc chắn hình thành u nguyên bào nuôi",
+        "Chắc chắn không gây chảy máu",
+        "Xuất huyết nội"
+      ],
+      "answer": 3,
+      "explanation": "Trang 36 nêu sẩy qua loa cũng có thể dẫn đến xuất huyết nội, không chỉ vỡ vòi mới có hậu quả này.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 nêu sẩy qua loa cũng có thể dẫn đến xuất huyết nội, không chỉ vỡ vòi mới có hậu quả này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 nêu sẩy qua loa cũng có thể dẫn đến xuất huyết nội, không chỉ vỡ vòi mới có hậu quả này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 nêu sẩy qua loa cũng có thể dẫn đến xuất huyết nội, không chỉ vỡ vòi mới có hậu quả này.",
+        "Trang 36 nêu sẩy qua loa cũng có thể dẫn đến xuất huyết nội, không chỉ vỡ vòi mới có hậu quả này."
+      ],
+      "sources": [
+        {
+          "page": 36,
+          "quote": "THAI Ở VÒI TỬ CUNG\n◈ Vỡ vòi trứng  \nxuất huyết nội\n◈ Sẩy qua loa  \nxuất huyết nội\n◈ Thoái triển\n36",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q047",
+      "topicId": "ectopic",
+      "conceptId": "m13-ectopic-signs",
+      "level": "apply",
+      "stem": "Một bệnh sử có trễ kinh, ra máu âm đạo và đau hạ vị. Bài học liệt kê tổ hợp này ở phần nào cần được xem xét?",
+      "options": [
+        "Chắc chắn đủ tháng",
+        "Chắc chắn sẩy thai trọn không cần khảo sát",
+        "Thai ở vòi tử cung, đồng thời phải chẩn đoán phân biệt",
+        "Chỉ là thai trứng đã xác nhận"
+      ],
+      "answer": 2,
+      "explanation": "Trang 37 liệt kê ba biểu hiện trong thai ở vòi và nhấn mạnh chẩn đoán phân biệt; tổ hợp không phải chẩn đoán chắc chắn đơn độc.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 37 liệt kê ba biểu hiện trong thai ở vòi và nhấn mạnh chẩn đoán phân biệt; tổ hợp không phải chẩn đoán chắc chắn đơn độc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 37 liệt kê ba biểu hiện trong thai ở vòi và nhấn mạnh chẩn đoán phân biệt; tổ hợp không phải chẩn đoán chắc chắn đơn độc.",
+        "Trang 37 liệt kê ba biểu hiện trong thai ở vòi và nhấn mạnh chẩn đoán phân biệt; tổ hợp không phải chẩn đoán chắc chắn đơn độc.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 37 liệt kê ba biểu hiện trong thai ở vòi và nhấn mạnh chẩn đoán phân biệt; tổ hợp không phải chẩn đoán chắc chắn đơn độc."
+      ],
+      "sources": [
+        {
+          "page": 37,
+          "quote": "THAI Ở VÒI TỬ CUNG\n◈ Trễ kinh\n◈ Ra máu âm đạo\n◈ Đau hạ vị\n◈ Khám lâm sàng: có thể sờ thấy \nkhối cạnh TC\n◈ Chẩn đoán phân biệt!!!\n37",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q048",
+      "topicId": "ectopic",
+      "conceptId": "m13-ectopic-mass",
+      "level": "apply",
+      "stem": "Khám ghi nhận có thể sờ thấy khối cạnh tử cung ở người nghi thai ở vòi. Cách diễn đạt nào đúng mức độ chắc chắn của bài?",
+      "options": [
+        "Khối cạnh tử cung xác nhận thai trứng",
+        "Đây là dấu hiệu có thể gặp, cần chẩn đoán phân biệt",
+        "Không có khối thì chắc chắn loại trừ thai ở vòi",
+        "Mọi khối cạnh tử cung đều xác nhận thai ở vòi"
+      ],
+      "answer": 1,
+      "explanation": "Trang 37 dùng từ 'có thể' và nhấn mạnh chẩn đoán phân biệt; không đủ cho suy luận tất cả hoặc loại trừ tuyệt đối.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 37 dùng từ 'có thể' và nhấn mạnh chẩn đoán phân biệt; không đủ cho suy luận tất cả hoặc loại trừ tuyệt đối.",
+        "Trang 37 dùng từ 'có thể' và nhấn mạnh chẩn đoán phân biệt; không đủ cho suy luận tất cả hoặc loại trừ tuyệt đối.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 37 dùng từ 'có thể' và nhấn mạnh chẩn đoán phân biệt; không đủ cho suy luận tất cả hoặc loại trừ tuyệt đối.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 37 dùng từ 'có thể' và nhấn mạnh chẩn đoán phân biệt; không đủ cho suy luận tất cả hoặc loại trừ tuyệt đối."
+      ],
+      "sources": [
+        {
+          "page": 37,
+          "quote": "THAI Ở VÒI TỬ CUNG\n◈ Trễ kinh\n◈ Ra máu âm đạo\n◈ Đau hạ vị\n◈ Khám lâm sàng: có thể sờ thấy \nkhối cạnh TC\n◈ Chẩn đoán phân biệt!!!\n37",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q049",
+      "topicId": "ectopic",
+      "conceptId": "m13-individualize-treatment",
+      "level": "apply",
+      "stem": "Một học viên đề xuất tất cả thai ngoài tử cung đều dùng cùng một cách điều trị. Phản biện nào bám nguồn?",
+      "options": [
+        "Bài học nêu theo dõi, nội khoa, ngoại khoa và yêu cầu cá thể hóa",
+        "Bài học chỉ cho phép theo dõi",
+        "Bài học chỉ cho phép một thuốc ở mọi tình huống",
+        "Bài học không có phần điều trị"
+      ],
+      "answer": 0,
+      "explanation": "Trang 38 có ba hướng điều trị và nguyên tắc cá thể hóa, nên không thể suy ra một cách duy nhất cho mọi người.",
+      "optionExplanations": [
+        "Trang 38 có ba hướng điều trị và nguyên tắc cá thể hóa, nên không thể suy ra một cách duy nhất cho mọi người.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 38 có ba hướng điều trị và nguyên tắc cá thể hóa, nên không thể suy ra một cách duy nhất cho mọi người.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 38 có ba hướng điều trị và nguyên tắc cá thể hóa, nên không thể suy ra một cách duy nhất cho mọi người.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 38 có ba hướng điều trị và nguyên tắc cá thể hóa, nên không thể suy ra một cách duy nhất cho mọi người."
+      ],
+      "sources": [
+        {
+          "page": 38,
+          "quote": "ĐIỀU TRỊ THAI NGOÀI TỬ CUNG\n◈ Theo dõi\n◈ Điều trị nội khoa\n◈ Điều trị ngoại khoa\n◈ Cá thể hóa điều trị\n38",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q050",
+      "topicId": "mole",
+      "conceptId": "m13-mole-symptoms",
+      "level": "apply",
+      "stem": "Người học cần nhận diện nhóm gợi ý thai trứng theo bài: tổ hợp nào phù hợp?",
+      "options": [
+        "Chỉ một CRL lớn hơn 30 mm",
+        "Chỉ ngày dự sanh lệch 3 ngày",
+        "Chỉ dấu hiệu Hegar",
+        "Nghén nặng, tử cung to nhanh và xuất huyết tử cung bất thường"
+      ],
+      "answer": 3,
+      "explanation": "Trang 42 liệt kê ba biểu hiện này; chúng gợi ý cần khảo sát, không tự xác nhận chẩn đoán.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 42 liệt kê ba biểu hiện này; chúng gợi ý cần khảo sát, không tự xác nhận chẩn đoán.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 42 liệt kê ba biểu hiện này; chúng gợi ý cần khảo sát, không tự xác nhận chẩn đoán.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 42 liệt kê ba biểu hiện này; chúng gợi ý cần khảo sát, không tự xác nhận chẩn đoán.",
+        "Trang 42 liệt kê ba biểu hiện này; chúng gợi ý cần khảo sát, không tự xác nhận chẩn đoán."
+      ],
+      "sources": [
+        {
+          "page": 42,
+          "quote": "THAI TRỨNG\n◈ Nghén nặng\n◈ Tử cung to nhanh\n◈ Xuất huyết tử cung bất thường\n◈ Các triệu chứng do nồng độ beta-\nHCG quá cao\n42",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q051",
+      "topicId": "mole",
+      "conceptId": "m13-mole-first-test",
+      "level": "apply",
+      "stem": "Trong bài tập nghi thai trứng, phương tiện khảo sát đầu tay là gì?",
+      "options": [
+        "Chỉ hỏi ngày kinh chót",
+        "Chỉ đánh giá tình trạng thai máy",
+        "Siêu âm",
+        "Đo CRL cộng 42 để xác nhận mô học"
+      ],
+      "answer": 2,
+      "explanation": "Trang 43 đặt siêu âm ở vai trò khảo sát đầu tay cho thai trứng.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 43 đặt siêu âm ở vai trò khảo sát đầu tay cho thai trứng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 43 đặt siêu âm ở vai trò khảo sát đầu tay cho thai trứng.",
+        "Trang 43 đặt siêu âm ở vai trò khảo sát đầu tay cho thai trứng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 43 đặt siêu âm ở vai trò khảo sát đầu tay cho thai trứng."
+      ],
+      "sources": [
+        {
+          "page": 43,
+          "quote": "THAI TRỨNG\n◈ Siêu âm là khảo \nsát đầu tay\n◈ HCG là phương \ntiện theo dõi\n◈ GPB xác nhận \nchẩn đoán chẩn \nđoán\n43",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q052",
+      "topicId": "mole",
+      "conceptId": "m13-mole-confirm",
+      "level": "apply",
+      "stem": "Sau khảo sát nghi thai trứng, xét nghiệm nào được bài học đặt ở vai trò xác nhận chẩn đoán?",
+      "options": [
+        "Chỉ ngày kinh chót",
+        "Giải phẫu bệnh",
+        "Chỉ mức độ nghén",
+        "Chỉ kích thước tử cung"
+      ],
+      "answer": 1,
+      "explanation": "Trang 43 ghi giải phẫu bệnh xác nhận chẩn đoán; các dấu hiệu lâm sàng không thay vai trò này.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 43 ghi giải phẫu bệnh xác nhận chẩn đoán; các dấu hiệu lâm sàng không thay vai trò này.",
+        "Trang 43 ghi giải phẫu bệnh xác nhận chẩn đoán; các dấu hiệu lâm sàng không thay vai trò này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 43 ghi giải phẫu bệnh xác nhận chẩn đoán; các dấu hiệu lâm sàng không thay vai trò này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 43 ghi giải phẫu bệnh xác nhận chẩn đoán; các dấu hiệu lâm sàng không thay vai trò này."
+      ],
+      "sources": [
+        {
+          "page": 43,
+          "quote": "THAI TRỨNG\n◈ Siêu âm là khảo \nsát đầu tay\n◈ HCG là phương \ntiện theo dõi\n◈ GPB xác nhận \nchẩn đoán chẩn \nđoán\n43",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q053",
+      "topicId": "mole",
+      "conceptId": "m13-mole-followup",
+      "level": "apply",
+      "stem": "Trong kế hoạch theo dõi thai trứng theo bài học, chỉ dấu nào được dùng?",
+      "options": [
+        "hCG",
+        "CRL của mọi trường hợp",
+        "BPD đơn độc",
+        "Ngày kinh chót đơn độc"
+      ],
+      "answer": 0,
+      "explanation": "Cả trang 43 và 44 đều nêu hCG là phương tiện theo dõi thai trứng.",
+      "optionExplanations": [
+        "Cả trang 43 và 44 đều nêu hCG là phương tiện theo dõi thai trứng.",
+        "Không phù hợp với dữ kiện câu hỏi. Cả trang 43 và 44 đều nêu hCG là phương tiện theo dõi thai trứng.",
+        "Không phù hợp với dữ kiện câu hỏi. Cả trang 43 và 44 đều nêu hCG là phương tiện theo dõi thai trứng.",
+        "Không phù hợp với dữ kiện câu hỏi. Cả trang 43 và 44 đều nêu hCG là phương tiện theo dõi thai trứng."
+      ],
+      "sources": [
+        {
+          "page": 43,
+          "quote": "THAI TRỨNG\n◈ Siêu âm là khảo \nsát đầu tay\n◈ HCG là phương \ntiện theo dõi\n◈ GPB xác nhận \nchẩn đoán chẩn \nđoán\n43",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 44,
+          "quote": "THAI TRỨNG\n◈ Hút nạo thai trứng vừa để điều trị \nvừa là công cụ chẩn đoán\n◈ HCG là phương tiện theo dõi\n◈ Ngừa thai trong quá trình điều trị\n44",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q054",
+      "topicId": "mole",
+      "conceptId": "m13-mole-contraception",
+      "level": "apply",
+      "stem": "Một kế hoạch điều trị thai trứng bỏ qua việc ngừa thai. Nội dung nào của bài học cần được bổ sung?",
+      "options": [
+        "Ngừng mọi theo dõi hCG",
+        "Chỉ đo BCTC để khẳng định khỏi bệnh",
+        "Đồng nhất nghén giảm với chẩn đoán mô học",
+        "Ngừa thai trong quá trình điều trị"
+      ],
+      "answer": 3,
+      "explanation": "Trang 44 yêu cầu ngừa thai trong quá trình điều trị và vẫn theo dõi bằng hCG.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 yêu cầu ngừa thai trong quá trình điều trị và vẫn theo dõi bằng hCG.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 yêu cầu ngừa thai trong quá trình điều trị và vẫn theo dõi bằng hCG.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 yêu cầu ngừa thai trong quá trình điều trị và vẫn theo dõi bằng hCG.",
+        "Trang 44 yêu cầu ngừa thai trong quá trình điều trị và vẫn theo dõi bằng hCG."
+      ],
+      "sources": [
+        {
+          "page": 44,
+          "quote": "THAI TRỨNG\n◈ Hút nạo thai trứng vừa để điều trị \nvừa là công cụ chẩn đoán\n◈ HCG là phương tiện theo dõi\n◈ Ngừa thai trong quá trình điều trị\n44",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q055",
+      "topicId": "mole",
+      "conceptId": "m13-mole-classification",
+      "level": "understand",
+      "stem": "Trong danh sách phân loại của bài, thai trứng xâm lấn được xếp cùng nhóm nội dung nào?",
+      "options": [
+        "Các dấu hiệu thăm khám có thai",
+        "Các hình thái sẩy thai trang 28",
+        "Bệnh lý nguyên bào nuôi được trình bày ở phần thai trứng",
+        "Các chỉ số định tuổi thai"
+      ],
+      "answer": 2,
+      "explanation": "Trang 41 liệt kê thai trứng, thai trứng xâm lấn, bệnh nguyên bào nuôi tồn tại nơi nhau bám và ung thư nguyên bào nuôi.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 41 liệt kê thai trứng, thai trứng xâm lấn, bệnh nguyên bào nuôi tồn tại nơi nhau bám và ung thư nguyên bào nuôi.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 41 liệt kê thai trứng, thai trứng xâm lấn, bệnh nguyên bào nuôi tồn tại nơi nhau bám và ung thư nguyên bào nuôi.",
+        "Trang 41 liệt kê thai trứng, thai trứng xâm lấn, bệnh nguyên bào nuôi tồn tại nơi nhau bám và ung thư nguyên bào nuôi.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 41 liệt kê thai trứng, thai trứng xâm lấn, bệnh nguyên bào nuôi tồn tại nơi nhau bám và ung thư nguyên bào nuôi."
+      ],
+      "sources": [
+        {
+          "page": 41,
+          "quote": "PHÂN LOẠI\n◈ Thai trứng\n◈ Thai trứng xâm lấn\n◈ Bệnh nguyên bào nuôi tồn tại nơi \nnhau bám\n◈ Ung thư nguyên bào nuôi\n41",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q056",
+      "topicId": "dating",
+      "conceptId": "m13-lmp-needs-quality",
+      "level": "apply",
+      "stem": "Một người không có dữ kiện kinh chót phù hợp. Có thể tự áp dụng quy tắc 'lệch dưới 5 ngày thì chọn kinh chót' không?",
+      "options": [
+        "Có; siêu âm luôn phải bỏ qua",
+        "Không; quy tắc đòi hỏi dữ kiện kinh chót phù hợp",
+        "Có; quy tắc không có điều kiện nào",
+        "Có; mọi lời nhớ lại đều có độ tin cậy như nhau"
+      ],
+      "answer": 1,
+      "explanation": "Trang 11 đặt điều kiện kinh chót phải thỏa tiêu chuẩn và dữ kiện phải phù hợp; không được bỏ điều kiện này.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 đặt điều kiện kinh chót phải thỏa tiêu chuẩn và dữ kiện phải phù hợp; không được bỏ điều kiện này.",
+        "Trang 11 đặt điều kiện kinh chót phải thỏa tiêu chuẩn và dữ kiện phải phù hợp; không được bỏ điều kiện này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 đặt điều kiện kinh chót phải thỏa tiêu chuẩn và dữ kiện phải phù hợp; không được bỏ điều kiện này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 đặt điều kiện kinh chót phải thỏa tiêu chuẩn và dữ kiện phải phù hợp; không được bỏ điều kiện này."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Lưu ý:\n• Để xác định ngày dự sanh dựa vào kinh chót, kinh chót phải thoả \ntiêu chuẩn nhất định\n• Khi vừa có dữ kiện kinh chót phù hợp, vừa có siêu âm CRL quý 1, \nnếu ngày dự sanh lệch <5 ngày  chọn dự sanh theo KC\n• Nếu có nhiều KQSA đo CRL ở quý 1 thì nên dung kết quả siêu âm \nsớm nhất với CRL >=10mm\n• Luôn luôn gắn việc định tuổi thai với đánh giá tăng trưởng của thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q057",
+      "topicId": "dating",
+      "conceptId": "m13-earliest-eligible",
+      "level": "apply",
+      "stem": "Hai kết quả CRL quý 1 lần lượt là 15 mm và 28 mm. Theo bài, kết quả nào được ưu tiên khi chọn siêu âm định tuổi?",
+      "options": [
+        "Lần 15 mm vì sớm hơn và đạt ít nhất 10 mm",
+        "Lần 28 mm chỉ vì gần 30 mm",
+        "Trung bình hai lần",
+        "Bỏ cả hai vì dưới 30 mm"
+      ],
+      "answer": 0,
+      "explanation": "Trang 11 ưu tiên siêu âm sớm nhất với CRL ít nhất 10 mm; cả hai đạt nhưng lần 15 mm sớm hơn.",
+      "optionExplanations": [
+        "Trang 11 ưu tiên siêu âm sớm nhất với CRL ít nhất 10 mm; cả hai đạt nhưng lần 15 mm sớm hơn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 ưu tiên siêu âm sớm nhất với CRL ít nhất 10 mm; cả hai đạt nhưng lần 15 mm sớm hơn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 ưu tiên siêu âm sớm nhất với CRL ít nhất 10 mm; cả hai đạt nhưng lần 15 mm sớm hơn.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 ưu tiên siêu âm sớm nhất với CRL ít nhất 10 mm; cả hai đạt nhưng lần 15 mm sớm hơn."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Lưu ý:\n• Để xác định ngày dự sanh dựa vào kinh chót, kinh chót phải thoả \ntiêu chuẩn nhất định\n• Khi vừa có dữ kiện kinh chót phù hợp, vừa có siêu âm CRL quý 1, \nnếu ngày dự sanh lệch <5 ngày  chọn dự sanh theo KC\n• Nếu có nhiều KQSA đo CRL ở quý 1 thì nên dung kết quả siêu âm \nsớm nhất với CRL >=10mm\n• Luôn luôn gắn việc định tuổi thai với đánh giá tăng trưởng của thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q058",
+      "topicId": "assessment",
+      "conceptId": "m13-threshold-single-twin",
+      "level": "apply",
+      "stem": "Khi tóm tắt trang 20, sinh viên ghi cùng một mốc hCG cho đơn thai và song thai. Cần sửa điều gì?",
+      "options": [
+        "Nguồn nói chỉ cần mốc 3000 cho mọi thai",
+        "Nguồn nói không hề phân biệt đơn thai/song thai",
+        "Nguồn nói ngưỡng là tiêu chuẩn mô học",
+        "Nguồn nêu 1500–2000 cho đơn thai và 3000 mUI/ml cho song thai, không cứng nhắc"
+      ],
+      "answer": 3,
+      "explanation": "Trang 20 phân biệt hai nhóm thai và nhấn mạnh các số không cứng nhắc; không biến mốc tham khảo thành chẩn đoán tuyệt đối.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 20 phân biệt hai nhóm thai và nhấn mạnh các số không cứng nhắc; không biến mốc tham khảo thành chẩn đoán tuyệt đối.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 20 phân biệt hai nhóm thai và nhấn mạnh các số không cứng nhắc; không biến mốc tham khảo thành chẩn đoán tuyệt đối.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 20 phân biệt hai nhóm thai và nhấn mạnh các số không cứng nhắc; không biến mốc tham khảo thành chẩn đoán tuyệt đối.",
+        "Trang 20 phân biệt hai nhóm thai và nhấn mạnh các số không cứng nhắc; không biến mốc tham khảo thành chẩn đoán tuyệt đối."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "KHÁI NIỆM VỀ NGƯỠNG PHÂN ĐỊNH CỦA BETA-HCG\n◈ Ngưỡng cắt được chọn tùy vào \nđiều kiện thực hành. \n◈ β-hCG 1500-2000mUI/ml đối với \nđơn thai và 3000mUI/ml đối với \nsong thai nhưng không phải là \nnhững con số cứng nhắc\n◈ Khái niệm PUL ra đời\n20",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q059",
+      "topicId": "loss",
+      "conceptId": "m13-loss-proportion",
+      "level": "understand",
+      "stem": "Trong mô tả dịch tễ của bài học, tỷ lệ thai kỳ chấm dứt bằng sẩy thai được ghi là bao nhiêu?",
+      "options": [
+        "100% thai kỳ",
+        "Dưới 0,1% thai kỳ",
+        "15–20% thai kỳ",
+        "80–90% thai kỳ"
+      ],
+      "answer": 2,
+      "explanation": "Trang 27 nêu 15–20% thai kỳ; không nhầm mẫu số này với tỷ lệ trên 80% sẩy thai xảy ra trước 12 tuần.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 nêu 15–20% thai kỳ; không nhầm mẫu số này với tỷ lệ trên 80% sẩy thai xảy ra trước 12 tuần.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 nêu 15–20% thai kỳ; không nhầm mẫu số này với tỷ lệ trên 80% sẩy thai xảy ra trước 12 tuần.",
+        "Trang 27 nêu 15–20% thai kỳ; không nhầm mẫu số này với tỷ lệ trên 80% sẩy thai xảy ra trước 12 tuần.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 nêu 15–20% thai kỳ; không nhầm mẫu số này với tỷ lệ trên 80% sẩy thai xảy ra trước 12 tuần."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "SẨY THAI: ĐỊNH NGHĨA\n◈ Sẩy thai là khi thai được tống \nxuất ra khỏi buồng tử cung \ntrước 22 tuần vô kinh, khi mà \nthai chưa có khả năng tự sống \nđược.\n◈ 15-20% các thai kỳ chấm dứt \nbằng sẩy thai với >80% các \ntrường hợp xảy ra trước 12 \ntuần.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q060",
+      "topicId": "mole",
+      "conceptId": "m13-mole-evacuation",
+      "level": "apply",
+      "stem": "Sau khi học về hút nạo thai trứng, một sinh viên cho rằng thủ thuật chỉ để điều trị. Điều chỉnh nào đúng theo bài?",
+      "options": [
+        "Thủ thuật là phương pháp tính tuổi bằng CRL",
+        "Thủ thuật còn có vai trò chẩn đoán",
+        "Thủ thuật không có vai trò điều trị",
+        "Thủ thuật thay thế hoàn toàn theo dõi"
+      ],
+      "answer": 1,
+      "explanation": "Trang 44 nói hút nạo vừa để điều trị vừa là công cụ chẩn đoán, không loại bỏ theo dõi.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 nói hút nạo vừa để điều trị vừa là công cụ chẩn đoán, không loại bỏ theo dõi.",
+        "Trang 44 nói hút nạo vừa để điều trị vừa là công cụ chẩn đoán, không loại bỏ theo dõi.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 nói hút nạo vừa để điều trị vừa là công cụ chẩn đoán, không loại bỏ theo dõi.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 nói hút nạo vừa để điều trị vừa là công cụ chẩn đoán, không loại bỏ theo dõi."
+      ],
+      "sources": [
+        {
+          "page": 44,
+          "quote": "THAI TRỨNG\n◈ Hút nạo thai trứng vừa để điều trị \nvừa là công cụ chẩn đoán\n◈ HCG là phương tiện theo dõi\n◈ Ngừa thai trong quá trình điều trị\n44",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q061",
+      "topicId": "dating",
+      "conceptId": "m13-integrated-crl-choice",
+      "level": "analyze",
+      "stem": "Có các lần CRL 8, 18 và 34 mm theo thứ tự thời gian. Nếu chọn siêu âm định tuổi theo bài, nhận định nào kết hợp đúng lựa chọn lần đo và công thức?",
+      "options": [
+        "Chọn 18 mm; nằm trong khoảng dùng phép cộng 42",
+        "Chọn 8 mm vì luôn chọn lần sớm nhất; cộng 42",
+        "Chọn 34 mm vì lớn nhất; cộng 42",
+        "Lấy trung bình cả ba rồi cộng 42"
+      ],
+      "answer": 0,
+      "explanation": "Lần 8 mm chưa đạt điều kiện CRL ít nhất 10 mm; lần 18 mm là lần sớm nhất đạt và thuộc khoảng 10–30 mm. Lần 34 mm không dùng phép cộng 42.",
+      "optionExplanations": [
+        "Lần 8 mm chưa đạt điều kiện CRL ít nhất 10 mm; lần 18 mm là lần sớm nhất đạt và thuộc khoảng 10–30 mm. Lần 34 mm không dùng phép cộng 42.",
+        "Không phù hợp với dữ kiện câu hỏi. Lần 8 mm chưa đạt điều kiện CRL ít nhất 10 mm; lần 18 mm là lần sớm nhất đạt và thuộc khoảng 10–30 mm. Lần 34 mm không dùng phép cộng 42.",
+        "Không phù hợp với dữ kiện câu hỏi. Lần 8 mm chưa đạt điều kiện CRL ít nhất 10 mm; lần 18 mm là lần sớm nhất đạt và thuộc khoảng 10–30 mm. Lần 34 mm không dùng phép cộng 42.",
+        "Không phù hợp với dữ kiện câu hỏi. Lần 8 mm chưa đạt điều kiện CRL ít nhất 10 mm; lần 18 mm là lần sớm nhất đạt và thuộc khoảng 10–30 mm. Lần 34 mm không dùng phép cộng 42."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Siêu âm xác định CRL là một \nphương pháp phổ biến để \ntính tuổi thai ở quý 1\n• Tuổi thai (ngày) =CRL (mm) \n+ 42\n• Áp dụng khi CRL từ 10-30mm",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 10,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Khi CRL >30mm, vẫn sử \ndụng CRL để xác định tuổi \nthai nhưng không dùng công \nthức CRL (mm) + 42\n• Tính tuổi thai dựa vào phần \nmềm FMF",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 11,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Lưu ý:\n• Để xác định ngày dự sanh dựa vào kinh chót, kinh chót phải thoả \ntiêu chuẩn nhất định\n• Khi vừa có dữ kiện kinh chót phù hợp, vừa có siêu âm CRL quý 1, \nnếu ngày dự sanh lệch <5 ngày  chọn dự sanh theo KC\n• Nếu có nhiều KQSA đo CRL ở quý 1 thì nên dung kết quả siêu âm \nsớm nhất với CRL >=10mm\n• Luôn luôn gắn việc định tuổi thai với đánh giá tăng trưởng của thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q062",
+      "topicId": "dating",
+      "conceptId": "m13-integrated-lmp-ultrasound",
+      "level": "analyze",
+      "stem": "Kinh chót phù hợp; siêu âm sớm nhất đủ điều kiện có CRL 20 mm, và hai dự sanh lệch 4 ngày. Kết luận nào đúng cả hai quy tắc?",
+      "options": [
+        "CRL tương ứng 62 tuần; chọn trung bình hai dự sanh",
+        "CRL tương ứng 42 ngày; luôn chọn siêu âm",
+        "CRL 20 mm không dùng công thức; bỏ kinh chót",
+        "CRL tương ứng 62 ngày; chọn dự sanh theo kinh chót"
+      ],
+      "answer": 3,
+      "explanation": "Trang 9 cho 20 + 42 = 62 ngày; trang 11 chọn kinh chót khi dữ kiện phù hợp và lệch dưới 5 ngày. Hai quy tắc giải quyết hai khía cạnh khác nhau.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 9 cho 20 + 42 = 62 ngày; trang 11 chọn kinh chót khi dữ kiện phù hợp và lệch dưới 5 ngày. Hai quy tắc giải quyết hai khía cạnh khác nhau.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 9 cho 20 + 42 = 62 ngày; trang 11 chọn kinh chót khi dữ kiện phù hợp và lệch dưới 5 ngày. Hai quy tắc giải quyết hai khía cạnh khác nhau.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 9 cho 20 + 42 = 62 ngày; trang 11 chọn kinh chót khi dữ kiện phù hợp và lệch dưới 5 ngày. Hai quy tắc giải quyết hai khía cạnh khác nhau.",
+        "Trang 9 cho 20 + 42 = 62 ngày; trang 11 chọn kinh chót khi dữ kiện phù hợp và lệch dưới 5 ngày. Hai quy tắc giải quyết hai khía cạnh khác nhau."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Siêu âm xác định CRL là một \nphương pháp phổ biến để \ntính tuổi thai ở quý 1\n• Tuổi thai (ngày) =CRL (mm) \n+ 42\n• Áp dụng khi CRL từ 10-30mm",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 11,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Lưu ý:\n• Để xác định ngày dự sanh dựa vào kinh chót, kinh chót phải thoả \ntiêu chuẩn nhất định\n• Khi vừa có dữ kiện kinh chót phù hợp, vừa có siêu âm CRL quý 1, \nnếu ngày dự sanh lệch <5 ngày  chọn dự sanh theo KC\n• Nếu có nhiều KQSA đo CRL ở quý 1 thì nên dung kết quả siêu âm \nsớm nhất với CRL >=10mm\n• Luôn luôn gắn việc định tuổi thai với đánh giá tăng trưởng của thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q063",
+      "topicId": "dating",
+      "conceptId": "m13-integrated-scope-accuracy",
+      "level": "analyze",
+      "stem": "Một hồ sơ chỉ có siêu âm muộn và CRL ngoài khoảng công thức. Sai lầm nào cần tránh đồng thời?",
+      "options": [
+        "Kiểm tra phạm vi áp dụng công thức",
+        "Gắn định tuổi với tăng trưởng thai",
+        "Tự dùng CRL bất kỳ cộng 42 rồi gọi chính xác ngang định tuổi quý 1",
+        "Thừa nhận dữ kiện muộn có giới hạn"
+      ],
+      "answer": 2,
+      "explanation": "Bài giới hạn công thức CRL và nêu dữ kiện quý 2, 3 kém chính xác hơn. Hai giới hạn không được bỏ chỉ để tạo ra một con số tuổi thai.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Bài giới hạn công thức CRL và nêu dữ kiện quý 2, 3 kém chính xác hơn. Hai giới hạn không được bỏ chỉ để tạo ra một con số tuổi thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Bài giới hạn công thức CRL và nêu dữ kiện quý 2, 3 kém chính xác hơn. Hai giới hạn không được bỏ chỉ để tạo ra một con số tuổi thai.",
+        "Bài giới hạn công thức CRL và nêu dữ kiện quý 2, 3 kém chính xác hơn. Hai giới hạn không được bỏ chỉ để tạo ra một con số tuổi thai.",
+        "Không phù hợp với dữ kiện câu hỏi. Bài giới hạn công thức CRL và nêu dữ kiện quý 2, 3 kém chính xác hơn. Hai giới hạn không được bỏ chỉ để tạo ra một con số tuổi thai."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Tuổi thai/ngày dự sanh được xác định chính xác nhất trong quý 1 \ncủa thai kỳ:\n• Hỏi tiền sử và bệnh sử để định tuổi thai: kinh chót\n• Siêu âm để định tuổi thai: CRL\n• Tuổi thai/ngày dự sanh có thể được xác định trong quý 2 và 3 \nnhưng kém chính xác hơn\n• Hỏi tiền sử, bệnh sử, khám lâm sàng để định tuổi thai: BCTC\n• Siêu âm để định tuổi thai: BPD, HC, FL, AC",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 9,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Siêu âm xác định CRL là một \nphương pháp phổ biến để \ntính tuổi thai ở quý 1\n• Tuổi thai (ngày) =CRL (mm) \n+ 42\n• Áp dụng khi CRL từ 10-30mm",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 10,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Khi CRL >30mm, vẫn sử \ndụng CRL để xác định tuổi \nthai nhưng không dùng công \nthức CRL (mm) + 42\n• Tính tuổi thai dựa vào phần \nmềm FMF",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 12,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Khi hoàn toàn không có dữ kiện để xác định chính xác tuổi thai ở \nquý 1  tính tuổi thai/ngày dự sanh theo các dữ kiễn ở quý 2, quý \n3 sẽ kém chính xác hơn:\n• BCTC\n• BPD\n• HC\n• AC\n• FL",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q064",
+      "topicId": "assessment",
+      "conceptId": "m13-integrated-evidence",
+      "level": "analyze",
+      "stem": "Một học viên nói 'khám không tìm được nhiều thông tin nên thai chắc chắn bình thường'. Phân tích nào đúng?",
+      "options": [
+        "Sai chỉ vì mọi thai ra huyết đều là thai trứng",
+        "Kết luận vượt dữ kiện; khám có giới hạn và siêu âm giúp khảo sát vị trí, sinh tồn",
+        "Đúng vì khám ít thông tin luôn loại trừ bệnh",
+        "Đúng vì siêu âm không cung cấp thông tin nào thêm"
+      ],
+      "answer": 1,
+      "explanation": "Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu siêu âm cung cấp vị trí và sinh tồn. Không có căn cứ biến thiếu thông tin thành bằng chứng bình thường.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu siêu âm cung cấp vị trí và sinh tồn. Không có căn cứ biến thiếu thông tin thành bằng chứng bình thường.",
+        "Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu siêu âm cung cấp vị trí và sinh tồn. Không có căn cứ biến thiếu thông tin thành bằng chứng bình thường.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu siêu âm cung cấp vị trí và sinh tồn. Không có căn cứ biến thiếu thông tin thành bằng chứng bình thường.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 15 thừa nhận khám có thể ít thông tin; trang 16 nêu siêu âm cung cấp vị trí và sinh tồn. Không có căn cứ biến thiếu thông tin thành bằng chứng bình thường."
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "quote": "HỎI BỆNH SỬ, TIỀN SỬ, KHÁM LÂM SÀNG\n◈ Tìm các YTNC có tính định hướng \ntrong tiền sử\n◈ Những thông tin giúp định hướng \nchẩn đoán trong bệnh sử \n◈ Khám lâm sàng tìm những thông \ntin quan trọng cho chẩn đoán \nnhưng đôi khi lại không tìm được \nnhiều thông tin\n15",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 16,
+          "quote": "SIÊU ÂM\n◈ Là phương tiện đầu tay\n◈ TVS ưu thế hơn TAS\n◈ Cung cấp thông tin về vị trí của \nthai, tính sinh tồn của thai\n◈ Một vài hình ảnh điển hình: thai \ntrứng, thai ngoài tử cung sống\n16",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q065",
+      "topicId": "assessment",
+      "conceptId": "m13-integrated-threshold",
+      "level": "analyze",
+      "stem": "Một người dùng duy nhất mốc β-hCG cố định để khẳng định vị trí thai, không xét đơn/song thai hay siêu âm. Lập luận nào bám đúng tài liệu?",
+      "options": [
+        "Phải giữ vai trò siêu âm và xét bối cảnh của ngưỡng; không biến con số tham khảo thành kết luận độc lập",
+        "Một mốc luôn đủ cho mọi hoàn cảnh",
+        "Ngưỡng luôn giống nhau cho đơn thai và song thai",
+        "Siêu âm chỉ có giá trị sau khi đã xác nhận mô học"
+      ],
+      "answer": 0,
+      "explanation": "Trang 16 nêu siêu âm cung cấp vị trí; trang 20 nói ngưỡng khác theo bối cảnh và không cứng nhắc. Không đủ căn cứ khẳng định vị trí bằng con số tách rời.",
+      "optionExplanations": [
+        "Trang 16 nêu siêu âm cung cấp vị trí; trang 20 nói ngưỡng khác theo bối cảnh và không cứng nhắc. Không đủ căn cứ khẳng định vị trí bằng con số tách rời.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 nêu siêu âm cung cấp vị trí; trang 20 nói ngưỡng khác theo bối cảnh và không cứng nhắc. Không đủ căn cứ khẳng định vị trí bằng con số tách rời.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 nêu siêu âm cung cấp vị trí; trang 20 nói ngưỡng khác theo bối cảnh và không cứng nhắc. Không đủ căn cứ khẳng định vị trí bằng con số tách rời.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 nêu siêu âm cung cấp vị trí; trang 20 nói ngưỡng khác theo bối cảnh và không cứng nhắc. Không đủ căn cứ khẳng định vị trí bằng con số tách rời."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "SIÊU ÂM\n◈ Là phương tiện đầu tay\n◈ TVS ưu thế hơn TAS\n◈ Cung cấp thông tin về vị trí của \nthai, tính sinh tồn của thai\n◈ Một vài hình ảnh điển hình: thai \ntrứng, thai ngoài tử cung sống\n16",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 20,
+          "quote": "KHÁI NIỆM VỀ NGƯỠNG PHÂN ĐỊNH CỦA BETA-HCG\n◈ Ngưỡng cắt được chọn tùy vào \nđiều kiện thực hành. \n◈ β-hCG 1500-2000mUI/ml đối với \nđơn thai và 3000mUI/ml đối với \nsong thai nhưng không phải là \nnhững con số cứng nhắc\n◈ Khái niệm PUL ra đời\n20",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q066",
+      "topicId": "loss",
+      "conceptId": "m13-integrated-prediction-diagnosis",
+      "level": "analyze",
+      "stem": "Hai hồ sơ: X có dấu hiệu siêu âm dự báo bất lợi; Y đã được xác định thai ngừng phát triển trong tử cung. Nhận định nào phân biệt đúng mức độ bằng chứng?",
+      "options": [
+        "Cả X và Y đều chắc chắn thai lưu vì mọi dự báo là xác nhận",
+        "Y là thai ngoài tử cung theo định nghĩa",
+        "Chỉ mức độ đau bụng quyết định phân biệt X và Y",
+        "X chưa thể được đồng nhất với Y chỉ từ dấu hiệu dự báo"
+      ],
+      "answer": 3,
+      "explanation": "Trang 25 giới hạn siêu âm dự báo; trang 23 định nghĩa thai lưu. Phải phân biệt dấu hiệu nguy cơ với tình trạng đã xác định.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 giới hạn siêu âm dự báo; trang 23 định nghĩa thai lưu. Phải phân biệt dấu hiệu nguy cơ với tình trạng đã xác định.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 giới hạn siêu âm dự báo; trang 23 định nghĩa thai lưu. Phải phân biệt dấu hiệu nguy cơ với tình trạng đã xác định.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 giới hạn siêu âm dự báo; trang 23 định nghĩa thai lưu. Phải phân biệt dấu hiệu nguy cơ với tình trạng đã xác định.",
+        "Trang 25 giới hạn siêu âm dự báo; trang 23 định nghĩa thai lưu. Phải phân biệt dấu hiệu nguy cơ với tình trạng đã xác định."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "THAI LƯU\n◈ Thai ngừng phát triển trong buồng \ntử cung. \n◈ Chẩn đoán dựa vào siêu âm\n◈ β-hCG gần như không có giá trị\n◈ Khi thai đã lưu, phải chấm dứt \nthai kỳ\n23",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 25,
+          "quote": "DỌA SẨY THAI LƯU\n◈ Dự báo sẽ xảy ra sẩy thai trên một \nthai đã hoặc gần như chắc chắn sẽ \nngưng phát triển\n◈ Là tình trạng gần như không thể \nđảo ngược, nguyên nhân thường là \nlệch bội\n◈ Biểu hiện lâm sàng: đau bụng hoặc \nra huyết\n◈ Siêu âm có giá trị dự báo nhưng \nkhông cho phép khẳng định\n25",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q067",
+      "topicId": "loss",
+      "conceptId": "m13-integrated-loss-statistics",
+      "level": "analyze",
+      "stem": "Một bản tóm tắt viết 'trên 80% mọi thai kỳ đều sẩy trước 12 tuần'. Sửa cách đọc số liệu nào đúng?",
+      "options": [
+        "Cả hai tỷ lệ đều áp dụng cho mọi thai kỳ độc lập",
+        "Không có tỷ lệ nào trong tài liệu",
+        "15–20% thai kỳ kết thúc bằng sẩy thai; trên 80% trong nhóm sẩy thai xảy ra trước 12 tuần",
+        "Trên 80% mọi thai kỳ sẩy, còn 15–20% sẩy trước 12 tuần"
+      ],
+      "answer": 2,
+      "explanation": "Trang 27 dùng hai mẫu số khác nhau: tất cả thai kỳ và các trường hợp sẩy thai. Trộn mẫu số làm thay đổi ý nghĩa số liệu.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 dùng hai mẫu số khác nhau: tất cả thai kỳ và các trường hợp sẩy thai. Trộn mẫu số làm thay đổi ý nghĩa số liệu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 dùng hai mẫu số khác nhau: tất cả thai kỳ và các trường hợp sẩy thai. Trộn mẫu số làm thay đổi ý nghĩa số liệu.",
+        "Trang 27 dùng hai mẫu số khác nhau: tất cả thai kỳ và các trường hợp sẩy thai. Trộn mẫu số làm thay đổi ý nghĩa số liệu.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 dùng hai mẫu số khác nhau: tất cả thai kỳ và các trường hợp sẩy thai. Trộn mẫu số làm thay đổi ý nghĩa số liệu."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "SẨY THAI: ĐỊNH NGHĨA\n◈ Sẩy thai là khi thai được tống \nxuất ra khỏi buồng tử cung \ntrước 22 tuần vô kinh, khi mà \nthai chưa có khả năng tự sống \nđược.\n◈ 15-20% các thai kỳ chấm dứt \nbằng sẩy thai với >80% các \ntrường hợp xảy ra trước 12 \ntuần.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q068",
+      "topicId": "loss",
+      "conceptId": "m13-integrated-treatment-scope",
+      "level": "analyze",
+      "stem": "Một học viên thấy dấu hiệu dự báo bất lợi rồi tự chọn ngay Misoprostol cho mọi trường hợp. Phân tích nào phù hợp nguồn?",
+      "options": [
+        "Đúng vì khám và siêu âm không còn vai trò",
+        "Chưa đủ căn cứ: phải phân biệt dự báo với chẩn đoán, và danh sách phương pháp không phải chỉ định chung cho mọi người",
+        "Đúng vì mọi dự báo đều chứng minh thai lưu",
+        "Đúng vì trang 30 chỉ nêu duy nhất Misoprostol"
+      ],
+      "answer": 1,
+      "explanation": "Trang 25 không cho khẳng định chỉ từ dự báo; trang 30 liệt kê nhiều hướng xử trí, không cung cấp quy tắc chọn thuốc cho mọi tình huống.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 không cho khẳng định chỉ từ dự báo; trang 30 liệt kê nhiều hướng xử trí, không cung cấp quy tắc chọn thuốc cho mọi tình huống.",
+        "Trang 25 không cho khẳng định chỉ từ dự báo; trang 30 liệt kê nhiều hướng xử trí, không cung cấp quy tắc chọn thuốc cho mọi tình huống.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 không cho khẳng định chỉ từ dự báo; trang 30 liệt kê nhiều hướng xử trí, không cung cấp quy tắc chọn thuốc cho mọi tình huống.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 25 không cho khẳng định chỉ từ dự báo; trang 30 liệt kê nhiều hướng xử trí, không cung cấp quy tắc chọn thuốc cho mọi tình huống."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "THAI LƯU\n◈ Thai ngừng phát triển trong buồng \ntử cung. \n◈ Chẩn đoán dựa vào siêu âm\n◈ β-hCG gần như không có giá trị\n◈ Khi thai đã lưu, phải chấm dứt \nthai kỳ\n23",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 25,
+          "quote": "DỌA SẨY THAI LƯU\n◈ Dự báo sẽ xảy ra sẩy thai trên một \nthai đã hoặc gần như chắc chắn sẽ \nngưng phát triển\n◈ Là tình trạng gần như không thể \nđảo ngược, nguyên nhân thường là \nlệch bội\n◈ Biểu hiện lâm sàng: đau bụng hoặc \nra huyết\n◈ Siêu âm có giá trị dự báo nhưng \nkhông cho phép khẳng định\n25",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 30,
+          "quote": "XỬ TRÍ THAI NGHÉN THẤT BẠI SỚM\n◈ Theo dõi diễn tiến\n◈ Chấm dứt thai kỳ bằng Misoprostol\n◈ Chấm dứt thai kỳ bằng hút lòng tử \ncung\n30",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q069",
+      "topicId": "ectopic",
+      "conceptId": "m13-integrated-location-viability",
+      "level": "apply",
+      "stem": "Hai báo cáo: A xác nhận thai ngừng phát triển trong buồng tử cung; B xác nhận thai làm tổ ngoài buồng tử cung. Cách phân loại nào đúng?",
+      "options": [
+        "A là thai lưu; B là thai ngoài tử cung",
+        "A và B đều là thai trứng",
+        "A là thai ngoài tử cung; B là thai lưu trong buồng tử cung",
+        "Cả hai đều chỉ là ngày dự sanh chưa chính xác"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa thai lưu ở trang 23 dựa vào ngừng phát triển trong buồng tử cung; định nghĩa thai ngoài tử cung ở trang 32 dựa vào vị trí làm tổ bên ngoài.",
+      "optionExplanations": [
+        "Định nghĩa thai lưu ở trang 23 dựa vào ngừng phát triển trong buồng tử cung; định nghĩa thai ngoài tử cung ở trang 32 dựa vào vị trí làm tổ bên ngoài.",
+        "Không phù hợp với dữ kiện câu hỏi. Định nghĩa thai lưu ở trang 23 dựa vào ngừng phát triển trong buồng tử cung; định nghĩa thai ngoài tử cung ở trang 32 dựa vào vị trí làm tổ bên ngoài.",
+        "Không phù hợp với dữ kiện câu hỏi. Định nghĩa thai lưu ở trang 23 dựa vào ngừng phát triển trong buồng tử cung; định nghĩa thai ngoài tử cung ở trang 32 dựa vào vị trí làm tổ bên ngoài.",
+        "Không phù hợp với dữ kiện câu hỏi. Định nghĩa thai lưu ở trang 23 dựa vào ngừng phát triển trong buồng tử cung; định nghĩa thai ngoài tử cung ở trang 32 dựa vào vị trí làm tổ bên ngoài."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "THAI LƯU\n◈ Thai ngừng phát triển trong buồng \ntử cung. \n◈ Chẩn đoán dựa vào siêu âm\n◈ β-hCG gần như không có giá trị\n◈ Khi thai đã lưu, phải chấm dứt \nthai kỳ\n23",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 32,
+          "quote": "THAI NGOÀI TỬ CUNG\n◈ Thai làm tổ bên \nngoài buồng tử \ncung\n◈ Nguyên nhân gây \ntử vong mẹ \nthường gặp nhất \ntrong 3 tháng \nđầu \n◈ Vị trí\n◈ Xuất độ 1/80 \nthai kỳ t  nhiên\n32",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q070",
+      "topicId": "ectopic",
+      "conceptId": "m13-integrated-tubal-bleeding",
+      "level": "analyze",
+      "stem": "Một học viên kết luận 'có xuất huyết nội trong thai ở vòi thì chỉ có thể do vòi đã vỡ'. Phân tích nào đúng theo sơ đồ bài học?",
+      "options": [
+        "Đúng vì sơ đồ chỉ có một diễn tiến",
+        "Sai vì vỡ vòi không bao giờ gây xuất huyết nội",
+        "Đúng vì thoái triển đồng nghĩa vỡ vòi",
+        "Không đủ: sơ đồ còn nêu sẩy qua loa có thể gây xuất huyết nội"
+      ],
+      "answer": 3,
+      "explanation": "Trang 36 cho hai đường dẫn đến xuất huyết nội: vỡ vòi và sẩy qua loa. Hậu quả chung không xác định duy nhất cơ chế.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 cho hai đường dẫn đến xuất huyết nội: vỡ vòi và sẩy qua loa. Hậu quả chung không xác định duy nhất cơ chế.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 cho hai đường dẫn đến xuất huyết nội: vỡ vòi và sẩy qua loa. Hậu quả chung không xác định duy nhất cơ chế.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 36 cho hai đường dẫn đến xuất huyết nội: vỡ vòi và sẩy qua loa. Hậu quả chung không xác định duy nhất cơ chế.",
+        "Trang 36 cho hai đường dẫn đến xuất huyết nội: vỡ vòi và sẩy qua loa. Hậu quả chung không xác định duy nhất cơ chế."
+      ],
+      "sources": [
+        {
+          "page": 36,
+          "quote": "THAI Ở VÒI TỬ CUNG\n◈ Vỡ vòi trứng  \nxuất huyết nội\n◈ Sẩy qua loa  \nxuất huyết nội\n◈ Thoái triển\n36",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q071",
+      "topicId": "ectopic",
+      "conceptId": "m13-integrated-symptom-certainty",
+      "level": "analyze",
+      "stem": "Trễ kinh, ra máu, đau hạ vị và khối cạnh tử cung được ghi nhận. Vì sao không nên chỉ từ tổ hợp này khẳng định mọi chi tiết của thai ở vòi?",
+      "options": [
+        "Vì không dấu hiệu nào thuộc bài học",
+        "Vì vị trí thai chỉ do ngày kinh chót quyết định",
+        "Bài yêu cầu chẩn đoán phân biệt; siêu âm còn cung cấp vị trí và sinh tồn",
+        "Vì tổ hợp này chắc chắn là thai trứng"
+      ],
+      "answer": 2,
+      "explanation": "Trang 37 liệt kê dấu hiệu nhưng nhấn mạnh chẩn đoán phân biệt; trang 16 cho vai trò của siêu âm. Dấu hiệu gợi ý không thay thế mọi khảo sát.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 37 liệt kê dấu hiệu nhưng nhấn mạnh chẩn đoán phân biệt; trang 16 cho vai trò của siêu âm. Dấu hiệu gợi ý không thay thế mọi khảo sát.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 37 liệt kê dấu hiệu nhưng nhấn mạnh chẩn đoán phân biệt; trang 16 cho vai trò của siêu âm. Dấu hiệu gợi ý không thay thế mọi khảo sát.",
+        "Trang 37 liệt kê dấu hiệu nhưng nhấn mạnh chẩn đoán phân biệt; trang 16 cho vai trò của siêu âm. Dấu hiệu gợi ý không thay thế mọi khảo sát.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 37 liệt kê dấu hiệu nhưng nhấn mạnh chẩn đoán phân biệt; trang 16 cho vai trò của siêu âm. Dấu hiệu gợi ý không thay thế mọi khảo sát."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "SIÊU ÂM\n◈ Là phương tiện đầu tay\n◈ TVS ưu thế hơn TAS\n◈ Cung cấp thông tin về vị trí của \nthai, tính sinh tồn của thai\n◈ Một vài hình ảnh điển hình: thai \ntrứng, thai ngoài tử cung sống\n16",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 37,
+          "quote": "THAI Ở VÒI TỬ CUNG\n◈ Trễ kinh\n◈ Ra máu âm đạo\n◈ Đau hạ vị\n◈ Khám lâm sàng: có thể sờ thấy \nkhối cạnh TC\n◈ Chẩn đoán phân biệt!!!\n37",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q072",
+      "topicId": "ectopic",
+      "conceptId": "m13-integrated-treatment-no-protocol",
+      "level": "analyze",
+      "stem": "Từ trang 38 chỉ liệt kê theo dõi, nội khoa, ngoại khoa và cá thể hóa, có thể kết luận điều gì?",
+      "options": [
+        "Mọi người đều chỉ theo dõi",
+        "Chưa đủ dữ kiện để suy ra một liều thuốc hoặc một phương pháp bắt buộc cho mọi bệnh nhân",
+        "Đã có đủ liều điều trị cụ thể",
+        "Mọi người đều phải phẫu thuật"
+      ],
+      "answer": 1,
+      "explanation": "Trang 38 cho các hướng và nguyên tắc, không nêu liều hay một chỉ định duy nhất cho tất cả. Suy ra thêm sẽ vượt phạm vi tài liệu này.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 38 cho các hướng và nguyên tắc, không nêu liều hay một chỉ định duy nhất cho tất cả. Suy ra thêm sẽ vượt phạm vi tài liệu này.",
+        "Trang 38 cho các hướng và nguyên tắc, không nêu liều hay một chỉ định duy nhất cho tất cả. Suy ra thêm sẽ vượt phạm vi tài liệu này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 38 cho các hướng và nguyên tắc, không nêu liều hay một chỉ định duy nhất cho tất cả. Suy ra thêm sẽ vượt phạm vi tài liệu này.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 38 cho các hướng và nguyên tắc, không nêu liều hay một chỉ định duy nhất cho tất cả. Suy ra thêm sẽ vượt phạm vi tài liệu này."
+      ],
+      "sources": [
+        {
+          "page": 38,
+          "quote": "ĐIỀU TRỊ THAI NGOÀI TỬ CUNG\n◈ Theo dõi\n◈ Điều trị nội khoa\n◈ Điều trị ngoại khoa\n◈ Cá thể hóa điều trị\n38",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q073",
+      "topicId": "mole",
+      "conceptId": "m13-integrated-mole-diagnostics",
+      "level": "analyze",
+      "stem": "Một học viên đồng nhất nghén nặng và tử cung to nhanh với chẩn đoán xác nhận thai trứng, rồi bỏ giải phẫu bệnh. Cách sửa nào đúng?",
+      "options": [
+        "Các biểu hiện gợi ý cần khảo sát; siêu âm đầu tay và giải phẫu bệnh xác nhận theo bài",
+        "Nghén nặng thay thế được giải phẫu bệnh",
+        "Tử cung to nhanh luôn là tiêu chuẩn duy nhất",
+        "hCG theo dõi đồng nghĩa hCG xác nhận mô học"
+      ],
+      "answer": 0,
+      "explanation": "Trang 42 nêu biểu hiện; trang 43 phân biệt khảo sát đầu tay, theo dõi và xác nhận. Không đồng nhất các vai trò.",
+      "optionExplanations": [
+        "Trang 42 nêu biểu hiện; trang 43 phân biệt khảo sát đầu tay, theo dõi và xác nhận. Không đồng nhất các vai trò.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 42 nêu biểu hiện; trang 43 phân biệt khảo sát đầu tay, theo dõi và xác nhận. Không đồng nhất các vai trò.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 42 nêu biểu hiện; trang 43 phân biệt khảo sát đầu tay, theo dõi và xác nhận. Không đồng nhất các vai trò.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 42 nêu biểu hiện; trang 43 phân biệt khảo sát đầu tay, theo dõi và xác nhận. Không đồng nhất các vai trò."
+      ],
+      "sources": [
+        {
+          "page": 42,
+          "quote": "THAI TRỨNG\n◈ Nghén nặng\n◈ Tử cung to nhanh\n◈ Xuất huyết tử cung bất thường\n◈ Các triệu chứng do nồng độ beta-\nHCG quá cao\n42",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 43,
+          "quote": "THAI TRỨNG\n◈ Siêu âm là khảo \nsát đầu tay\n◈ HCG là phương \ntiện theo dõi\n◈ GPB xác nhận \nchẩn đoán chẩn \nđoán\n43",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q074",
+      "topicId": "mole",
+      "conceptId": "m13-integrated-mole-followup",
+      "level": "analyze",
+      "stem": "Sau hút nạo, một kế hoạch coi vai trò chẩn đoán của thủ thuật là lý do dừng hCG và bỏ ngừa thai. Phản biện nào đúng?",
+      "options": [
+        "Đúng vì thủ thuật loại bỏ mọi theo dõi",
+        "Đúng vì hCG chỉ để tính CRL",
+        "Đúng vì giải phẫu bệnh thay thế ngừa thai",
+        "Hút nạo có hai vai trò nhưng bài vẫn yêu cầu hCG theo dõi và ngừa thai"
+      ],
+      "answer": 3,
+      "explanation": "Trang 44 đồng thời nêu hút nạo điều trị/chẩn đoán, theo dõi hCG và ngừa thai. Một vai trò không triệt tiêu các yêu cầu còn lại.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 đồng thời nêu hút nạo điều trị/chẩn đoán, theo dõi hCG và ngừa thai. Một vai trò không triệt tiêu các yêu cầu còn lại.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 đồng thời nêu hút nạo điều trị/chẩn đoán, theo dõi hCG và ngừa thai. Một vai trò không triệt tiêu các yêu cầu còn lại.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 44 đồng thời nêu hút nạo điều trị/chẩn đoán, theo dõi hCG và ngừa thai. Một vai trò không triệt tiêu các yêu cầu còn lại.",
+        "Trang 44 đồng thời nêu hút nạo điều trị/chẩn đoán, theo dõi hCG và ngừa thai. Một vai trò không triệt tiêu các yêu cầu còn lại."
+      ],
+      "sources": [
+        {
+          "page": 43,
+          "quote": "THAI TRỨNG\n◈ Siêu âm là khảo \nsát đầu tay\n◈ HCG là phương \ntiện theo dõi\n◈ GPB xác nhận \nchẩn đoán chẩn \nđoán\n43",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 44,
+          "quote": "THAI TRỨNG\n◈ Hút nạo thai trứng vừa để điều trị \nvừa là công cụ chẩn đoán\n◈ HCG là phương tiện theo dõi\n◈ Ngừa thai trong quá trình điều trị\n44",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q075",
+      "topicId": "diagnosis",
+      "conceptId": "m13-integrated-data-types",
+      "level": "apply",
+      "stem": "Một phiếu ghi 'nghén: cận lâm sàng; Hegar: bệnh sử; hCG máu: khám thực thể'. Cách sửa đúng cả ba là gì?",
+      "options": [
+        "Nghén: mô học; Hegar: hCG; hCG máu: bệnh sử",
+        "Cả ba đều là siêu âm",
+        "Nghén: bệnh sử; Hegar: khám lâm sàng; hCG máu: cận lâm sàng",
+        "Giữ nguyên cả ba"
+      ],
+      "answer": 2,
+      "explanation": "Trang 3–5 lần lượt phân nhóm các dữ kiện; phải phân biệt thông tin được kể, dấu hiệu khám và xét nghiệm.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 3–5 lần lượt phân nhóm các dữ kiện; phải phân biệt thông tin được kể, dấu hiệu khám và xét nghiệm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 3–5 lần lượt phân nhóm các dữ kiện; phải phân biệt thông tin được kể, dấu hiệu khám và xét nghiệm.",
+        "Trang 3–5 lần lượt phân nhóm các dữ kiện; phải phân biệt thông tin được kể, dấu hiệu khám và xét nghiệm.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 3–5 lần lượt phân nhóm các dữ kiện; phải phân biệt thông tin được kể, dấu hiệu khám và xét nghiệm."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "BỆNH SỬ/CHẨN ĐOÁN CÓ THAI\n• Trễ kinh/XHTC bất thường\n• Nghén\n• Bụng to, Thai máy\n• Rối loạn đi tiểu\n• Thay đổi ở vú",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 4,
+          "quote": "KHÁM LS/CHẨN ĐOÁN CÓ THAI\n• Tử cung to, rạn da, nghe \nđược tim thai, sờ thấy thai\n• Dấu hiệu Chadwick\n• Dấu hiệu Goodell\n• Dấu hiệu Hegar",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 5,
+          "quote": "CLS/CHẨN ĐOÁN CÓ THAI\n• HCG/nước tiểu\n• HCG/máu\n• Siêu âm\n• MRI",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q076",
+      "topicId": "dating",
+      "conceptId": "m13-integrated-boundary",
+      "level": "analyze",
+      "stem": "Một bản tóm tắt ghi 'lấy lần siêu âm sớm nhất bất kể CRL, luôn cộng 42 dù trên 30 mm'. Nó bỏ qua hai điều kiện nào?",
+      "options": [
+        "Không có điều kiện nào bị bỏ qua",
+        "CRL ít nhất 10 mm khi chọn lần siêu âm và khoảng 10–30 mm của công thức",
+        "CRL ít nhất 30 mm và tuổi thai tính bằng năm",
+        "Chỉ dùng siêu âm quý 3 và hCG trên 3000"
+      ],
+      "answer": 1,
+      "explanation": "Trang 11 đặt điều kiện chọn lần đo; trang 9–10 đặt phạm vi công thức. Hai điều kiện phải được kiểm riêng.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 đặt điều kiện chọn lần đo; trang 9–10 đặt phạm vi công thức. Hai điều kiện phải được kiểm riêng.",
+        "Trang 11 đặt điều kiện chọn lần đo; trang 9–10 đặt phạm vi công thức. Hai điều kiện phải được kiểm riêng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 đặt điều kiện chọn lần đo; trang 9–10 đặt phạm vi công thức. Hai điều kiện phải được kiểm riêng.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 11 đặt điều kiện chọn lần đo; trang 9–10 đặt phạm vi công thức. Hai điều kiện phải được kiểm riêng."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Siêu âm xác định CRL là một \nphương pháp phổ biến để \ntính tuổi thai ở quý 1\n• Tuổi thai (ngày) =CRL (mm) \n+ 42\n• Áp dụng khi CRL từ 10-30mm",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 10,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Khi CRL >30mm, vẫn sử \ndụng CRL để xác định tuổi \nthai nhưng không dùng công \nthức CRL (mm) + 42\n• Tính tuổi thai dựa vào phần \nmềm FMF",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 11,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Lưu ý:\n• Để xác định ngày dự sanh dựa vào kinh chót, kinh chót phải thoả \ntiêu chuẩn nhất định\n• Khi vừa có dữ kiện kinh chót phù hợp, vừa có siêu âm CRL quý 1, \nnếu ngày dự sanh lệch <5 ngày  chọn dự sanh theo KC\n• Nếu có nhiều KQSA đo CRL ở quý 1 thì nên dung kết quả siêu âm \nsớm nhất với CRL >=10mm\n• Luôn luôn gắn việc định tuổi thai với đánh giá tăng trưởng của thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q077",
+      "topicId": "assessment",
+      "conceptId": "m13-integrated-tests-roles",
+      "level": "analyze",
+      "stem": "Cách ghép vai trò nào tránh nhầm giữa các phần của cùng bài?",
+      "options": [
+        "Siêu âm khảo sát vị trí/sinh tồn và chẩn đoán thai lưu; GPB xác nhận thai trứng",
+        "hCG đơn độc xác nhận mô học thai trứng và mọi thai lưu",
+        "Ngày kinh chót xác nhận mô học thai trứng",
+        "Nghén thay siêu âm cho vị trí thai"
+      ],
+      "answer": 0,
+      "explanation": "Trang 16 và 23 nêu vai trò siêu âm; trang 43 nêu GPB xác nhận thai trứng. Không chuyển nhiệm vụ mô học sang triệu chứng hay hCG.",
+      "optionExplanations": [
+        "Trang 16 và 23 nêu vai trò siêu âm; trang 43 nêu GPB xác nhận thai trứng. Không chuyển nhiệm vụ mô học sang triệu chứng hay hCG.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 và 23 nêu vai trò siêu âm; trang 43 nêu GPB xác nhận thai trứng. Không chuyển nhiệm vụ mô học sang triệu chứng hay hCG.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 và 23 nêu vai trò siêu âm; trang 43 nêu GPB xác nhận thai trứng. Không chuyển nhiệm vụ mô học sang triệu chứng hay hCG.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 16 và 23 nêu vai trò siêu âm; trang 43 nêu GPB xác nhận thai trứng. Không chuyển nhiệm vụ mô học sang triệu chứng hay hCG."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "SIÊU ÂM\n◈ Là phương tiện đầu tay\n◈ TVS ưu thế hơn TAS\n◈ Cung cấp thông tin về vị trí của \nthai, tính sinh tồn của thai\n◈ Một vài hình ảnh điển hình: thai \ntrứng, thai ngoài tử cung sống\n16",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 23,
+          "quote": "THAI LƯU\n◈ Thai ngừng phát triển trong buồng \ntử cung. \n◈ Chẩn đoán dựa vào siêu âm\n◈ β-hCG gần như không có giá trị\n◈ Khi thai đã lưu, phải chấm dứt \nthai kỳ\n23",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 43,
+          "quote": "THAI TRỨNG\n◈ Siêu âm là khảo \nsát đầu tay\n◈ HCG là phương \ntiện theo dõi\n◈ GPB xác nhận \nchẩn đoán chẩn \nđoán\n43",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q078",
+      "topicId": "dating",
+      "conceptId": "m13-integrated-ivf-growth",
+      "level": "analyze",
+      "stem": "Một hồ sơ IVF được định tuổi chính xác. Sinh viên cho rằng từ đó không cần gắn định tuổi với đánh giá tăng trưởng. Kết luận nào phù hợp?",
+      "options": [
+        "Đúng vì bài chỉ yêu cầu đánh giá tăng trưởng ở quý 3",
+        "Đúng vì IVF không có tuổi thai",
+        "Sai vì IVF luôn kém chính xác nhất",
+        "Độ chính xác IVF không loại bỏ yêu cầu đánh giá tăng trưởng đi kèm"
+      ],
+      "answer": 3,
+      "explanation": "Trang 8 nêu độ chính xác IVF; trang 11 vẫn yêu cầu luôn gắn định tuổi với tăng trưởng. Hai ý không loại trừ nhau.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 8 nêu độ chính xác IVF; trang 11 vẫn yêu cầu luôn gắn định tuổi với tăng trưởng. Hai ý không loại trừ nhau.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 8 nêu độ chính xác IVF; trang 11 vẫn yêu cầu luôn gắn định tuổi với tăng trưởng. Hai ý không loại trừ nhau.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 8 nêu độ chính xác IVF; trang 11 vẫn yêu cầu luôn gắn định tuổi với tăng trưởng. Hai ý không loại trừ nhau.",
+        "Trang 8 nêu độ chính xác IVF; trang 11 vẫn yêu cầu luôn gắn định tuổi với tăng trưởng. Hai ý không loại trừ nhau."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Tuổi thai/ngày dự sanh được xác \nđịnh chính xác nhất đối với các thai \nkỳ thụ tinh trong ống nghiệm\n• Tuổi thai/ngày dự sanh được xác \nđịnh dựa vào kinh chót theo công \nthức Naegele \n• Tuổi thai/ngày dự sanh cũng có thể \nđược xác định bằng việc khám lâm \nsang (đo BCTC) nhưng kém chính \nxác hơn",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 11,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Lưu ý:\n• Để xác định ngày dự sanh dựa vào kinh chót, kinh chót phải thoả \ntiêu chuẩn nhất định\n• Khi vừa có dữ kiện kinh chót phù hợp, vừa có siêu âm CRL quý 1, \nnếu ngày dự sanh lệch <5 ngày  chọn dự sanh theo KC\n• Nếu có nhiều KQSA đo CRL ở quý 1 thì nên dung kết quả siêu âm \nsớm nhất với CRL >=10mm\n• Luôn luôn gắn việc định tuổi thai với đánh giá tăng trưởng của thai",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q079",
+      "topicId": "loss",
+      "conceptId": "m13-integrated-definition-timing",
+      "level": "apply",
+      "stem": "Một bài tập mô tả thai tống xuất ở 18 tuần vô kinh, chưa tự sống; người học gọi là 'đạt ngày dự sanh'. Sửa theo hai định nghĩa nào?",
+      "options": [
+        "Đây là thai ngoài tử cung theo vị trí",
+        "Ngày dự sanh luôn là 22 tuần",
+        "Phù hợp định nghĩa sẩy thai; ngày dự sanh là mốc 40 tuần",
+        "Đúng vì mọi tống xuất đều là ngày dự sanh"
+      ],
+      "answer": 2,
+      "explanation": "Trang 27 định nghĩa sẩy thai trước 22 tuần vô kinh; trang 6 định nghĩa ngày dự sanh 40 tuần. Hai khái niệm không đồng nhất.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 định nghĩa sẩy thai trước 22 tuần vô kinh; trang 6 định nghĩa ngày dự sanh 40 tuần. Hai khái niệm không đồng nhất.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 định nghĩa sẩy thai trước 22 tuần vô kinh; trang 6 định nghĩa ngày dự sanh 40 tuần. Hai khái niệm không đồng nhất.",
+        "Trang 27 định nghĩa sẩy thai trước 22 tuần vô kinh; trang 6 định nghĩa ngày dự sanh 40 tuần. Hai khái niệm không đồng nhất.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 27 định nghĩa sẩy thai trước 22 tuần vô kinh; trang 6 định nghĩa ngày dự sanh 40 tuần. Hai khái niệm không đồng nhất."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "TUỔI THAI – NGÀY DỰ SANH\n• Tuổi thai là tuổi của thai kỳ, tính bằng tuần\n• Ngày dự sanh là ngày mà thai đạt 40 tuần\n• Thai đủ tháng khi thai được sanh ở tuổi thai 37 tuần trở lên\n• Con số PARA",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 27,
+          "quote": "SẨY THAI: ĐỊNH NGHĨA\n◈ Sẩy thai là khi thai được tống \nxuất ra khỏi buồng tử cung \ntrước 22 tuần vô kinh, khi mà \nthai chưa có khả năng tự sống \nđược.\n◈ 15-20% các thai kỳ chấm dứt \nbằng sẩy thai với >80% các \ntrường hợp xảy ra trước 12 \ntuần.",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m13-q080",
+      "topicId": "mole",
+      "conceptId": "m13-integrated-subtypes-method",
+      "level": "apply",
+      "stem": "Sinh viên suy từ tên 'thai trứng xâm lấn' rằng chỉ cần triệu chứng để xác nhận mọi loại bệnh nguyên bào nuôi. Phản biện nào đúng phạm vi bài?",
+      "options": [
+        "Nghén nặng xác định được chính xác từng loại",
+        "Tên phân loại không thay bằng chứng chẩn đoán; phần thai trứng vẫn phân biệt siêu âm, hCG và GPB",
+        "Mọi phân loại tự nó là kết quả giải phẫu bệnh của người bệnh",
+        "hCG theo dõi đồng nghĩa chẩn đoán mô học tất cả loại"
+      ],
+      "answer": 1,
+      "explanation": "Trang 40–41 nêu bản chất/phân loại; trang 43 phân biệt công cụ khảo sát, theo dõi và xác nhận. Không suy kết quả chẩn đoán cá thể từ danh sách tên bệnh.",
+      "optionExplanations": [
+        "Không phù hợp với dữ kiện câu hỏi. Trang 40–41 nêu bản chất/phân loại; trang 43 phân biệt công cụ khảo sát, theo dõi và xác nhận. Không suy kết quả chẩn đoán cá thể từ danh sách tên bệnh.",
+        "Trang 40–41 nêu bản chất/phân loại; trang 43 phân biệt công cụ khảo sát, theo dõi và xác nhận. Không suy kết quả chẩn đoán cá thể từ danh sách tên bệnh.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 40–41 nêu bản chất/phân loại; trang 43 phân biệt công cụ khảo sát, theo dõi và xác nhận. Không suy kết quả chẩn đoán cá thể từ danh sách tên bệnh.",
+        "Không phù hợp với dữ kiện câu hỏi. Trang 40–41 nêu bản chất/phân loại; trang 43 phân biệt công cụ khảo sát, theo dõi và xác nhận. Không suy kết quả chẩn đoán cá thể từ danh sách tên bệnh."
+      ],
+      "sources": [
+        {
+          "page": 40,
+          "quote": "THAI TRỨNG\n◈ Sự tăng sinh bất \nthường của \nnguyên bào nuôi\n◈ Là hậu quả của \nmột thụ tinh bất \nthường có nguồn \ngốc từ cha  \nTTTP, TTBP 40",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 41,
+          "quote": "PHÂN LOẠI\n◈ Thai trứng\n◈ Thai trứng xâm lấn\n◈ Bệnh nguyên bào nuôi tồn tại nơi \nnhau bám\n◈ Ung thư nguyên bào nuôi\n41",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        },
+        {
+          "page": 43,
+          "quote": "THAI TRỨNG\n◈ Siêu âm là khảo \nsát đầu tay\n◈ HCG là phương \ntiện theo dõi\n◈ GPB xác nhận \nchẩn đoán chẩn \nđoán\n43",
+          "kind": "text",
+          "type": "text",
+          "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    }
+  ],
+  "reviewStatus": "passed2",
+  "reviewReport": "content/reviews/early-rounds12.md"
+}

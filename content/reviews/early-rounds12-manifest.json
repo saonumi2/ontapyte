@@ -1,0 +1,29 @@
+[
+  {
+    "moduleId": "m13",
+    "sha256": "b60c46b83e2c25243f358d18ce96814b880d8a52272990c9b56182de79e24a91",
+    "count": 80,
+    "sourceAll": true,
+    "semanticAll": true,
+    "coverageAll": false,
+    "distinctConcepts": 65
+  },
+  {
+    "moduleId": "m15",
+    "sha256": "27c4831a453d6e99d7dbc4fbd26d98f70ce2eb3342662007b5d787602852d64d",
+    "count": 80,
+    "sourceAll": true,
+    "semanticAll": true,
+    "coverageAll": false,
+    "distinctConcepts": 68
+  },
+  {
+    "moduleId": "m16",
+    "sha256": "31bfb281ad8f497195a99e7e5635916303ad22526bd76300402234b58b46669c",
+    "count": 80,
+    "sourceAll": true,
+    "semanticAll": true,
+    "coverageAll": false,
+    "distinctConcepts": 74
+  }
+]

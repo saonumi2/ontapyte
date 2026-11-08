@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m03",
+    "title": "Ống dẫn trứng",
+    "original": "3. Ống dẫn trứng.pdf",
+    "file": "sources/m03.pdf",
+    "format": "pdf",
+    "sha256": "34b9b1d6d51515a14f3a52db4d6aac186f6369b4ac9bf10829d8b4d0bf4871f1",
+    "pageCount": 35,
+    "textCharacters": 6647
+  },
+  {
+    "id": "m04",
+    "title": "Buồng trứng",
+    "original": "4. Buồng trứng.pdf",
+    "file": "sources/m04.pdf",
+    "format": "pdf",
+    "sha256": "81e2d675ce3f642418676864478e7e57d1bf5708784d98a527eeacdaa9abb629",
+    "pageCount": 44,
+    "textCharacters": 10401
+  },
+  {
+    "id": "m05",
+    "title": "TT Sự phát triển noãn nang - Sinh tổng hợp Steroids sinh dục",
+    "original": "5. TT Sự phát triển noãn nang - Sinh tổng hợp Steroids sinh dục.pptx",
+    "file": "sources/m05.pptx",
+    "format": "pptx",
+    "sha256": "37b39d7ac9d9dc6bf8b75a3ac63d2a4c52fec63ee1eef2144fad15bd8884acb8",
+    "pageCount": 24,
+    "textCharacters": 11126
+  },
+  {
+    "id": "m06",
+    "title": "Trục HPO - Chu Kỳ BT",
+    "original": "6. Trục HPO - Chu Kỳ BT.pdf",
+    "file": "sources/m06.pdf",
+    "format": "pdf",
+    "sha256": "5ab60bada66113c016c9ac6e9ec70eccca7d02965c58dd1903b48aabe245db82",
+    "pageCount": 48,
+    "textCharacters": 1594
+  },
+  {
+    "id": "m07",
+    "title": "Các hormone sinh dục nữ",
+    "original": "7. Các hormone sinh dục nữ.pdf",
+    "file": "sources/m07.pdf",
+    "format": "pdf",
+    "sha256": "f0ce82bdecba40fe8ea3e72d991c52f1c45939930b79d7c1e439655069061b42",
+    "pageCount": 43,
+    "textCharacters": 18392
+  },
+  {
+    "id": "m08",
+    "title": "Các vấn đề liên quan HPO",
+    "original": "8. Các vấn đề liên quan HPO.pptx",
+    "file": "sources/m08.pptx",
+    "format": "pptx",
+    "sha256": "39c80d0601451dc1c312b88365a844841af685eb861df53707950dfbaefba94d",
+    "pageCount": 34,
+    "textCharacters": 11345
+  },
+  {
+    "id": "m09",
+    "title": "SỰ TẠO NOÃN",
+    "original": "9. SỰ TẠO NOÃN.pptx",
+    "file": "sources/m09.pptx",
+    "format": "pptx",
+    "sha256": "19fdaddd9604593aa903291558333ac1ac578fb68c05ac1f1d24646126f8d49e",
+    "pageCount": 23,
+    "textCharacters": 1427
+  },
+  {
+    "id": "m10",
+    "title": "SỰ SINH TINH",
+    "original": "10. SỰ SINH TINH.pptx",
+    "file": "sources/m10.pptx",
+    "format": "pptx",
+    "sha256": "bd2400b6ea5b99b4e5fbc26b0084bad670d77eaf0c6bacbe0066dcd3420f194e",
+    "pageCount": 14,
+    "textCharacters": 478
+  },
+  {
+    "id": "m11",
+    "title": "SỰ THỤ TINH",
+    "original": "11. SỰ THỤ TINH.pptx",
+    "file": "sources/m11.pptx",
+    "format": "pptx",
+    "sha256": "5da871a2ee4f31c7cbf17e54178d0f0f0abab010e0c14905a119ad1a9dd14caf",
+    "pageCount": 13,
+    "textCharacters": 867
+  },
+  {
+    "id": "m12",
+    "title": "ĐẠI-CƯƠNG-Y-HỌC-SINH-SẢN",
+    "original": "12. ĐẠI-CƯƠNG-Y-HỌC-SINH-SẢN.pptx",
+    "file": "sources/m12.pptx",
+    "format": "pptx",
+    "sha256": "c0923bf17f1c17cbe82ecf569f0a8997d1d89e72c96c6212fabbf52efede6d59",
+    "pageCount": 21,
+    "textCharacters": 5135
+  },
+  {
+    "id": "m13",
+    "title": "Ba tháng đầu thai kì",
+    "original": "13. Ba tháng đầu thai kì.pdf",
+    "file": "sources/m13.pdf",
+    "format": "pdf",
+    "sha256": "8a5ba0ee6d79eda3650d35e44fcbfc281b72d0480fb35406c56ce1cf344da69b",
+    "pageCount": 44,
+    "textCharacters": 6950
+  },
+  {
+    "id": "m14",
+    "title": "Thai ngoài tử cung Y3 NTT",
+    "original": "14. Thai ngoài tử cung Y3 NTT.ppt",
+    "file": "sources/m14.ppt",
+    "format": "ppt",
+    "sha256": "06bea6b2185753a641671259f2f5a746659eec9c3f33eefcd03db818e57c745e",
+    "pageCount": 0,
+    "textCharacters": 0
+  },
+  {
+    "id": "m15",
+    "title": "Tiếp cận  xuất huyết 3 tháng đầu thai kỳ",
+    "original": "15. Tiếp cận  xuất huyết 3 tháng đầu thai kỳ.pdf",
+    "file": "sources/m15.pdf",
+    "format": "pdf",
+    "sha256": "0a28afbddb734756b39e0fe8080055c42be84f99af701b96d087a0d253967255",
+    "pageCount": 27,
+    "textCharacters": 4477
+  },
+  {
+    "id": "m16",
+    "title": "THAI TRỨNG",
+    "original": "16. THAI TRỨNG.pdf",
+    "file": "sources/m16.pdf",
+    "format": "pdf",
+    "sha256": "f066200f56fa3cc11bbac467728a24ce0bf5a1ee839f4b2c0fb04b6fc7e95621",
+    "pageCount": 23,
+    "textCharacters": 3285
+  }
+]
