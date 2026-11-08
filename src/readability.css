@@ -1,0 +1,2 @@
+/* Vietnamese headings need calmer tracking than the display font default. */
+.hero h1,#result h1,.stem{font-family:"Be Vietnam Pro",Arial,sans-serif;letter-spacing:-.028em;word-spacing:.08em}.hero h1{line-height:1.18}.stem{line-height:1.5;word-spacing:.035em}.card h3{letter-spacing:-.008em;word-spacing:.035em;line-height:1.62}.hero>p:last-child{word-spacing:.04em}.option{letter-spacing:0;word-spacing:.025em}@media(max-width:580px){.hero h1{line-height:1.2;letter-spacing:-.022em}.stem{line-height:1.55;letter-spacing:-.015em}.card h3{line-height:1.65}}
