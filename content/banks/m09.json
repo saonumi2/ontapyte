@@ -49,7 +49,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-phanbiet-noan-va-nang",
       "level": "understand",
-      "stem": "Cách phân biệt nào đúng giữa “noãn bào” và “nang noãn” trong bài học?",
+      "stem": "Cách phân biệt nào đúng giữa “noãn bào” và “nang noãn”?",
       "options": [
         "Nang noãn là cấu trúc chứa noãn bào",
         "Noãn bào là cấu trúc chứa nhiều nang noãn",
@@ -173,7 +173,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-apoptosis",
       "level": "understand",
-      "stem": "Trong bài, apoptosis giúp giải thích đặc điểm nào của quần thể noãn bào 1?",
+      "stem": "Apoptosis giúp giải thích đặc điểm nào của quần thể noãn bào 1?",
       "options": [
         "Tất cả noãn bào 1 trở thành noãn chín trước dậy thì",
         "Số lượng giảm dần",
@@ -249,7 +249,7 @@
       "topicId": "m09-nang-noan",
       "conceptId": "m09-mot-hang-det-vuong",
       "level": "understand",
-      "stem": "Đặc điểm tế bào bao quanh noãn phân biệt nang nguyên thủy và nang sơ cấp trong bài là gì?",
+      "stem": "Đặc điểm tế bào bao quanh noãn phân biệt nang nguyên thủy và nang sơ cấp là gì?",
       "options": [
         "Một hàng vuông ở nang nguyên thủy, một hàng dẹt ở nang sơ cấp",
         "Nhiều hàng ở cả hai loại",
@@ -416,7 +416,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-lh-va-noan2",
       "level": "understand",
-      "stem": "Đỉnh LH và việc tạo noãn bào 2 liên hệ thế nào theo bài?",
+      "stem": "Đỉnh LH và việc tạo noãn bào 2 liên hệ thế nào?",
       "options": [
         "Đỉnh LH chỉ bắt đầu nguyên phân của noãn chín",
         "Đỉnh LH làm noãn bào 2 quay lại noãn nguyên bào",
@@ -454,7 +454,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-phanloai-nguyenbao",
       "level": "understand",
-      "stem": "Một tế bào được xác định là noãn nguyên bào theo bài. Bối cảnh nào phù hợp nhất?",
+      "stem": "Một tế bào được xác định là noãn nguyên bào. Bối cảnh nào phù hợp nhất?",
       "options": [
         "Trong hoàng thể đã thoái hóa",
         "Chỉ xuất hiện sau mãn kinh",
@@ -492,7 +492,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-dung-giam-phan",
       "level": "understand",
-      "stem": "Một noãn đang tạm ngưng ở kỳ đầu của giảm phân I. Theo bài, gọi tế bào đó là gì?",
+      "stem": "Một noãn đang tạm ngưng ở kỳ đầu của giảm phân I. gọi tế bào đó là gì?",
       "options": [
         "Tế bào hạt",
         "Noãn bào 1",
@@ -720,7 +720,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-dung-giam-phan",
       "level": "understand",
-      "stem": "Theo mô tả ở slide 9, noãn bào 1 ở trẻ chưa dậy thì thường được trình bày ở trạng thái nào?",
+      "stem": "Theo mô tả, noãn bào 1 ở trẻ chưa dậy thì thường được trình bày ở trạng thái nào?",
       "options": [
         "Đã hoàn thành giảm phân II",
         "Đang nguyên phân để tạo nhiều noãn chín",
@@ -798,7 +798,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-noanchin-thutinh",
       "level": "understand",
-      "stem": "Trong bài, sự kiện nào cần có khi chuyển sang mô tả noãn chín?",
+      "stem": "Sự kiện nào cần có khi chuyển sang mô tả noãn chín?",
       "options": [
         "Chỉ đạt thời kỳ bào thai tuần 8",
         "Hiện tượng thụ tinh",
@@ -1008,7 +1008,7 @@
       "topicId": "m09-nang-noan",
       "conceptId": "m09-noan1-qua-cac-nang",
       "level": "apply",
-      "stem": "Một nang sơ cấp phát triển thêm nhiều hàng tế bào và chuyển thành nang thứ cấp. Theo bài, noãn bên trong phải đổi từ noãn bào 1 sang noãn bào 2 ngay không?",
+      "stem": "Một nang sơ cấp phát triển thêm nhiều hàng tế bào và chuyển thành nang thứ cấp. noãn bên trong phải đổi từ noãn bào 1 sang noãn bào 2 ngay không?",
       "options": [
         "Không; cả hai giai đoạn đều được mô tả chứa noãn bào 1",
         "Có; cứ tăng số hàng là hoàn thành giảm phân II",
@@ -1051,7 +1051,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-duongkinh-noanchin",
       "level": "apply",
-      "stem": "Theo đường kính khoảng 0,1 mm của noãn chín ghi trong bài, cách đổi đơn vị nào đúng?",
+      "stem": "Theo đường kính khoảng 0,1 mm của noãn chín ghi, cách đổi đơn vị nào đúng?",
       "options": [
         "Khoảng 1 µm",
         "Khoảng 10 mm",
@@ -1089,7 +1089,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-thai7thang",
       "level": "understand",
-      "stem": "Tại mốc tháng thứ 7 thai kỳ trong bài, phần lớn noãn nguyên bào đã chuyển thành dạng nào?",
+      "stem": "Tại mốc tháng thứ 7 thai kỳ, phần lớn noãn nguyên bào đã chuyển thành dạng nào?",
       "options": [
         "Noãn chín sau thụ tinh",
         "Hoàng thể",
@@ -1170,7 +1170,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-gv-nguyenvẹn",
       "level": "understand",
-      "stem": "Một noãn được mô tả còn nguyên túi mầm (germinal vesicle), nhiễm sắc chất dừng ở prophase I. Phát biểu nào phù hợp chú thích slide 12?",
+      "stem": "Một noãn còn nguyên túi mầm (germinal vesicle), nhiễm sắc chất dừng ở prophase I. Phát biểu nào phù hợp?",
       "options": [
         "Trưởng thành giảm phân chưa bắt đầu",
         "Đã thải thể cực thứ nhất và dừng ở metaphase II",
@@ -1210,7 +1210,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-gvbd",
       "level": "understand",
-      "stem": "Trong chú thích slide 12, túi mầm đã vỡ và giảm phân I đang tiếp tục. Có thể kết luận nào?",
+      "stem": "Khi túi mầm đã vỡ và giảm phân I đang tiếp tục, có thể kết luận nào?",
       "options": [
         "Noãn chắc chắn đã hoàn thành giảm phân II",
         "Noãn quay về nguyên phân",
@@ -1454,7 +1454,7 @@
       "topicId": "m09-tich-hop",
       "conceptId": "m09-noan1-qua-cac-nang",
       "level": "apply",
-      "stem": "Muốn phân biệt ba nang nguyên thủy, sơ cấp và thứ cấp đều chứa noãn bào 1, bộ thông tin bổ sung nào hữu ích nhất theo bài?",
+      "stem": "Muốn phân biệt ba nang nguyên thủy, sơ cấp và thứ cấp đều chứa noãn bào 1, bộ thông tin bổ sung nào hữu ích nhất?",
       "options": [
         "Chỉ đo đường kính của một noãn chín khác",
         "Chỉ hỏi có đỉnh LH hay không rồi bỏ mô tả nang",

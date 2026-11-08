@@ -53,7 +53,7 @@
       "topicId": "origin",
       "conceptId": "m05-migration",
       "level": "understand",
-      "stem": "Tế bào sinh dục nguyên thủy đến ụ sinh dục theo đường nào trong bài?",
+      "stem": "Tế bào sinh dục nguyên thủy đến ụ sinh dục theo đường nào?",
       "options": [
         "Dọc mạc treo ruột từ túi noãn hoàng",
         "Từ tuyến yên qua máu",
@@ -275,7 +275,7 @@
       "topicId": "axis",
       "conceptId": "m05-theca-lh",
       "level": "understand",
-      "stem": "Ghép tế bào – thụ thể nào đúng ở nang thứ cấp theo bài?",
+      "stem": "Ghép tế bào – thụ thể nào đúng ở nang thứ cấp?",
       "options": [
         "Vỏ–GnRH; hạt–LH",
         "Vỏ–FSH; hạt–GnRH",
@@ -460,7 +460,7 @@
       "topicId": "selection",
       "conceptId": "m05-high-e2-duration",
       "level": "understand",
-      "stem": "Điều kiện E2 nào kích hoạt phản hồi dương theo bài?",
+      "stem": "Điều kiện E2 nào kích hoạt phản hồi dương?",
       "options": [
         "Luôn giữ ở nồng độ thấp",
         "Vượt ngưỡng trong thời gian đủ dài",
@@ -682,7 +682,7 @@
       "topicId": "origin",
       "conceptId": "m05-mitosis-stop",
       "level": "apply",
-      "stem": "Theo mô hình slide 6, tế bào sinh dục đã ngừng nguyên phân vĩnh viễn và đi vào giảm phân. Nhận định nào phù hợp về cách tăng số lượng bằng nguyên phân sau mốc này?",
+      "stem": "Tế bào sinh dục đã ngừng nguyên phân vĩnh viễn và đi vào giảm phân. Nhận định nào phù hợp về cách tăng số lượng bằng nguyên phân sau mốc này?",
       "options": [
         "Không thể tiếp tục tăng bằng nguyên phân ở chính nhóm tế bào đã ngừng này",
         "Nhóm này tiếp tục nguyên phân như trước",
@@ -719,7 +719,7 @@
       "topicId": "origin",
       "conceptId": "m05-arrest-I",
       "level": "apply",
-      "stem": "Một sơ đồ đặt việc tái tục giảm phân của nhóm nang được chiêu mộ hoàn toàn trước dậy thì. Cách sửa nào phù hợp slide 6?",
+      "stem": "Một sơ đồ đặt việc tái tục giảm phân của nhóm nang được chiêu mộ hoàn toàn trước dậy thì. Cách sửa nào phù hợp?",
       "options": [
         "Đặt sự tái tục ở nang được chiêu mộ kể từ sau dậy thì",
         "Đặt mọi noãn hoàn tất giảm phân II trước sinh",
@@ -793,7 +793,7 @@
       "topicId": "origin",
       "conceptId": "m05-stage-sequence",
       "level": "understand",
-      "stem": "Một nang đã qua sơ cấp và thứ cấp sớm. Giai đoạn tiếp theo được slide 9 nêu là gì?",
+      "stem": "Một nang đã qua giai đoạn sơ cấp và thứ cấp sớm. Giai đoạn tiếp theo là gì?",
       "options": [
         "Thứ cấp muộn",
         "Bạch thể",
@@ -1237,7 +1237,7 @@
       "topicId": "selection",
       "conceptId": "m05-prelh-oocyte",
       "level": "understand",
-      "stem": "Theo slide 17, trước đỉnh LH, noãn trong nang de Graaf đang ở trạng thái nào?",
+      "stem": "Trước đỉnh LH, noãn trong nang de Graaf đang ở trạng thái nào?",
       "options": [
         "Vẫn trong tiền kỳ giảm phân I",
         "Đã hoàn tất giảm phân II",
@@ -1274,7 +1274,7 @@
       "topicId": "selection",
       "conceptId": "m05-high-e2-duration",
       "level": "apply",
-      "stem": "E2 chỉ vượt ngưỡng trong một thời gian quá ngắn. Theo điều kiện ở slide 18, kết luận nào đúng?",
+      "stem": "E2 chỉ vượt ngưỡng trong một thời gian quá ngắn. Theo điều kiện, kết luận nào đúng?",
       "options": [
         "Chắc chắn đã có đỉnh LH",
         "Chắc chắn đã phóng noãn",
@@ -1348,7 +1348,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-lh-meiosis",
       "level": "apply",
-      "stem": "Sau đỉnh LH, một sơ đồ vẫn vẽ noãn giữ nguyên trạng thái trước đỉnh mà không hoàn tất giảm phân I. Bước cần bổ sung theo bài là gì?",
+      "stem": "Sau đỉnh LH, một sơ đồ vẫn vẽ noãn giữ nguyên trạng thái trước đỉnh mà không hoàn tất giảm phân I. Bước cần bổ sung là gì?",
       "options": [
         "Hoàn tất giảm phân I rồi đi vào giảm phân II",
         "Lặp lại nguyên phân tạo nhiều noãn",
@@ -1385,7 +1385,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-fertilization-release",
       "level": "apply",
-      "stem": "Một noãn đã đến kỳ giữa giảm phân II nhưng chưa có tinh trùng xâm nhập. Theo bài, có được ghi rằng toàn bộ giảm phân đã hoàn tất không?",
+      "stem": "Một noãn đã đến kỳ giữa giảm phân II nhưng chưa có tinh trùng xâm nhập. có được ghi rằng toàn bộ giảm phân đã hoàn tất không?",
       "options": [
         "Không; vẫn ở điểm dừng chờ tinh trùng",
         "Có; chỉ cần nang vỡ là đủ",
@@ -1459,7 +1459,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-rupture",
       "level": "understand",
-      "stem": "Bề mặt buồng trứng tại nang mỏng dần rồi nang vỡ. Thành phần được phóng thích theo bài là gì?",
+      "stem": "Bề mặt buồng trứng tại nang mỏng dần rồi nang vỡ. Thành phần được phóng thích là gì?",
       "options": [
         "Bạch thể",
         "Mạch cửa hạ đồi",
@@ -1496,7 +1496,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-vascularization",
       "level": "apply",
-      "stem": "Nếu trong mô hình hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả trong bài đang bị hạn chế?",
+      "stem": "Nếu trong mô hình hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả đang bị hạn chế?",
       "options": [
         "Cholesterol từ mạch máu vào cấu trúc nang",
         "GnRH từ chính noãn bào",
@@ -1570,7 +1570,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-peak-day",
       "level": "understand",
-      "stem": "Theo bài, đánh giá đỉnh sản xuất steroid của hoàng thể nên gắn với mốc tương đối nào?",
+      "stem": "Đánh giá đỉnh sản xuất steroid của hoàng thể nên gắn với mốc tương đối nào?",
       "options": [
         "Ngay khi nang nguyên thủy được chiêu mộ",
         "Trước dậy thì",

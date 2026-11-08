@@ -171,7 +171,7 @@
       "topicId": "cuaso",
       "conceptId": "m12-cua-so-thoi-gian",
       "level": "understand",
-      "stem": "Theo các mốc trong tài liệu, khoảng ngày nào của chu kỳ được slide 6 nêu là thời gian thường mở cửa sổ làm tổ?",
+      "stem": "Cửa sổ làm tổ thường mở ở khoảng ngày nào của chu kỳ?",
       "options": [
         "Ngày 7 đến ngày 10",
         "Ngày 18 đến ngày 23",
@@ -356,7 +356,7 @@
       "topicId": "doithoai",
       "conceptId": "m12-doi-thoai-hoa-hoc",
       "level": "understand",
-      "stem": "Đối thoại hóa học của phôi với nội mạc trong bài liên quan nhóm phân tử nào?",
+      "stem": "Đối thoại hóa học của phôi với nội mạc liên quan nhóm phân tử nào?",
       "options": [
         "Growth factors và cytokines",
         "Chỉ chất cản quang",
@@ -578,7 +578,7 @@
       "topicId": "phoi",
       "conceptId": "m12-hatching-nhu-cau",
       "level": "understand",
-      "stem": "Theo slide 9, vì sao phôi ngày 6 cần thoát màng zona pellucida?",
+      "stem": "Vì sao phôi ngày 6 cần thoát màng zona pellucida?",
       "options": [
         "Để tạo tinh trùng mới",
         "Để tăng nồng độ FSH trong tuyến yên",
@@ -726,7 +726,7 @@
       "topicId": "doithoai",
       "conceptId": "spiralvessels-day9",
       "level": "understand",
-      "stem": "Theo các mốc trong tài liệu, đến ngày thứ 9 sau thụ tinh, hội bào nuôi mới tiếp cận cấu trúc nào theo bài?",
+      "stem": "Đến ngày thứ 9 sau thụ tinh, hội bào nuôi mới tiếp cận cấu trúc nào?",
       "options": [
         "Động mạch buồng trứng trong dây chằng treo",
         "Mạch máu xoắn ốc tử cung",
@@ -763,7 +763,7 @@
       "topicId": "hcg",
       "conceptId": "m12-giao-dien-mach-mau",
       "level": "understand",
-      "stem": "Theo slide 13, khoảng ngày thứ 10 sau thụ tinh, hội bào nuôi làm gì?",
+      "stem": "Khoảng ngày thứ 10 sau thụ tinh, hội bào nuôi làm gì?",
       "options": [
         "Tạo noãn nguyên bào trong buồng trứng",
         "Làm thoái triển hoàn toàn hoàng thể",
@@ -882,7 +882,7 @@
       "topicId": "phattrien",
       "conceptId": "m12-tuan3-tuan4",
       "level": "understand",
-      "stem": "Theo slide 17, tuần thứ 3 và tuần thứ 4 lần lượt gắn với hiện tượng nào?",
+      "stem": "Tuần thứ 3 và tuần thứ 4 lần lượt gắn với hiện tượng nào?",
       "options": [
         "Hình thành cơ quan rồi thụ tinh",
         "Thụ tinh rồi làm tổ",
@@ -919,7 +919,7 @@
       "topicId": "phattrien",
       "conceptId": "organogenesis",
       "level": "understand",
-      "stem": "Theo các mốc trong tài liệu, từ tuần thứ mấy bài nói bắt đầu hình thành phôi và phát triển cơ quan?",
+      "stem": "Từ tuần thứ mấy bài nói bắt đầu hình thành phôi và phát triển cơ quan?",
       "options": [
         "Tuần thứ 1",
         "Tuần thứ 40",
@@ -956,7 +956,7 @@
       "topicId": "noimac",
       "conceptId": "pinopode-duration",
       "level": "understand",
-      "stem": "Theo các mốc trong tài liệu, thời gian xuất hiện và tồn tại của pinopode được slide 5 ghi khoảng bao lâu?",
+      "stem": "Pinopode xuất hiện và tồn tại trong khoảng bao lâu?",
       "options": [
         "Khoảng 18 ngày",
         "Khoảng 5 ngày",
@@ -993,7 +993,7 @@
       "topicId": "cuaso",
       "conceptId": "m12-cua-so-thoi-gian",
       "level": "apply",
-      "stem": "Theo các mốc trong tài liệu, nếu chu kỳ ở ngày 24 và áp dụng mốc thường nêu trong slide 6, cửa sổ làm tổ được mô tả ra sao?",
+      "stem": "Nếu chu kỳ ở ngày 24 và áp dụng mốc thường nêu, cửa sổ làm tổ được mô tả ra sao?",
       "options": [
         "Không thể có cửa sổ do P4",
         "Đã qua thời điểm đóng cửa sổ thường nêu ở ngày 23",
@@ -1030,7 +1030,7 @@
       "topicId": "doithoai",
       "conceptId": "m12-doi-thoai-hoa-hoc",
       "level": "apply",
-      "stem": "Một mô tả cho rằng phôi không tác động lên nội mạc trước khi bám. Slide 11 nêu phản hồi nào?",
+      "stem": "Một mô tả cho rằng phôi không tác động lên nội mạc trước khi bám. Phôi tạo phản hồi nào lên nội mạc?",
       "options": [
         "Phôi đã đối thoại hóa học qua growth factors và cytokines",
         "Phôi chỉ giao tiếp qua tế bào Sertoli",
@@ -1067,7 +1067,7 @@
       "topicId": "phattrien",
       "conceptId": "term",
       "level": "understand",
-      "stem": "Theo các mốc trong tài liệu, độ dài thai kỳ bình thường theo slide 17 là bao nhiêu tính từ kỳ kinh cuối?",
+      "stem": "Độ dài thai kỳ bình thường là bao nhiêu tính từ kỳ kinh cuối?",
       "options": [
         "20 tuần, 140 ngày",
         "40 tuần, tương đương 280 ngày",
@@ -1104,7 +1104,7 @@
       "topicId": "noimac",
       "conceptId": "receptivity-sequence",
       "level": "apply",
-      "stem": "Vì sao progesterone trong bài không được mô tả như bước đầu tiên làm nội mạc dày lên?",
+      "stem": "Vì sao progesterone không được mô tả như bước đầu tiên làm nội mạc dày lên?",
       "options": [
         "Estrogen chỉ có sau khi phôi làm tổ",
         "Hai hormone không có vai trò ở nội mạc",
@@ -1145,7 +1145,7 @@
       "topicId": "cuaso",
       "conceptId": "m12-dong-bo-cua-so",
       "level": "apply",
-      "stem": "Phôi thoát màng ngày 6 nhưng cửa sổ tiếp nhận nội mạc có thời hạn. Mấu chốt nào quyết định tiếp nhận theo bài?",
+      "stem": "Phôi thoát màng ngày 6 nhưng cửa sổ tiếp nhận nội mạc có thời hạn. Mấu chốt nào quyết định tiếp nhận?",
       "options": [
         "Chỉ kích thước buồng trứng",
         "Chỉ ngày tuổi của người mẹ",
@@ -1268,7 +1268,7 @@
       "topicId": "doithoai",
       "conceptId": "implantation-nutrition",
       "level": "apply",
-      "stem": "Theo các mốc trong tài liệu, chuỗi thời gian nào phù hợp giữa xâm nhập mô và trao đổi trực tiếp với mẹ trong bài?",
+      "stem": "Chuỗi thời gian nào phù hợp giữa xâm nhập mô và trao đổi trực tiếp với mẹ?",
       "options": [
         "Ngày 9 đóng cửa sổ; ngày 10 phôi thoát màng",
         "Ngày 10 mới thụ tinh; ngày 11 mới tạo noãn",
@@ -1395,7 +1395,7 @@
       "topicId": "phattrien",
       "conceptId": "cycle-calendar",
       "level": "analyze",
-      "stem": "Một lịch dùng ngày chu kỳ để ghi cửa sổ làm tổ; lịch khác ghi ngày sau thụ tinh; slide17 lại tính tuần thai từ kỳ kinh cuối. Trước khi so sánh các mốc, cần làm gì?",
+      "stem": "Một lịch dùng ngày chu kỳ để ghi cửa sổ làm tổ; lịch khác ghi ngày sau thụ tinh; tuổi thai lại tính từ kỳ kinh cuối. Trước khi so sánh các mốc, cần làm gì?",
       "options": [
         "Coi ngày18 chu kỳ luôn là tuần18 thai kỳ",
         "Coi ngày6 sau thụ tinh là ngày6 của chu kỳ trong mọi trường hợp",
@@ -1443,7 +1443,7 @@
       "topicId": "phattrien",
       "conceptId": "m12-tuan3-tuan4",
       "level": "understand",
-      "stem": "Một bản ghi đặt làm tổ ở tuần 3 và thụ tinh tuần 4. Cần sửa ra sao theo bài?",
+      "stem": "Một bản ghi đặt làm tổ ở tuần 3 và thụ tinh tuần 4. Cần sửa ra sao?",
       "options": [
         "Đổi lại: thụ tinh tuần 3, làm tổ tuần 4",
         "Giữ nguyên vì hai sự kiện đồng thời",
@@ -1527,7 +1527,7 @@
       "topicId": "noimac",
       "conceptId": "m12-pinopode-dialogue-location",
       "level": "understand",
-      "stem": "Theo tài liệu, các cuộc đối thoại quan trọng giữa phôi và nội mạc tử cung diễn ra ở bề mặt cấu trúc nào?",
+      "stem": "Các cuộc đối thoại quan trọng giữa phôi và nội mạc tử cung diễn ra ở bề mặt cấu trúc nào?",
       "options": [
         "Pinopode",
         "Mạch máu xoắn ốc",
@@ -1565,7 +1565,7 @@
       "topicId": "noimac",
       "conceptId": "m12-two-cell-blocks-role",
       "level": "understand",
-      "stem": "Khi đến buồng tử cung, tài liệu mô tả phôi nang có bao nhiêu khối tế bào chính?",
+      "stem": "Khi đến buồng tử cung, phôi nang có bao nhiêu khối tế bào chính?",
       "options": [
         "Hai khối: khối tế bào trong và ngoại bì lá nuôi",
         "Một khối tế bào duy nhất",

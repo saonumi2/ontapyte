@@ -333,7 +333,7 @@
       "topicId": "receptors",
       "conceptId": "m07-co-regulators",
       "level": "understand",
-      "stem": "Coactivator và corepressor khác nhau theo bài ở điểm nào?",
+      "stem": "Coactivator và corepressor khác nhau ở điểm nào?",
       "options": [
         "Đều chỉ là thụ thể màng",
         "Tạo điều kiện mở gene so với không mở gene",
@@ -481,7 +481,7 @@
       "topicId": "receptors",
       "conceptId": "m07-pra-case",
       "level": "understand",
-      "stem": "Thiếu AF3 ở PR-A dẫn đến đặc điểm nào theo bài?",
+      "stem": "Thiếu AF3 ở PR-A dẫn đến đặc điểm nào?",
       "options": [
         "Luôn mở gene mạnh hơn PR-B",
         "Không gắn coactivator như PR-B",
@@ -744,7 +744,7 @@
       "topicId": "targets",
       "conceptId": "m07-rapid-contraction",
       "level": "understand",
-      "stem": "Co hoặc giãn cơ trơn nhanh do steroid thuộc kiểu tác động nào trong bài?",
+      "stem": "Co hoặc giãn cơ trơn nhanh do steroid thuộc kiểu tác động nào?",
       "options": [
         "Không cần receptor",
         "Chỉ do tế bào nền nội mạc",
@@ -822,7 +822,7 @@
       "topicId": "steroids",
       "conceptId": "m07-early-products",
       "level": "understand",
-      "stem": "Một nang tiền hốc chưa lệ thuộc gonadotropin. Sản phẩm chính nào được trang 4 nêu?",
+      "stem": "Một nang tiền hốc chưa lệ thuộc gonadotropin. Sản phẩm chính là gì?",
       "options": [
         "DHEA và androstenedione",
         "FSH và LH",
@@ -1344,7 +1344,7 @@
       "topicId": "receptors",
       "conceptId": "m07-er-dimer",
       "level": "understand",
-      "stem": "Hai đơn nguyên ER–estrogen kết hợp. Cấu trúc tạo ra là gì theo bài?",
+      "stem": "Hai đơn nguyên ER–estrogen kết hợp. Cấu trúc tạo ra là gì?",
       "options": [
         "PGR mới",
         "Hoàng thể mới",
@@ -1529,7 +1529,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-low-e2-case",
       "level": "apply",
-      "stem": "Lượng estrogen ít ở đầu chu kỳ vẫn thúc đẩy tế bào nền phát triển. Cơ chế nào giải thích theo bài?",
+      "stem": "Lượng estrogen ít ở đầu chu kỳ vẫn thúc đẩy tế bào nền phát triển. Cơ chế nào giải thích?",
       "options": [
         "Không cần receptor estrogen",
         "Tác động qua gene",
@@ -1640,7 +1640,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-vessels-proliferative",
       "level": "apply",
-      "stem": "Theo bài, mạch máu nội mạc phát triển dưới E2 trong pha tăng sinh có dạng nào?",
+      "stem": "Mạch máu nội mạc phát triển dưới E2 trong pha tăng sinh có dạng nào?",
       "options": [
         "Không phát triển",
         "Biến thành nang noãn",
@@ -1788,7 +1788,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-unprepared",
       "level": "apply",
-      "stem": "Một nội mạc chưa được E2 chuẩn bị. Theo bài, dùng P4 đơn độc có đạt đầy đủ tác động chế tiết qua PR không?",
+      "stem": "Một nội mạc chưa được E2 chuẩn bị. dùng P4 đơn độc có đạt đầy đủ tác động chế tiết qua PR không?",
       "options": [
         "Có, vì PR không bao giờ cần tổng hợp",
         "Có, vì P4 chính là FSH",
@@ -1825,7 +1825,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-withdrawal-case",
       "level": "apply",
-      "stem": "Cuối chu kỳ, hoàng thể thoái triển và cả hai steroid giảm. Nội mạc có thể diễn tiến theo hướng nào trong bài?",
+      "stem": "Cuối chu kỳ, hoàng thể thoái triển và cả hai steroid giảm. Nội mạc có thể diễn tiến theo hướng nào?",
       "options": [
         "Sản xuất GnRH để thay thế",
         "Hoại tử, bong tróc và hành kinh",
@@ -1907,7 +1907,7 @@
       "topicId": "targets",
       "conceptId": "m07-midcycle-mucus",
       "level": "apply",
-      "stem": "Giữa chu kỳ, chất nhầy trong, loãng, dai và nhiều. Điều kiện hormone nào phù hợp nhất trong bài?",
+      "stem": "Giữa chu kỳ, chất nhầy trong, loãng, dai và nhiều. Điều kiện hormone nào phù hợp nhất?",
       "options": [
         "P4 chiếm ưu thế làm đông đặc",
         "Mất hoàn toàn mọi steroid",
@@ -2018,7 +2018,7 @@
       "topicId": "targets",
       "conceptId": "m07-rapid-contraction",
       "level": "apply",
-      "stem": "Cơ vòi trứng co ngay sau khi steroid gắn receptor. Tín hiệu nào liên quan trực tiếp theo bài?",
+      "stem": "Cơ vòi trứng co ngay sau khi steroid gắn receptor. Tín hiệu nào liên quan trực tiếp?",
       "options": [
         "Dòng thác Ca++ qua receptor màng",
         "Chỉ tạo protein mới sau chuyển mã",
@@ -2806,7 +2806,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-normal-menses-two-conditions",
       "level": "analyze",
-      "stem": "Theo bài, chỉ có một đợt giảm P4 có đủ để mô tả toàn bộ điều kiện nội tiết hành kinh bình thường không?",
+      "stem": "Chỉ có một đợt giảm P4 có đủ để mô tả toàn bộ điều kiện nội tiết hành kinh bình thường không?",
       "options": [
         "Chưa; cần nội mạc nhận tuần tự hai steroid và cả hai cùng chấm dứt hoạt động",
         "Có; E2 không liên quan nội mạc",
@@ -2962,7 +2962,7 @@
       "topicId": "targets",
       "conceptId": "m07-p4-synchrony",
       "level": "analyze",
-      "stem": "P4 vừa làm nội mạc chế tiết vừa làm giãn cơ vòng vòi–tử cung. Sự phối hợp này phù hợp mục đích nào trong bài?",
+      "stem": "P4 vừa làm nội mạc chế tiết vừa làm giãn cơ vòng vòi–tử cung. Sự phối hợp này phù hợp mục đích nào?",
       "options": [
         "Cho hợp tử vào khi nội mạc đã sẵn sàng tiếp nhận",
         "Ngăn vĩnh viễn mọi phôi vào tử cung",
@@ -3044,7 +3044,7 @@
       "topicId": "targets",
       "conceptId": "m07-source-not-mechanism",
       "level": "apply",
-      "stem": "Một người suy mọi cơ quan không nguồn gốc Müller chỉ có tác động không qua gene. Dữ kiện nào trong bài bác bỏ điều đó?",
+      "stem": "Một người suy mọi cơ quan không nguồn gốc Müller chỉ có tác động không qua gene. Dữ kiện nào bác bỏ điều đó?",
       "options": [
         "Tuyến vú thuộc ống Müller theo bài",
         "Chỉ cơ trơn mới có tác động qua gene",

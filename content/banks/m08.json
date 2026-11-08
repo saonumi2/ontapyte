@@ -72,7 +72,7 @@
       "topicId": "puberty",
       "conceptId": "m08-early-pulses",
       "level": "understand",
-      "stem": "Đặc điểm xung GnRH lúc bắt đầu dậy thì theo bài là gì?",
+      "stem": "Đặc điểm xung GnRH lúc bắt đầu dậy thì là gì?",
       "options": [
         "Tăng dần tần số và biên độ",
         "Biến mất vĩnh viễn",
@@ -298,7 +298,7 @@
       "topicId": "aub",
       "conceptId": "m08-definition",
       "level": "understand",
-      "stem": "AUB-O trong bài liên quan cơ chế nền nào?",
+      "stem": "AUB-O liên quan cơ chế nền nào?",
       "options": [
         "Chỉ do tử cung không có mạch máu",
         "Chỉ do mang thai",
@@ -489,7 +489,7 @@
       "topicId": "contraception",
       "conceptId": "m08-coc-components",
       "level": "understand",
-      "stem": "COCs chứa những thành phần chính nào theo bài?",
+      "stem": "COCs chứa những thành phần chính nào?",
       "options": [
         "Chỉ LH",
         "Ethinyl estradiol và một progestogen uống được",
@@ -641,7 +641,7 @@
       "topicId": "contraception",
       "conceptId": "m08-pop-subgroups",
       "level": "understand",
-      "stem": "Cơ chế sơ cấp của POPs cổ điển theo bài là gì?",
+      "stem": "Cơ chế sơ cấp của POPs cổ điển là gì?",
       "options": [
         "Tăng phóng noãn",
         "Làm đặc chất nhầy cổ tử cung",
@@ -678,7 +678,7 @@
       "topicId": "contraception",
       "conceptId": "m08-pop-new",
       "level": "understand",
-      "stem": "Cơ chế sơ cấp của POPs mới theo bài là gì?",
+      "stem": "Cơ chế sơ cấp của POPs mới là gì?",
       "options": [
         "Ngăn phóng noãn nhờ ức chế mạnh LH",
         "Tăng LH tạo phóng noãn",
@@ -715,7 +715,7 @@
       "topicId": "contraception",
       "conceptId": "m08-lng-not-full-lh",
       "level": "understand",
-      "stem": "IUD-LNG trong bài tránh thai chủ yếu nhờ tác động nào?",
+      "stem": "IUD-LNG tránh thai chủ yếu nhờ tác động nào?",
       "options": [
         "Ức chế hoàn toàn LH ở mọi người",
         "Tăng FSH liên tục",
@@ -752,7 +752,7 @@
       "topicId": "emergency",
       "conceptId": "m08-sprm-definition",
       "level": "understand",
-      "stem": "SPRM là nhóm chất nào trong bài?",
+      "stem": "SPRM là nhóm chất nào?",
       "options": [
         "Chất tạo GnRH trực tiếp",
         "Hormone tế bào hạt bắt buộc",
@@ -863,7 +863,7 @@
       "topicId": "puberty",
       "conceptId": "m08-e2-targets",
       "level": "understand",
-      "stem": "Theo bài, E2 tăng ở dậy thì góp phần vào thay đổi nào?",
+      "stem": "E2 tăng ở dậy thì góp phần vào thay đổi nào?",
       "options": [
         "Mất phát triển cơ quan sinh dục",
         "Tạo FSH tại tuyến vú",
@@ -937,7 +937,7 @@
       "topicId": "puberty",
       "conceptId": "m08-low-p4-secretory",
       "level": "apply",
-      "stem": "Chu kỳ không có hoàng thể đủ chức năng làm P4 thiếu. Nội mạc gặp vấn đề gì theo bài?",
+      "stem": "Chu kỳ không có hoàng thể đủ chức năng làm P4 thiếu. Nội mạc gặp vấn đề gì?",
       "options": [
         "Biến thành noãn",
         "Không thể phân tiết đầy đủ",
@@ -1011,7 +1011,7 @@
       "topicId": "puberty",
       "conceptId": "m08-stabilization",
       "level": "apply",
-      "stem": "Khi chu kỳ dần có phóng noãn đều, xuất huyết cơ năng dậy thì thường diễn tiến thế nào theo bài?",
+      "stem": "Khi chu kỳ dần có phóng noãn đều, xuất huyết cơ năng dậy thì thường diễn tiến thế nào?",
       "options": [
         "Luôn nặng hơn vô hạn",
         "Tất cả đều mất kinh vĩnh viễn",
@@ -1048,7 +1048,7 @@
       "topicId": "puberty",
       "conceptId": "m08-normal-surge-context",
       "level": "apply",
-      "stem": "Trong mô hình slide 3, E2 đạt ngưỡng và P4 thấp gắn với phản hồi nào?",
+      "stem": "Khi E2 đạt ngưỡng và P4 thấp, phản hồi nào xảy ra?",
       "options": [
         "Chỉ tăng AMH",
         "Không ảnh hưởng trục HPO",
@@ -1159,7 +1159,7 @@
       "topicId": "menopause",
       "conceptId": "m08-early-selection",
       "level": "apply",
-      "stem": "FSH cao quanh mãn kinh làm nang thứ cấp thay đổi thế nào theo bài?",
+      "stem": "FSH cao quanh mãn kinh làm nang thứ cấp thay đổi thế nào?",
       "options": [
         "Không thể phát triển trong mọi trường hợp",
         "Chỉ phát triển sau khi đã thành bạch thể",
@@ -1233,7 +1233,7 @@
       "topicId": "menopause",
       "conceptId": "m08-nobleed-not-proof",
       "level": "apply",
-      "stem": "Quanh mãn kinh, ít hoặc không ra máu vào ngày dự kiến có đủ chứng minh không phóng noãn theo bài không?",
+      "stem": "Quanh mãn kinh, ít hoặc không ra máu vào ngày dự kiến có đủ chứng minh không phóng noãn không?",
       "options": [
         "Có; mọi nang đã biến mất",
         "Không; phóng noãn có thể vẫn xảy ra",
@@ -1455,7 +1455,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-classify1",
       "level": "apply",
-      "stem": "Trong bài tập phân loại của slide 12, FSH/LH thấp và E2 thấp xếp vào nhóm nào?",
+      "stem": "FSH/LH thấp và E2 thấp xếp vào nhóm nào?",
       "options": [
         "WHO II",
         "WHO III",
@@ -1533,7 +1533,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-classify3",
       "level": "apply",
-      "stem": "Trong bài tập phân loại, FSH/LH cao nhưng E2 thấp thuộc nhóm nào?",
+      "stem": "FSH/LH cao nhưng E2 thấp thuộc nhóm nào?",
       "options": [
         "Cả ba đều bắt buộc",
         "WHO III",
@@ -1806,7 +1806,7 @@
       "topicId": "contraception",
       "conceptId": "m08-ee-fsh-case",
       "level": "apply",
-      "stem": "EE duy trì phản hồi âm thường trực lên FSH. Hệ quả đối với nang theo bài là gì?",
+      "stem": "EE duy trì phản hồi âm thường trực lên FSH. Hệ quả đối với nang là gì?",
       "options": [
         "FSH tăng mãi",
         "Đỉnh LH xuất hiện bắt buộc",
@@ -1843,7 +1843,7 @@
       "topicId": "contraception",
       "conceptId": "m08-selected-no-ovulation",
       "level": "apply",
-      "stem": "Dù một nang được chọn lọc, progestogen giữ LH thấp. Sự kiện nào bị ngăn theo bài?",
+      "stem": "Dù một nang được chọn lọc, progestogen giữ LH thấp. Sự kiện nào bị ngăn?",
       "options": [
         "Sản xuất mọi protein của cơ thể",
         "Phóng noãn",
@@ -1880,7 +1880,7 @@
       "topicId": "contraception",
       "conceptId": "m08-continuous-progestogen",
       "level": "apply",
-      "stem": "Progestogen hiện diện liên tục, kéo dài làm nội mạc biến đổi thế nào theo bài?",
+      "stem": "Progestogen hiện diện liên tục, kéo dài làm nội mạc biến đổi thế nào?",
       "options": [
         "Màng rụng hóa, không còn cửa sổ làm tổ phù hợp",
         "Tăng FSH tại nội mạc",
@@ -2065,7 +2065,7 @@
       "topicId": "contraception",
       "conceptId": "m08-implant-hormones",
       "level": "understand",
-      "stem": "Ghép que cấy và hoạt chất nào đúng theo bài?",
+      "stem": "Ghép que cấy và hoạt chất nào đúng?",
       "options": [
         "Norplant–EE; Implanon–FSH",
         "Norplant–GnRH; Implanon–LH",
@@ -2139,7 +2139,7 @@
       "topicId": "contraception",
       "conceptId": "m08-ring-composition",
       "level": "understand",
-      "stem": "Vòng âm đạo trong slide 29 chứa tổ hợp nào?",
+      "stem": "Vòng âm đạo chứa tổ hợp nào?",
       "options": [
         "Chỉ AMH",
         "EE và etonogestrel",
@@ -2176,7 +2176,7 @@
       "topicId": "contraception",
       "conceptId": "m08-ring-mechanism",
       "level": "apply",
-      "stem": "Cơ chế vòng âm đạo phối hợp được slide 29 so với phương pháp nào?",
+      "stem": "Cơ chế của vòng âm đạo phối hợp tương tự phương pháp nào?",
       "options": [
         "COCs",
         "Kích thích phóng noãn bằng FSH",
@@ -2213,7 +2213,7 @@
       "topicId": "emergency",
       "conceptId": "m08-lng-type",
       "level": "understand",
-      "stem": "ECP dùng LNG được xếp vào dạng nào trong bài?",
+      "stem": "ECP dùng LNG được xếp vào dạng nào?",
       "options": [
         "Estrogen đơn thuần",
         "Gonadotropin",
@@ -2250,7 +2250,7 @@
       "topicId": "emergency",
       "conceptId": "m08-before-lh",
       "level": "apply",
-      "stem": "Theo bài, dùng ECP trước đỉnh LH có thể tác động sự kiện nào?",
+      "stem": "Dùng ECP trước đỉnh LH có thể tác động sự kiện nào?",
       "options": [
         "Tạo phôi đã làm tổ",
         "Đảm bảo hiệu quả bất kể thời điểm",
@@ -2669,7 +2669,7 @@
       "topicId": "amenorrhea",
       "conceptId": "m08-low-e2-compare",
       "level": "analyze",
-      "stem": "Hai mẫu cùng E2 thấp nhưng một mẫu FSH/LH thấp, mẫu kia cao. Phân loại theo bài khác nhau ra sao?",
+      "stem": "Hai mẫu cùng E2 thấp nhưng một mẫu FSH/LH thấp, mẫu kia cao. Phân loại khác nhau ra sao?",
       "options": [
         "Cả hai bắt buộc WHO II",
         "Mẫu đầu WHO III, mẫu sau WHO I",
@@ -2915,7 +2915,7 @@
       "topicId": "contraception",
       "conceptId": "m08-lng-not-full-lh",
       "level": "analyze",
-      "stem": "IUD-LNG không ức chế hoàn toàn LH có đồng nghĩa không thể tránh thai theo bài không?",
+      "stem": "IUD-LNG không ức chế hoàn toàn LH có đồng nghĩa không thể tránh thai không?",
       "options": [
         "Không vì LNG là FSH",
         "Không; còn tác động nội mạc, chất nhầy và cơ chế IUD trơ",
@@ -2993,7 +2993,7 @@
       "topicId": "contraception",
       "conceptId": "m08-ring-route-mechanism",
       "level": "analyze",
-      "stem": "Một người suy vòng âm đạo chỉ có cơ chế của IUD trơ vì được đặt tại đường sinh dục. Điểm nào bác bỏ suy luận đó trong bài?",
+      "stem": "Một người suy vòng âm đạo chỉ có cơ chế của IUD trơ vì được đặt tại đường sinh dục. Điểm nào bác bỏ suy luận đó?",
       "options": [
         "Vòng âm đạo không phóng thích hoạt chất",
         "Vòng âm đạo và IUD-LNG có cùng vị trí đặt",
@@ -3067,7 +3067,7 @@
       "topicId": "emergency",
       "conceptId": "m08-drug-groups",
       "level": "understand",
-      "stem": "LNG và SPRM đều được gọi là ECP trong bài. Điều gì tránh đánh đồng hai nhóm hoạt chất?",
+      "stem": "LNG và SPRM đều được gọi là ECP. Điều gì tránh đánh đồng hai nhóm hoạt chất?",
       "options": [
         "Cả hai đều là IUD trơ",
         "LNG là progestogen; SPRM điều hòa chọn lọc receptor P4",

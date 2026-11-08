@@ -139,7 +139,7 @@
       "topicId": "giaiphau",
       "conceptId": "location",
       "level": "understand",
-      "stem": "Mô tả nào đúng về vị trí buồng trứng trong bài?",
+      "stem": "Mô tả nào đúng về vị trí buồng trứng?",
       "options": [
         "Sát thành bên chậu hông, phía sau dây chằng rộng",
         "Trong lòng buồng tử cung",
@@ -287,7 +287,7 @@
       "topicId": "phoi",
       "conceptId": "origin",
       "level": "understand",
-      "stem": "Buồng trứng hình thành từ những thành phần nào theo bài?",
+      "stem": "Buồng trứng hình thành từ những thành phần nào?",
       "options": [
         "Biểu mô gờ sinh dục và tế bào sinh dục nguyên thủy",
         "Chỉ từ niêm mạc tử cung",
@@ -591,7 +591,7 @@
       "topicId": "nangconang",
       "conceptId": "functionalnature",
       "level": "understand",
-      "stem": "Vì sao nang cơ năng không được xếp là u tân sinh trong bài?",
+      "stem": "Vì sao nang cơ năng không được xếp là u tân sinh?",
       "options": [
         "Chúng hình thành do hoạt động chức năng của buồng trứng",
         "Vì chúng luôn là u di căn",
@@ -776,7 +776,7 @@
       "topicId": "pcos",
       "conceptId": "pcosmanifestations",
       "level": "understand",
-      "stem": "Ghép biểu hiện PCOS với cơ chế nào đúng theo bài?",
+      "stem": "Ghép biểu hiện PCOS với cơ chế nào đúng?",
       "options": [
         "Rối loạn phóng noãn: kinh thưa/vô kinh; cường androgen: rậm lông/mụn",
         "Cường androgen chỉ gây thiếu máu; rối loạn phóng noãn chỉ gây sốt",
@@ -924,7 +924,7 @@
       "topicId": "giaiphau",
       "conceptId": "fossasuperior",
       "level": "apply",
-      "stem": "Cấu trúc nào giới hạn phía trên hố buồng trứng theo bài?",
+      "stem": "Cấu trúc nào giới hạn phía trên hố buồng trứng?",
       "options": [
         "Động mạch chậu ngoài",
         "Động mạch chậu trong và niệu quản",
@@ -1113,7 +1113,7 @@
       "topicId": "giaiphau",
       "conceptId": "arteryorigin",
       "level": "apply",
-      "stem": "Truy nguyên động mạch buồng trứng theo bài sẽ tới động mạch nào?",
+      "stem": "Truy nguyên động mạch buồng trứng sẽ tới động mạch nào?",
       "options": [
         "Động mạch chủ bụng vùng thắt lưng",
         "Chỉ động mạch rốn trong nang noãn",
@@ -1298,7 +1298,7 @@
       "topicId": "mohoc",
       "conceptId": "oogoniaage",
       "level": "apply",
-      "stem": "Tiêu bản buồng trứng sau sinh được gán nhãn có noãn nguyên bào bình thường. Theo bài cần sửa gì?",
+      "stem": "Tiêu bản buồng trứng sau sinh được gán nhãn có noãn nguyên bào bình thường. cần sửa gì?",
       "options": [
         "Noãn nguyên bào chỉ được quan sát trong giai đoạn phôi thai",
         "Noãn nguyên bào chỉ xuất hiện sau mãn kinh",
@@ -1816,7 +1816,7 @@
       "topicId": "chucnang",
       "conceptId": "steroidcontrol",
       "level": "apply",
-      "stem": "Cần ghép hai hormone hướng sinh dục với hoạt động nội tiết buồng trứng trong bài. Chọn cặp nào?",
+      "stem": "Cần ghép hai hormone hướng sinh dục với hoạt động nội tiết buồng trứng. Chọn cặp nào?",
       "options": [
         "LH và FSH",
         "Chỉ hCG và IgG",
@@ -1853,7 +1853,7 @@
       "topicId": "nangconang",
       "conceptId": "follicularage",
       "level": "apply",
-      "stem": "Nang noãn nang xuất hiện ở tuổi dậy thì hoặc quanh mãn kinh được giải thích thế nào trong bài?",
+      "stem": "Nang noãn nang xuất hiện ở tuổi dậy thì hoặc quanh mãn kinh được giải thích thế nào?",
       "options": [
         "Hoạt động bất ổn của trục hạ đồi–tuyến yên–buồng trứng",
         "Mọi trường hợp đều là di căn",
@@ -1964,7 +1964,7 @@
       "topicId": "nangconang",
       "conceptId": "hemorrhagicrupture",
       "level": "apply",
-      "stem": "Nang hoàng thể xuất huyết vỡ có thể gây hậu quả nào theo bài?",
+      "stem": "Nang hoàng thể xuất huyết vỡ có thể gây hậu quả nào?",
       "options": [
         "Xuất huyết nội",
         "Tạo thêm noãn nguyên thủy",
@@ -2075,7 +2075,7 @@
       "topicId": "lacnoimac",
       "conceptId": "endometriomaultrasound",
       "level": "apply",
-      "stem": "Nang phản âm kém dạng kính mờ, giới hạn rõ, không chồi phù hợp mô tả nào trong bài?",
+      "stem": "Nang phản âm kém dạng kính mờ, giới hạn rõ, không chồi phù hợp mô tả nào?",
       "options": [
         "Nang lạc nội mạc tử cung ở buồng trứng",
         "Bắt buộc là u ác tính",
@@ -2268,7 +2268,7 @@
       "topicId": "pcos",
       "conceptId": "criteriacount",
       "level": "apply",
-      "stem": "Bảng tiêu chuẩn PCOS trong bài yêu cầu bao nhiêu trong ba nhóm tiêu chuẩn?",
+      "stem": "Bảng tiêu chuẩn PCOS yêu cầu bao nhiêu trong ba nhóm tiêu chuẩn?",
       "options": [
         "Hai trong ba",
         "Cả ba luôn bắt buộc",
@@ -2305,7 +2305,7 @@
       "topicId": "pcos",
       "conceptId": "pcosimpact",
       "level": "apply",
-      "stem": "Khi tóm tắt ảnh hưởng PCOS, tổ hợp nào nằm trong bài?",
+      "stem": "Khi tóm tắt ảnh hưởng PCOS, tổ hợp nào nằm?",
       "options": [
         "Hiếm muộn, ung thư nội mạc tử cung, bệnh tim mạch–chuyển hóa",
         "Chỉ thay đổi màu buồng trứng, không ảnh hưởng khác",
@@ -2514,7 +2514,7 @@
       "topicId": "phoi",
       "conceptId": "lhfertilizationsequence",
       "level": "analyze",
-      "stem": "Ghép tín hiệu và bước trưởng thành noãn nào đúng theo bài?",
+      "stem": "Ghép tín hiệu và bước trưởng thành noãn nào đúng?",
       "options": [
         "Đỉnh LH giúp tiếp tục giảm phân I; thụ tinh giúp hoàn tất giảm phân II",
         "Thụ tinh diễn ra trước khi noãn bước vào giảm phân I",
@@ -3014,7 +3014,7 @@
       "topicId": "pcos",
       "conceptId": "pcosmetaboliccare",
       "level": "analyze",
-      "stem": "Vì sao phần điều trị PCOS trong bài có kiểm soát cân nặng và điều trị đề kháng insulin?",
+      "stem": "Vì sao phần điều trị PCOS có kiểm soát cân nặng và điều trị đề kháng insulin?",
       "options": [
         "PCOS có khía cạnh chuyển hóa, gồm béo phì/đề kháng insulin và nguy cơ bệnh chuyển hóa",
         "Vì PCOS chỉ là vấn đề kích thước nang không có nội tiết",
@@ -3059,7 +3059,7 @@
       "topicId": "pcos",
       "conceptId": "pcosfertilitycare",
       "level": "analyze",
-      "stem": "Ở mục tiêu học tập về PCOS có hiếm muộn do rối loạn phóng noãn, biện pháp nào trong bài nhắm trực tiếp vào mắt xích này?",
+      "stem": "Ở mục tiêu học tập về PCOS có hiếm muộn do rối loạn phóng noãn, biện pháp nào nhắm trực tiếp vào mắt xích này?",
       "options": [
         "Gây phóng noãn",
         "Chỉ theo dõi màu sắc dịch chocolate",

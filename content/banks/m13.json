@@ -79,7 +79,7 @@
       "topicId": "diagnosis",
       "conceptId": "m13-history-signs",
       "level": "understand",
-      "stem": "Nhóm thông tin nào thuộc bệnh sử gợi ý có thai trong bài học?",
+      "stem": "Nhóm thông tin nào thuộc bệnh sử gợi ý có thai?",
       "options": [
         "Trễ kinh, nghén và thay đổi ở vú",
         "CRL, BPD và HC",
@@ -206,7 +206,7 @@
       "topicId": "dating",
       "conceptId": "m13-due-date",
       "level": "understand",
-      "stem": "Ngày dự sanh trong bài học được hiểu là ngày nào?",
+      "stem": "Ngày dự sanh được hiểu là ngày nào?",
       "options": [
         "Ngày thai bắt đầu máy",
         "Ngày thai kỳ đạt 40 tuần",
@@ -293,7 +293,7 @@
       "topicId": "dating",
       "conceptId": "m13-crl-scope",
       "level": "understand",
-      "stem": "Giới hạn của công thức tuổi thai bằng CRL cộng 42 trong bài học là gì?",
+      "stem": "Giới hạn của công thức tuổi thai bằng CRL cộng 42 là gì?",
       "options": [
         "Mọi CRL, tuổi thai tính bằng tuần",
         "CRL trên 30 mm, tuổi thai tính bằng tháng",
@@ -420,7 +420,7 @@
       "topicId": "assessment",
       "conceptId": "m13-hcg-context",
       "level": "understand",
-      "stem": "Cách hiểu nào phù hợp với các ngưỡng β-hCG ở trang 20?",
+      "stem": "Cách hiểu nào phù hợp với các ngưỡng β-hCG?",
       "options": [
         "Là các mốc tham khảo tùy điều kiện thực hành",
         "Là các con số cứng nhắc trong mọi hoàn cảnh",
@@ -460,7 +460,7 @@
       "topicId": "loss",
       "conceptId": "m13-demise-definition",
       "level": "understand",
-      "stem": "Theo bài học, đặc điểm cốt lõi của thai lưu là gì?",
+      "stem": "Đặc điểm cốt lõi của thai lưu là gì?",
       "options": [
         "Thai làm tổ ngoài buồng tử cung",
         "Mọi lần ra huyết trong thai kỳ",
@@ -580,7 +580,7 @@
       "topicId": "loss",
       "conceptId": "m13-loss-types",
       "level": "understand",
-      "stem": "Nhóm nào gồm các hình thái sẩy thai được liệt kê trong bài?",
+      "stem": "Nhóm nào gồm các hình thái sẩy thai được liệt kê?",
       "options": [
         "Sẩy khó tránh, không trọn, trọn và tái phát",
         "Thai ngoài tử cung, thai trứng và hoàng thể",
@@ -620,7 +620,7 @@
       "topicId": "ectopic",
       "conceptId": "m13-ectopic-definition",
       "level": "understand",
-      "stem": "Điểm phân biệt định nghĩa thai ngoài tử cung với thai lưu trong bài học là gì?",
+      "stem": "Điểm phân biệt định nghĩa thai ngoài tử cung với thai lưu là gì?",
       "options": [
         "Thai ngoài tử cung được định nghĩa bằng nghén nặng",
         "Thai ngoài tử cung luôn được định nghĩa bằng một nồng độ hCG",
@@ -820,7 +820,7 @@
       "topicId": "mole",
       "conceptId": "m13-mole-evacuation",
       "level": "understand",
-      "stem": "Vì sao hút nạo thai trứng có hai vai trò trong bài học?",
+      "stem": "Vì sao hút nạo thai trứng có hai vai trò?",
       "options": [
         "Vừa loại bỏ nhu cầu theo dõi vừa xác nhận khỏi bệnh",
         "Vừa thay thế hCG vừa loại bỏ nhu cầu ngừa thai",
@@ -900,7 +900,7 @@
       "topicId": "diagnosis",
       "conceptId": "m13-history-signs",
       "level": "apply",
-      "stem": "Một người kể trễ kinh, nghén và thay đổi ở vú. Khi ghi nhận theo bài học, nhóm dữ kiện này thuộc phần nào?",
+      "stem": "Một người kể trễ kinh, nghén và thay đổi ở vú. Khi ghi nhận nhóm dữ kiện này thuộc phần nào?",
       "options": [
         "Bệnh sử gợi ý có thai",
         "Kết quả giải phẫu bệnh",
@@ -1020,7 +1020,7 @@
       "topicId": "dating",
       "conceptId": "m13-crl-calculation",
       "level": "apply",
-      "stem": "Trong bài tập dùng đúng công thức của tài liệu, CRL 20 mm tương ứng tuổi thai bao nhiêu ngày?",
+      "stem": "Dùng công thức đã cho, CRL 20 mm tương ứng tuổi thai bao nhiêu ngày?",
       "options": [
         "82 ngày",
         "62 ngày",
@@ -1100,7 +1100,7 @@
       "topicId": "dating",
       "conceptId": "m13-crl-calculation",
       "level": "apply",
-      "stem": "CRL 30 mm trong bài tập của tài liệu được quy đổi thế nào?",
+      "stem": "CRL 30 mm được quy đổi thành tuổi thai thế nào?",
       "options": [
         "30 ngày",
         "42 tuần",
@@ -1300,7 +1300,7 @@
       "topicId": "dating",
       "conceptId": "m13-ivf-accuracy",
       "level": "apply",
-      "stem": "So sánh hai hồ sơ, một hồ sơ có dữ kiện IVF và một hồ sơ chỉ có đo bề cao tử cung. Theo bài học, cách nào cho định tuổi chính xác nhất?",
+      "stem": "So sánh hai hồ sơ, một hồ sơ có dữ kiện IVF và một hồ sơ chỉ có đo bề cao tử cung. cách nào cho định tuổi chính xác nhất?",
       "options": [
         "Chỉ cảm giác bụng to",
         "Chỉ mức độ nghén",
@@ -1340,7 +1340,7 @@
       "topicId": "dating",
       "conceptId": "m13-measurement-groups",
       "level": "apply",
-      "stem": "Một phiếu siêu âm quý 2 ghi BPD, HC, FL và AC. Theo bài học, các số đo này phục vụ mục đích nào?",
+      "stem": "Một phiếu siêu âm quý 2 ghi BPD, HC, FL và AC. các số đo này phục vụ mục đích nào?",
       "options": [
         "Thay thế ngày kinh chót bằng hCG",
         "Có thể góp phần định tuổi thai ở quý 2, 3",
@@ -1420,7 +1420,7 @@
       "topicId": "assessment",
       "conceptId": "m13-ultrasound-first",
       "level": "apply",
-      "stem": "Trong bài tập tiếp cận xuất huyết thai sớm, cần chọn phương tiện đầu tay để khảo sát vị trí và sinh tồn thai. Chọn gì?",
+      "stem": "Khi tiếp cận xuất huyết thai sớm, phương tiện đầu tay để khảo sát vị trí và sinh tồn thai là gì?",
       "options": [
         "Giải phẫu bệnh cho tất cả trường hợp ngay lập tức",
         "Chỉ dựa vào mức độ nghén",
@@ -1500,7 +1500,7 @@
       "topicId": "assessment",
       "conceptId": "m13-clinical-limit",
       "level": "apply",
-      "stem": "Khám lâm sàng ở người ra huyết thai sớm cung cấp ít thông tin. Theo bài học, nên hiểu tình huống này thế nào?",
+      "stem": "Khám lâm sàng ở người ra huyết thai sớm cung cấp ít thông tin. nên hiểu tình huống này thế nào?",
       "options": [
         "Chứng minh chắc chắn thai đã lưu",
         "Vẫn cần khảo sát thêm, trong đó siêu âm là phương tiện đầu tay",
@@ -1587,7 +1587,7 @@
       "topicId": "loss",
       "conceptId": "m13-demise-definition",
       "level": "apply",
-      "stem": "Hồ sơ ghi thai đã được xác định ngừng phát triển trong buồng tử cung. Thuật ngữ phù hợp theo bài học là gì?",
+      "stem": "Hồ sơ ghi thai đã được xác định ngừng phát triển trong buồng tử cung. Thuật ngữ phù hợp là gì?",
       "options": [
         "Thai ngoài tử cung theo định nghĩa vị trí",
         "Chắc chắn thai trứng",
@@ -1707,7 +1707,7 @@
       "topicId": "loss",
       "conceptId": "m13-miscarriage-definition",
       "level": "apply",
-      "stem": "Trong bài tập, thai được tống xuất ở 18 tuần vô kinh và chưa có khả năng tự sống. Sự kiện này thuộc định nghĩa nào?",
+      "stem": "Thai được tống xuất ở 18 tuần vô kinh và chưa có khả năng tự sống. Sự kiện này thuộc định nghĩa nào?",
       "options": [
         "Sẩy thai theo bài học",
         "Ngày dự sanh",
@@ -2067,7 +2067,7 @@
       "topicId": "mole",
       "conceptId": "m13-mole-symptoms",
       "level": "apply",
-      "stem": "Người học cần nhận diện nhóm gợi ý thai trứng theo bài: tổ hợp nào phù hợp?",
+      "stem": "Người học cần nhận diện nhóm gợi ý thai trứng: tổ hợp nào phù hợp?",
       "options": [
         "Chỉ một CRL lớn hơn 30 mm",
         "Chỉ ngày dự sanh lệch 3 ngày",
@@ -2107,7 +2107,7 @@
       "topicId": "mole",
       "conceptId": "m13-mole-first-test",
       "level": "apply",
-      "stem": "Trong bài tập nghi thai trứng, phương tiện khảo sát đầu tay là gì?",
+      "stem": "Khi nghi thai trứng, phương tiện khảo sát đầu tay là gì?",
       "options": [
         "Chỉ hỏi ngày kinh chót",
         "Chỉ đánh giá tình trạng thai máy",
@@ -2187,7 +2187,7 @@
       "topicId": "mole",
       "conceptId": "m13-mole-followup",
       "level": "apply",
-      "stem": "Trong kế hoạch theo dõi thai trứng theo bài học, chỉ dấu nào được dùng?",
+      "stem": "Trong kế hoạch theo dõi thai trứng chỉ dấu nào được dùng?",
       "options": [
         "hCG",
         "CRL của mọi trường hợp",
@@ -2354,7 +2354,7 @@
       "topicId": "dating",
       "conceptId": "m13-earliest-eligible",
       "level": "apply",
-      "stem": "Hai kết quả CRL quý 1 lần lượt là 15 mm và 28 mm. Theo bài, kết quả nào được ưu tiên khi chọn siêu âm định tuổi?",
+      "stem": "Hai kết quả CRL quý 1 lần lượt là 15 mm và 28 mm. kết quả nào được ưu tiên khi chọn siêu âm định tuổi?",
       "options": [
         "Lần 15 mm vì sớm hơn và đạt ít nhất 10 mm",
         "Lần 28 mm chỉ vì gần 30 mm",
@@ -2394,7 +2394,7 @@
       "topicId": "assessment",
       "conceptId": "m13-threshold-single-twin",
       "level": "apply",
-      "stem": "Khi tóm tắt trang 20, sinh viên ghi cùng một mốc hCG cho đơn thai và song thai. Cần sửa điều gì?",
+      "stem": "Một sinh viên ghi cùng một mốc hCG cho đơn thai và song thai. Cần sửa điều gì?",
       "options": [
         "Nguồn nói chỉ cần mốc 3000 cho mọi thai",
         "Nguồn nói không hề phân biệt đơn thai/song thai",
@@ -2474,7 +2474,7 @@
       "topicId": "mole",
       "conceptId": "m13-mole-evacuation",
       "level": "apply",
-      "stem": "Sau khi học về hút nạo thai trứng, một sinh viên cho rằng thủ thuật chỉ để điều trị. Điều chỉnh nào đúng theo bài?",
+      "stem": "Sau khi học về hút nạo thai trứng, một sinh viên cho rằng thủ thuật chỉ để điều trị. Điều chỉnh nào đúng?",
       "options": [
         "Thủ thuật là phương pháp tính tuổi bằng CRL",
         "Thủ thuật còn có vai trò chẩn đoán",
@@ -2514,7 +2514,7 @@
       "topicId": "dating",
       "conceptId": "m13-integrated-crl-choice",
       "level": "analyze",
-      "stem": "Có các lần CRL 8, 18 và 34 mm theo thứ tự thời gian. Nếu chọn siêu âm định tuổi theo bài, nhận định nào kết hợp đúng lựa chọn lần đo và công thức?",
+      "stem": "Có các lần CRL 8, 18 và 34 mm theo thứ tự thời gian. Nếu chọn siêu âm định tuổi nhận định nào kết hợp đúng lựa chọn lần đo và công thức?",
       "options": [
         "Chọn 18 mm; nằm trong khoảng dùng phép cộng 42",
         "Chọn 8 mm vì luôn chọn lần sớm nhất; cộng 42",
@@ -2723,7 +2723,7 @@
       "topicId": "assessment",
       "conceptId": "m13-integrated-threshold",
       "level": "analyze",
-      "stem": "Một người dùng duy nhất mốc β-hCG cố định để khẳng định vị trí thai, không xét đơn/song thai hay siêu âm. Lập luận nào bám đúng tài liệu?",
+      "stem": "Một người dùng duy nhất mốc β-hCG cố định để khẳng định vị trí thai, không xét đơn/song thai hay siêu âm. Lập luận nào đúng?",
       "options": [
         "Phải giữ vai trò siêu âm và xét bối cảnh của ngưỡng; không biến con số tham khảo thành kết luận độc lập",
         "Một mốc luôn đủ cho mọi hoàn cảnh",
@@ -3045,7 +3045,7 @@
       "topicId": "ectopic",
       "conceptId": "m13-integrated-treatment-no-protocol",
       "level": "understand",
-      "stem": "Từ trang 38 chỉ liệt kê theo dõi, nội khoa, ngoại khoa và cá thể hóa, có thể kết luận điều gì?",
+      "stem": "Có các hướng theo dõi, nội khoa, ngoại khoa và cá thể hóa. Có thể kết luận điều gì?",
       "options": [
         "Mọi người đều chỉ theo dõi",
         "Chưa đủ dữ kiện để suy ra một liều thuốc hoặc một phương pháp bắt buộc cho mọi bệnh nhân",

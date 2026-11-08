@@ -152,7 +152,7 @@
       "topicId": "classification",
       "conceptId": "m16-paternal-dna",
       "level": "understand",
-      "stem": "Đặc điểm di truyền nào giúp phân biệt choriocarcinoma liên quan và không liên quan thai kỳ trong bài?",
+      "stem": "Đặc điểm di truyền nào giúp phân biệt choriocarcinoma liên quan và không liên quan thai kỳ?",
       "options": [
         "Chỉ kích thước tử cung",
         "Chỉ thời gian ra máu",
@@ -239,7 +239,7 @@
       "topicId": "classification",
       "conceptId": "m16-molar-subtypes",
       "level": "understand",
-      "stem": "Hai nhóm thai trứng được phân loại ở trang 5 là gì?",
+      "stem": "Hai nhóm thai trứng được phân loại là gì?",
       "options": [
         "Toàn phần và bán phần",
         "Túi thai thật và túi thai giả",
@@ -279,7 +279,7 @@
       "topicId": "classification",
       "conceptId": "m16-gtn-members",
       "level": "understand",
-      "stem": "Nhóm nào gồm các loại được liệt kê dưới GTN trong bài?",
+      "stem": "Nhóm nào gồm các loại được liệt kê dưới GTN?",
       "options": [
         "Chỉ thai trứng toàn phần và bán phần",
         "Chỉ nang hoàng tuyến và nang noãn",
@@ -486,7 +486,7 @@
       "topicId": "pathology",
       "conceptId": "m16-hcg-subtype",
       "level": "understand",
-      "stem": "Vì sao không nên đọc mốc >100000 mUI/ml ở trang 18 như điều kiện bắt buộc cho mọi thai trứng?",
+      "stem": "Vì sao không nên đọc mốc >100000 mUI/ml như điều kiện bắt buộc cho mọi thai trứng?",
       "options": [
         "Vì mọi thai trứng đều có hCG bằng 0",
         "Vì 100000 là tuổi thai",
@@ -533,7 +533,7 @@
       "topicId": "clinical",
       "conceptId": "m16-risk-not-diagnosis",
       "level": "understand",
-      "stem": "Cách hiểu nào đúng về tuổi trên 40 và tiền căn thai trứng trong bài?",
+      "stem": "Cách hiểu nào đúng về tuổi trên 40 và tiền căn thai trứng?",
       "options": [
         "Là các giá trị xét nghiệm hCG",
         "Là yếu tố nguy cơ, không thay thế khảo sát và xác nhận chẩn đoán",
@@ -700,7 +700,7 @@
       "topicId": "diagnostics",
       "conceptId": "m16-test-roles",
       "level": "understand",
-      "stem": "Ghép vai trò nào đúng theo bài học?",
+      "stem": "Ghép vai trò nào đúng?",
       "options": [
         "BCTC thay thế toàn bộ ba khảo sát",
         "Siêu âm đầu tay; hCG theo dõi; GPB xác nhận",
@@ -820,7 +820,7 @@
       "topicId": "followup",
       "conceptId": "m16-followup-components",
       "level": "understand",
-      "stem": "Theo dõi sau xử trí trong bài gồm những nhóm nào?",
+      "stem": "Theo dõi sau xử trí gồm những nhóm nào?",
       "options": [
         "Chỉ một lần cân nặng",
         "Chỉ hỏi màu nước tiểu",
@@ -900,7 +900,7 @@
       "topicId": "classification",
       "conceptId": "m16-gtd-definition",
       "level": "understand",
-      "stem": "Một mô tả nêu tăng sinh nguyên bào nuôi bánh nhau. Khái niệm phù hợp trong bài là gì?",
+      "stem": "Một mô tả nêu tăng sinh nguyên bào nuôi bánh nhau. Khái niệm phù hợp là gì?",
       "options": [
         "GTD",
         "Định tuổi thai bằng CRL",
@@ -1201,7 +1201,7 @@
       "topicId": "classification",
       "conceptId": "m16-gtn-pstt",
       "level": "understand",
-      "stem": "Một danh sách cần ghi đầy đủ PSTT theo bài. Cách diễn đạt nào đúng?",
+      "stem": "Một danh sách cần ghi đầy đủ PSTT. Cách diễn đạt nào đúng?",
       "options": [
         "Thai ngoài tử cung ở vòi",
         "U nguyên bào nuôi tại vị trí nhau bám",
@@ -1441,7 +1441,7 @@
       "topicId": "pathology",
       "conceptId": "m16-p57",
       "level": "understand",
-      "stem": "Trong bảng trang 12, p57KIP2 âm tính thuộc cột nào?",
+      "stem": "p57KIP2 âm tính thường hướng về nhóm nào?",
       "options": [
         "Bán phần",
         "Chỉ thai ngoài tử cung",
@@ -1481,7 +1481,7 @@
       "topicId": "pathology",
       "conceptId": "m16-complete-edema",
       "level": "apply",
-      "stem": "Một mô tả học tập nêu gai nhau phù rõ, vô mạch và phù lan rộng. Theo tài liệu, tổ hợp nghiêng về dạng nào?",
+      "stem": "Một mô tả học tập nêu gai nhau phù rõ, vô mạch và phù lan rộng. tổ hợp nghiêng về dạng nào?",
       "options": [
         "Nang hoàng tuyến",
         "U xơ tử cung",
@@ -1782,7 +1782,7 @@
       "topicId": "clinical",
       "conceptId": "m16-risk-nutrition",
       "level": "understand",
-      "stem": "Yếu tố dinh dưỡng nào được liệt kê trong bài?",
+      "stem": "Yếu tố dinh dưỡng nào được liệt kê?",
       "options": [
         "Thừa mọi vitamin là điều kiện bắt buộc",
         "Chỉ lượng nước uống trong một ngày",
@@ -1822,7 +1822,7 @@
       "topicId": "clinical",
       "conceptId": "m16-risk-history",
       "level": "understand",
-      "stem": "Tiền sử nào thuộc nhóm yếu tố nguy cơ trong bài?",
+      "stem": "Tiền sử nào thuộc nhóm yếu tố nguy cơ?",
       "options": [
         "Chỉ chu kỳ kinh 30 ngày",
         "Chỉ một lần đo bề cao tử cung",
@@ -1942,7 +1942,7 @@
       "topicId": "clinical",
       "conceptId": "m16-theca-frequency",
       "level": "understand",
-      "stem": "Trang 15 ghi nang hoàng tuyến thường hai bên và gặp với khoảng tỷ lệ nào?",
+      "stem": "Nang hoàng tuyến thường hai bên và gặp với khoảng tỷ lệ nào?",
       "options": [
         "100% bắt buộc",
         "0%",
@@ -1982,7 +1982,7 @@
       "topicId": "diagnostics",
       "conceptId": "m16-first-test",
       "level": "apply",
-      "stem": "Nghi thai trứng trong bài tập, phương tiện khảo sát đầu tay là gì?",
+      "stem": "Nghi thai trứng tập, phương tiện khảo sát đầu tay là gì?",
       "options": [
         "Chỉ triệu chứng nghén",
         "Chỉ kinh chót",
@@ -2342,7 +2342,7 @@
       "topicId": "followup",
       "conceptId": "m16-partial-postnegative",
       "level": "understand",
-      "stem": "Sau hCG âm tính, tài liệu nêu mốc theo dõi tiếp cho TTBP thế nào?",
+      "stem": "Sau hCG âm tính, TTBP cần được theo dõi tiếp thế nào?",
       "options": [
         "Bắt buộc 12 năm",
         "Sau đó 1 tháng",
@@ -2422,7 +2422,7 @@
       "topicId": "followup",
       "conceptId": "m16-figo-plateau",
       "level": "apply",
-      "stem": "Theo hộp tiêu chí FIGO trên trang 22, hCG bình nguyên qua 4 lần đo ngày 1,7,14,21 đáp ứng mô tả nào?",
+      "stem": "hCG bình nguyên qua 4 lần đo vào ngày 1, 7, 14 và 21 đáp ứng mô tả nào?",
       "options": [
         "Chỉ mới một lần đo nên không có động học",
         "Tiêu chí bắt buộc hCG giảm 50%",
@@ -2676,7 +2676,7 @@
       "topicId": "pathology",
       "conceptId": "m16-integrated-complete-pattern",
       "level": "analyze",
-      "stem": "Tổ hợp trong bài tập gồm gai nhau phù lan rộng, phôi/thai vắng và p57 âm. Kết luận nào nhất quán với bảng?",
+      "stem": "Tổ hợp tập gồm gai nhau phù lan rộng, phôi/thai vắng và p57 âm. Kết luận nào nhất quán với bảng?",
       "options": [
         "Đã đủ để tính ngày dự sanh",
         "Nghiêng về toàn phần theo tổ hợp đặc điểm",
@@ -2723,7 +2723,7 @@
       "topicId": "pathology",
       "conceptId": "m16-integrated-hcg-cutoff",
       "level": "analyze",
-      "stem": "Người học loại hoàn toàn thai trứng chỉ vì hCG ban đầu 80000 mUI/ml. Phân tích nào đúng theo tài liệu?",
+      "stem": "Người học loại hoàn toàn thai trứng chỉ vì hCG ban đầu 80000 mUI/ml. Phân tích nào đúng?",
       "options": [
         "Không hợp lý: bảng bán phần có hCG ban đầu dưới 100000; phải giữ vai trò siêu âm và GPB",
         "Hợp lý vì mọi thai trứng bắt buộc trên 100000",
@@ -3052,7 +3052,7 @@
       "topicId": "diagnostics",
       "conceptId": "m16-integrated-demise-regressing",
       "level": "analyze",
-      "stem": "Thai chết lưu và thai trứng thoái triển có thể nhầm. Cách phối hợp công cụ nào phù hợp vai trò trong bài?",
+      "stem": "Thai chết lưu và thai trứng thoái triển có thể nhầm. Cách phối hợp công cụ nào phù hợp vai trò?",
       "options": [
         "hCG theo dõi thay GPB trong mọi trường hợp",
         "Siêu âm giúp phân biệt; GPB có vai trò xác nhận chẩn đoán thai trứng",
@@ -3099,7 +3099,7 @@
       "topicId": "followup",
       "conceptId": "m16-integrated-followup-duration",
       "level": "analyze",
-      "stem": "Hai người đã có hCG âm tính, một TTBP và một TTTP. Kế hoạch nào phản ánh sự khác nhau trong bài?",
+      "stem": "Hai người đã có hCG âm tính, một TTBP và một TTTP. Kế hoạch nào phản ánh sự khác nhau?",
       "options": [
         "TTBP theo mốc sau đó 1 tháng; TTTP mỗi tháng trong 6 tháng",
         "Cả hai đều không cần theo dõi tiếp",
@@ -3179,7 +3179,7 @@
       "topicId": "followup",
       "conceptId": "m16-integrated-plateau-count",
       "level": "analyze",
-      "stem": "hCG bình nguyên mới qua 3 lần đo ngày 1,7,14. Chỉ dựa vào tiêu chí bình nguyên trong hộp FIGO, đã đủ mô tả chưa?",
+      "stem": "HCG bình nguyên mới qua 3 lần đo ngày 1,7,14. Chỉ dựa vào tiêu chí bình nguyên trong hộp FIGO, đã đủ mô tả chưa?",
       "options": [
         "Đủ vì một lần hCG là đủ",
         "Chưa vì tiêu chí yêu cầu mọi người chờ 1 năm",

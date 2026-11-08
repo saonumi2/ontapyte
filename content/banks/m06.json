@@ -282,7 +282,7 @@
       "topicId": "selection",
       "conceptId": "m06-inhibin-source",
       "level": "understand",
-      "stem": "Nguồn Inhibin B được mô tả trong bài là gì?",
+      "stem": "Nguồn Inhibin B được mô tả là gì?",
       "options": [
         "Tế bào mạch cửa",
         "Bạch thể",
@@ -366,7 +366,7 @@
       "topicId": "cycle",
       "conceptId": "m06-duration-distinction",
       "level": "understand",
-      "stem": "Khoảng 90–120 ngày trong bài được tính giữa hai mốc nào?",
+      "stem": "Khoảng 90–120 ngày được tính giữa hai mốc nào?",
       "options": [
         "Hai lần hành kinh luôn liên tiếp",
         "Chiêu mộ đoàn hệ đến hoàng thể thành bạch thể",
@@ -444,7 +444,7 @@
       "topicId": "origin",
       "conceptId": "m06-amh-peak",
       "level": "apply",
-      "stem": "Một nang ở giai đoạn tiền hốc/hốc nhỏ. Chế tiết AMH theo bài có đặc điểm nào?",
+      "stem": "Một nang ở giai đoạn tiền hốc/hốc nhỏ. Chế tiết AMH có đặc điểm nào?",
       "options": [
         "Chưa bao giờ có AMH",
         "Chỉ tăng sau thành bạch thể",
@@ -717,7 +717,7 @@
       "topicId": "axis",
       "conceptId": "m06-slow-pulse",
       "level": "apply",
-      "stem": "Tần số xung GnRH thưa. Tuyến yên ưu tiên đáp ứng nào theo bài?",
+      "stem": "Tần số xung GnRH thưa. Tuyến yên ưu tiên đáp ứng nào?",
       "options": [
         "FSH",
         "LH",
@@ -756,7 +756,7 @@
       "topicId": "axis",
       "conceptId": "m06-fast-pulse",
       "level": "apply",
-      "stem": "Tần số xung GnRH dồn dập. Tuyến yên ưu tiên đáp ứng nào theo bài?",
+      "stem": "Tần số xung GnRH dồn dập. Tuyến yên ưu tiên đáp ứng nào?",
       "options": [
         "AMH",
         "Inhibin B",
@@ -912,7 +912,7 @@
       "topicId": "selection",
       "conceptId": "m06-dual-control",
       "level": "apply",
-      "stem": "Một sơ đồ chỉ ghi E2 kiểm soát FSH trong pha nang. Hormone buồng trứng nào cần bổ sung theo bài?",
+      "stem": "Một sơ đồ chỉ ghi E2 kiểm soát FSH trong pha nang. Hormone buồng trứng nào cần bổ sung?",
       "options": [
         "GnRH",
         "LH",
@@ -951,7 +951,7 @@
       "topicId": "cycle",
       "conceptId": "m06-visible-part",
       "level": "apply",
-      "stem": "Theo bài, biến đổi hình thái và nội tiết quan sát được chủ yếu thuộc phần nào của đời đoàn hệ?",
+      "stem": "Biến đổi hình thái và nội tiết quan sát được chủ yếu thuộc phần nào của đời đoàn hệ?",
       "options": [
         "Chỉ lúc nang đang nghỉ",
         "Chỉ thời gian đã thành bạch thể",
@@ -1029,7 +1029,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-prostaglandin-local",
       "level": "apply",
-      "stem": "Theo bài, bề mặt buồng trứng tại nang mỏng dần trước vỡ có liên quan yếu tố tại chỗ nào?",
+      "stem": "Bề mặt buồng trứng tại nang mỏng dần trước vỡ có liên quan yếu tố tại chỗ nào?",
       "options": [
         "Prostaglandin",
         "Inhibin B từ tuyến yên",
@@ -1416,7 +1416,7 @@
       "topicId": "axis",
       "conceptId": "m06-theca-lh",
       "level": "understand",
-      "stem": "Ghép tế bào – thụ thể nào đúng ở nang thứ cấp theo bài?",
+      "stem": "Ghép tế bào – thụ thể nào đúng ở nang thứ cấp?",
       "options": [
         "Vỏ–GnRH; hạt–LH",
         "Vỏ–FSH; hạt–GnRH",
@@ -1611,7 +1611,7 @@
       "topicId": "selection",
       "conceptId": "m06-high-e2-duration",
       "level": "understand",
-      "stem": "Điều kiện E2 nào kích hoạt phản hồi dương theo bài?",
+      "stem": "Điều kiện E2 nào kích hoạt phản hồi dương?",
       "options": [
         "Luôn giữ ở nồng độ thấp",
         "Vượt ngưỡng trong thời gian đủ dài",
@@ -2370,7 +2370,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-fertilization-release",
       "level": "apply",
-      "stem": "Một noãn đã đến kỳ giữa giảm phân II nhưng chưa có tinh trùng xâm nhập. Theo bài, có được ghi rằng toàn bộ giảm phân đã hoàn tất không?",
+      "stem": "Một noãn đã đến kỳ giữa giảm phân II nhưng chưa có tinh trùng xâm nhập. có được ghi rằng toàn bộ giảm phân đã hoàn tất không?",
       "options": [
         "Không; vẫn ở điểm dừng chờ tinh trùng",
         "Có; chỉ cần nang vỡ là đủ",
@@ -2448,7 +2448,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-rupture",
       "level": "understand",
-      "stem": "Bề mặt buồng trứng tại nang mỏng dần rồi nang vỡ. Thành phần được phóng thích theo bài là gì?",
+      "stem": "Bề mặt buồng trứng tại nang mỏng dần rồi nang vỡ. Thành phần được phóng thích là gì?",
       "options": [
         "Bạch thể",
         "Mạch cửa hạ đồi",
@@ -2487,7 +2487,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-vascularization",
       "level": "apply",
-      "stem": "Nếu trong mô hình hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả trong bài đang bị hạn chế?",
+      "stem": "Nếu trong mô hình hoàng thể hóa, mạch máu chưa xâm nhập phần nang còn lại, nguồn cung mới nào được mô tả đang bị hạn chế?",
       "options": [
         "Cholesterol từ mạch máu vào cấu trúc nang",
         "GnRH từ chính noãn bào",
@@ -2565,7 +2565,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-peak-day",
       "level": "understand",
-      "stem": "Theo bài, đánh giá đỉnh sản xuất steroid của hoàng thể nên gắn với mốc tương đối nào?",
+      "stem": "Đánh giá đỉnh sản xuất steroid của hoàng thể nên gắn với mốc tương đối nào?",
       "options": [
         "Ngay khi nang nguyên thủy được chiêu mộ",
         "Trước dậy thì",

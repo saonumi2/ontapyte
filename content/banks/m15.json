@@ -148,7 +148,7 @@
       "topicId": "history",
       "conceptId": "m15-bleeding-history",
       "level": "understand",
-      "stem": "Mô tả chảy máu đầy đủ theo bài học cần những yếu tố nào?",
+      "stem": "Mô tả chảy máu đầy đủ cần những yếu tố nào?",
       "options": [
         "Chỉ số ngày trễ kinh",
         "Chỉ mức hCG ban đầu",
@@ -355,7 +355,7 @@
       "topicId": "exam",
       "conceptId": "m15-inner-os",
       "level": "understand",
-      "stem": "Ý nghĩa nào đúng của lỗ trong cổ tử cung mở theo bài học?",
+      "stem": "Ý nghĩa nào đúng của lỗ trong cổ tử cung mở?",
       "options": [
         "Luôn xác nhận thai trứng",
         "Gặp trong sẩy thai khó tránh hoặc không trọn",
@@ -435,7 +435,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-first-level",
       "level": "understand",
-      "stem": "Quan hệ giữa siêu âm và động học/ngưỡng phân định hCG trong bài học là gì?",
+      "stem": "Quan hệ giữa siêu âm và động học/ngưỡng phân định hCG là gì?",
       "options": [
         "hCG luôn thay thế siêu âm",
         "Siêu âm chỉ dùng sau giải phẫu bệnh",
@@ -682,7 +682,7 @@
       "topicId": "hcg",
       "conceptId": "m15-threshold-context",
       "level": "understand",
-      "stem": "Ngưỡng phân định β-hCG trong bài phụ thuộc những yếu tố nào?",
+      "stem": "Ngưỡng phân định β-hCG phụ thuộc những yếu tố nào?",
       "options": [
         "Chỉ màu nước tiểu",
         "Loại đầu dò, thành bụng, nhân xơ tử cung và bối cảnh khảo sát",
@@ -722,7 +722,7 @@
       "topicId": "hcg",
       "conceptId": "m15-subminimum-rise",
       "level": "understand",
-      "stem": "Động học tăng dưới mức tối thiểu định hướng những khả năng nào trong bài?",
+      "stem": "Động học tăng dưới mức tối thiểu định hướng những khả năng nào?",
       "options": [
         "Thai ngoài tử cung hoặc thai trong tử cung diễn biến bất thường",
         "Chỉ thai bình thường chắc chắn",
@@ -802,7 +802,7 @@
       "topicId": "aub",
       "conceptId": "m15-normal-frequency",
       "level": "understand",
-      "stem": "Theo bảng ở trang 24, khoảng tần số chu kỳ nào được ghi bình thường?",
+      "stem": "Theo bảng, khoảng tần số chu kỳ nào được ghi bình thường?",
       "options": [
         "Dưới 24 ngày",
         "Trên 38 ngày",
@@ -842,7 +842,7 @@
       "topicId": "aub",
       "conceptId": "m15-duration",
       "level": "understand",
-      "stem": "Theo bảng AUB của tài liệu, thời gian chảy máu nào được phân loại kéo dài?",
+      "stem": "Thời gian chảy máu nào được phân loại là kéo dài?",
       "options": [
         "Mọi lần chảy máu tối đa 8 ngày",
         "Trên 8 ngày",
@@ -922,7 +922,7 @@
       "topicId": "history",
       "conceptId": "m15-past-treatment",
       "level": "apply",
-      "stem": "Người bệnh từng thai ngoài tử cung. Theo bài, ngoài ghi có tiền sử, cần chú ý thêm điều gì?",
+      "stem": "Người bệnh từng thai ngoài tử cung. ngoài ghi có tiền sử, cần chú ý thêm điều gì?",
       "options": [
         "Chỉ tên cơ sở làm siêu âm hiện tại",
         "Chỉ màu máu hiện tại, bỏ tiền sử điều trị",
@@ -962,7 +962,7 @@
       "topicId": "history",
       "conceptId": "m15-art-history",
       "level": "understand",
-      "stem": "Hồ sơ có tiền sử hiếm muộn và hỗ trợ sinh sản. Đặt dữ kiện này ở đâu trong tiếp cận theo bài?",
+      "stem": "Hồ sơ có tiền sử hiếm muộn và hỗ trợ sinh sản. Đặt dữ kiện này ở đâu trong tiếp cận?",
       "options": [
         "Kết quả động học hCG",
         "Dấu hiệu lỗ trong cổ tử cung",
@@ -1002,7 +1002,7 @@
       "topicId": "history",
       "conceptId": "m15-maternal-blood",
       "level": "understand",
-      "stem": "Sinh viên ghi 'máu mất thường là máu của thai'. Cần sửa theo bài thế nào?",
+      "stem": "Sinh viên ghi 'máu mất thường là máu của thai'. Cần sửa thế nào?",
       "options": [
         "Máu mất thường chính là mô thai",
         "Máu mất thường là máu mẹ",
@@ -1569,7 +1569,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-frequency-tvs",
       "level": "understand",
-      "stem": "Đầu dò ngả âm đạo trong bài được mô tả ở khoảng tần số nào?",
+      "stem": "Đầu dò ngả âm đạo được mô tả ở khoảng tần số nào?",
       "options": [
         "0,1–0,5 MHz",
         "50–100 MHz",
@@ -1609,7 +1609,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-abdominal-fluid",
       "level": "apply",
-      "stem": "Cần đánh giá thêm dịch trong ổ bụng. Vai trò nào của siêu âm ngả bụng phù hợp tài liệu?",
+      "stem": "Cần đánh giá thêm dịch trong ổ bụng. Vai trò nào của siêu âm ngả bụng phù hợp?",
       "options": [
         "Bị cấm dùng vì TVS nhạy hơn",
         "Chỉ được dùng sau khi có GPB",
@@ -1689,7 +1689,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-sac-border",
       "level": "understand",
-      "stem": "Mô tả 'viền tăng âm kép' thuộc cột nào của bảng so sánh trang 15?",
+      "stem": "Dấu “viền tăng âm kép” phù hợp với tình trạng nào?",
       "options": [
         "Túi thai trong tử cung sớm",
         "Túi giả với một lớp màng rụng",
@@ -1729,7 +1729,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-sac-flow",
       "level": "understand",
-      "stem": "Trong bảng trang 15, cấu trúc vô mạch được ghi ở cột nào?",
+      "stem": "Cấu trúc vô mạch phù hợp với tình trạng nào?",
       "options": [
         "Túi thai sớm có dòng chảy ngoại vi cao",
         "Cột tính tuổi theo kinh chót",
@@ -1769,7 +1769,7 @@
       "topicId": "hcg",
       "conceptId": "m15-hcg-secondary",
       "level": "apply",
-      "stem": "Thai trong tử cung bình thường đã được xác định. Theo bài, nhận định nào đúng về β-hCG?",
+      "stem": "Thai trong tử cung bình thường đã được xác định. nhận định nào đúng về β-hCG?",
       "options": [
         "hCG thay thế được siêu âm trong mọi lần theo dõi",
         "Mọi định vị trước đó phải bỏ qua",
@@ -1809,7 +1809,7 @@
       "topicId": "hcg",
       "conceptId": "m15-tvs-single-threshold",
       "level": "understand",
-      "stem": "Khi nhắc lại mốc tham khảo TVS cho đơn thai ở trang 18, số nào được nêu?",
+      "stem": "Khi nhắc lại mốc tham khảo TVS cho đơn thai, số nào được nêu?",
       "options": [
         "100000 mUI/ml",
         "1500 mUI/ml",
@@ -1849,7 +1849,7 @@
       "topicId": "hcg",
       "conceptId": "m15-twin-threshold",
       "level": "understand",
-      "stem": "Trong bảng ngưỡng trang 18, 3000 mUI/ml gắn với bối cảnh nào?",
+      "stem": "Mốc 3000 mUI/ml gắn với bối cảnh nào?",
       "options": [
         "TVS cho song thai",
         "TAS cho mọi đơn thai",
@@ -1889,7 +1889,7 @@
       "topicId": "hcg",
       "conceptId": "m15-tas-threshold",
       "level": "understand",
-      "stem": "Mốc 5000 mUI/ml ở trang 18 được ghép với khảo sát nào?",
+      "stem": "Mốc 5000 mUI/ml được ghép với khảo sát nào?",
       "options": [
         "TVS cho mọi song thai",
         "Xét nghiệm đông máu",
@@ -1929,7 +1929,7 @@
       "topicId": "hcg",
       "conceptId": "m15-rise-low",
       "level": "apply",
-      "stem": "β-hCG ban đầu 1000 IU/L. Mức tăng tối thiểu tham khảo sau 48 giờ trong bài là bao nhiêu?",
+      "stem": "Β-hCG ban đầu 1000 IU/L. Mức tăng tối thiểu tham khảo sau 48 giờ là bao nhiêu?",
       "options": [
         "33%",
         "0%",
@@ -1969,7 +1969,7 @@
       "topicId": "hcg",
       "conceptId": "m15-rise-mid",
       "level": "apply",
-      "stem": "β-hCG ban đầu 2000 IU/L. Theo phân nhóm trong bài, dùng mức tăng tối thiểu tham khảo nào?",
+      "stem": "Β-hCG ban đầu 2000 IU/L. Theo phân nhóm, dùng mức tăng tối thiểu tham khảo nào?",
       "options": [
         "100% bắt buộc ở mọi người",
         "40%",
@@ -2009,7 +2009,7 @@
       "topicId": "hcg",
       "conceptId": "m15-rise-high",
       "level": "apply",
-      "stem": "β-hCG ban đầu 4000 IU/L. Mốc tăng tối thiểu tham khảo nào phù hợp nhóm này?",
+      "stem": "Β-hCG ban đầu 4000 IU/L. Mốc tăng tối thiểu tham khảo nào phù hợp nhóm này?",
       "options": [
         "33%",
         "49%",
@@ -2089,7 +2089,7 @@
       "topicId": "hcg",
       "conceptId": "m15-rise-mid",
       "level": "apply",
-      "stem": "hCG ban đầu 2000 IU/L. Giá trị tương ứng tăng 40% là bao nhiêu?",
+      "stem": "HCG ban đầu 2000 IU/L. Giá trị tương ứng tăng 40% là bao nhiêu?",
       "options": [
         "800 IU/L",
         "4000 IU/L",
@@ -2129,7 +2129,7 @@
       "topicId": "hcg",
       "conceptId": "m15-rise-high",
       "level": "apply",
-      "stem": "hCG ban đầu 4000 IU/L. Giá trị tương ứng tăng 33% là bao nhiêu?",
+      "stem": "HCG ban đầu 4000 IU/L. Giá trị tương ứng tăng 33% là bao nhiêu?",
       "options": [
         "8000 IU/L",
         "5320 IU/L",
@@ -2169,7 +2169,7 @@
       "topicId": "hcg",
       "conceptId": "m15-subminimum-rise",
       "level": "apply",
-      "stem": "hCG từ 1000 lên 1200 IU/L sau 48 giờ. Theo bài, diễn giải nào đúng?",
+      "stem": "HCG từ 1000 lên 1200 IU/L sau 48 giờ. diễn giải nào đúng?",
       "options": [
         "Tăng 20%, dưới mốc 49%; cần xem xét thai ngoài tử cung hoặc thai trong tử cung bất thường",
         "Tăng 20% đủ khẳng định thai bình thường",
@@ -2336,7 +2336,7 @@
       "topicId": "aub",
       "conceptId": "m15-normal-frequency",
       "level": "apply",
-      "stem": "Theo bảng ở trang 24, chu kỳ 42 ngày thuộc nhóm nào?",
+      "stem": "Theo bảng, chu kỳ 42 ngày thuộc nhóm nào?",
       "options": [
         "Không thường xuyên vì trên 38 ngày",
         "Bình thường vì mọi chu kỳ trên 24 ngày đều bình thường",
@@ -2536,7 +2536,7 @@
       "topicId": "hcg",
       "conceptId": "m15-integrated-calc-location",
       "level": "analyze",
-      "stem": "hCG từ 2000 lên 2600 IU/L sau 48 giờ. Kết luận nào đúng cả phép tính, phân nhóm và giới hạn chẩn đoán?",
+      "stem": "HCG từ 2000 lên 2600 IU/L sau 48 giờ. Kết luận nào đúng cả phép tính, phân nhóm và giới hạn chẩn đoán?",
       "options": [
         "Tăng 60%, chắc chắn thai bình thường",
         "Tăng 30%, chắc chắn TNTC đã xác nhận",
@@ -2851,7 +2851,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-integrated-sac-pattern",
       "level": "analyze",
-      "stem": "Một mô tả kết hợp vị trí vùi trong màng rụng, hình tròn ổn định, viền tăng âm kép và dòng ngoại vi cao. Theo bảng trang 15, kết luận nào đúng?",
+      "stem": "Một mô tả kết hợp vị trí vùi trong màng rụng, hình tròn ổn định, viền tăng âm kép và dòng ngoại vi cao. kết luận nào đúng?",
       "options": [
         "Phù hợp tổ hợp đặc điểm túi thai trong tử cung sớm của bảng",
         "Phù hợp tổ hợp túi giả của bảng",
@@ -3025,7 +3025,7 @@
       "topicId": "hcg",
       "conceptId": "m15-integrated-fall",
       "level": "analyze",
-      "stem": "hCG đang giảm nhưng giảm thấp hơn kỳ vọng. Sinh viên cho rằng cứ giảm là loại được TNTC và sẩy không trọn. Phân tích nào đúng?",
+      "stem": "HCG đang giảm nhưng giảm thấp hơn kỳ vọng. Sinh viên cho rằng cứ giảm là loại được TNTC và sẩy không trọn. Phân tích nào đúng?",
       "options": [
         "Sai; trang 21 vẫn nêu hai khả năng này khi giảm dưới ngưỡng, và hCG không tự định vị thai",
         "Đúng vì mọi hCG giảm là hết bệnh",
@@ -3422,7 +3422,7 @@
       "topicId": "hcg",
       "conceptId": "m15-hcg-molecular-forms",
       "level": "understand",
-      "stem": "Vì sao không nên coi mọi phân tử mang thành phần β được liệt kê trong bài là hCG nguyên vẹn có cùng hoạt tính?",
+      "stem": "Vì sao không nên coi mọi phân tử mang thành phần β được liệt kê là hCG nguyên vẹn có cùng hoạt tính?",
       "options": [
         "Bài phân biệt nhiều dạng và nêu dạng phân ly/thoái giáng có thể không có hoạt tính sinh học",
         "Bài nói chỉ có duy nhất hCG nguyên vẹn",

@@ -97,7 +97,7 @@
       "topicId": "m10-cautruc",
       "conceptId": "m10-tythe-doangiua",
       "level": "understand",
-      "stem": "Sơ đồ cấu tạo trong bài gắn cụm ty thể với vùng nào?",
+      "stem": "Sơ đồ cấu tạo gắn cụm ty thể với vùng nào?",
       "options": [
         "Nhân ở đầu",
         "Mặt ngoài toàn bộ thể cực đầu",
@@ -335,7 +335,7 @@
       "topicId": "m10-sertoli",
       "conceptId": "m10-sertoli-che-tiet",
       "level": "understand",
-      "stem": "Nhóm nào gồm các sản phẩm chế tiết của Sertoli được nêu trong bài?",
+      "stem": "Nhóm nào gồm các sản phẩm chế tiết của Sertoli được nêu?",
       "options": [
         "Bàng quang, niệu quản, niệu đạo",
         "Dịch, ABP, inhibin",
@@ -373,7 +373,7 @@
       "topicId": "m10-sertoli",
       "conceptId": "m10-sertoli-thucbao",
       "level": "understand",
-      "stem": "Vai trò thực bào của Sertoli trong bài được mô tả là gì?",
+      "stem": "Vai trò thực bào của Sertoli được mô tả là gì?",
       "options": [
         "Thu dọn các sản phẩm dư thừa",
         "Tạo thêm tinh bào bằng giảm phân",
@@ -698,7 +698,7 @@
       "topicId": "m10-cautruc",
       "conceptId": "m10-du-thua",
       "level": "apply",
-      "stem": "Một mô tả biệt hóa nói tinh tử giữ nguyên toàn bộ khối bào tương ban đầu. Chi tiết nào trong bài cần dùng để sửa?",
+      "stem": "Một mô tả biệt hóa nói tinh tử giữ nguyên toàn bộ khối bào tương ban đầu. Chi tiết nào cần dùng để sửa?",
       "options": [
         "Có phần bào tương thừa được tách ra trong quá trình tạo hình tinh trùng",
         "Có hình thành thêm một bàng quang trong tinh tử",
@@ -814,7 +814,7 @@
       "topicId": "m10-sertoli",
       "conceptId": "m10-hangrao",
       "level": "understand",
-      "stem": "Khi lập bảng về hàng rào máu–tinh hoàn theo bài, loại tế bào nào cần được đưa vào mục chức năng liên quan?",
+      "stem": "Khi lập bảng về hàng rào máu–tinh hoàn loại tế bào nào cần được đưa vào mục chức năng liên quan?",
       "options": [
         "Tế bào của bàng quang",
         "Sertoli",
@@ -1257,7 +1257,7 @@
       "topicId": "m10-tichhop",
       "conceptId": "m10-biet-hoa-khong-doi-n",
       "level": "analyze",
-      "stem": "Hai mẫu đều có bộ NST n; một còn dạng tinh tử, một có đầu–đoạn giữa–đuôi rõ. Kết luận nào đúng theo bài?",
+      "stem": "Hai mẫu đều có bộ NST n; một còn dạng tinh tử, một có đầu–đoạn giữa–đuôi rõ. Kết luận nào đúng?",
       "options": [
         "Mẫu chưa có đuôi bắt buộc chưa giảm phân I",
         "Cả hai phải là tinh nguyên bào vì cùng bộ NST",
@@ -1584,7 +1584,7 @@
       "topicId": "m10-tichhop",
       "conceptId": "m10-hangrao-dinhduong",
       "level": "understand",
-      "stem": "Một mô hình Sertoli chỉ kiểm tra thực bào và bỏ qua các vai trò còn lại. Vì sao chưa đủ để đại diện toàn bộ chức năng Sertoli trong bài?",
+      "stem": "Một mô hình Sertoli chỉ kiểm tra thực bào và bỏ qua các vai trò còn lại. Vì sao chưa đủ để đại diện toàn bộ chức năng Sertoli?",
       "options": [
         "Vì thực bào không hề được bài nêu",
         "Vì Sertoli chỉ có chức năng biến thành tinh trùng",
@@ -1669,7 +1669,7 @@
       "topicId": "m10-tichhop",
       "conceptId": "m10-so-sanh-giao-tu",
       "level": "understand",
-      "stem": "Trong sơ đồ so sánh sinh giao tử ở slide 13, sau giảm phân, dòng tinh cho các tế bào có thể biệt hóa thành tinh trùng còn dòng noãn có thể cực. Phân tích nào phù hợp?",
+      "stem": "Trong sơ đồ so sánh sinh giao tử, sau giảm phân, dòng tinh cho các tế bào có thể biệt hóa thành tinh trùng còn dòng noãn có thể cực. Phân tích nào phù hợp?",
       "options": [
         "Dòng noãn không có giảm phân I hoặc II",
         "Cùng có giảm phân nhưng cách phân bố sản phẩm không được vẽ giống nhau ở hai dòng",

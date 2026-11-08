@@ -162,7 +162,7 @@
       "topicId": "khananghoa",
       "conceptId": "m11-kha-nang-hoa",
       "level": "understand",
-      "stem": "Trong bài, khả năng hóa là quá trình liên quan chủ yếu đến đối tượng nào?",
+      "stem": "Khả năng hóa chủ yếu liên quan đến đối tượng nào?",
       "options": [
         "Tinh trùng trong quá trình di chuyển",
         "Nội mạc tử cung bong tróc",
@@ -430,7 +430,7 @@
       "topicId": "ditruyen",
       "conceptId": "m11-du-tru-co-tu-cung",
       "level": "understand",
-      "stem": "Một sơ đồ bỏ tuyến cổ tử cung khỏi hành trình tinh trùng. Chức năng nào trong bài sẽ bị bỏ sót?",
+      "stem": "Một sơ đồ bỏ tuyến cổ tử cung khỏi hành trình tinh trùng. Chức năng nào sẽ bị bỏ sót?",
       "options": [
         "Thụ tinh luôn trong âm đạo",
         "Dự trữ tinh trùng tại tuyến cổ tử cung",
@@ -467,7 +467,7 @@
       "topicId": "ditruyen",
       "conceptId": "m11-duong-di",
       "level": "apply",
-      "stem": "Tinh trùng đang ở tử cung. Trong trình tự đường đi slide 3, vị trí tiếp theo là đâu?",
+      "stem": "Tinh trùng đang ở tử cung. Vị trí tiếp theo là đâu?",
       "options": [
         "Vòi trứng",
         "Buồng trứng trước vòi trứng",
@@ -622,7 +622,7 @@
       "topicId": "tiepxucnoan",
       "conceptId": "m11-lop-quanh-noan",
       "level": "apply",
-      "stem": "Tinh trùng đã vượt tế bào hạt quanh noãn. Theo trình tự slide 6, lớp tiếp theo cần vượt là gì?",
+      "stem": "Tinh trùng đã vượt tế bào hạt quanh noãn. Lớp tiếp theo cần vượt là gì?",
       "options": [
         "Lớp cơ tử cung",
         "Màng trắng buồng trứng",
@@ -771,7 +771,7 @@
       "topicId": "hopty",
       "conceptId": "ciliatransport",
       "level": "understand",
-      "stem": "Sơ đồ vận chuyển hợp tử chỉ kể cơ vòi, bỏ yếu tố bề mặt nào trong bài?",
+      "stem": "Sơ đồ vận chuyển hợp tử chỉ kể cơ vòi, bỏ yếu tố bề mặt nào?",
       "options": [
         "Tế bào Sertoli",
         "Vi nhung mao",
@@ -882,7 +882,7 @@
       "topicId": "ditruyen",
       "conceptId": "m11-ly-giai",
       "level": "understand",
-      "stem": "Một tóm tắt chỉ ghi đường đi âm đạo–tử cung–vòi trứng và các biến đổi của tinh trùng, nhưng chưa nêu biến đổi của tinh dịch. Mục nào từ slide 3 cần bổ sung?",
+      "stem": "Một tóm tắt chỉ ghi đường đi âm đạo–tử cung–vòi trứng và các biến đổi của tinh trùng, nhưng chưa nêu biến đổi của tinh dịch. Mục nào cần bổ sung?",
       "options": [
         "Hình thành hồ huyết",
         "Phôi thoát màng",
@@ -919,7 +919,7 @@
       "topicId": "tiepxucnoan",
       "conceptId": "m11-lop-quanh-noan",
       "level": "understand",
-      "stem": "Sắp xếp nào đúng các lớp trước khi tinh trùng tiếp xúc noãn theo chữ slide 6?",
+      "stem": "Sắp xếp nào đúng các lớp cần vượt trước khi tinh trùng tiếp xúc noãn?",
       "options": [
         "Màng trong suốt → ống sinh tinh → tế bào hạt",
         "Tế bào hạt quanh noãn → màng trong suốt → tiếp xúc noãn",
@@ -994,7 +994,7 @@
       "topicId": "hopty",
       "conceptId": "m11-E2-nhu-dong",
       "level": "understand",
-      "stem": "Một sơ đồ vận chuyển hợp tử muốn ghi yếu tố tạo nhu động cơ vòi trứng theo bài. Chọn gì?",
+      "stem": "Một sơ đồ vận chuyển hợp tử muốn ghi yếu tố tạo nhu động cơ vòi trứng. Chọn gì?",
       "options": [
         "Chỉ kháng thể IgG",
         "Chỉ hCG",
@@ -1031,7 +1031,7 @@
       "topicId": "ditruyen",
       "conceptId": "m11-chon-loc",
       "level": "understand",
-      "stem": "Nếu chỉ mô tả số tinh trùng ban đầu mà bỏ quá trình thay đổi quần thể trong đường sinh dục nữ, mục nào của slide 3 bị bỏ sót?",
+      "stem": "Nếu chỉ mô tả số tinh trùng ban đầu mà bỏ quá trình thay đổi quần thể trong đường sinh dục nữ, quá trình nào bị bỏ sót?",
       "options": [
         "Tạo bạch thể",
         "Tạo steroid ở tế bào vỏ",
@@ -1068,7 +1068,7 @@
       "topicId": "hopty",
       "conceptId": "m11-nhieu-co-che-van-chuyen",
       "level": "understand",
-      "stem": "Nhóm nào toàn là yếu tố vận chuyển hợp tử được slide 12 liệt kê?",
+      "stem": "Nhóm nào toàn là yếu tố vận chuyển hợp tử?",
       "options": [
         "Chỉ hoàng thể, màng trắng, nang Graaf",
         "Chỉ tinh hoàn, Sertoli, ống dẫn tinh",
@@ -1105,7 +1105,7 @@
       "topicId": "thutinh",
       "conceptId": "m11-hoan-tat-II",
       "level": "understand",
-      "stem": "Một noãn đang dừng giảm phân II. Theo slide 10, bước trong mục thụ tinh chính danh là gì?",
+      "stem": "Một noãn đang dừng giảm phân II. bước trong mục thụ tinh chính danh là gì?",
       "options": [
         "Tạo ống sinh tinh",
         "Đi vào giảm phân I lần nữa",
@@ -1353,7 +1353,7 @@
       "topicId": "hopty",
       "conceptId": "m11-nhieu-co-che-van-chuyen",
       "level": "understand",
-      "stem": "Một mô hình nói chỉ nồng độ P4 thấp là đủ giải thích toàn bộ vận chuyển hợp tử. Vì sao chưa đủ theo bài?",
+      "stem": "Một mô hình nói chỉ nồng độ P4 thấp là đủ giải thích toàn bộ vận chuyển hợp tử. Vì sao chưa đủ?",
       "options": [
         "Vì tất cả yếu tố là thuốc cản quang",
         "Slide 12 còn liệt kê nhu động do E2, vi nhung mao và luồng dịch",
@@ -1434,7 +1434,7 @@
       "topicId": "thutinh",
       "conceptId": "m11-su-kien-thu-tinh",
       "level": "understand",
-      "stem": "Một bản tóm tắt “thụ tinh chính danh” mới ghi tiền nhân đực. Nhóm bổ sung nào cùng được slide 10 nêu?",
+      "stem": "Một bản tóm tắt “thụ tinh chính danh” mới ghi tiền nhân đực. Nhóm bổ sung nào cần có?",
       "options": [
         "Tiền nhân cái, hoàn tất phân bào II và hai cực cầu",
         "Hai tiền nhân đực và bốn cực cầu",
@@ -1471,7 +1471,7 @@
       "topicId": "tiepxucnoan",
       "conceptId": "threephases",
       "level": "apply",
-      "stem": "Sắp xếp ba nhóm quá trình trong bài theo hướng diễn tiến nào hợp lý?",
+      "stem": "Sắp xếp ba nhóm quá trình theo hướng diễn tiến nào hợp lý?",
       "options": [
         "Hợp tử di chuyển → noãn chưa gặp tinh trùng → vượt lớp quanh noãn",
         "Vượt các lớp quanh noãn → noãn hoàn tất phân bào II → hợp tử di chuyển",
@@ -1554,7 +1554,7 @@
       "topicId": "hopty",
       "conceptId": "m11-phoi-transport-factors",
       "level": "understand",
-      "stem": "Theo mục “Di chuyển hợp tử”, nhóm nào gồm ba yếu tố đều được tài liệu liệt kê?",
+      "stem": "Nhóm nào gồm ba yếu tố vận chuyển hợp tử?",
       "options": [
         "E2, vi nhung mao và luồng dịch từ ổ bụng đến buồng tử cung",
         "FSH, Sertoli và niệu đạo",

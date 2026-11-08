@@ -118,7 +118,7 @@
       "topicId": "dinhnghia",
       "conceptId": "ectopicdefinition",
       "level": "understand",
-      "stem": "Định nghĩa thai ngoài tử cung trong bài dựa vào tiêu chí nào?",
+      "stem": "Định nghĩa thai ngoài tử cung dựa vào tiêu chí nào?",
       "options": [
         "Trứng thụ tinh làm tổ và phát triển ngoài buồng tử cung",
         "Chỉ dựa vào đau bụng dưới",
@@ -266,7 +266,7 @@
       "topicId": "coche",
       "conceptId": "migrationdelay",
       "level": "understand",
-      "stem": "Theo bài, vì sao hợp tử có thể làm tổ trước khi đến buồng tử cung?",
+      "stem": "Vì sao hợp tử có thể làm tổ trước khi đến buồng tử cung?",
       "options": [
         "Sự di chuyển từ nơi thụ tinh vào tử cung bị cản trở hoặc chậm trễ",
         "Vì hợp tử vốn được tạo trong cổ tử cung",
@@ -348,7 +348,7 @@
       "topicId": "cls",
       "conceptId": "hcglimit",
       "level": "understand",
-      "stem": "Một lần định lượng β-hCG đơn độc cho biết điều gì theo bài?",
+      "stem": "Một lần định lượng β-hCG đơn độc cho biết điều gì?",
       "options": [
         "Có thai nhưng không xác định chắc vị trí thai",
         "Xác định vị trí thai không cần siêu âm",
@@ -385,7 +385,7 @@
       "topicId": "cls",
       "conceptId": "ultrasound",
       "level": "understand",
-      "stem": "Vai trò của siêu âm đầu dò âm đạo trong bài là gì?",
+      "stem": "Vai trò của siêu âm đầu dò âm đạo là gì?",
       "options": [
         "Phương tiện rất quan trọng khi nghi thai ngoài tử cung",
         "Chỉ dùng để đo tuổi mẹ",
@@ -533,7 +533,7 @@
       "topicId": "vitri",
       "conceptId": "fimbrialbleeding",
       "level": "apply",
-      "stem": "Khối thai vùng loa vòi rỉ máu qua loa có thể hình thành gì theo bài?",
+      "stem": "Khối thai vùng loa vòi rỉ máu qua loa có thể hình thành gì?",
       "options": [
         "Huyết tụ thành nang",
         "Bạch thể sinh lý",
@@ -570,7 +570,7 @@
       "topicId": "nguyco",
       "conceptId": "prioroperations",
       "level": "apply",
-      "stem": "Người có tiền sử nối vòi trứng được xếp vào nhóm nguy cơ nào trong bài?",
+      "stem": "Người có tiền sử nối vòi trứng được xếp vào nhóm nguy cơ nào?",
       "options": [
         "Tiền sử phẫu thuật vòi trứng",
         "Chỉ bất thường hình thái tử cung",
@@ -607,7 +607,7 @@
       "topicId": "nguyco",
       "conceptId": "sti",
       "level": "apply",
-      "stem": "Tiền sử viêm cổ tử cung do Chlamydia trong bài liên quan nhóm nào?",
+      "stem": "Tiền sử viêm cổ tử cung do Chlamydia liên quan nhóm nào?",
       "options": [
         "Yếu tố nguy cơ thai ngoài tử cung",
         "Tiêu chuẩn loại trừ thai ngoài tử cung",
@@ -907,7 +907,7 @@
       "topicId": "cls",
       "conceptId": "freefluid",
       "level": "apply",
-      "stem": "Người nghi thai ngoài tử cung xuất hiện đau tăng và dấu choáng. Khi tìm dấu siêu âm đi kèm tình trạng vỡ theo bài, cần chú ý phát hiện nào?",
+      "stem": "Người nghi thai ngoài tử cung xuất hiện đau tăng và dấu choáng. Khi tìm dấu siêu âm đi kèm tình trạng vỡ cần chú ý phát hiện nào?",
       "options": [
         "Dịch túi cùng sau hoặc dịch ổ bụng",
         "Chỉ kích thước bàng quang",
@@ -948,7 +948,7 @@
       "topicId": "cls",
       "conceptId": "laparoscopy",
       "level": "apply",
-      "stem": "Cần một phương tiện vừa giúp xác định thai ngoài tử cung vừa có khả năng phẫu thuật bảo tồn hoặc cắt vòi khi phù hợp. Phương tiện nào trong bài đáp ứng cả hai mục tiêu?",
+      "stem": "Cần một phương tiện vừa giúp xác định thai ngoài tử cung vừa có khả năng phẫu thuật bảo tồn hoặc cắt vòi khi phù hợp. Phương tiện nào đáp ứng cả hai mục tiêu?",
       "options": [
         "Nội soi ổ bụng",
         "Chỉ một lần định lượng β-hCG",
@@ -1174,7 +1174,7 @@
       "topicId": "xutri",
       "conceptId": "salpingostomyfollow",
       "level": "apply",
-      "stem": "Sau xẻ vòi hút khối thai, kế hoạch chỉ ghi theo dõi triệu chứng và bỏ xét nghiệm mà bài nhắc để đề phòng sót nhau. Xét nghiệm cần bổ sung theo bài là gì?",
+      "stem": "Sau xẻ vòi hút khối thai, kế hoạch chỉ ghi theo dõi triệu chứng và bỏ xét nghiệm mà bài nhắc để đề phòng sót nhau. Xét nghiệm cần bổ sung là gì?",
       "options": [
         "β-hCG",
         "IgG Chlamydia thay β-hCG",
@@ -1375,7 +1375,7 @@
       "topicId": "cls",
       "conceptId": "diagnosisintegration",
       "level": "analyze",
-      "stem": "β-hCG dương tính nhưng chưa rõ vị trí thai; siêu âm thấy khối cạnh tử cung. Cách lập luận nào theo bài?",
+      "stem": "Β-hCG dương tính nhưng chưa rõ vị trí thai; siêu âm thấy khối cạnh tử cung. Cách lập luận nào?",
       "options": [
         "Cần kết hợp lâm sàng, β-hCG và siêu âm; β-hCG đơn lẻ không định vị thai",
         "Một số β-hCG đơn lẻ tự chỉ đúng đoạn vòi",
@@ -1461,7 +1461,7 @@
       "topicId": "chandoan",
       "conceptId": "diagnosticmodalities",
       "level": "analyze",
-      "stem": "Hai kế hoạch: A coi siêu âm là xét nghiệm hCG; B xem siêu âm cung cấp hình ảnh, còn nội soi vừa xác định vừa có thể xử trí. Kế hoạch nào phân biệt đúng công cụ và vai trò theo bài?",
+      "stem": "Hai kế hoạch: A coi siêu âm là xét nghiệm hCG; B xem siêu âm cung cấp hình ảnh, còn nội soi vừa xác định vừa có thể xử trí. Kế hoạch nào phân biệt đúng công cụ và vai trò?",
       "options": [
         "B: hình ảnh siêu âm và khả năng chẩn đoán/can thiệp của nội soi là các vai trò khác nhau",
         "A: siêu âm và hCG là cùng một phép đo",
@@ -1908,7 +1908,7 @@
       "topicId": "tienluong",
       "conceptId": "lateprognosis",
       "level": "analyze",
-      "stem": "Phát hiện muộn sau đau dữ dội và choáng có ý nghĩa gì với tiên lượng trong bài?",
+      "stem": "Phát hiện muộn sau đau dữ dội và choáng có ý nghĩa gì với tiên lượng?",
       "options": [
         "Thai có thể đã vỡ và đe dọa tính mạng, trái với lợi ích phát hiện sớm",
         "Phát hiện muộn luôn tốt hơn phát hiện sớm",

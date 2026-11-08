@@ -94,7 +94,7 @@
       "topicId": "phoi",
       "conceptId": "muller",
       "level": "understand",
-      "stem": "Vì sao ống dẫn trứng và tử cung được xếp chung nguồn gốc phôi học trong bài?",
+      "stem": "Vì sao ống dẫn trứng và tử cung được xếp chung nguồn gốc phôi học?",
       "options": [
         "Cùng phát triển từ ống Muller",
         "Cùng phát triển từ ống Wolff",
@@ -390,7 +390,7 @@
       "topicId": "chucnang",
       "conceptId": "steroids",
       "level": "understand",
-      "stem": "Estrogen và progesterone tác động thế nào lên cơ vòi trứng theo bài?",
+      "stem": "Estrogen và progesterone tác động thế nào lên cơ vòi trứng?",
       "options": [
         "Estrogen tăng co thắt; progesterone giãn cơ",
         "Cả hai đều chỉ làm tăng co thắt",
@@ -427,7 +427,7 @@
       "topicId": "chucnang",
       "conceptId": "fluidbarrier",
       "level": "understand",
-      "stem": "Dòng dịch đi về phía tử cung có vai trò nào được nêu trong bài?",
+      "stem": "Dòng dịch đi về phía tử cung có vai trò nào được nêu?",
       "options": [
         "Cản trở vi trùng từ tử cung vào khoang phúc mạc",
         "Đưa vi trùng từ tử cung vào khoang phúc mạc",
@@ -501,7 +501,7 @@
       "topicId": "hinhanh",
       "conceptId": "hsgpurpose",
       "level": "understand",
-      "stem": "HSG chủ yếu giúp đánh giá đặc điểm nào của vòi trứng trong bài?",
+      "stem": "HSG chủ yếu giúp đánh giá đặc điểm nào của vòi trứng?",
       "options": [
         "Sự thông thương của vòi trứng",
         "Số lượng noãn nguyên thủy",
@@ -612,7 +612,7 @@
       "topicId": "udich",
       "conceptId": "fitzhugh",
       "level": "understand",
-      "stem": "Hội chứng Fitz-Hugh–Curtis trong bài kết hợp những tổn thương nào?",
+      "stem": "Hội chứng Fitz-Hugh–Curtis kết hợp những tổn thương nào?",
       "options": [
         "Viêm dính quanh gan và viêm dính vùng chậu",
         "Chỉ nang nước cạnh vòi trứng và không viêm",
@@ -797,7 +797,7 @@
       "topicId": "tntc",
       "conceptId": "ectopicdefinition",
       "level": "understand",
-      "stem": "Tiêu chí vị trí nào xác định thai ngoài tử cung trong bài?",
+      "stem": "Tiêu chí vị trí nào xác định thai ngoài tử cung?",
       "options": [
         "Thai làm tổ bên ngoài buồng tử cung",
         "Thai làm tổ trong buồng tử cung nhưng có nghén",
@@ -982,7 +982,7 @@
       "topicId": "giaiphau",
       "conceptId": "fimbria",
       "level": "apply",
-      "stem": "Quan sát thấy tua dài nhất của phễu dính vào một cơ quan. Theo bài đó là cơ quan nào?",
+      "stem": "Quan sát thấy tua dài nhất của phễu dính vào một cơ quan. đó là cơ quan nào?",
       "options": [
         "Buồng trứng",
         "Bàng quang",
@@ -1056,7 +1056,7 @@
       "topicId": "giaiphau",
       "conceptId": "nerves",
       "level": "apply",
-      "stem": "Một nhánh thần kinh đến vòi trứng được truy về đám rối nào trong bài?",
+      "stem": "Một nhánh thần kinh đến vòi trứng được truy về đám rối nào?",
       "options": [
         "Đám rối buồng trứng",
         "Đám rối tĩnh mạch trong nang",
@@ -1093,7 +1093,7 @@
       "topicId": "mohoc",
       "conceptId": "mucosalfolds",
       "level": "apply",
-      "stem": "Một tiêu bản vòi trứng có nhiều nếp niêm mạc dọc. Đoạn nào đặc biệt nhiều nếp theo bài?",
+      "stem": "Một tiêu bản vòi trứng có nhiều nếp niêm mạc dọc. Đoạn nào đặc biệt nhiều nếp?",
       "options": [
         "Đoạn bóng",
         "Đoạn nội thành là nơi duy nhất có nếp",
@@ -1167,7 +1167,7 @@
       "topicId": "mohoc",
       "conceptId": "transportmuscle",
       "level": "apply",
-      "stem": "Cần giải thích lớp cơ vòi trứng tham gia công việc nào được nêu trực tiếp trong bài?",
+      "stem": "Cần giải thích lớp cơ vòi trứng tham gia công việc nào được nêu trực tiếp?",
       "options": [
         "Vận chuyển noãn hoặc hợp tử về tử cung",
         "Sản xuất noãn nguyên thủy",
@@ -1204,7 +1204,7 @@
       "topicId": "chucnang",
       "conceptId": "estrogencontraction",
       "level": "apply",
-      "stem": "Trong mô hình chỉ xét tác động steroid nêu trong bài, estrogen tăng sẽ nghiêng về đáp ứng nào ở cơ vòi trứng?",
+      "stem": "Trong mô hình chỉ xét tác động steroid nêu, estrogen tăng sẽ nghiêng về đáp ứng nào ở cơ vòi trứng?",
       "options": [
         "Tăng co thắt",
         "Giãn cơ như progesterone",
@@ -1278,7 +1278,7 @@
       "topicId": "chucnang",
       "conceptId": "secretions",
       "level": "apply",
-      "stem": "Một nhóm hỏi chất tiết vòi trứng có ảnh hưởng gì tới tinh trùng theo bài. Đáp án nào phù hợp?",
+      "stem": "Một nhóm hỏi chất tiết vòi trứng có ảnh hưởng gì tới tinh trùng. Đáp án nào phù hợp?",
       "options": [
         "Kích thích hoạt động của tinh trùng",
         "Tạo tinh trùng mới",
@@ -1352,7 +1352,7 @@
       "topicId": "hinhanh",
       "conceptId": "hsgindication",
       "level": "apply",
-      "stem": "Trong bài, bệnh nhân hiếm muộn cần khảo sát thông thương vòi trứng là tình huống phù hợp với xét nghiệm nào?",
+      "stem": "Ở bệnh nhân hiếm muộn cần khảo sát thông thương vòi trứng, xét nghiệm nào phù hợp?",
       "options": [
         "HSG",
         "PCR dịch cổ tử cung để trực tiếp đo độ thông",
@@ -1426,7 +1426,7 @@
       "topicId": "hinhanh",
       "conceptId": "hsginfection",
       "level": "apply",
-      "stem": "Một người đang viêm nhiễm vùng chậu muốn chụp HSG ngay. Theo bài cần nhận ra điều gì?",
+      "stem": "Một người đang viêm nhiễm vùng chậu muốn chụp HSG ngay. cần nhận ra điều gì?",
       "options": [
         "Đang viêm nhiễm vùng chậu là chống chỉ định HSG",
         "Viêm vùng chậu bắt buộc phải chụp HSG ngay",
@@ -1537,7 +1537,7 @@
       "topicId": "udich",
       "conceptId": "hydrocauses",
       "level": "apply",
-      "stem": "Tiền sử viêm ruột thừa vỡ gây dính vùng bụng liên quan thế nào với ứ dịch vòi trứng trong bài?",
+      "stem": "Tiền sử viêm ruột thừa vỡ gây dính vùng bụng liên quan thế nào với ứ dịch vòi trứng?",
       "options": [
         "Là một nguyên nhân được liệt kê",
         "Là bằng chứng chắc chắn loại trừ ứ dịch",
@@ -1574,7 +1574,7 @@
       "topicId": "udich",
       "conceptId": "sticauses",
       "level": "apply",
-      "stem": "Tiền sử nhiễm Chlamydia gây viêm vùng chậu gợi liên hệ nào được tài liệu nêu?",
+      "stem": "Tiền sử nhiễm Chlamydia gây viêm vùng chậu gợi liên hệ nào?",
       "options": [
         "Có thể liên quan viêm tắc, ứ dịch vòi trứng",
         "Bảo đảm hai vòi trứng không bị tổn thương",
@@ -1685,7 +1685,7 @@
       "topicId": "udich",
       "conceptId": "chlamydiapcr",
       "level": "apply",
-      "stem": "Cần xét nghiệm trên dịch cổ tử cung hoặc âm đạo để tìm Chlamydia theo bài. Chọn gì?",
+      "stem": "Cần xét nghiệm trên dịch cổ tử cung hoặc âm đạo để tìm Chlamydia. Chọn gì?",
       "options": [
         "PCR",
         "Chỉ HSG",
@@ -1722,7 +1722,7 @@
       "topicId": "udich",
       "conceptId": "chlamydiaigg",
       "level": "apply",
-      "stem": "Muốn đánh giá tiền căn từng nhiễm Chlamydia theo bài, xét nghiệm nào được nêu?",
+      "stem": "Muốn đánh giá tiền căn từng nhiễm Chlamydia xét nghiệm nào được nêu?",
       "options": [
         "Kháng thể IgG",
         "Đo đường kính nang bằng siêu âm",
@@ -1759,7 +1759,7 @@
       "topicId": "udich",
       "conceptId": "dye",
       "level": "apply",
-      "stem": "Trong mô tả ở trang 24, xanh methylene không thoát ra ổ bụng qua vòi trứng ứ dịch. Kết quả minh họa điều gì?",
+      "stem": "Trong mô tả, xanh methylene không thoát ra ổ bụng qua vòi trứng ứ dịch. Kết quả minh họa điều gì?",
       "options": [
         "Vòi trứng bị tắc nghẽn",
         "Chắc chắn vòi trứng thông bình thường",
@@ -1907,7 +1907,7 @@
       "topicId": "apxe",
       "conceptId": "abscessroutes",
       "level": "apply",
-      "stem": "Nguồn vi khuẩn từ viêm ruột thừa có thể liên quan áp xe phần phụ theo bài không?",
+      "stem": "Nguồn vi khuẩn từ viêm ruột thừa có thể liên quan áp xe phần phụ không?",
       "options": [
         "Có, bài nêu nguồn từ cơ quan trong ổ bụng",
         "Không, bài chỉ cho phép đường đi từ âm đạo",
@@ -2129,7 +2129,7 @@
       "topicId": "nangcanh",
       "conceptId": "paratubalsurgery",
       "level": "apply",
-      "stem": "Cần gọi tên phương pháp điều trị chính của nang cạnh vòi trong bài. Chọn gì?",
+      "stem": "Cần gọi tên phương pháp điều trị chính của nang cạnh vòi. Chọn gì?",
       "options": [
         "Phẫu thuật bóc nang",
         "HSG bốn phim",
@@ -2166,7 +2166,7 @@
       "topicId": "nangcanh",
       "conceptId": "torsionpresentation",
       "level": "apply",
-      "stem": "Người có nang cạnh vòi xuất hiện đau bụng đột ngột dữ dội, buồn nôn và nôn. Biến chứng nào cần nghĩ đến theo bài?",
+      "stem": "Người có nang cạnh vòi xuất hiện đau bụng đột ngột dữ dội, buồn nôn và nôn. Biến chứng nào cần nghĩ đến?",
       "options": [
         "Xoắn phần phụ",
         "Hiện tượng thoái triển ống Wolff sinh lý",
@@ -2355,7 +2355,7 @@
       "topicId": "giaiphau",
       "conceptId": "ampullaectopic",
       "level": "analyze",
-      "stem": "Có ý kiến rằng đoạn hẹp nhất là nơi thai ngoài tử cung thường gặp nhất. Đối chiếu hai mục trong bài, sửa thế nào?",
+      "stem": "Có ý kiến rằng đoạn hẹp nhất là nơi thai ngoài tử cung thường gặp nhất. Đối chiếu hai mục, sửa thế nào?",
       "options": [
         "Đoạn eo hẹp nhất, còn đoạn bóng là vị trí thường gặp nhất",
         "Đoạn bóng hẹp nhất và cũng thường gặp nhất",
@@ -2437,7 +2437,7 @@
       "topicId": "hinhanh",
       "conceptId": "nonvisualnotblocked",
       "level": "analyze",
-      "stem": "Không thấy vòi trứng trên siêu âm khi không có dịch ổ bụng; bệnh nhân hiếm muộn cần đánh giá thông vòi. Suy luận nào đúng theo bài?",
+      "stem": "Không thấy vòi trứng trên siêu âm khi không có dịch ổ bụng; bệnh nhân hiếm muộn cần đánh giá thông vòi. Suy luận nào đúng?",
       "options": [
         "Không thấy chưa chứng minh tắc; HSG là một phương pháp khảo sát thông thương được nêu",
         "Không thấy đủ để kết luận chắc chắn tắc cả hai bên",
@@ -2638,7 +2638,7 @@
       "topicId": "udich",
       "conceptId": "pcriggdistinction",
       "level": "analyze",
-      "stem": "Hai mục tiêu là tìm Chlamydia từ dịch sinh dục và đánh giá đã từng nhiễm. Ghép xét nghiệm nào đúng theo bài?",
+      "stem": "Hai mục tiêu là tìm Chlamydia từ dịch sinh dục và đánh giá đã từng nhiễm. Ghép xét nghiệm nào đúng?",
       "options": [
         "PCR dịch cổ tử cung/âm đạo cho mục tiêu thứ nhất; IgG cho tiền căn",
         "IgG trực tiếp đo độ thông vòi; HSG tìm DNA Chlamydia",
