@@ -20,10 +20,14 @@ for path in sorted((ROOT/'content').glob('m[0-9][0-9].json')):
     all_reviewed=all(all(x.get('review',{}).get(k) is True for k in ('source','semantic')) for x in q)
     concepts={l:len({x.get('conceptId') for x in q if x['level']==l}) for l in ('understand','apply','analyze')}
     enough=all(concepts[l]>=n for l,n in [('understand',10),('apply',20),('analyze',10)])
-    ready=bool(q) and all_reviewed and enough and bank.get('reviewStatus')=='passed2'
+    eligible=bank.get('examEligibility',{}).get('eligible',True)
+    ready=bool(q) and all_reviewed and enough and eligible and bank.get('reviewStatus')=='passed2'
+    if ready: ready_reason='Đã qua 2 lượt kiểm và đủ điều kiện tạo đề 40 câu.'
+    elif bank and bank.get('examEligibility',{}).get('reason'): ready_reason=bank['examEligibility']['reason']
+    else: ready_reason='Chưa hoàn tất kiểm nguồn, kiểm câu hỏi, hoặc điều kiện tạo đề 40 câu.'
     file_name=doc.get('viewFile',doc['file'])
     catalog.append({'id':doc['id'],'title':doc['title'],'original':doc['original'],'file':file_name,
-                    'pageCount':len(doc['pages']),'questionCount':len(q),'levels':level_counts,'ready':ready})
+                    'pageCount':len(doc['pages']),'questionCount':len(q),'levels':level_counts,'ready':ready,'readyReason':ready_reason})
     if ready:
         public_bank={k:v for k,v in bank.items() if k in ('moduleId','title','topics','questions')}
         (DIST/'data'/path.name).write_text(json.dumps(public_bank,ensure_ascii=False),encoding='utf-8')

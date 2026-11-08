@@ -140,8 +140,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -172,8 +172,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -204,8 +204,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -236,8 +236,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -268,8 +268,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -308,8 +308,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -340,8 +340,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -372,8 +372,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -404,8 +404,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -436,15 +436,15 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
     {
       "id": "m14-q011",
       "topicId": "vitri",
-      "conceptId": "ampullaquantity",
+      "conceptId": "ampulla",
       "level": "understand",
       "stem": "Trong bảng bài học, tỷ lệ thai ngoài tử cung ở đoạn bóng vòi tử cung được ghi là bao nhiêu?",
       "options": [
@@ -468,8 +468,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -500,8 +500,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -532,8 +532,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -564,8 +564,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -600,8 +600,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -632,8 +632,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -664,8 +664,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -696,8 +696,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -706,20 +706,20 @@
       "topicId": "lamsang",
       "conceptId": "cervicalpregnancy",
       "level": "apply",
-      "stem": "Ra huyết âm đạo nhiều, cổ tử cung phình và có túi thai tại cổ tử cung thuộc thể nào trong bài?",
+      "stem": "Người ra huyết nhiều có đoạn dưới tử cung phình dạng đồng hồ cát; siêu âm thấy túi thai ở vùng cổ tử cung. Trong các thể bài mô tả, thể nào cần được nghĩ đến?",
       "options": [
-        "Thai ở cổ tử cung",
-        "Thai đoạn bóng chưa vỡ",
-        "Thai trong ổ bụng",
-        "Nang nước cạnh vòi"
+        "Thai ở cổ tử cung, cần phân biệt với thai đang sẩy",
+        "Thai đoạn bóng được xác nhận chỉ từ ra máu",
+        "Thai trong ổ bụng vì có ra máu",
+        "Nang nước cạnh vòi được xác nhận từ hình đồng hồ cát"
       ],
       "answer": 0,
-      "explanation": "Trang 17 mô tả những dấu hiệu có thể gặp của thai cổ tử cung; cần chẩn đoán phân biệt với thai đang sẩy.",
+      "explanation": "Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt.",
       "optionExplanations": [
-        "Trang 17 mô tả những dấu hiệu có thể gặp của thai cổ tử cung; cần chẩn đoán phân biệt với thai đang sẩy.",
-        "Không khớp mô tả ở trang 17: Trang 17 mô tả những dấu hiệu có thể gặp của thai cổ tử cung; cần chẩn đoán phân biệt với thai đang sẩy.",
-        "Không khớp mô tả ở trang 17: Trang 17 mô tả những dấu hiệu có thể gặp của thai cổ tử cung; cần chẩn đoán phân biệt với thai đang sẩy.",
-        "Không khớp mô tả ở trang 17: Trang 17 mô tả những dấu hiệu có thể gặp của thai cổ tử cung; cần chẩn đoán phân biệt với thai đang sẩy."
+        "Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt.",
+        "Không phù hợp. Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt.",
+        "Không phù hợp. Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt.",
+        "Không phù hợp. Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt."
       ],
       "sources": [
         {
@@ -728,8 +728,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -760,8 +760,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -792,8 +792,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -802,30 +802,34 @@
       "topicId": "cls",
       "conceptId": "freefluid",
       "level": "apply",
-      "stem": "Siêu âm có dịch túi cùng sau hoặc dịch ổ bụng ở người nghi thai ngoài tử cung vỡ. Bài liên hệ dấu này với gì?",
+      "stem": "Người nghi thai ngoài tử cung xuất hiện đau tăng và dấu choáng. Khi tìm dấu siêu âm đi kèm tình trạng vỡ theo bài, cần chú ý phát hiện nào?",
       "options": [
-        "Thai ngoài tử cung đã vỡ có thể có dịch",
-        "Chắc chắn loại trừ xuất huyết nội",
-        "Chỉ là dấu noãn nguyên bào",
-        "Bắt buộc thai làm tổ trong buồng tử cung"
+        "Dịch túi cùng sau hoặc dịch ổ bụng",
+        "Chỉ kích thước bàng quang",
+        "Chỉ hạch cổ",
+        "Chỉ hình nang noãn nguyên thủy"
       ],
       "answer": 0,
-      "explanation": "Trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ.",
+      "explanation": "Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu.",
       "optionExplanations": [
-        "Trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ.",
-        "Không khớp mô tả ở trang 19: Trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ.",
-        "Không khớp mô tả ở trang 19: Trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ.",
-        "Không khớp mô tả ở trang 19: Trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ."
+        "Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu.",
+        "Không phù hợp. Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu.",
+        "Không phù hợp. Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu.",
+        "Không phù hợp. Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu."
       ],
       "sources": [
+        {
+          "page": 13,
+          "quote": "V. LÂM SÀNG\n2. TNTC vỡ\nTriệu chứng thực thể: Da xanh, viêm nhạt, vã mồ hôi, khát nước. Choáng do xuất huyết nội: mạch nhanh, HA tụt.\rBụng phình, ấn đau, gõ đục vùng thấp. \rKhám Â. Đạo: cổ TC mềm, đóng, lay TC đau, 2 phần phụ khó xác định, do bệnh nhân gồng, túi cùng sau căng và rất đau khi khám."
+        },
         {
           "page": 19,
           "quote": "VI. CẬN LÂM SÀNG\n2. Siêu âm\nLà phương tiện chuẩn đoán rất quan trọng (đầu dò Â. đạo)\rHình ảnh:\r\t+ Không thấy thai trong lòng TC ( +- túi thai giả)\r\t+ Khối echo hỗn hợp cạnh TC\r\t+ Túi thai với phôi thai (+- sống) ngoài TC\r\t+ Tụ dịch ở túi cùng sau hay dich trong ổ bụng khi TNTC đã vỡ\r\t+ Nếu chưa rõ ràng thì hẹn SA lại 3 ngày sau.\r\n3. XQ: dùng khi nghi ngờ thai trong ổ bung\r4. Nạo sinh thiết buồng TC: dùng để chẩn đoán phân biệt thai trong TC và thai ngoài TC ( không giữ thai)"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -834,20 +838,20 @@
       "topicId": "cls",
       "conceptId": "laparoscopy",
       "level": "apply",
-      "stem": "Phương tiện nào vừa giúp xác định vừa có thể phẫu thuật bảo tồn hoặc cắt vòi trứng?",
+      "stem": "Cần một phương tiện vừa giúp xác định thai ngoài tử cung vừa có khả năng phẫu thuật bảo tồn hoặc cắt vòi khi phù hợp. Phương tiện nào trong bài đáp ứng cả hai mục tiêu?",
       "options": [
         "Nội soi ổ bụng",
-        "Chỉ đo IgG",
-        "Chỉ nhìn máu âm đạo",
+        "Chỉ một lần định lượng β-hCG",
+        "Chỉ quan sát máu âm đạo",
         "Chỉ chụp ảnh bên ngoài"
       ],
       "answer": 0,
-      "explanation": "Trang 20 nêu nội soi ổ bụng giúp chẩn đoán xác định và có thể điều trị phẫu thuật.",
+      "explanation": "Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này.",
       "optionExplanations": [
-        "Trang 20 nêu nội soi ổ bụng giúp chẩn đoán xác định và có thể điều trị phẫu thuật.",
-        "Không khớp mô tả ở trang 20: Trang 20 nêu nội soi ổ bụng giúp chẩn đoán xác định và có thể điều trị phẫu thuật.",
-        "Không khớp mô tả ở trang 20: Trang 20 nêu nội soi ổ bụng giúp chẩn đoán xác định và có thể điều trị phẫu thuật.",
-        "Không khớp mô tả ở trang 20: Trang 20 nêu nội soi ổ bụng giúp chẩn đoán xác định và có thể điều trị phẫu thuật."
+        "Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này.",
+        "Không phù hợp. Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này.",
+        "Không phù hợp. Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này.",
+        "Không phù hợp. Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này."
       ],
       "sources": [
         {
@@ -856,8 +860,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -888,8 +892,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -898,20 +902,20 @@
       "topicId": "xutri",
       "conceptId": "choicefactors",
       "level": "apply",
-      "stem": "Khi đọc mục xử trí, yếu tố nào phải cân nhắc ngoài vị trí khối thai?",
+      "stem": "Hai hồ sơ có khối thai cùng vị trí, nhưng khác tình trạng sức khỏe khi nhập viện và nguyện vọng sinh con. Theo mục xử trí, cách đánh giá nào đúng?",
       "options": [
-        "Tình trạng sức khỏe và nguyện vọng sinh con",
-        "Chỉ màu tóc người bệnh",
-        "Chỉ số tua vòi của cơ thể",
-        "Chỉ số lượng trang của bài học"
+        "Phải xét thêm sức khỏe và nguyện vọng, không quyết định chỉ từ vị trí",
+        "Cùng vị trí thì bắt buộc cùng cách xử trí",
+        "Chỉ chọn theo số con, bỏ sức khỏe",
+        "Bỏ qua mong muốn sinh con trong mọi trường hợp"
       ],
       "answer": 0,
-      "explanation": "Trang 22 nêu tuổi, tiền sử, số con/nguyện vọng, đặc điểm khối và sức khỏe lúc nhập viện.",
+      "explanation": "Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ.",
       "optionExplanations": [
-        "Trang 22 nêu tuổi, tiền sử, số con/nguyện vọng, đặc điểm khối và sức khỏe lúc nhập viện.",
-        "Không khớp mô tả ở trang 22: Trang 22 nêu tuổi, tiền sử, số con/nguyện vọng, đặc điểm khối và sức khỏe lúc nhập viện.",
-        "Không khớp mô tả ở trang 22: Trang 22 nêu tuổi, tiền sử, số con/nguyện vọng, đặc điểm khối và sức khỏe lúc nhập viện.",
-        "Không khớp mô tả ở trang 22: Trang 22 nêu tuổi, tiền sử, số con/nguyện vọng, đặc điểm khối và sức khỏe lúc nhập viện."
+        "Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ.",
+        "Không phù hợp. Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ.",
+        "Không phù hợp. Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ.",
+        "Không phù hợp. Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ."
       ],
       "sources": [
         {
@@ -920,30 +924,30 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
     {
       "id": "m14-q026",
       "topicId": "xutri",
-      "conceptId": "radicaltubal",
+      "conceptId": "surgicalfeasibility",
       "level": "apply",
-      "stem": "Bài nêu cắt vòi trứng sát góc tử cung ở trường hợp nào?",
+      "stem": "Một kế hoạch ghi phải dùng nội soi cho mọi trường hợp, dù tình trạng bệnh không cho phép thực hiện. Cách sửa nào bám đúng phần điều trị tận gốc của bài?",
       "options": [
-        "Thai ngoài tử cung vỡ",
-        "Mọi thai trong tử cung không biến chứng",
-        "Chỉ nang nguyên thủy",
-        "Chỉ thay đổi chất nhầy cổ tử cung"
+        "Ưu tiên nội soi khi thực hiện được; bài còn nêu mổ bụng khi tình trạng bệnh không thực hiện được nội soi",
+        "Vẫn bắt buộc nội soi bất kể tình trạng bệnh",
+        "Bỏ mọi xử trí nếu không nội soi được",
+        "Chỉ lặp β-hCG để thay mọi phẫu thuật"
       ],
       "answer": 0,
-      "explanation": "Trang 23 liệt kê thai ngoài tử cung vỡ trong các hoàn cảnh của điều trị tận gốc. Câu chỉ đọc bài, không là chỉ định cá nhân.",
+      "explanation": "Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể.",
       "optionExplanations": [
-        "Trang 23 liệt kê thai ngoài tử cung vỡ trong các hoàn cảnh của điều trị tận gốc. Câu chỉ đọc bài, không là chỉ định cá nhân.",
-        "Không khớp mô tả ở trang 23: Trang 23 liệt kê thai ngoài tử cung vỡ trong các hoàn cảnh của điều trị tận gốc. Câu chỉ đọc bài, không là chỉ định cá nhân.",
-        "Không khớp mô tả ở trang 23: Trang 23 liệt kê thai ngoài tử cung vỡ trong các hoàn cảnh của điều trị tận gốc. Câu chỉ đọc bài, không là chỉ định cá nhân.",
-        "Không khớp mô tả ở trang 23: Trang 23 liệt kê thai ngoài tử cung vỡ trong các hoàn cảnh của điều trị tận gốc. Câu chỉ đọc bài, không là chỉ định cá nhân."
+        "Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể.",
+        "Không phù hợp. Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể.",
+        "Không phù hợp. Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể.",
+        "Không phù hợp. Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể."
       ],
       "sources": [
         {
@@ -952,8 +956,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -962,30 +966,34 @@
       "topicId": "xutri",
       "conceptId": "conservativehemodynamics",
       "level": "apply",
-      "stem": "Trong mục điều trị bảo tồn, điều kiện huyết động nào được nêu?",
+      "stem": "Một bảng sàng lọc điều kiện bảo tồn ghi người đang mạch nhanh, huyết áp tụt là “huyết động ổn định”. Cần sửa phần đối chiếu nào?",
       "options": [
-        "Huyết động ổn định",
-        "Đang choáng mất máu chưa xử trí",
-        "Huyết áp tụt là điều kiện ưu tiên bảo tồn",
-        "Không cần đánh giá sinh hiệu"
+        "Dấu này thuộc mô tả choáng của bài, không đáp ứng điều kiện huyết động ổn định",
+        "Mạch nhanh và huyết áp tụt xác nhận ổn định",
+        "Không cần xét huyết động khi muốn bảo tồn",
+        "Chỉ kích thước khối đủ thay đánh giá sinh hiệu"
       ],
       "answer": 0,
-      "explanation": "Trang 25 liệt kê huyết động ổn định trong chỉ định bảo tồn; không đủ một mình để quyết định phương thức điều trị.",
+      "explanation": "Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh.",
       "optionExplanations": [
-        "Trang 25 liệt kê huyết động ổn định trong chỉ định bảo tồn; không đủ một mình để quyết định phương thức điều trị.",
-        "Không khớp mô tả ở trang 25: Trang 25 liệt kê huyết động ổn định trong chỉ định bảo tồn; không đủ một mình để quyết định phương thức điều trị.",
-        "Không khớp mô tả ở trang 25: Trang 25 liệt kê huyết động ổn định trong chỉ định bảo tồn; không đủ một mình để quyết định phương thức điều trị.",
-        "Không khớp mô tả ở trang 25: Trang 25 liệt kê huyết động ổn định trong chỉ định bảo tồn; không đủ một mình để quyết định phương thức điều trị."
+        "Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh.",
+        "Không phù hợp. Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh.",
+        "Không phù hợp. Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh.",
+        "Không phù hợp. Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh."
       ],
       "sources": [
+        {
+          "page": 13,
+          "quote": "V. LÂM SÀNG\n2. TNTC vỡ\nTriệu chứng thực thể: Da xanh, viêm nhạt, vã mồ hôi, khát nước. Choáng do xuất huyết nội: mạch nhanh, HA tụt.\rBụng phình, ấn đau, gõ đục vùng thấp. \rKhám Â. Đạo: cổ TC mềm, đóng, lay TC đau, 2 phần phụ khó xác định, do bệnh nhân gồng, túi cùng sau căng và rất đau khi khám."
+        },
         {
           "page": 25,
           "quote": "VIII. ĐIỀU TRỊ: \n2. Điều trị bảo tồn: nếu còn muốn có con\rChỉ định:\rhuyết động học ổn định\r kích thước khối thai < 4cm , không có tim thai\rßHCG ≤ 10 000 mIU/ml"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1016,8 +1024,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1026,20 +1034,20 @@
       "topicId": "xutri",
       "conceptId": "salpingostomyfollow",
       "level": "apply",
-      "stem": "Sau phẫu thuật xẻ vòi hút khối thai, bài nhắc theo dõi xét nghiệm nào để phòng sót nhau?",
+      "stem": "Sau xẻ vòi hút khối thai, kế hoạch chỉ ghi theo dõi triệu chứng và bỏ xét nghiệm mà bài nhắc để đề phòng sót nhau. Xét nghiệm cần bổ sung theo bài là gì?",
       "options": [
         "β-hCG",
-        "Chỉ IgG Chlamydia",
-        "Chỉ estradiol",
-        "Chỉ AMH"
+        "IgG Chlamydia thay β-hCG",
+        "AMH thay β-hCG",
+        "Estradiol thay β-hCG"
       ],
       "answer": 0,
-      "explanation": "Trang 27 nêu theo dõi β-hCG sau mổ trong phần phòng sót nhau.",
+      "explanation": "Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ.",
       "optionExplanations": [
-        "Trang 27 nêu theo dõi β-hCG sau mổ trong phần phòng sót nhau.",
-        "Không khớp mô tả ở trang 27: Trang 27 nêu theo dõi β-hCG sau mổ trong phần phòng sót nhau.",
-        "Không khớp mô tả ở trang 27: Trang 27 nêu theo dõi β-hCG sau mổ trong phần phòng sót nhau.",
-        "Không khớp mô tả ở trang 27: Trang 27 nêu theo dõi β-hCG sau mổ trong phần phòng sót nhau."
+        "Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ.",
+        "Không phù hợp. Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ.",
+        "Không phù hợp. Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ.",
+        "Không phù hợp. Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ."
       ],
       "sources": [
         {
@@ -1048,8 +1056,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1058,20 +1066,20 @@
       "topicId": "tienluong",
       "conceptId": "prognosisearly",
       "level": "apply",
-      "stem": "Phát hiện thai ngoài tử cung sớm được bài liên hệ với khả năng nào?",
+      "stem": "Một người đọc mục tiên lượng rồi kết luận “phát hiện sớm chắc chắn vẫn vô sinh”. Cách sửa nào đúng mức khẳng định của nguồn?",
       "options": [
-        "Tiên lượng tốt hơn và có thể duy trì khả năng sinh sản",
-        "Luôn chắc chắn vô sinh",
-        "Luôn đã choáng mất máu",
-        "Không bao giờ cần đánh giá thêm"
+        "Phát hiện sớm có tiên lượng tốt và có thể duy trì khả năng sinh sản; không bảo đảm kết quả tuyệt đối",
+        "Nguồn bảo đảm mọi người đều vô sinh",
+        "Nguồn bảo đảm mọi người đều có thai về sau",
+        "Thời điểm phát hiện hoàn toàn không liên quan tiên lượng"
       ],
       "answer": 0,
-      "explanation": "Trang 28 nêu phát hiện sớm tiên lượng tốt, có thể duy trì khả năng sinh sản.",
+      "explanation": "Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau.",
       "optionExplanations": [
-        "Trang 28 nêu phát hiện sớm tiên lượng tốt, có thể duy trì khả năng sinh sản.",
-        "Không khớp mô tả ở trang 28: Trang 28 nêu phát hiện sớm tiên lượng tốt, có thể duy trì khả năng sinh sản.",
-        "Không khớp mô tả ở trang 28: Trang 28 nêu phát hiện sớm tiên lượng tốt, có thể duy trì khả năng sinh sản.",
-        "Không khớp mô tả ở trang 28: Trang 28 nêu phát hiện sớm tiên lượng tốt, có thể duy trì khả năng sinh sản."
+        "Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau.",
+        "Không phù hợp. Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau.",
+        "Không phù hợp. Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau.",
+        "Không phù hợp. Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau."
       ],
       "sources": [
         {
@@ -1080,8 +1088,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1120,8 +1128,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1156,8 +1164,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1192,8 +1200,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1232,15 +1240,15 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
     {
       "id": "m14-q035",
       "topicId": "cls",
-      "conceptId": "hcgnotlocation",
+      "conceptId": "diagnosisintegration",
       "level": "analyze",
       "stem": "Hai người có β-hCG bằng nhau nhưng một người có túi thai ngoài tử cung trên siêu âm. Vì sao không thể dựa β-hCG đơn lẻ để coi hai vị trí thai giống nhau?",
       "options": [
@@ -1268,30 +1276,30 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
     {
       "id": "m14-q036",
       "topicId": "chandoan",
-      "conceptId": "ultrasoundlaparoscopy",
+      "conceptId": "diagnosticmodalities",
       "level": "analyze",
-      "stem": "Siêu âm quan trọng nhưng bài vẫn gọi phương tiện khác là tiêu chuẩn vàng. Cách ghép nào đúng?",
+      "stem": "Hai kế hoạch: A coi siêu âm là xét nghiệm hCG; B xem siêu âm cung cấp hình ảnh, còn nội soi vừa xác định vừa có thể xử trí. Kế hoạch nào phân biệt đúng công cụ và vai trò theo bài?",
       "options": [
-        "Siêu âm cung cấp hình ảnh; nội soi ổ bụng giúp xác định và có thể xử trí",
-        "β-hCG đơn lẻ là tiêu chuẩn vàng và đủ điều trị",
-        "Chỉ khám âm đạo là tiêu chuẩn vàng",
-        "Siêu âm và nội soi đều được bài xem không hữu ích"
+        "B: hình ảnh siêu âm và khả năng chẩn đoán/can thiệp của nội soi là các vai trò khác nhau",
+        "A: siêu âm và hCG là cùng một phép đo",
+        "Cả hai đều sai vì nội soi không giúp chẩn đoán",
+        "A đúng vì hCG có thể trực tiếp cắt vòi"
       ],
       "answer": 0,
-      "explanation": "Trang 19–21 phân biệt vai trò của siêu âm, nội soi ổ bụng và phối hợp chẩn đoán.",
+      "explanation": "Trang 19 trình bày hình ảnh siêu âm; trang 20 trình bày nội soi chẩn đoán/can thiệp; trang 21 nhấn mạnh phối hợp. Không đồng nhất công cụ xét nghiệm, hình ảnh và thủ thuật.",
       "optionExplanations": [
-        "Trang 19–21 phân biệt vai trò của siêu âm, nội soi ổ bụng và phối hợp chẩn đoán.",
-        "Không khớp mô tả ở trang 19,20,21: Trang 19–21 phân biệt vai trò của siêu âm, nội soi ổ bụng và phối hợp chẩn đoán.",
-        "Không khớp mô tả ở trang 19,20,21: Trang 19–21 phân biệt vai trò của siêu âm, nội soi ổ bụng và phối hợp chẩn đoán.",
-        "Không khớp mô tả ở trang 19,20,21: Trang 19–21 phân biệt vai trò của siêu âm, nội soi ổ bụng và phối hợp chẩn đoán."
+        "Trang 19 trình bày hình ảnh siêu âm; trang 20 trình bày nội soi chẩn đoán/can thiệp; trang 21 nhấn mạnh phối hợp. Không đồng nhất công cụ xét nghiệm, hình ảnh và thủ thuật.",
+        "Không phù hợp. Trang 19 trình bày hình ảnh siêu âm; trang 20 trình bày nội soi chẩn đoán/can thiệp; trang 21 nhấn mạnh phối hợp. Không đồng nhất công cụ xét nghiệm, hình ảnh và thủ thuật.",
+        "Không phù hợp. Trang 19 trình bày hình ảnh siêu âm; trang 20 trình bày nội soi chẩn đoán/can thiệp; trang 21 nhấn mạnh phối hợp. Không đồng nhất công cụ xét nghiệm, hình ảnh và thủ thuật.",
+        "Không phù hợp. Trang 19 trình bày hình ảnh siêu âm; trang 20 trình bày nội soi chẩn đoán/can thiệp; trang 21 nhấn mạnh phối hợp. Không đồng nhất công cụ xét nghiệm, hình ảnh và thủ thuật."
       ],
       "sources": [
         {
@@ -1308,8 +1316,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1344,8 +1352,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1384,44 +1392,40 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
     {
       "id": "m14-q039",
       "topicId": "xutri",
-      "conceptId": "laparoscopy",
+      "conceptId": "pelvicfertilityassessment",
       "level": "apply",
-      "stem": "Trong bài, nội soi ổ bụng có thể tham gia cả chẩn đoán lẫn điều trị thế nào?",
+      "stem": "Một bảng tư vấn sau nội soi chỉ ghi đã xác định thai ngoài tử cung, bỏ đánh giá tổn thương tử cung/phần phụ và viêm dính. Vai trò bổ sung nào của nội soi được bài nêu?",
       "options": [
-        "Giúp xác định thai ngoài tử cung và có thể phẫu thuật bảo tồn hoặc cắt vòi",
-        "Chỉ định lượng β-hCG từ xa, không xem ổ bụng",
-        "Chỉ đánh giá hormone buồng trứng",
-        "Luôn thay thế mọi đánh giá sức khỏe trước mổ"
+        "Đánh giá viêm dính, bệnh lý tử cung và hai phần phụ để góp phần tiên lượng sinh sản",
+        "Chỉ xác định màu tóc để tiên lượng",
+        "Tự bảo đảm chắc chắn sẽ có thai về sau",
+        "Không có vai trò đánh giá vùng chậu ngoài xác định khối thai"
       ],
       "answer": 0,
-      "explanation": "Trang 20 nêu hai vai trò; trang 23 nêu ưu tiên nội soi trong điều trị tận gốc khi thực hiện được.",
+      "explanation": "Trang 20 nêu nội soi còn đánh giá viêm dính, bệnh lý tử cung và hai phần phụ, tiên lượng khả năng sinh sản. Đây là vai trò khác với điều trị cắt/bảo tồn vòi.",
       "optionExplanations": [
-        "Trang 20 nêu hai vai trò; trang 23 nêu ưu tiên nội soi trong điều trị tận gốc khi thực hiện được.",
-        "Không khớp mô tả ở trang 20,23: Trang 20 nêu hai vai trò; trang 23 nêu ưu tiên nội soi trong điều trị tận gốc khi thực hiện được.",
-        "Không khớp mô tả ở trang 20,23: Trang 20 nêu hai vai trò; trang 23 nêu ưu tiên nội soi trong điều trị tận gốc khi thực hiện được.",
-        "Không khớp mô tả ở trang 20,23: Trang 20 nêu hai vai trò; trang 23 nêu ưu tiên nội soi trong điều trị tận gốc khi thực hiện được."
+        "Trang 20 nêu nội soi còn đánh giá viêm dính, bệnh lý tử cung và hai phần phụ, tiên lượng khả năng sinh sản. Đây là vai trò khác với điều trị cắt/bảo tồn vòi.",
+        "Không phù hợp. Trang 20 nêu nội soi còn đánh giá viêm dính, bệnh lý tử cung và hai phần phụ, tiên lượng khả năng sinh sản. Đây là vai trò khác với điều trị cắt/bảo tồn vòi.",
+        "Không phù hợp. Trang 20 nêu nội soi còn đánh giá viêm dính, bệnh lý tử cung và hai phần phụ, tiên lượng khả năng sinh sản. Đây là vai trò khác với điều trị cắt/bảo tồn vòi.",
+        "Không phù hợp. Trang 20 nêu nội soi còn đánh giá viêm dính, bệnh lý tử cung và hai phần phụ, tiên lượng khả năng sinh sản. Đây là vai trò khác với điều trị cắt/bảo tồn vòi."
       ],
       "sources": [
         {
           "page": 20,
           "quote": "VI. CẬN LÂM SÀNG\n5. Chọc dò Douglas\nThống kê cho thấy khi có máu trong bụng thì chỉ 50% TNTC đã vỡ\rHiện nay khynh hướng bảo tồn tai vòi nên chỉ định này ít còn sử dụng\n6. Soi ổ bụng:\rGiúp chuẩn đoán xác định TNTC\rCó thể phẫu thuật: bảo tồn hoặc cắt bỏ VT.\rĐánh giá tình trạng viêm dính, bệnh lý TC và 2 PP, tiên lượng khả năng sinh sản."
-        },
-        {
-          "page": 23,
-          "quote": "VIII. ĐIỀU TRỊ: \nĐiều trị tận gốc:\rCắt tai vòi sát góc TC: khi đủ con, TNTC vỡ, huyết tụ thành nang \rƯu tiên nội soi ổ bụng / mổ bụng khi tình trạng bệnh không thực hiện được NS)\rMổ lấy thai: nếu thai trong ổ bụng: \r\t+ Chết: mổ ngay để tránh rối loạn đông máu\r\t+ Sống: <24 tuần: mổ ngay\r\t\t\t\t> 24 tuần: chờ đến khi có khả năng nuôi được (32-36 tuàn) -> mổ lấy thai. Nhau nếu lấy được thì lấy, không lấy được để lại (MTX, tăc mạch -> đề phòng nhiễm trùng)"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1452,8 +1456,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1484,8 +1488,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1516,8 +1520,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1552,8 +1556,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1588,8 +1592,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1621,11 +1625,15 @@
         {
           "page": 19,
           "quote": "VI. CẬN LÂM SÀNG\n2. Siêu âm\nLà phương tiện chuẩn đoán rất quan trọng (đầu dò Â. đạo)\rHình ảnh:\r\t+ Không thấy thai trong lòng TC ( +- túi thai giả)\r\t+ Khối echo hỗn hợp cạnh TC\r\t+ Túi thai với phôi thai (+- sống) ngoài TC\r\t+ Tụ dịch ở túi cùng sau hay dich trong ổ bụng khi TNTC đã vỡ\r\t+ Nếu chưa rõ ràng thì hẹn SA lại 3 ngày sau.\r\n3. XQ: dùng khi nghi ngờ thai trong ổ bung\r4. Nạo sinh thiết buồng TC: dùng để chẩn đoán phân biệt thai trong TC và thai ngoài TC ( không giữ thai)"
+        },
+        {
+          "page": 21,
+          "quote": "VII. CHẨN ĐOÁN:\n+ Chẩn đoán xác định: dựa vào lâm sàng, cận lâm sàng (siêu âm và ßHCG) . Nội soi ổ bụng là tiêu chuẩn vàng.\r\r+ Chẩn đoán phân biệt: sẩy thai, ứ dịch vòi TC, Vỡ nang hoàng thể/thai trong TC."
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1660,8 +1668,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1700,8 +1708,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     },
@@ -1736,8 +1744,8 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
       }
     }

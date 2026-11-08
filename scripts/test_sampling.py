@@ -6,6 +6,9 @@ ROOT=Path(__file__).resolve().parents[1]
 ok=True
 for f in sorted((ROOT/'content'/'banks').glob('m[0-9][0-9].json')):
     bank=json.loads(f.read_text(encoding='utf-8-sig'))
+    if bank.get('reviewStatus') != 'passed2':
+        print(f.stem,'SKIP (chưa được phát hành)')
+        continue
     topics={t['id'] for t in bank['topics']}
     failures=[]
     for seed in range(100):

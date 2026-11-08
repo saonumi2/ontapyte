@@ -82,9 +82,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -117,9 +121,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -152,15 +160,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q004",
       "topicId": "m10-sinhtinh",
-      "conceptId": "m10-chuoi-sinhtinh",
+      "conceptId": "m10-sinh-tinh-thu-tu",
       "level": "understand",
       "stem": "Trình tự dòng tế bào nào đúng theo sơ đồ sinh tinh?",
       "options": [
@@ -187,9 +199,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -222,9 +238,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -257,9 +277,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -290,15 +314,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q008",
       "topicId": "m10-sertoli",
-      "conceptId": "m10-sanpham-che-tiet",
+      "conceptId": "m10-sertoli-che-tiet",
       "level": "understand",
       "stem": "Nhóm nào gồm các sản phẩm chế tiết của Sertoli được nêu trong bài?",
       "options": [
@@ -323,15 +351,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q009",
       "topicId": "m10-sertoli",
-      "conceptId": "m10-thucbao",
+      "conceptId": "m10-sertoli-thucbao",
       "level": "understand",
       "stem": "Vai trò thực bào của Sertoli trong bài được mô tả là gì?",
       "options": [
@@ -356,9 +388,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -391,16 +427,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q011",
       "topicId": "m10-sinhtinh",
-      "conceptId": "m10-nhan-dang-tebao-2n",
-      "level": "apply",
+      "conceptId": "m10-giamphan-I",
+      "level": "understand",
       "stem": "Trong một mô hình sinh tinh, tế bào 2n chuẩn bị thực hiện giảm phân I được gắn tên nào?",
       "options": [
         "Tinh tử",
@@ -426,16 +466,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q012",
       "topicId": "m10-sinhtinh",
-      "conceptId": "m10-nhan-dang-sau-I",
-      "level": "apply",
+      "conceptId": "m10-giamphan-I",
+      "level": "understand",
       "stem": "Một tế bào nằm ngay sau giảm phân I nhưng chưa thực hiện giảm phân II. Xếp vào dạng nào?",
       "options": [
         "Tinh trùng",
@@ -461,15 +505,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q013",
       "topicId": "m10-sinhtinh",
-      "conceptId": "m10-nhan-dang-sau-II",
+      "conceptId": "m10-giamphan-II",
       "level": "apply",
       "stem": "Một tế bào đã hoàn tất giảm phân II nhưng đang chuẩn bị kéo dài đầu và tạo đuôi. Tên phù hợp nhất là gì?",
       "options": [
@@ -503,16 +551,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q014",
       "topicId": "m10-cautruc",
       "conceptId": "m10-xep-vung-acrosome",
-      "level": "apply",
+      "level": "understand",
       "stem": "Một bản mô tả ghi “thể cực đầu phủ vùng đầu chứa nhân”. Đánh giá nào phù hợp sơ đồ cấu tạo?",
       "options": [
         "Sai vì acrosome nằm ở cuối roi",
@@ -538,16 +590,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q015",
       "topicId": "m10-cautruc",
       "conceptId": "m10-xep-vung-axoneme",
-      "level": "apply",
+      "level": "understand",
       "stem": "Khi chuyển mô tả sơ đồ sang văn bản, “axoneme” nên được liên hệ với phần nào?",
       "options": [
         "Ống dẫn tinh",
@@ -573,15 +629,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q016",
       "topicId": "m10-cautruc",
-      "conceptId": "m10-biet-hoa-tythe",
+      "conceptId": "m10-tythe-doangiua",
       "level": "apply",
       "stem": "Trong quá trình biệt hóa tinh tử, mô tả ty thể tập trung gần vùng nối đầu–đuôi phù hợp tên vùng nào của tinh trùng cuối cùng?",
       "options": [
@@ -608,9 +668,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -643,16 +707,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q018",
       "topicId": "m10-sertoli",
-      "conceptId": "m10-mohinh-thieu-thucbao",
-      "level": "apply",
+      "conceptId": "m10-sertoli-thucbao",
+      "level": "understand",
       "stem": "Trong mô hình chức năng Sertoli, nâng đỡ và chế tiết được giữ lại nhưng việc thu dọn sản phẩm dư thừa bị bỏ qua. Chức năng nào còn thiếu?",
       "options": [
         "Giảm phân I",
@@ -676,16 +744,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q019",
       "topicId": "m10-sertoli",
-      "conceptId": "m10-mohinh-thieu-che-tiet",
-      "level": "apply",
+      "conceptId": "m10-sertoli-che-tiet",
+      "level": "understand",
       "stem": "Một bảng chức năng Sertoli đã có nâng đỡ và thực bào. Muốn bổ sung chức năng tạo dịch, ABP và inhibin, nên thêm mục nào?",
       "options": [
         "Vận chuyển qua niệu quản",
@@ -709,16 +781,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q020",
       "topicId": "m10-sertoli",
       "conceptId": "m10-hangrao",
-      "level": "apply",
+      "level": "understand",
       "stem": "Khi lập bảng về hàng rào máu–tinh hoàn theo bài, loại tế bào nào cần được đưa vào mục chức năng liên quan?",
       "options": [
         "Tế bào của bàng quang",
@@ -742,16 +818,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q021",
       "topicId": "m10-sinhtinh",
       "conceptId": "m10-vi-tri-ong",
-      "level": "apply",
+      "level": "understand",
       "stem": "Muốn quan sát nơi các tế bào dòng tinh phân chia theo sơ đồ bài học, nên hướng đến cấu trúc nào?",
       "options": [
         "Ống sinh tinh trong tinh hoàn",
@@ -777,16 +857,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q022",
       "topicId": "m10-sinhtinh",
       "conceptId": "m10-daythi",
-      "level": "apply",
+      "level": "understand",
       "stem": "Mốc tuổi nào được ghi bên cạnh tinh bào I bắt đầu giảm phân trên sơ đồ?",
       "options": [
         "Chỉ trước khi sinh",
@@ -812,9 +896,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -847,15 +935,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q024",
       "topicId": "m10-cautruc",
-      "conceptId": "m10-n-khong-doi-biet-hoa",
+      "conceptId": "m10-biet-hoa-khong-doi-n",
       "level": "apply",
       "stem": "Một ghi chú cho rằng tinh tử phải tăng từ n lên 2n mới thành tinh trùng. Cách sửa nào đúng với sơ đồ?",
       "options": [
@@ -882,16 +974,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q025",
       "topicId": "m10-sertoli",
       "conceptId": "m10-khoang-ke",
-      "level": "apply",
+      "level": "understand",
       "stem": "Một mô tả đặt tế bào Leydig và mạch máu ở khoang kẽ ngoài biểu mô ống sinh tinh. Mô tả ấy thế nào so với sơ đồ?",
       "options": [
         "Phù hợp vị trí các nhãn trong slide 11",
@@ -917,16 +1013,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q026",
       "topicId": "m10-sertoli",
       "conceptId": "m10-thu-tu-tu-day-den-long",
-      "level": "apply",
+      "level": "understand",
       "stem": "Trong sơ đồ tổ chức ống sinh tinh, chuỗi từ vùng đáy hướng về phía lòng ống phù hợp nhất là gì?",
       "options": [
         "Tinh trùng → tinh tử → tinh bào → tinh nguyên bào",
@@ -952,16 +1052,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q027",
       "topicId": "m10-vanchuyen",
       "conceptId": "m10-mao-tinh",
-      "level": "apply",
+      "level": "understand",
       "stem": "Trong mô tả đường đi, cấu trúc áp sát tinh hoàn rồi liên tục với ống dẫn tinh là gì?",
       "options": [
         "Bàng quang",
@@ -987,16 +1091,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q028",
       "topicId": "m10-vanchuyen",
       "conceptId": "m10-ong-dan-tinh",
-      "level": "apply",
+      "level": "understand",
       "stem": "Một sơ đồ chữ vẽ đường từ mào tinh đi lên vùng chậu. Nhãn nào đúng cho ống đó?",
       "options": [
         "Ống sinh tinh trong nhân",
@@ -1022,16 +1130,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q029",
       "topicId": "m10-vanchuyen",
       "conceptId": "m10-tien-liet",
-      "level": "apply",
+      "level": "understand",
       "stem": "Theo sơ đồ, tuyến nằm dưới bàng quang và bao quanh đoạn đầu của niệu đạo được ghi là gì?",
       "options": [
         "Tuyến tiền liệt",
@@ -1057,16 +1169,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q030",
       "topicId": "m10-cautruc",
-      "conceptId": "m10-bo-phan-so-voi-te-bao",
-      "level": "apply",
+      "conceptId": "m10-muc-to-chuc",
+      "level": "understand",
       "stem": "Một bảng gộp “nhân, thể cực đầu, Sertoli” thành ba bộ phận của cùng một tinh trùng. Sửa mục nào?",
       "options": [
         "Tách nhân vì tinh trùng không có nhân",
@@ -1097,15 +1213,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q031",
       "topicId": "m10-tichhop",
-      "conceptId": "m10-n-va-hinhdang",
+      "conceptId": "m10-biet-hoa-khong-doi-n",
       "level": "analyze",
       "stem": "Hai mẫu đều có bộ NST n; một còn dạng tinh tử, một có đầu–đoạn giữa–đuôi rõ. Kết luận nào đúng theo bài?",
       "options": [
@@ -1146,9 +1266,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -1156,20 +1280,20 @@
       "topicId": "m10-tichhop",
       "conceptId": "m10-stop-I-vs-II",
       "level": "analyze",
-      "stem": "Trong mô hình có hai nhóm: nhóm A dừng trước giảm phân I; nhóm B đã qua giảm phân I nhưng chưa qua II. Tổ hợp mô tả nào đúng?",
+      "stem": "Trong mô hình theo dõi hai nhóm tinh bào: A gồm tinh bào I chưa bắt đầu giảm phân I; B đã hoàn thành giảm phân I nhưng chưa bắt đầu II. Ghép giai đoạn và bộ NST nào đúng theo sơ đồ?",
       "options": [
-        "A có tinh bào II n; B có tinh bào I 2n",
-        "A còn tinh bào I 2n; B có tinh bào II n",
-        "A có tinh tử n; B có tinh nguyên bào 2n",
-        "Cả hai đều có tinh trùng trưởng thành"
+        "A là tinh bào I 2n; B là tinh bào II n",
+        "A là tinh bào I n; B là tinh bào II 2n",
+        "A là tinh tử n; B là tinh bào I 2n",
+        "A và B đều là tinh tử n"
       ],
-      "answer": 1,
-      "explanation": "Dựa vào vị trí trước/sau lần I và nhãn 2n/n trên slide 5, hai nhóm có giai đoạn và bội thể khác nhau.",
+      "answer": 0,
+      "explanation": "Từ chính điều kiện ban đầu và các nhãn trên slide 5, A ở trước lần I với 2n; B ở sau lần I với n và là tinh bào II.",
       "optionExplanations": [
-        "Hoán đổi nhóm A và B.",
-        "Dựa vào vị trí trước/sau lần I và nhãn 2n/n trên slide 5, hai nhóm có giai đoạn và bội thể khác nhau.",
-        "Đảo vị trí giai đoạn và bội thể.",
-        "Cả hai đều chưa hoàn thành toàn bộ sơ đồ."
+        "Từ chính điều kiện ban đầu và các nhãn trên slide 5, A ở trước lần I với 2n; B ở sau lần I với n và là tinh bào II.",
+        "Đảo bộ NST giữa hai giai đoạn.",
+        "A chưa qua giảm phân còn B đã qua lần I, không phù hợp hai tên này.",
+        "Cả hai nhóm đều chưa hoàn tất giảm phân II để thành tinh tử."
       ],
       "sources": [
         {
@@ -1181,9 +1305,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -1216,16 +1344,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q034",
       "topicId": "m10-tichhop",
-      "conceptId": "m10-taohinh-vs-phan-chia",
-      "level": "analyze",
+      "conceptId": "m10-phan-bao-vs-biet-hoa",
+      "level": "apply",
       "stem": "Một sinh viên đặt “giảm phân III” giữa tinh tử và tinh trùng vì thấy tế bào đổi hình dạng. Phản biện nào có căn cứ?",
       "options": [
         "Mọi đổi hình dạng đều là một lần giảm phân",
@@ -1258,16 +1390,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q035",
       "topicId": "m10-tichhop",
       "conceptId": "m10-sertoli-va-du-thua",
-      "level": "analyze",
+      "level": "apply",
       "stem": "Sơ đồ biệt hóa cho thấy bào tương thừa, còn phần Sertoli nêu thực bào sản phẩm dư thừa. Liên hệ nào hợp lý trong phạm vi bài?",
       "options": [
         "Sertoli phải giảm phân II để thu dọn",
@@ -1298,16 +1434,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q036",
       "topicId": "m10-tichhop",
-      "conceptId": "m10-hai-muc-tochuc",
-      "level": "analyze",
+      "conceptId": "m10-muc-to-chuc",
+      "level": "apply",
       "stem": "Một bản tổng hợp đặt “thể cực đầu → tinh hoàn → tinh bào II → niệu đạo” làm chuỗi giai đoạn tế bào. Cách sửa phù hợp nhất là gì?",
       "options": [
         "Chỉ đổi niệu đạo thành niệu quản để hoàn chỉnh chuỗi",
@@ -1347,16 +1487,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q037",
       "topicId": "m10-tichhop",
-      "conceptId": "m10-phanbiet-ong-va-khoangke",
-      "level": "analyze",
+      "conceptId": "m10-khoang-ke",
+      "level": "understand",
       "stem": "Hai mô tả được đưa ra: (1) dòng tinh phân chia trong ống sinh tinh; (2) Leydig và mạch máu nằm ở khoang kẽ. Có mâu thuẫn không?",
       "options": [
         "Không; đây là hai khoang/cấu trúc khác nhau được thể hiện trong bài",
@@ -1389,16 +1533,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q038",
       "topicId": "m10-tichhop",
       "conceptId": "m10-hangrao-dinhduong",
-      "level": "analyze",
+      "level": "understand",
       "stem": "Một mô hình Sertoli chỉ kiểm tra thực bào và bỏ qua các vai trò còn lại. Vì sao chưa đủ để đại diện toàn bộ chức năng Sertoli trong bài?",
       "options": [
         "Vì thực bào không hề được bài nêu",
@@ -1422,16 +1570,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q039",
       "topicId": "m10-tichhop",
-      "conceptId": "m10-duongdan-vs-sinhtinh",
-      "level": "analyze",
+      "conceptId": "m10-phan-biet-sinh-va-van-chuyen",
+      "level": "apply",
       "stem": "Một mô hình ngừng đường đi ở ống dẫn tinh nhưng vẫn giữ hoạt động tế bào trong ống sinh tinh. Phân biệt nào đúng?",
       "options": [
         "Hai tên ống thực ra chỉ cùng một vị trí",
@@ -1464,16 +1616,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m10-q040",
       "topicId": "m10-tichhop",
       "conceptId": "m10-so-sanh-giao-tu",
-      "level": "analyze",
+      "level": "understand",
       "stem": "Trong sơ đồ so sánh sinh giao tử ở slide 13, sau giảm phân, dòng tinh cho các tế bào có thể biệt hóa thành tinh trùng còn dòng noãn có thể cực. Phân tích nào phù hợp?",
       "options": [
         "Dòng noãn không có giảm phân I hoặc II",
@@ -1499,16 +1655,36 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     }
   ],
   "limitations": [
-    "40 câu; nguồn14 slide không đủ cơ sở để khẳng định có100 ý kiểm tra riêng biệt.",
-    "Các nội dung hình đã đọc chỉ được chuyển thành câu chữ; không suy thêm thời gian sinh tinh, hormone Leydig hoặc cơ chế vi ống9+2 vì tài liệu không nêu rõ.",
-    "Không lấy chi tiết tín hiệu có phân biệt loài ở slide11 làm cơ chế chung ở người.",
-    "Chưa hoàn tất lượt3 độc lập."
-  ]
+    "Ngân hàng hiện có 40 câu; còn các biến thể chung concept, không được lấy chung một đề.",
+    "Chỉ những câu hiện có đã qua đối chiếu nguồn và tự giải lựa chọn; điều kiện đề40 chưa đạt.",
+    "Chưa có đủ căn cứ để tạo khoảng100 câu độc lập và đủ10/20/10; cần bổ sung tài liệu hoặc đổi cấu hình đề theo quyết định của người dùng."
+  ],
+  "reviewStatus": "needs-expansion",
+  "reviewReport": "content/reviews/gametes-rounds12.md",
+  "examEligibility": {
+    "eligible": false,
+    "reason": "Chưa đủ câu khác ý ở mức vận dụng/vận dụng cao cho đề40 theo10/20/10 sau rà soát; không đổi nhãn để bù số.",
+    "levels": {
+      "understand": 28,
+      "apply": 9,
+      "analyze": 3
+    },
+    "distinctConceptsByLevel": {
+      "understand": 23,
+      "apply": 9,
+      "analyze": 3
+    },
+    "distinctConcepts": 31
+  }
 }

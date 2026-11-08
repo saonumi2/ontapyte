@@ -9,7 +9,8 @@
         2,
         3,
         4,
-        5
+        5,
+        16
       ]
     },
     {
@@ -19,23 +20,29 @@
         9,
         10,
         12,
-        13
+        13,
+        16,
+        18
       ]
     },
     {
       "id": "clinical",
       "title": "Yếu tố nguy cơ và lâm sàng",
       "pages": [
+        5,
         6,
         8,
+        12,
         14,
-        15
+        15,
+        16
       ]
     },
     {
       "id": "diagnostics",
       "title": "Cận lâm sàng và chẩn đoán phân biệt",
       "pages": [
+        14,
         16,
         17,
         18,
@@ -2478,7 +2485,7 @@
     {
       "id": "m16-q067",
       "topicId": "pathology",
-      "conceptId": "m16-integrated-risk-comparison",
+      "conceptId": "m16-subsequent-gtn-risk",
       "level": "apply",
       "stem": "Một báo cáo nói nguy cơ GTN sau bán phần bằng 0 vì thấp hơn toàn phần. Sửa thế nào theo bảng?",
       "options": [
@@ -2513,7 +2520,7 @@
     {
       "id": "m16-q068",
       "topicId": "pathology",
-      "conceptId": "m16-integrated-fetal-exclusion",
+      "conceptId": "m16-embryo-presence",
       "level": "apply",
       "stem": "Một mô tả có thành phần phôi/thai nên sinh viên loại mọi dạng thai trứng. Phản biện nào đúng?",
       "options": [
@@ -2940,7 +2947,7 @@
     {
       "id": "m16-q079",
       "topicId": "pathology",
-      "conceptId": "m16-integrated-conflicting-pattern",
+      "conceptId": "m16-integrated-partial-pattern",
       "level": "apply",
       "stem": "Một phiếu học ghép 'bán phần: p57 âm, phôi vắng; toàn phần: p57 dương, phôi thường có'. Cần sửa thế nào?",
       "options": [
@@ -3006,6 +3013,176 @@
           "kind": "text",
           "type": "text",
           "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m16-q081",
+      "topicId": "pathology",
+      "conceptId": "m16-empty-ovum-duplication",
+      "level": "apply",
+      "stem": "Theo sơ đồ, noãn không có bộ gen nhận một bộ 23X rồi xảy ra nhân đôi nội tại. Kết quả được ghi là gì?",
+      "options": [
+        "46XX đồng hợp",
+        "69XXX",
+        "46XY không qua nhân đôi",
+        "69XXY"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ trang 9 vẽ Empty ovum +23X →23X →Endoreduplication →46XX Homozygous. Đây là cách đọc nhánh cụ thể, không khẳng định mọi46XX đều có cơ chế đó.",
+      "optionExplanations": [
+        "Sơ đồ trang 9 vẽ Empty ovum +23X →23X →Endoreduplication →46XX Homozygous. Đây là cách đọc nhánh cụ thể, không khẳng định mọi46XX đều có cơ chế đó.",
+        "Không phù hợp với chú thích nguồn. Sơ đồ trang 9 vẽ Empty ovum +23X →23X →Endoreduplication →46XX Homozygous. Đây là cách đọc nhánh cụ thể, không khẳng định mọi46XX đều có cơ chế đó.",
+        "Không phù hợp với chú thích nguồn. Sơ đồ trang 9 vẽ Empty ovum +23X →23X →Endoreduplication →46XX Homozygous. Đây là cách đọc nhánh cụ thể, không khẳng định mọi46XX đều có cơ chế đó.",
+        "Không phù hợp với chú thích nguồn. Sơ đồ trang 9 vẽ Empty ovum +23X →23X →Endoreduplication →46XX Homozygous. Đây là cách đọc nhánh cụ thể, không khẳng định mọi46XX đều có cơ chế đó."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "Empty ovum + 23X → 23X → Endoreduplication → 46XX Homozygous. Empty ovum + 23X + 23X → 46XX Heterozygous. Empty ovum + 23X + 23Y → 46XY. 23X + 23X + 23X → 69XXX. 23X + 23Y + 23Y → 69XYY. 23X + 23X + 23Y → 69XXY.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m16-q082",
+      "topicId": "pathology",
+      "conceptId": "m16-same-karyotype-different-origin",
+      "level": "analyze",
+      "stem": "Hai nhánh ở sơ đồ cùng tạo46XX: một nhánh từ23X nhân đôi, một nhánh từ hai bộ23X. Phân biệt nào đúng theo nhãn của sơ đồ?",
+      "options": [
+        "Nhánh nhân đôi ghi đồng hợp; nhánh hai bộ23X ghi dị hợp",
+        "Cả hai đều được hình ghi69XXX",
+        "Nhánh nhân đôi ghi dị hợp, nhánh hai bộ23X ghi đồng hợp",
+        "Hình cho rằng cùng46XX thì không thể khác nguồn hình thành"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 phân biệt Homozygous ở nhánh endoreduplication và Heterozygous ở nhánh noãn rỗng nhận hai bộ23X. Cùng số nhiễm sắc thể không đồng nhất hai nhánh trong sơ đồ.",
+      "optionExplanations": [
+        "Trang 9 phân biệt Homozygous ở nhánh endoreduplication và Heterozygous ở nhánh noãn rỗng nhận hai bộ23X. Cùng số nhiễm sắc thể không đồng nhất hai nhánh trong sơ đồ.",
+        "Không phù hợp với chú thích nguồn. Trang 9 phân biệt Homozygous ở nhánh endoreduplication và Heterozygous ở nhánh noãn rỗng nhận hai bộ23X. Cùng số nhiễm sắc thể không đồng nhất hai nhánh trong sơ đồ.",
+        "Không phù hợp với chú thích nguồn. Trang 9 phân biệt Homozygous ở nhánh endoreduplication và Heterozygous ở nhánh noãn rỗng nhận hai bộ23X. Cùng số nhiễm sắc thể không đồng nhất hai nhánh trong sơ đồ.",
+        "Không phù hợp với chú thích nguồn. Trang 9 phân biệt Homozygous ở nhánh endoreduplication và Heterozygous ở nhánh noãn rỗng nhận hai bộ23X. Cùng số nhiễm sắc thể không đồng nhất hai nhánh trong sơ đồ."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "Empty ovum + 23X → 23X → Endoreduplication → 46XX Homozygous. Empty ovum + 23X + 23X → 46XX Heterozygous. Empty ovum + 23X + 23Y → 46XY. 23X + 23X + 23X → 69XXX. 23X + 23Y + 23Y → 69XYY. 23X + 23X + 23Y → 69XXY.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m16-q083",
+      "topicId": "pathology",
+      "conceptId": "m16-triploid-sum",
+      "level": "apply",
+      "stem": "Trong nhánh noãn23X nhận hai bộ23X của sơ đồ, kết quả số nhiễm sắc thể và nhiễm sắc thể giới tính là gì?",
+      "options": [
+        "69XXX",
+        "46XX",
+        "46XY",
+        "23X"
+      ],
+      "answer": 0,
+      "explanation": "Nhánh phải trang9 vẽ23X +23X +23X →69XXX. Câu chỉ yêu cầu áp dụng phép cộng và đọc nhánh rõ của nguồn.",
+      "optionExplanations": [
+        "Nhánh phải trang9 vẽ23X +23X +23X →69XXX. Câu chỉ yêu cầu áp dụng phép cộng và đọc nhánh rõ của nguồn.",
+        "Không phù hợp với chú thích nguồn. Nhánh phải trang9 vẽ23X +23X +23X →69XXX. Câu chỉ yêu cầu áp dụng phép cộng và đọc nhánh rõ của nguồn.",
+        "Không phù hợp với chú thích nguồn. Nhánh phải trang9 vẽ23X +23X +23X →69XXX. Câu chỉ yêu cầu áp dụng phép cộng và đọc nhánh rõ của nguồn.",
+        "Không phù hợp với chú thích nguồn. Nhánh phải trang9 vẽ23X +23X +23X →69XXX. Câu chỉ yêu cầu áp dụng phép cộng và đọc nhánh rõ của nguồn."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "Empty ovum + 23X → 23X → Endoreduplication → 46XX Homozygous. Empty ovum + 23X + 23X → 46XX Heterozygous. Empty ovum + 23X + 23Y → 46XY. 23X + 23X + 23X → 69XXX. 23X + 23Y + 23Y → 69XYY. 23X + 23X + 23Y → 69XXY.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m16-q084",
+      "topicId": "diagnostics",
+      "conceptId": "m16-ultrasound-complete-text",
+      "level": "analyze",
+      "stem": "Mô tả bằng chữ trong chú thích: khối tăng âm tử cung có nhiều khoang nang trống âm, dạng “bão tuyết”, không có thai hay túi ối. Chú thích gắn tổ hợp này với dạng nào?",
+      "options": [
+        "Thai trứng toàn phần trong hình minh họa",
+        "Thai trứng bán phần có đầu thai cạnh bánh nhau nhiều nang",
+        "Nang hoàng tuyến đơn độc không có tổn thương tử cung",
+        "Một túi thai bình thường được chú thích"
+      ],
+      "answer": 0,
+      "explanation": "Chú thích hình13-4A trang17 mô tả complete hydatidiform mole với snowstorm, nhiều anechoic cystic spaces và fetus/amniotic sac absent. Câu đối chiếu tổ hợp trong chú thích, không thay xác nhận GPB.",
+      "optionExplanations": [
+        "Chú thích hình13-4A trang17 mô tả complete hydatidiform mole với snowstorm, nhiều anechoic cystic spaces và fetus/amniotic sac absent. Câu đối chiếu tổ hợp trong chú thích, không thay xác nhận GPB.",
+        "Không phù hợp với chú thích nguồn. Chú thích hình13-4A trang17 mô tả complete hydatidiform mole với snowstorm, nhiều anechoic cystic spaces và fetus/amniotic sac absent. Câu đối chiếu tổ hợp trong chú thích, không thay xác nhận GPB.",
+        "Không phù hợp với chú thích nguồn. Chú thích hình13-4A trang17 mô tả complete hydatidiform mole với snowstorm, nhiều anechoic cystic spaces và fetus/amniotic sac absent. Câu đối chiếu tổ hợp trong chú thích, không thay xác nhận GPB.",
+        "Không phù hợp với chú thích nguồn. Chú thích hình13-4A trang17 mô tả complete hydatidiform mole với snowstorm, nhiều anechoic cystic spaces và fetus/amniotic sac absent. Câu đối chiếu tổ hợp trong chú thích, không thay xác nhận GPB."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "FIGURE 13-4 Sonograms of hydatidiform moles. A. Transverse view of a uterus with a complete hydatidiform mole. The characteristic “snowstorm” appearance reflects an echogenic uterine mass, marked by calipers, that has numerous anechoic cystic spaces. Notably, a fetus or amnionic sac is absent. B. In this sagittal image of a partial hydatidiform mole, the fetal head (arrow) lies adjacent to an enlarged, multicystic placenta.",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m16-q085",
+      "topicId": "diagnostics",
+      "conceptId": "m16-ultrasound-partial-text",
+      "level": "apply",
+      "stem": "Chú thích hình mô tả đầu thai cạnh bánh nhau to, nhiều nang. Dạng thai trứng nào được chú thích này minh họa?",
+      "options": [
+        "Thai trứng bán phần",
+        "Thai trứng toàn phần không có thai/túi ối theo hìnhA",
+        "Chỉ nang hoàng tuyến buồng trứng",
+        "Chỉ u xơ tử cung"
+      ],
+      "answer": 0,
+      "explanation": "Hình13-4B trang17 là partial hydatidiform mole; fetal head nằm cạnh enlarged multicystic placenta. Không suy mọi trường hợp bán phần đều có toàn bộ hình ảnh này.",
+      "optionExplanations": [
+        "Hình13-4B trang17 là partial hydatidiform mole; fetal head nằm cạnh enlarged multicystic placenta. Không suy mọi trường hợp bán phần đều có toàn bộ hình ảnh này.",
+        "Không phù hợp với chú thích nguồn. Hình13-4B trang17 là partial hydatidiform mole; fetal head nằm cạnh enlarged multicystic placenta. Không suy mọi trường hợp bán phần đều có toàn bộ hình ảnh này.",
+        "Không phù hợp với chú thích nguồn. Hình13-4B trang17 là partial hydatidiform mole; fetal head nằm cạnh enlarged multicystic placenta. Không suy mọi trường hợp bán phần đều có toàn bộ hình ảnh này.",
+        "Không phù hợp với chú thích nguồn. Hình13-4B trang17 là partial hydatidiform mole; fetal head nằm cạnh enlarged multicystic placenta. Không suy mọi trường hợp bán phần đều có toàn bộ hình ảnh này."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "FIGURE 13-4 Sonograms of hydatidiform moles. A. Transverse view of a uterus with a complete hydatidiform mole. The characteristic “snowstorm” appearance reflects an echogenic uterine mass, marked by calipers, that has numerous anechoic cystic spaces. Notably, a fetus or amnionic sac is absent. B. In this sagittal image of a partial hydatidiform mole, the fetal head (arrow) lies adjacent to an enlarged, multicystic placenta.",
+          "type": "visual",
+          "transcriptionVerified": true
         }
       ],
       "review": {

@@ -14,7 +14,7 @@ Yêu cầu Python 3.10+. Không cần npm hoặc API key. Từ thư mục dự �
 
 ```bash
 python scripts/audit_banks.py
-python scripts/test_sampling.py
+python scripts/test_sampling.py  # kiểm các phần đã được phát hành
 python scripts/build_site.py
 python -m http.server 8000 --directory dist
 ```
@@ -45,4 +45,4 @@ Thay `USERNAME/REPOSITORY` bằng repo của bạn. Chỉ push khi quyền phát
 - `scripts/`: trích xuất, kiểm, build.
 - `public/sources/`: PDF nguồn và bản PDF xuất từ slide để mở nguồn trong trình duyệt.
 
-Khi sửa đáp án, giải thích hoặc nguồn của bất kỳ câu nào, đặt lại hai dấu duyệt `source` và `semantic` của câu đó và `reviewStatus` của phần trước khi build lại; xem thay đổi như một bản câu hỏi mới cần duyệt.
+Khi sửa đáp án, giải thích hoặc nguồn của bất kỳ câu nào, đặt lại hai dấu duyệt `source` và `semantic` của câu đó và `reviewStatus` của phần trước khi build lại; xem thay đổi như một bản câu hỏi mới cần duyệt. Các bank nháp có thể xuất hiện trong báo cáo audit với nhãn `DRAFT`, nhưng không được đưa vào site phát hành.

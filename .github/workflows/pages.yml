@@ -24,6 +24,8 @@ jobs:
           python-version: '3.12'
       - name: Audit question banks
         run: python scripts/audit_banks.py
+      - name: Test published quiz sampling
+        run: python scripts/test_sampling.py
       - name: Build static site
         run: python scripts/build_site.py
       - uses: actions/upload-pages-artifact@v3

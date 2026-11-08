@@ -9,17 +9,22 @@
         2,
         4,
         5,
-        6
+        6,
+        14,
+        19
       ]
     },
     {
       "id": "exam",
       "title": "Khám và phân loại cấp cứu",
       "pages": [
+        2,
         10,
         11,
         12,
-        22
+        19,
+        22,
+        23
       ]
     },
     {
@@ -28,13 +33,16 @@
       "pages": [
         14,
         15,
-        16
+        16,
+        17,
+        19
       ]
     },
     {
       "id": "hcg",
       "title": "Ngưỡng phân định và động học hCG",
       "pages": [
+        9,
         17,
         18,
         19,
@@ -46,6 +54,8 @@
       "id": "aub",
       "title": "Nhận diện AUB và tiếp cận",
       "pages": [
+        10,
+        22,
         23,
         24,
         25
@@ -2499,7 +2509,7 @@
     {
       "id": "m15-q069",
       "topicId": "ultrasound",
-      "conceptId": "m15-integrated-true-sac",
+      "conceptId": "m15-integrated-sac-pattern",
       "level": "analyze",
       "stem": "Một mô tả kết hợp vị trí vùi trong màng rụng, hình tròn ổn định, viền tăng âm kép và dòng ngoại vi cao. Theo bảng trang 15, kết luận nào đúng?",
       "options": [
@@ -2534,7 +2544,7 @@
     {
       "id": "m15-q070",
       "topicId": "ultrasound",
-      "conceptId": "m15-integrated-route-resolution",
+      "conceptId": "m15-complementary-routes",
       "level": "analyze",
       "stem": "Một người cho rằng TVS nhạy/đặc hiệu hơn nên TAS không còn vai trò, dù cần khảo sát dịch ổ bụng. Phân tích nào đúng?",
       "options": [
@@ -2999,6 +3009,74 @@
           "kind": "text",
           "type": "text",
           "transcriptionVerified": false
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q081",
+      "topicId": "hcg",
+      "conceptId": "m15-hcg-molecular-forms",
+      "level": "understand",
+      "stem": "Vì sao không nên coi mọi phân tử mang thành phần β được liệt kê trong bài là hCG nguyên vẹn có cùng hoạt tính?",
+      "options": [
+        "Bài phân biệt nhiều dạng và nêu dạng phân ly/thoái giáng có thể không có hoạt tính sinh học",
+        "Bài nói chỉ có duy nhất hCG nguyên vẹn",
+        "Mọi tiểu đơn vị β tự do đều được gọi là hCG nguyên vẹn trong hình",
+        "Bài không đề cập dạng phân tử"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 liệt kê intact, nicked, free β, nicked free β và β-core; ghi các phân tử phân ly/thoái giáng không có hoạt tính sinh học. Không đồng nhất cấu trúc với hoạt tính.",
+      "optionExplanations": [
+        "Trang 9 liệt kê intact, nicked, free β, nicked free β và β-core; ghi các phân tử phân ly/thoái giáng không có hoạt tính sinh học. Không đồng nhất cấu trúc với hoạt tính.",
+        "Không phù hợp với chú thích nguồn. Trang 9 liệt kê intact, nicked, free β, nicked free β và β-core; ghi các phân tử phân ly/thoái giáng không có hoạt tính sinh học. Không đồng nhất cấu trúc với hoạt tính.",
+        "Không phù hợp với chú thích nguồn. Trang 9 liệt kê intact, nicked, free β, nicked free β và β-core; ghi các phân tử phân ly/thoái giáng không có hoạt tính sinh học. Không đồng nhất cấu trúc với hoạt tính.",
+        "Không phù hợp với chú thích nguồn. Trang 9 liệt kê intact, nicked, free β, nicked free β và β-core; ghi các phân tử phân ly/thoái giáng không có hoạt tính sinh học. Không đồng nhất cấu trúc với hoạt tính."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "Numerous molecular forms of hCG present in pregnancy serum. Dissociated or degraded molecules with no biological activity. Key β-containing variants: Intact hCG; Nicked hCG; Free β subunit; Nicked free β subunit; β-core fragment (urine).",
+          "type": "visual",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m15-q082",
+      "topicId": "hcg",
+      "conceptId": "m15-hcg-beta-core",
+      "level": "apply",
+      "stem": "Một phiếu học cần đặt β-core fragment vào loại mẫu mà sơ đồ ghi bên cạnh riêng dạng này. Chọn loại mẫu nào?",
+      "options": [
+        "Nước tiểu",
+        "Chỉ dịch não tủy",
+        "Chỉ máu cuống rốn",
+        "Chỉ dịch nang noãn"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 đặt β-core fragment dưới ngoặc Urine và ghi β-core fragment (urine); không có các loại mẫu còn lại trong sơ đồ.",
+      "optionExplanations": [
+        "Trang 9 đặt β-core fragment dưới ngoặc Urine và ghi β-core fragment (urine); không có các loại mẫu còn lại trong sơ đồ.",
+        "Không phù hợp với chú thích nguồn. Trang 9 đặt β-core fragment dưới ngoặc Urine và ghi β-core fragment (urine); không có các loại mẫu còn lại trong sơ đồ.",
+        "Không phù hợp với chú thích nguồn. Trang 9 đặt β-core fragment dưới ngoặc Urine và ghi β-core fragment (urine); không có các loại mẫu còn lại trong sơ đồ.",
+        "Không phù hợp với chú thích nguồn. Trang 9 đặt β-core fragment dưới ngoặc Urine và ghi β-core fragment (urine); không có các loại mẫu còn lại trong sơ đồ."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "Numerous molecular forms of hCG present in pregnancy serum. Dissociated or degraded molecules with no biological activity. Key β-containing variants: Intact hCG; Nicked hCG; Free β subunit; Nicked free β subunit; β-core fragment (urine).",
+          "type": "visual",
+          "transcriptionVerified": true
         }
       ],
       "review": {

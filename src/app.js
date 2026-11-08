@@ -37,7 +37,7 @@ function renderCatalog(){
     const title=document.createElement('h3');title.textContent=d.title;
     const bottom=document.createElement('div');bottom.className='bottom';
     const meta=document.createElement('span');meta.textContent=`${d.pageCount} trang/slide · ${d.questionCount} câu`;
-    const btn=document.createElement('button');btn.textContent=d.ready?'Làm 40 câu →':'Đang kiểm duyệt';btn.disabled=!d.ready;btn.addEventListener('click',()=>start(d));
+    const btn=document.createElement('button');btn.textContent=d.ready?'Làm 40 câu →':'Chưa phát hành';btn.disabled=!d.ready;btn.title=d.ready?'':d.readyReason;btn.addEventListener('click',()=>start(d));
     bottom.append(meta,btn);card.append(num,title,bottom);return card;
   }));
 }

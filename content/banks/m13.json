@@ -2359,7 +2359,7 @@
     {
       "id": "m13-q064",
       "topicId": "assessment",
-      "conceptId": "m13-integrated-evidence",
+      "conceptId": "m13-clinical-limit",
       "level": "analyze",
       "stem": "Một học viên nói 'khám không tìm được nhiều thông tin nên thai chắc chắn bình thường'. Phân tích nào đúng?",
       "options": [
@@ -2612,7 +2612,7 @@
       "id": "m13-q070",
       "topicId": "ectopic",
       "conceptId": "m13-integrated-tubal-bleeding",
-      "level": "analyze",
+      "level": "apply",
       "stem": "Một học viên kết luận 'có xuất huyết nội trong thai ở vòi thì chỉ có thể do vòi đã vỡ'. Phân tích nào đúng theo sơ đồ bài học?",
       "options": [
         "Đúng vì sơ đồ chỉ có một diễn tiến",
@@ -2689,7 +2689,7 @@
       "id": "m13-q072",
       "topicId": "ectopic",
       "conceptId": "m13-integrated-treatment-no-protocol",
-      "level": "analyze",
+      "level": "understand",
       "stem": "Từ trang 38 chỉ liệt kê theo dõi, nội khoa, ngoại khoa và cá thể hóa, có thể kết luận điều gì?",
       "options": [
         "Mọi người đều chỉ theo dõi",
@@ -2723,7 +2723,7 @@
     {
       "id": "m13-q073",
       "topicId": "mole",
-      "conceptId": "m13-integrated-mole-diagnostics",
+      "conceptId": "m13-mole-tests",
       "level": "analyze",
       "stem": "Một học viên đồng nhất nghén nặng và tử cung to nhanh với chẩn đoán xác nhận thai trứng, rồi bỏ giải phẫu bệnh. Cách sửa nào đúng?",
       "options": [
@@ -2856,7 +2856,7 @@
     {
       "id": "m13-q076",
       "topicId": "dating",
-      "conceptId": "m13-integrated-boundary",
+      "conceptId": "m13-integrated-crl-choice",
       "level": "analyze",
       "stem": "Một bản tóm tắt ghi 'lấy lần siêu âm sớm nhất bất kể CRL, luôn cộng 42 dù trên 30 mm'. Nó bỏ qua hai điều kiện nào?",
       "options": [

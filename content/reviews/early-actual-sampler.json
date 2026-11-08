@@ -1,0 +1,62 @@
+[
+  {
+    "moduleId": "m13",
+    "bankSha256": "4f13351faee231a8be2efcb206aaa396a42840a5feb1e1abf9123905c23a2d7c",
+    "seeds": 1000,
+    "pass": true,
+    "checks": [
+      "40 unique question IDs",
+      "40 unique concept IDs",
+      "all declared topics covered",
+      "level order 10/20/10",
+      "shuffled answer text invariant",
+      "shuffled explanation invariant",
+      "source preservation"
+    ]
+  },
+  {
+    "moduleId": "m14",
+    "bankSha256": "f92b95b6a8fd2f9b6fa043284999ea0a630a1396b9ab757b04ad6496e8bf4d54",
+    "seeds": 1000,
+    "pass": true,
+    "checks": [
+      "40 unique question IDs",
+      "40 unique concept IDs",
+      "all declared topics covered",
+      "level order 10/20/10",
+      "shuffled answer text invariant",
+      "shuffled explanation invariant",
+      "source preservation"
+    ]
+  },
+  {
+    "moduleId": "m15",
+    "bankSha256": "a11cdcc4de396bf1d49c2ae6bb13f29ce74f504f39f5239b33d9a859a7887593",
+    "seeds": 1000,
+    "pass": true,
+    "checks": [
+      "40 unique question IDs",
+      "40 unique concept IDs",
+      "all declared topics covered",
+      "level order 10/20/10",
+      "shuffled answer text invariant",
+      "shuffled explanation invariant",
+      "source preservation"
+    ]
+  },
+  {
+    "moduleId": "m16",
+    "bankSha256": "b8a1ff8e8123731421be42045ef558a38d34df8385b2a4b3feeba107a5738146",
+    "seeds": 1000,
+    "pass": true,
+    "checks": [
+      "40 unique question IDs",
+      "40 unique concept IDs",
+      "all declared topics covered",
+      "level order 10/20/10",
+      "shuffled answer text invariant",
+      "shuffled explanation invariant",
+      "source preservation"
+    ]
+  }
+]

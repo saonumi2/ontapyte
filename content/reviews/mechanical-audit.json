@@ -23,7 +23,11 @@
       "tntc": 5
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
+    "errors": [],
+    "thresholdErrors": []
   },
   "m04": {
     "questions": 80,
@@ -49,7 +53,11 @@
       "pcos": 9
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
+    "errors": [],
+    "thresholdErrors": []
   },
   "m05": {
     "questions": 60,
@@ -70,7 +78,11 @@
       "ovulation": 19
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
+    "errors": [],
+    "thresholdErrors": []
   },
   "m06": {
     "questions": 80,
@@ -92,7 +104,11 @@
       "ovulation": 19
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
+    "errors": [],
+    "thresholdErrors": []
   },
   "m07": {
     "questions": 80,
@@ -113,7 +129,11 @@
       "targets": 21
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
+    "errors": [],
+    "thresholdErrors": []
   },
   "m08": {
     "questions": 80,
@@ -136,19 +156,23 @@
       "emergency": 7
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
+    "errors": [],
+    "thresholdErrors": []
   },
   "m09": {
     "questions": 40,
     "levels": {
-      "understand": 10,
-      "apply": 20,
-      "analyze": 10
+      "understand": 23,
+      "apply": 15,
+      "analyze": 2
     },
     "concepts": {
-      "understand": 10,
-      "apply": 20,
-      "analyze": 10
+      "understand": 16,
+      "apply": 9,
+      "analyze": 2
     },
     "topicCounts": {
       "m09-dong-noan": 16,
@@ -156,19 +180,26 @@
       "m09-tich-hop": 10
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": false,
+    "published": false,
+    "publishable": false,
+    "errors": [],
+    "thresholdErrors": [
+      "insufficient apply: 15 questions, 9 concepts",
+      "insufficient analyze: 2 questions, 2 concepts"
+    ]
   },
   "m10": {
     "questions": 40,
     "levels": {
-      "understand": 10,
-      "apply": 20,
-      "analyze": 10
+      "understand": 28,
+      "apply": 9,
+      "analyze": 3
     },
     "concepts": {
-      "understand": 10,
-      "apply": 20,
-      "analyze": 10
+      "understand": 23,
+      "apply": 9,
+      "analyze": 3
     },
     "topicCounts": {
       "m10-cautruc": 9,
@@ -178,64 +209,84 @@
       "m10-tichhop": 10
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": false,
+    "published": false,
+    "publishable": false,
+    "errors": [],
+    "thresholdErrors": [
+      "insufficient apply: 9 questions, 9 concepts",
+      "insufficient analyze: 3 questions, 3 concepts"
+    ]
   },
   "m11": {
-    "questions": 40,
+    "questions": 39,
     "levels": {
-      "understand": 10,
-      "apply": 20,
-      "analyze": 10
+      "understand": 34,
+      "apply": 5
     },
     "concepts": {
-      "understand": 10,
-      "apply": 20,
-      "analyze": 10
+      "understand": 20,
+      "apply": 4,
+      "analyze": 0
     },
     "topicCounts": {
       "ditruyen": 9,
-      "khananghoa": 5,
+      "khananghoa": 4,
       "tiepxucnoan": 7,
       "thutinh": 10,
       "hopty": 9
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": false,
+    "published": false,
+    "publishable": false,
+    "errors": [],
+    "thresholdErrors": [
+      "insufficient apply: 5 questions, 4 concepts",
+      "insufficient analyze: 0 questions, 0 concepts"
+    ]
   },
   "m12": {
-    "questions": 40,
+    "questions": 38,
     "levels": {
-      "understand": 10,
-      "apply": 20,
-      "analyze": 10
+      "understand": 27,
+      "apply": 9,
+      "analyze": 2
     },
     "concepts": {
-      "understand": 10,
-      "apply": 20,
-      "analyze": 10
+      "understand": 23,
+      "apply": 8,
+      "analyze": 2
     },
     "topicCounts": {
       "noimac": 6,
       "cuaso": 6,
       "phoi": 7,
       "doithoai": 8,
-      "hcg": 8,
+      "hcg": 6,
       "phattrien": 5
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": false,
+    "published": false,
+    "publishable": false,
+    "errors": [],
+    "thresholdErrors": [
+      "insufficient apply: 9 questions, 8 concepts",
+      "insufficient analyze: 2 questions, 2 concepts"
+    ]
   },
   "m13": {
     "questions": 80,
     "levels": {
-      "understand": 27,
-      "apply": 37,
-      "analyze": 16
+      "understand": 28,
+      "apply": 38,
+      "analyze": 14
     },
     "concepts": {
-      "understand": 25,
-      "apply": 34,
-      "analyze": 16
+      "understand": 26,
+      "apply": 35,
+      "analyze": 13
     },
     "topicCounts": {
       "diagnosis": 7,
@@ -246,7 +297,11 @@
       "mole": 13
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
+    "errors": [],
+    "thresholdErrors": []
   },
   "m14": {
     "questions": 48,
@@ -256,9 +311,9 @@
       "analyze": 11
     },
     "concepts": {
-      "understand": 15,
-      "apply": 21,
-      "analyze": 11
+      "understand": 14,
+      "apply": 22,
+      "analyze": 10
     },
     "topicCounts": {
       "dinhnghia": 1,
@@ -275,50 +330,62 @@
       "phongngua": 2
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": false,
+    "publishable": false,
+    "errors": [],
+    "thresholdErrors": []
   },
   "m15": {
-    "questions": 80,
+    "questions": 82,
     "levels": {
-      "understand": 29,
-      "apply": 33,
+      "understand": 30,
+      "apply": 34,
       "analyze": 18
     },
     "concepts": {
-      "understand": 29,
-      "apply": 29,
-      "analyze": 18
+      "understand": 30,
+      "apply": 30,
+      "analyze": 17
     },
     "topicCounts": {
       "history": 12,
       "exam": 20,
       "ultrasound": 14,
-      "hcg": 23,
+      "hcg": 25,
       "aub": 11
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
+    "errors": [],
+    "thresholdErrors": []
   },
   "m16": {
-    "questions": 80,
+    "questions": 85,
     "levels": {
       "understand": 42,
-      "apply": 24,
-      "analyze": 14
+      "apply": 27,
+      "analyze": 16
     },
     "concepts": {
       "understand": 38,
-      "apply": 23,
-      "analyze": 14
+      "apply": 26,
+      "analyze": 16
     },
     "topicCounts": {
       "classification": 18,
-      "pathology": 23,
+      "pathology": 26,
       "clinical": 12,
-      "diagnostics": 9,
+      "diagnostics": 11,
       "followup": 18
     },
     "mechanicalPass": true,
-    "errors": []
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
+    "errors": [],
+    "thresholdErrors": []
   }
 }

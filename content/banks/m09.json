@@ -47,7 +47,7 @@
     {
       "id": "m09-q001",
       "topicId": "m09-dong-noan",
-      "conceptId": "m09-te-bao-va-nang",
+      "conceptId": "m09-phanbiet-noan-va-nang",
       "level": "understand",
       "stem": "Cách phân biệt nào đúng giữa “noãn bào” và “nang noãn” trong bài học?",
       "options": [
@@ -77,9 +77,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -110,9 +114,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -148,9 +156,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -181,9 +193,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -214,15 +230,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q006",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-det-vuong",
+      "conceptId": "m09-mot-hang-det-vuong",
       "level": "understand",
       "stem": "Đặc điểm tế bào bao quanh noãn phân biệt nang nguyên thủy và nang sơ cấp trong bài là gì?",
       "options": [
@@ -252,9 +272,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -285,15 +309,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q008",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-thu-cap-co-hoc",
+      "conceptId": "m09-thu-cap-nhieu-hang",
       "level": "understand",
       "stem": "Cụm “đặc → có hốc” diễn đạt thay đổi nào của nang thứ cấp?",
       "options": [
@@ -318,15 +346,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q009",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-noan1-nhieu-nang",
+      "conceptId": "m09-noan1-qua-cac-nang",
       "level": "understand",
       "stem": "Vì sao chỉ biết một nang chứa noãn bào 1 chưa đủ để gọi tên giai đoạn nang?",
       "options": [
@@ -361,15 +393,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q010",
       "topicId": "m09-dong-noan",
-      "conceptId": "m09-lh-giamphan1",
+      "conceptId": "m09-lh-va-noan2",
       "level": "understand",
       "stem": "Đỉnh LH và việc tạo noãn bào 2 liên hệ thế nào theo bài?",
       "options": [
@@ -394,16 +430,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q011",
       "topicId": "m09-dong-noan",
       "conceptId": "m09-phanloai-nguyenbao",
-      "level": "apply",
+      "level": "understand",
       "stem": "Một tế bào được xác định là noãn nguyên bào theo bài. Bối cảnh nào phù hợp nhất?",
       "options": [
         "Trong hoàng thể đã thoái hóa",
@@ -427,16 +467,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q012",
       "topicId": "m09-dong-noan",
-      "conceptId": "m09-phanloai-noan1",
-      "level": "apply",
+      "conceptId": "m09-dung-giam-phan",
+      "level": "understand",
       "stem": "Một noãn đang tạm ngưng ở kỳ đầu của giảm phân I. Theo bài, gọi tế bào đó là gì?",
       "options": [
         "Tế bào hạt",
@@ -460,16 +504,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q013",
       "topicId": "m09-dong-noan",
-      "conceptId": "m09-phanloai-noan2",
-      "level": "apply",
+      "conceptId": "m09-dung-giam-phan",
+      "level": "understand",
       "stem": "Một noãn đã qua giảm phân I và đang ngưng ở kỳ giữa II. Cách gọi nào đúng?",
       "options": [
         "Noãn bào 2",
@@ -493,15 +541,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q014",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-phanloai-nguyenthuy",
+      "conceptId": "m09-mot-hang-det-vuong",
       "level": "apply",
       "stem": "Mô tả một nang gồm noãn bào 1 được bao quanh bởi một hàng tế bào dẹt phù hợp nhất với loại nào?",
       "options": [
@@ -526,15 +578,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q015",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-phanloai-socap",
+      "conceptId": "m09-mot-hang-det-vuong",
       "level": "apply",
       "stem": "Một nang chứa noãn bào 1, một hàng tế bào vuông và bắt đầu có màng trong suốt. Xếp vào giai đoạn nào?",
       "options": [
@@ -559,15 +615,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q016",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-phanloai-thucap",
+      "conceptId": "m09-thu-cap-nhieu-hang",
       "level": "apply",
       "stem": "Một nang có noãn bào 1, nhiều hàng tế bào quanh noãn, màng trong suốt, đang chuyển từ đặc sang có hốc. Loại nào phù hợp?",
       "options": [
@@ -592,9 +652,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -625,16 +689,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q018",
       "topicId": "m09-dong-noan",
-      "conceptId": "m09-truoc-daythi",
-      "level": "apply",
+      "conceptId": "m09-dung-giam-phan",
+      "level": "understand",
       "stem": "Theo mô tả ở slide 9, noãn bào 1 ở trẻ chưa dậy thì thường được trình bày ở trạng thái nào?",
       "options": [
         "Đã hoàn thành giảm phân II",
@@ -658,9 +726,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -686,23 +758,27 @@
       "sources": [
         {
           "page": 12,
-          "quote": "The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
           "type": "visual",
-          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
           "transcriptionVerified": true
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q020",
       "topicId": "m09-dong-noan",
-      "conceptId": "m09-thu-tinh-noanchin",
-      "level": "apply",
+      "conceptId": "m09-noanchin-thutinh",
+      "level": "understand",
       "stem": "Trong bài, sự kiện nào cần có khi chuyển sang mô tả noãn chín?",
       "options": [
         "Chỉ đạt thời kỳ bào thai tuần 8",
@@ -726,15 +802,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q021",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-phanbiet-mot-nhieu",
+      "conceptId": "m09-thu-cap-nhieu-hang",
       "level": "apply",
       "stem": "Hai mẫu đều có noãn bào 1 và màng trong suốt; mẫu A có một hàng vuông, mẫu B nhiều hàng. Ghép loại nang nào phù hợp?",
       "options": [
@@ -764,15 +844,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q022",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-khong-du-hoc",
+      "conceptId": "m09-hoc-chua-du",
       "level": "apply",
       "stem": "Chỉ biết “nang có hốc”, có thể khẳng định noãn bên trong đã là noãn bào 2 hay chưa?",
       "options": [
@@ -802,16 +886,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q023",
       "topicId": "m09-dong-noan",
-      "conceptId": "m09-kiemtra-nhan-dinh-lh",
-      "level": "apply",
+      "conceptId": "m09-lh-va-noan2",
+      "level": "understand",
       "stem": "Một ghi chú viết: “Sau đỉnh LH, noãn bào 2 đã là noãn chín dù chưa thụ tinh”. Cần sửa điểm nào?",
       "options": [
         "Đổi noãn bào 2 thành noãn nguyên bào là đủ",
@@ -840,16 +928,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q024",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-kiemtra-det-zona",
-      "level": "apply",
+      "conceptId": "m09-mot-hang-det-vuong",
+      "level": "understand",
       "stem": "Một sinh viên mô tả “nang nguyên thủy có một hàng tế bào vuông, bắt đầu tạo zona pellucida”. Nên sửa tên nang thành gì?",
       "options": [
         "Nang thứ cấp nhiều hàng",
@@ -878,15 +970,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q025",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-khong-danhdong-noan",
+      "conceptId": "m09-noan1-qua-cac-nang",
       "level": "apply",
       "stem": "Một nang sơ cấp phát triển thêm nhiều hàng tế bào và chuyển thành nang thứ cấp. Theo bài, noãn bên trong phải đổi từ noãn bào 1 sang noãn bào 2 ngay không?",
       "options": [
@@ -916,9 +1012,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -949,16 +1049,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q027",
       "topicId": "m09-dong-noan",
       "conceptId": "m09-thai7thang",
-      "level": "apply",
+      "level": "understand",
       "stem": "Tại mốc tháng thứ 7 thai kỳ trong bài, phần lớn noãn nguyên bào đã chuyển thành dạng nào?",
       "options": [
         "Noãn chín sau thụ tinh",
@@ -982,15 +1086,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q028",
       "topicId": "m09-nang-noan",
-      "conceptId": "m09-phanbiet-nang-noan-mau",
+      "conceptId": "m09-mot-hang-det-vuong",
       "level": "apply",
       "stem": "Mẫu A và B đều có noãn bào 1 nhưng hàng tế bào quanh A dẹt, quanh B vuông. Khi ghi kết quả, cách nào giữ được thông tin đúng?",
       "options": [
@@ -1020,16 +1128,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q029",
       "topicId": "m09-dong-noan",
-      "conceptId": "m09-germinal-vesicle",
-      "level": "apply",
+      "conceptId": "m09-gv-nguyenvẹn",
+      "level": "understand",
       "stem": "Một noãn được mô tả còn nguyên túi mầm (germinal vesicle), nhiễm sắc chất dừng ở prophase I. Phát biểu nào phù hợp chú thích slide 12?",
       "options": [
         "Trưởng thành giảm phân chưa bắt đầu",
@@ -1048,23 +1160,27 @@
       "sources": [
         {
           "page": 12,
-          "quote": "The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
           "type": "visual",
-          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
           "transcriptionVerified": true
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q030",
       "topicId": "m09-dong-noan",
       "conceptId": "m09-gvbd",
-      "level": "apply",
+      "level": "understand",
       "stem": "Trong chú thích slide 12, túi mầm đã vỡ và giảm phân I đang tiếp tục. Có thể kết luận nào?",
       "options": [
         "Noãn chắc chắn đã hoàn thành giảm phân II",
@@ -1083,23 +1199,27 @@
       "sources": [
         {
           "page": 12,
-          "quote": "The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
           "type": "visual",
-          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
           "transcriptionVerified": true
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q031",
       "topicId": "m09-tich-hop",
-      "conceptId": "m09-mohinh-haichuoi",
-      "level": "analyze",
+      "conceptId": "m09-phanbiet-noan-va-nang",
+      "level": "apply",
       "stem": "Một mô hình ghép “nang nguyên thủy–noãn nguyên bào; nang sơ cấp–noãn bào 1; nang thứ cấp–noãn bào 2” theo số thứ tự. Vì sao cách ghép này không đúng với bài?",
       "options": [
         "Nang nguyên thủy phải chứa noãn chín",
@@ -1143,15 +1263,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q032",
       "topicId": "m09-tich-hop",
-      "conceptId": "m09-cua-so-sau-lh",
+      "conceptId": "m09-lh-va-noan2",
       "level": "analyze",
       "stem": "Theo dõi một noãn từ kỳ đầu I, sau đỉnh LH thấy nó dừng ở kỳ giữa II nhưng chưa thụ tinh. Tổ hợp kết luận nào đúng?",
       "options": [
@@ -1186,15 +1310,19 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q033",
       "topicId": "m09-tich-hop",
-      "conceptId": "m09-phanloai-hoc-va-cuccau",
+      "conceptId": "m09-hoc-chua-du",
       "level": "analyze",
       "stem": "Hai nang cùng có hốc. Chỉ mẫu B được mô tả noãn đã thải thể cực thứ nhất và dừng ở metaphase II. Cách suy luận nào chặt chẽ nhất?",
       "options": [
@@ -1214,9 +1342,9 @@
       "sources": [
         {
           "page": 12,
-          "quote": "The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
           "type": "visual",
-          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
           "transcriptionVerified": true
         },
         {
@@ -1231,16 +1359,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q034",
       "topicId": "m09-tich-hop",
-      "conceptId": "m09-apoptosis-va-so-luong",
-      "level": "analyze",
+      "conceptId": "m09-apoptosis",
+      "level": "understand",
       "stem": "Một bảng chỉ ghi sự phát triển từ noãn nguyên bào đến các dạng sau rồi kết luận “mọi noãn ban đầu đều sẽ trưởng thành”. Dữ kiện nào của bài bác bỏ kết luận đó?",
       "options": [
         "Có nhiều tên gọi khác nhau của nang",
@@ -1274,16 +1406,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q035",
       "topicId": "m09-tich-hop",
-      "conceptId": "m09-thongtin-toithieu-nang",
-      "level": "analyze",
+      "conceptId": "m09-noan1-qua-cac-nang",
+      "level": "apply",
       "stem": "Muốn phân biệt ba nang nguyên thủy, sơ cấp và thứ cấp đều chứa noãn bào 1, bộ thông tin bổ sung nào hữu ích nhất theo bài?",
       "options": [
         "Chỉ đo đường kính của một noãn chín khác",
@@ -1317,16 +1453,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q036",
       "topicId": "m09-tich-hop",
-      "conceptId": "m09-nham-socap-thucap",
-      "level": "analyze",
+      "conceptId": "m09-noan1-qua-cac-nang",
+      "level": "apply",
       "stem": "Người học cho rằng “nang chuyển sơ cấp→thứ cấp tức là noãn hoàn thành giảm phân I”. Phân tích nào sửa đúng cả hai phần?",
       "options": [
         "Tên thứ cấp đồng nghĩa mọi cấu trúc trong nang đều đã hoàn thành lần I",
@@ -1360,16 +1500,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q037",
       "topicId": "m09-tich-hop",
       "conceptId": "m09-giai-doan-vs-ket-cuc",
-      "level": "analyze",
+      "level": "understand",
       "stem": "Ba mốc “bào thai tháng 7”, “sau đỉnh LH và dừng kỳ giữa II”, “có thụ tinh” được ghép lần lượt với dạng nào?",
       "options": [
         "Noãn bào 1; noãn bào 2; noãn chín",
@@ -1403,16 +1547,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q038",
       "topicId": "m09-tich-hop",
-      "conceptId": "m09-ketqua-dua-tren-gv",
-      "level": "analyze",
+      "conceptId": "m09-dung-giam-phan",
+      "level": "apply",
       "stem": "Hai báo cáo: A “túi mầm nguyên vẹn, kỳ đầu I”; B “thể cực thứ nhất đã ra, metaphase II”. Đánh giá nào đúng?",
       "options": [
         "A đã qua giảm phân I, B chưa bắt đầu",
@@ -1441,23 +1589,27 @@
         },
         {
           "page": 12,
-          "quote": "The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
           "type": "visual",
-          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
           "transcriptionVerified": true
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q039",
       "topicId": "m09-tich-hop",
-      "conceptId": "m09-nang-chin-chua-thutinh",
-      "level": "analyze",
+      "conceptId": "m09-noanchin-thutinh",
+      "level": "understand",
       "stem": "Một nang được gọi là “nang chín” và noãn đang chuyển 1→2. Có nên kết luận noãn đó đã là “noãn chín sau thụ tinh” không?",
       "options": [
         "Có; mọi nang có hốc đều chứa hợp tử",
@@ -1491,16 +1643,20 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m09-q040",
       "topicId": "m09-tich-hop",
-      "conceptId": "m09-dong-thoi-phattrien",
-      "level": "analyze",
+      "conceptId": "m09-noan1-qua-cac-nang",
+      "level": "apply",
       "stem": "Một quần thể có nang ở nhiều giai đoạn nhưng nhiều noãn vẫn ở kỳ đầu I. Có nhất thiết là dữ liệu tự mâu thuẫn không?",
       "options": [
         "Không; vì kỳ đầu I là trạng thái của mọi noãn chín sau thụ tinh",
@@ -1539,16 +1695,36 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     }
   ],
   "limitations": [
-    "Có 40 câu được soạn từ phạm vi rõ ràng; chưa đạt mục tiêu khoảng100 câu và không nhân bản để bù số lượng.",
-    "Không dùng số lượng 30.000 ở slide9 vì cần làm rõ với đồ thị slide8.",
-    "Không dùng mũi tên noãn nguyên bào→nang nguyên thủy ở slide22 vì không nhất quán với slide14.",
-    "Ba lượt duyệt chưa hoàn tất: lượt bao quát độc lập còn chờ."
-  ]
+    "Ngân hàng hiện có 40 câu; còn các biến thể chung concept, không được lấy chung một đề.",
+    "Chỉ những câu hiện có đã qua đối chiếu nguồn và tự giải lựa chọn; điều kiện đề40 chưa đạt.",
+    "Chưa có đủ căn cứ để tạo khoảng100 câu độc lập và đủ10/20/10; cần bổ sung tài liệu hoặc đổi cấu hình đề theo quyết định của người dùng."
+  ],
+  "reviewStatus": "needs-expansion",
+  "reviewReport": "content/reviews/gametes-rounds12.md",
+  "examEligibility": {
+    "eligible": false,
+    "reason": "Chưa đủ câu khác ý ở mức vận dụng/vận dụng cao cho đề40 theo10/20/10 sau rà soát; không đổi nhãn để bù số.",
+    "levels": {
+      "understand": 23,
+      "apply": 15,
+      "analyze": 2
+    },
+    "distinctConceptsByLevel": {
+      "understand": 16,
+      "apply": 9,
+      "analyze": 2
+    },
+    "distinctConcepts": 20
+  }
 }

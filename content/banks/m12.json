@@ -58,22 +58,22 @@
     {
       "id": "m12-q001",
       "topicId": "noimac",
-      "conceptId": "estrogen-proliferation",
+      "conceptId": "m12-estrogen-chuanbi",
       "level": "understand",
       "stem": "Trong pha tăng sinh, hormone nào được bài gắn với sự dày lên của nội mạc tử cung?",
       "options": [
-        "Estrogen",
+        "AMH",
         "hCG",
-        "FSH",
-        "AMH"
+        "Estrogen",
+        "FSH"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 5 nêu estrogen làm tế bào vi nhung mao tăng trưởng và nội mạc dày lên.",
       "optionExplanations": [
+        "AMH không là hormone được slide5 gắn với tác động đó.",
+        "hCG không là hormone gây pha tăng sinh được slide5 nêu.",
         "Slide 5 nêu estrogen làm tế bào vi nhung mao tăng trưởng và nội mạc dày lên.",
-        "Không khớp mô tả ở trang 5: Slide 5 nêu estrogen làm tế bào vi nhung mao tăng trưởng và nội mạc dày lên.",
-        "Không khớp mô tả ở trang 5: Slide 5 nêu estrogen làm tế bào vi nhung mao tăng trưởng và nội mạc dày lên.",
-        "Không khớp mô tả ở trang 5: Slide 5 nêu estrogen làm tế bào vi nhung mao tăng trưởng và nội mạc dày lên."
+        "FSH không là hormone trực tiếp được slide5 gắn với nội mạc dày lên."
       ],
       "sources": [
         {
@@ -82,30 +82,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q002",
       "topicId": "noimac",
-      "conceptId": "progesterone-secretion",
+      "conceptId": "m12-progesterone-che-tiet",
       "level": "understand",
       "stem": "Trong pha chế tiết, progesterone tác động lên nội mạc đã được chuẩn bị như thế nào?",
       "options": [
-        "Khởi phát hoạt động chế tiết",
         "Làm mất mọi tế bào nội mạc",
         "Tạo noãn nguyên bào",
-        "Làm phôi thoát màng ngay lập tức"
+        "Làm phôi thoát màng ngay lập tức",
+        "Khởi phát hoạt động chế tiết"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Slide 5 mô tả tế bào vi nhung mao được estrogen chuẩn bị rồi chế tiết dưới progesterone.",
       "optionExplanations": [
-        "Slide 5 mô tả tế bào vi nhung mao được estrogen chuẩn bị rồi chế tiết dưới progesterone.",
-        "Không khớp mô tả ở trang 5: Slide 5 mô tả tế bào vi nhung mao được estrogen chuẩn bị rồi chế tiết dưới progesterone.",
-        "Không khớp mô tả ở trang 5: Slide 5 mô tả tế bào vi nhung mao được estrogen chuẩn bị rồi chế tiết dưới progesterone.",
-        "Không khớp mô tả ở trang 5: Slide 5 mô tả tế bào vi nhung mao được estrogen chuẩn bị rồi chế tiết dưới progesterone."
+        "Nguồn mô tả chế tiết, không mất mọi tế bào.",
+        "Không phải tác động lên nội mạc đã chuẩn bị.",
+        "Nguồn không gắn progesterone với việc lập tức làm phôi thoát màng.",
+        "Slide 5 mô tả tế bào vi nhung mao được estrogen chuẩn bị rồi chế tiết dưới progesterone."
       ],
       "sources": [
         {
@@ -114,9 +118,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -126,18 +134,18 @@
       "level": "understand",
       "stem": "Pinopode được mô tả xuất hiện ở bề mặt nào?",
       "options": [
-        "Cực đỉnh của tế bào vi nhung mao nội mạc",
         "Bề mặt tinh trùng trong tinh hoàn",
+        "Bề mặt dây chằng rộng",
         "Mặt ngoài của buồng trứng",
-        "Bề mặt dây chằng rộng"
+        "Cực đỉnh của tế bào vi nhung mao nội mạc"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Slide 5 nêu cực đỉnh tế bào vi nhung mao hình thành pinopode.",
       "optionExplanations": [
-        "Slide 5 nêu cực đỉnh tế bào vi nhung mao hình thành pinopode.",
-        "Không khớp mô tả ở trang 5: Slide 5 nêu cực đỉnh tế bào vi nhung mao hình thành pinopode.",
-        "Không khớp mô tả ở trang 5: Slide 5 nêu cực đỉnh tế bào vi nhung mao hình thành pinopode.",
-        "Không khớp mô tả ở trang 5: Slide 5 nêu cực đỉnh tế bào vi nhung mao hình thành pinopode."
+        "Không phải vị trí pinopode được slide5 nêu.",
+        "Không phải vị trí pinopode được slide5 nêu.",
+        "Không phải vị trí pinopode được slide5 nêu.",
+        "Slide 5 nêu cực đỉnh tế bào vi nhung mao hình thành pinopode."
       ],
       "sources": [
         {
@@ -146,30 +154,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q004",
       "topicId": "cuaso",
-      "conceptId": "windowtiming",
+      "conceptId": "m12-cua-so-thoi-gian",
       "level": "understand",
-      "stem": "Khoảng ngày nào của chu kỳ được slide 6 nêu là thời gian thường mở cửa sổ làm tổ?",
+      "stem": "Theo các mốc trong tài liệu, khoảng ngày nào của chu kỳ được slide 6 nêu là thời gian thường mở cửa sổ làm tổ?",
       "options": [
-        "Ngày 18 đến ngày 23",
-        "Ngày 1 đến ngày 5",
         "Ngày 7 đến ngày 10",
-        "Ngày 25 đến ngày 30"
+        "Ngày 18 đến ngày 23",
+        "Ngày 25 đến ngày 30",
+        "Ngày 1 đến ngày 5"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23.",
       "optionExplanations": [
+        "Không đúng khoảng ngày nguồn nêu.",
         "Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23.",
-        "Không khớp mô tả ở trang 6: Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23.",
-        "Không khớp mô tả ở trang 6: Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23.",
-        "Không khớp mô tả ở trang 6: Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23."
+        "Không đúng khoảng ngày nguồn nêu.",
+        "Không đúng khoảng ngày nguồn nêu."
       ],
       "sources": [
         {
@@ -178,9 +190,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -190,18 +206,18 @@
       "level": "understand",
       "stem": "Hormone nào được bài mô tả mở cửa sổ làm tổ?",
       "options": [
-        "Progesterone",
-        "AMH",
         "Inhibin B",
-        "Androgen"
+        "Androgen",
+        "AMH",
+        "Progesterone"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Slide 6 ghi cửa sổ làm tổ được mở bởi progesterone.",
       "optionExplanations": [
-        "Slide 6 ghi cửa sổ làm tổ được mở bởi progesterone.",
-        "Không khớp mô tả ở trang 6: Slide 6 ghi cửa sổ làm tổ được mở bởi progesterone.",
-        "Không khớp mô tả ở trang 6: Slide 6 ghi cửa sổ làm tổ được mở bởi progesterone.",
-        "Không khớp mô tả ở trang 6: Slide 6 ghi cửa sổ làm tổ được mở bởi progesterone."
+        "Nguồn nêu progesterone, không inhibinB.",
+        "Nguồn nêu progesterone, không androgen.",
+        "Nguồn nêu progesterone, không AMH.",
+        "Slide 6 ghi cửa sổ làm tổ được mở bởi progesterone."
       ],
       "sources": [
         {
@@ -210,9 +226,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -222,18 +242,18 @@
       "level": "understand",
       "stem": "Khi đến buồng tử cung, phôi được mô tả ở giai đoạn nào?",
       "options": [
-        "Phôi nang",
         "Noãn nguyên bào",
+        "Hoàng thể",
         "Tinh bào bậc I",
-        "Hoàng thể"
+        "Phôi nang"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Slide 7 nêu phôi đến buồng tử cung ở giai đoạn phôi nang.",
       "optionExplanations": [
-        "Slide 7 nêu phôi đến buồng tử cung ở giai đoạn phôi nang.",
-        "Không khớp mô tả ở trang 7: Slide 7 nêu phôi đến buồng tử cung ở giai đoạn phôi nang.",
-        "Không khớp mô tả ở trang 7: Slide 7 nêu phôi đến buồng tử cung ở giai đoạn phôi nang.",
-        "Không khớp mô tả ở trang 7: Slide 7 nêu phôi đến buồng tử cung ở giai đoạn phôi nang."
+        "Không phải giai đoạn phôi đến buồng tử cung.",
+        "Hoàng thể không là một giai đoạn phôi.",
+        "Tinh bào là đối tượng khác, không phôi.",
+        "Slide 7 nêu phôi đến buồng tử cung ở giai đoạn phôi nang."
       ],
       "sources": [
         {
@@ -242,9 +262,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -254,18 +278,18 @@
       "level": "understand",
       "stem": "Hai khối tế bào nào được bài nêu trong phôi nang?",
       "options": [
-        "Khối tế bào trong và ngoại bì lá nuôi",
-        "Noãn bào I và tế bào Sertoli",
         "Tế bào vỏ và tế bào hạt",
-        "Nội mạc và màng trắng"
+        "Nội mạc và màng trắng",
+        "Khối tế bào trong và ngoại bì lá nuôi",
+        "Noãn bào I và tế bào Sertoli"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 7 nêu khối tế bào trong và ngoại bì lá nuôi.",
       "optionExplanations": [
+        "Đây là các tế bào nang noãn, không hai khối của phôi nang.",
+        "Không phải hai khối được slide7 nêu.",
         "Slide 7 nêu khối tế bào trong và ngoại bì lá nuôi.",
-        "Không khớp mô tả ở trang 7: Slide 7 nêu khối tế bào trong và ngoại bì lá nuôi.",
-        "Không khớp mô tả ở trang 7: Slide 7 nêu khối tế bào trong và ngoại bì lá nuôi.",
-        "Không khớp mô tả ở trang 7: Slide 7 nêu khối tế bào trong và ngoại bì lá nuôi."
+        "Đây không phải hai khối tế bào phôi nang."
       ],
       "sources": [
         {
@@ -274,9 +298,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -287,17 +315,17 @@
       "stem": "Nhóm nào gồm các tên xét nghiệm di truyền phôi được liệt kê?",
       "options": [
         "PGT-A, PGT-M, PGT-SR",
-        "HSG, HYFOSY, MRI",
         "FSH, LH, AMH",
-        "E1, E2, P4"
+        "E1, E2, P4",
+        "HSG, HYFOSY, MRI"
       ],
       "answer": 0,
       "explanation": "Slide 8 liệt kê ba dạng PGT-A, PGT-M, PGT-SR.",
       "optionExplanations": [
         "Slide 8 liệt kê ba dạng PGT-A, PGT-M, PGT-SR.",
-        "Không khớp mô tả ở trang 8: Slide 8 liệt kê ba dạng PGT-A, PGT-M, PGT-SR.",
-        "Không khớp mô tả ở trang 8: Slide 8 liệt kê ba dạng PGT-A, PGT-M, PGT-SR.",
-        "Không khớp mô tả ở trang 8: Slide 8 liệt kê ba dạng PGT-A, PGT-M, PGT-SR."
+        "Đây là các hormone, không tên xét nghiệm PGT.",
+        "Đây là các ký hiệu steroid, không tên xét nghiệm PGT.",
+        "Không phải ba tên PGT được slide8 liệt kê."
       ],
       "sources": [
         {
@@ -306,30 +334,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q009",
       "topicId": "doithoai",
-      "conceptId": "chemical",
+      "conceptId": "m12-doi-thoai-hoa-hoc",
       "level": "understand",
       "stem": "Đối thoại hóa học của phôi với nội mạc trong bài liên quan nhóm phân tử nào?",
       "options": [
         "Growth factors và cytokines",
-        "Chỉ hồng cầu và tiểu cầu",
+        "Chỉ chất cản quang",
         "Chỉ DNA của tế bào Sertoli",
-        "Chỉ chất cản quang"
+        "Chỉ hồng cầu và tiểu cầu"
       ],
       "answer": 0,
       "explanation": "Slide 11 nêu phôi tác động lên nội mạc qua growth factors và cytokines.",
       "optionExplanations": [
         "Slide 11 nêu phôi tác động lên nội mạc qua growth factors và cytokines.",
-        "Không khớp mô tả ở trang 11: Slide 11 nêu phôi tác động lên nội mạc qua growth factors và cytokines.",
-        "Không khớp mô tả ở trang 11: Slide 11 nêu phôi tác động lên nội mạc qua growth factors và cytokines.",
-        "Không khớp mô tả ở trang 11: Slide 11 nêu phôi tác động lên nội mạc qua growth factors và cytokines."
+        "Không phải nhóm phân tử trong đối thoại hóa học được nguồn nêu.",
+        "Không phải nhóm phân tử trong đối thoại hóa học được nguồn nêu.",
+        "Không phải nhóm phân tử trong đối thoại hóa học được nguồn nêu."
       ],
       "sources": [
         {
@@ -338,9 +370,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -350,18 +386,18 @@
       "level": "understand",
       "stem": "Bài mô tả phôi được nhận diện sớm bởi thành phần miễn dịch nào?",
       "options": [
-        "Đại thực bào và uNK",
         "Tế bào hạt và tế bào vỏ",
-        "Tinh bào I và tinh bào II",
-        "Hồng cầu và tế bào cơ trơn"
+        "Hồng cầu và tế bào cơ trơn",
+        "Đại thực bào và uNK",
+        "Tinh bào I và tinh bào II"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 12 nêu đại thực bào và uNK thuộc miễn dịch bẩm sinh nhận diện phôi.",
       "optionExplanations": [
+        "Đây không phải các tế bào miễn dịch được slide12 nêu.",
+        "Đây không phải các tế bào miễn dịch được slide12 nêu.",
         "Slide 12 nêu đại thực bào và uNK thuộc miễn dịch bẩm sinh nhận diện phôi.",
-        "Không khớp mô tả ở trang 12: Slide 12 nêu đại thực bào và uNK thuộc miễn dịch bẩm sinh nhận diện phôi.",
-        "Không khớp mô tả ở trang 12: Slide 12 nêu đại thực bào và uNK thuộc miễn dịch bẩm sinh nhận diện phôi.",
-        "Không khớp mô tả ở trang 12: Slide 12 nêu đại thực bào và uNK thuộc miễn dịch bẩm sinh nhận diện phôi."
+        "Đây không phải các tế bào miễn dịch được slide12 nêu."
       ],
       "sources": [
         {
@@ -370,9 +406,13 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -382,18 +422,18 @@
       "level": "apply",
       "stem": "Một mẫu nội mạc đang dày lên rồi sau đó chuyển sang chế tiết dưới progesterone. Trình tự hormone phù hợp với bài là gì?",
       "options": [
-        "Estrogen trước, progesterone sau",
+        "AMH trước, inhibin B sau",
         "Progesterone trước, AMH sau",
         "hCG trước, FSH sau",
-        "AMH trước, inhibin B sau"
+        "Estrogen trước, progesterone sau"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Slide 5 mô tả estrogen chuẩn bị pha tăng sinh, sau đó progesterone tác động pha chế tiết.",
       "optionExplanations": [
-        "Slide 5 mô tả estrogen chuẩn bị pha tăng sinh, sau đó progesterone tác động pha chế tiết.",
-        "Không khớp mô tả ở trang 5: Slide 5 mô tả estrogen chuẩn bị pha tăng sinh, sau đó progesterone tác động pha chế tiết.",
-        "Không khớp mô tả ở trang 5: Slide 5 mô tả estrogen chuẩn bị pha tăng sinh, sau đó progesterone tác động pha chế tiết.",
-        "Không khớp mô tả ở trang 5: Slide 5 mô tả estrogen chuẩn bị pha tăng sinh, sau đó progesterone tác động pha chế tiết."
+        "Không đúng hai hormone và thứ tự của slide5.",
+        "Đảo hormone chuẩn bị nội mạc và thêm AMH không có trong chuỗi.",
+        "Không đúng hai hormone và thứ tự của slide5.",
+        "Slide 5 mô tả estrogen chuẩn bị pha tăng sinh, sau đó progesterone tác động pha chế tiết."
       ],
       "sources": [
         {
@@ -402,30 +442,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q012",
       "topicId": "cuaso",
-      "conceptId": "window-asynchrony",
+      "conceptId": "m12-dong-bo-cua-so",
       "level": "apply",
       "stem": "Phôi thoát màng lệch pha so với thời điểm cửa sổ làm tổ mở. Hệ quả nào được bài nêu?",
       "options": [
-        "Phôi có thể không được nội mạc tiếp nhận",
-        "Phôi chắc chắn được tiếp nhận bất kể thời điểm",
         "Cửa sổ sẽ mở vô hạn",
-        "Phôi chuyển thành hCG"
+        "Phôi chuyển thành hCG",
+        "Phôi có thể không được nội mạc tiếp nhận",
+        "Phôi chắc chắn được tiếp nhận bất kể thời điểm"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 6 nêu lệch pha giữa cửa sổ và thoát màng khiến phôi không được tiếp nhận.",
       "optionExplanations": [
+        "Nguồn ghi cửa sổ có giới hạn, không vô hạn.",
+        "hCG là hormone, không kết cục phôi biến thành.",
         "Slide 6 nêu lệch pha giữa cửa sổ và thoát màng khiến phôi không được tiếp nhận.",
-        "Không khớp mô tả ở trang 6: Slide 6 nêu lệch pha giữa cửa sổ và thoát màng khiến phôi không được tiếp nhận.",
-        "Không khớp mô tả ở trang 6: Slide 6 nêu lệch pha giữa cửa sổ và thoát màng khiến phôi không được tiếp nhận.",
-        "Không khớp mô tả ở trang 6: Slide 6 nêu lệch pha giữa cửa sổ và thoát màng khiến phôi không được tiếp nhận."
+        "Bỏ qua yêu cầu đồng bộ của cửa sổ tiếp nhận."
       ],
       "sources": [
         {
@@ -434,30 +478,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q013",
       "topicId": "cuaso",
       "conceptId": "window-displacement",
-      "level": "apply",
+      "level": "understand",
       "stem": "Một yếu tố nội sinh hoặc ngoại sinh làm thay đổi thời điểm cửa sổ. Mô tả nào phù hợp bài?",
       "options": [
-        "Cửa sổ làm tổ có thể bị di dời",
+        "Cửa sổ do tinh trùng quyết định hoàn toàn",
         "Cửa sổ không bao giờ thay đổi",
         "Chỉ noãn mới có thể di dời cửa sổ",
-        "Cửa sổ do tinh trùng quyết định hoàn toàn"
+        "Cửa sổ làm tổ có thể bị di dời"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Slide 6 nêu cửa sổ có thể bị di dời bởi yếu tố nội sinh và ngoại sinh.",
       "optionExplanations": [
-        "Slide 6 nêu cửa sổ có thể bị di dời bởi yếu tố nội sinh và ngoại sinh.",
-        "Không khớp mô tả ở trang 6: Slide 6 nêu cửa sổ có thể bị di dời bởi yếu tố nội sinh và ngoại sinh.",
-        "Không khớp mô tả ở trang 6: Slide 6 nêu cửa sổ có thể bị di dời bởi yếu tố nội sinh và ngoại sinh.",
-        "Không khớp mô tả ở trang 6: Slide 6 nêu cửa sổ có thể bị di dời bởi yếu tố nội sinh và ngoại sinh."
+        "Nguồn không nêu tinh trùng quyết định hoàn toàn.",
+        "Trái nội dung có thể di dời cửa sổ.",
+        "Nguồn nêu nhiều yếu tố nội/ngoại sinh, không chỉ noãn.",
+        "Slide 6 nêu cửa sổ có thể bị di dời bởi yếu tố nội sinh và ngoại sinh."
       ],
       "sources": [
         {
@@ -466,30 +514,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q014",
       "topicId": "phoi",
       "conceptId": "pgt-sample",
-      "level": "apply",
+      "level": "understand",
       "stem": "Một nhóm lấy tế bào từ lớp ngoại bì lá nuôi để khảo sát di truyền phôi. Điều này phù hợp mô tả nào?",
       "options": [
         "Có thể dùng tế bào lớp ngoại bì lá nuôi cho PGT",
-        "Chỉ lấy tế bào Sertoli",
         "Chỉ lấy tế bào nội mạc mẹ",
-        "Không có tế bào phôi nào dùng được"
+        "Không có tế bào phôi nào dùng được",
+        "Chỉ lấy tế bào Sertoli"
       ],
       "answer": 0,
       "explanation": "Slide 7 nêu tế bào ngoại bì lá nuôi có thể dùng khảo sát di truyền phôi.",
       "optionExplanations": [
         "Slide 7 nêu tế bào ngoại bì lá nuôi có thể dùng khảo sát di truyền phôi.",
-        "Không khớp mô tả ở trang 7: Slide 7 nêu tế bào ngoại bì lá nuôi có thể dùng khảo sát di truyền phôi.",
-        "Không khớp mô tả ở trang 7: Slide 7 nêu tế bào ngoại bì lá nuôi có thể dùng khảo sát di truyền phôi.",
-        "Không khớp mô tả ở trang 7: Slide 7 nêu tế bào ngoại bì lá nuôi có thể dùng khảo sát di truyền phôi."
+        "Bài nêu lấy tế bào phôi, không chỉ nội mạc mẹ.",
+        "Nguồn khẳng định có thể lấy tế bào ngoại bì lá nuôi.",
+        "Sertoli không phải lớp ngoại bì lá nuôi của phôi."
       ],
       "sources": [
         {
@@ -498,30 +550,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q015",
       "topicId": "phoi",
-      "conceptId": "hatching",
-      "level": "apply",
+      "conceptId": "m12-hatching-nhu-cau",
+      "level": "understand",
       "stem": "Theo slide 9, vì sao phôi ngày 6 cần thoát màng zona pellucida?",
       "options": [
-        "Zona trở nên chật chội và không còn phù hợp với nhu cầu phôi",
         "Để tạo tinh trùng mới",
-        "Để hình thành buồng trứng",
-        "Để tăng nồng độ FSH trong tuyến yên"
+        "Để tăng nồng độ FSH trong tuyến yên",
+        "Zona trở nên chật chội và không còn phù hợp với nhu cầu phôi",
+        "Để hình thành buồng trứng"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 9 nêu ngày 6 zona chật chội, phôi thoát màng để tìm nguồn oxygen phù hợp nhu cầu tăng.",
       "optionExplanations": [
+        "Không phải mục đích thoát màng được slide9 mô tả.",
+        "Không phải mục đích thoát màng được slide9 mô tả.",
         "Slide 9 nêu ngày 6 zona chật chội, phôi thoát màng để tìm nguồn oxygen phù hợp nhu cầu tăng.",
-        "Không khớp mô tả ở trang 9: Slide 9 nêu ngày 6 zona chật chội, phôi thoát màng để tìm nguồn oxygen phù hợp nhu cầu tăng.",
-        "Không khớp mô tả ở trang 9: Slide 9 nêu ngày 6 zona chật chội, phôi thoát màng để tìm nguồn oxygen phù hợp nhu cầu tăng.",
-        "Không khớp mô tả ở trang 9: Slide 9 nêu ngày 6 zona chật chội, phôi thoát màng để tìm nguồn oxygen phù hợp nhu cầu tăng."
+        "Không phải mục đích thoát màng được slide9 mô tả."
       ],
       "sources": [
         {
@@ -530,30 +586,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q016",
       "topicId": "phoi",
-      "conceptId": "oxygen",
-      "level": "apply",
+      "conceptId": "m12-hatching-nhu-cau",
+      "level": "understand",
       "stem": "Lý do nào được nêu cho nhu cầu thoát zona liên quan đến oxygen?",
       "options": [
-        "Nhu cầu oxygen của phôi ngày càng cao",
         "Phôi không cần oxygen",
+        "Nhu cầu oxygen của phôi ngày càng cao",
         "Oxygen được dùng để tạo testosterone ở mẹ",
         "Zona tiết oxygen quá mức"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 9 nối nhu cầu oxygen tăng với việc zona không còn phù hợp.",
       "optionExplanations": [
+        "Trái mô tả nhu cầu oxygen tăng của phôi.",
         "Slide 9 nối nhu cầu oxygen tăng với việc zona không còn phù hợp.",
-        "Không khớp mô tả ở trang 9: Slide 9 nối nhu cầu oxygen tăng với việc zona không còn phù hợp.",
-        "Không khớp mô tả ở trang 9: Slide 9 nối nhu cầu oxygen tăng với việc zona không còn phù hợp.",
-        "Không khớp mô tả ở trang 9: Slide 9 nối nhu cầu oxygen tăng với việc zona không còn phù hợp."
+        "Không phải lý do được slide9 nêu.",
+        "Không có nội dung zona tiết oxygen quá mức."
       ],
       "sources": [
         {
@@ -562,30 +622,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q017",
       "topicId": "doithoai",
-      "conceptId": "lif-egf",
-      "level": "apply",
+      "conceptId": "m12-lif-egf",
+      "level": "understand",
       "stem": "Trong tương tác ở giao diện vi nhung mao phôi và pinopode, phân tử nào được nêu?",
       "options": [
         "LIF và EGF",
+        "E1 và E3",
         "LH và FSH",
-        "AMH và inhibin B",
-        "E1 và E3"
+        "AMH và inhibin B"
       ],
       "answer": 0,
       "explanation": "Slide 11 nêu LIF, EGF thúc đẩy tương tác ở giao diện này.",
       "optionExplanations": [
         "Slide 11 nêu LIF, EGF thúc đẩy tương tác ở giao diện này.",
-        "Không khớp mô tả ở trang 11: Slide 11 nêu LIF, EGF thúc đẩy tương tác ở giao diện này.",
-        "Không khớp mô tả ở trang 11: Slide 11 nêu LIF, EGF thúc đẩy tương tác ở giao diện này.",
-        "Không khớp mô tả ở trang 11: Slide 11 nêu LIF, EGF thúc đẩy tương tác ở giao diện này."
+        "Không phải cặp tín hiệu của giao diện được slide11 nêu.",
+        "Không phải cặp tín hiệu của giao diện được slide11 nêu.",
+        "Không phải cặp tín hiệu của giao diện được slide11 nêu."
       ],
       "sources": [
         {
@@ -594,30 +658,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q018",
       "topicId": "doithoai",
       "conceptId": "semiallograft",
-      "level": "apply",
+      "level": "understand",
       "stem": "Bài gọi phôi là dạng ghép nào?",
       "options": [
         "Mảnh bán dị ghép",
-        "Ghép tự thân hoàn toàn",
         "Ghép dị gen hoàn toàn từ mẹ",
+        "Ghép tự thân hoàn toàn",
         "Không phải mô sống"
       ],
       "answer": 0,
       "explanation": "Slide 12 mô tả phôi là một mảnh bán dị ghép.",
       "optionExplanations": [
         "Slide 12 mô tả phôi là một mảnh bán dị ghép.",
-        "Không khớp mô tả ở trang 12: Slide 12 mô tả phôi là một mảnh bán dị ghép.",
-        "Không khớp mô tả ở trang 12: Slide 12 mô tả phôi là một mảnh bán dị ghép.",
-        "Không khớp mô tả ở trang 12: Slide 12 mô tả phôi là một mảnh bán dị ghép."
+        "Không đúng cách gọi bán dị ghép của nguồn.",
+        "Nguồn gọi bán dị ghép, không tự thân hoàn toàn.",
+        "Không phù hợp đối tượng phôi sống mà nguồn đang mô tả."
       ],
       "sources": [
         {
@@ -626,30 +694,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q019",
       "topicId": "doithoai",
       "conceptId": "spiralvessels-day9",
-      "level": "apply",
-      "stem": "Đến ngày thứ 9 sau thụ tinh, hội bào nuôi mới tiếp cận cấu trúc nào theo bài?",
+      "level": "understand",
+      "stem": "Theo các mốc trong tài liệu, đến ngày thứ 9 sau thụ tinh, hội bào nuôi mới tiếp cận cấu trúc nào theo bài?",
       "options": [
-        "Mạch máu xoắn ốc tử cung",
         "Động mạch buồng trứng trong dây chằng treo",
+        "Mạch máu xoắn ốc tử cung",
         "Mạch máu tinh hoàn",
         "Tĩnh mạch cửa gan"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 12 nêu đến ngày 9 hội bào nuôi tiếp cận mạch máu xoắn ốc của tử cung.",
       "optionExplanations": [
+        "Không phải mạch hội bào nuôi tiếp cận được slide12 nêu.",
         "Slide 12 nêu đến ngày 9 hội bào nuôi tiếp cận mạch máu xoắn ốc của tử cung.",
-        "Không khớp mô tả ở trang 12: Slide 12 nêu đến ngày 9 hội bào nuôi tiếp cận mạch máu xoắn ốc của tử cung.",
-        "Không khớp mô tả ở trang 12: Slide 12 nêu đến ngày 9 hội bào nuôi tiếp cận mạch máu xoắn ốc của tử cung.",
-        "Không khớp mô tả ở trang 12: Slide 12 nêu đến ngày 9 hội bào nuôi tiếp cận mạch máu xoắn ốc của tử cung."
+        "Không phải mạch hội bào nuôi tiếp cận được slide12 nêu.",
+        "Không phải mạch hội bào nuôi tiếp cận được slide12 nêu."
       ],
       "sources": [
         {
@@ -658,126 +730,150 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q020",
       "topicId": "hcg",
-      "conceptId": "day10",
-      "level": "apply",
+      "conceptId": "m12-giao-dien-mach-mau",
+      "level": "understand",
       "stem": "Theo slide 13, khoảng ngày thứ 10 sau thụ tinh, hội bào nuôi làm gì?",
       "options": [
-        "Phá vỡ mạch xoắn và tạo hồ huyết sơ khai",
         "Tạo noãn nguyên bào trong buồng trứng",
         "Làm thoái triển hoàn toàn hoàng thể",
+        "Phá vỡ mạch xoắn và tạo hồ huyết sơ khai",
         "Tạo màng trong suốt quanh tinh trùng"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 13 mô tả ngày 10 hội bào nuôi phá vỡ mạch xoắn và tạo hồ huyết sơ khai.",
       "optionExplanations": [
+        "Không phải sự kiện ngày10 được mô tả.",
+        "Nguồn mô tả hCG hỗ trợ hoàng thể, không làm thoái triển hoàn toàn.",
         "Slide 13 mô tả ngày 10 hội bào nuôi phá vỡ mạch xoắn và tạo hồ huyết sơ khai.",
-        "Không khớp mô tả ở trang 13: Slide 13 mô tả ngày 10 hội bào nuôi phá vỡ mạch xoắn và tạo hồ huyết sơ khai.",
-        "Không khớp mô tả ở trang 13: Slide 13 mô tả ngày 10 hội bào nuôi phá vỡ mạch xoắn và tạo hồ huyết sơ khai.",
-        "Không khớp mô tả ở trang 13: Slide 13 mô tả ngày 10 hội bào nuôi phá vỡ mạch xoắn và tạo hồ huyết sơ khai."
+        "Không phải sự kiện ngày10 được mô tả."
       ],
       "sources": [
         {
           "page": 13,
-          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ\nC-Terminal có thời gian bán hủy dài \nNếu không có thai thì hoàng thể sẽ bắt đầu sụp đổ từ ngày 11 sau thụ tinh.\nHiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa\n13\nVAI TRÒ CỦA HCG TRONG GIAI ĐOẠN SỚM CỦA THAI KỲ"
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q021",
       "topicId": "hcg",
-      "conceptId": "hcg-luteum",
-      "level": "apply",
+      "conceptId": "m12-hcg-hoangthe",
+      "level": "understand",
       "stem": "Hoạt tính tương đương LH của hCG giúp chuyển cấu trúc nào thành hoàng thể thai kỳ?",
       "options": [
-        "Hoàng thể chu kỳ",
-        "Nang nguyên thủy",
+        "Màng trong suốt",
         "Tế bào Sertoli",
-        "Màng trong suốt"
+        "Hoàng thể chu kỳ",
+        "Nang nguyên thủy"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 13 ghi hCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ.",
       "optionExplanations": [
+        "Zona không phải cấu trúc được chuyển trong đoạn này.",
+        "Sertoli không phải cấu trúc được chuyển trong đoạn này.",
         "Slide 13 ghi hCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ.",
-        "Không khớp mô tả ở trang 13: Slide 13 ghi hCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ.",
-        "Không khớp mô tả ở trang 13: Slide 13 ghi hCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ.",
-        "Không khớp mô tả ở trang 13: Slide 13 ghi hCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ."
+        "Cấu trúc được chuyển là hoàng thể chu kỳ, không nang nguyên thủy."
       ],
       "sources": [
         {
           "page": 13,
-          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ\nC-Terminal có thời gian bán hủy dài \nNếu không có thai thì hoàng thể sẽ bắt đầu sụp đổ từ ngày 11 sau thụ tinh.\nHiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa\n13\nVAI TRÒ CỦA HCG TRONG GIAI ĐOẠN SỚM CỦA THAI KỲ"
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q022",
       "topicId": "hcg",
-      "conceptId": "biochemical",
+      "conceptId": "m12-hcg-sinhhoa",
       "level": "apply",
       "stem": "Hiện diện hCG trong máu mẹ được bài dùng làm bằng chứng cho điều gì?",
       "options": [
-        "Thai đã làm tổ, gọi là thai sinh hóa",
-        "Thai chắc chắn đã thấy trên siêu âm",
         "Thai chắc chắn sống đủ tháng",
-        "Thai đã hoàn tất tạo cơ quan"
+        "Thai đã làm tổ, gọi là thai sinh hóa",
+        "Thai đã hoàn tất tạo cơ quan",
+        "Thai chắc chắn đã thấy trên siêu âm"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 13 gắn hCG máu mẹ với hiện tượng làm tổ và khái niệm thai sinh hóa.",
       "optionExplanations": [
+        "Dữ kiện này không chứng minh sống đủ tháng.",
         "Slide 13 gắn hCG máu mẹ với hiện tượng làm tổ và khái niệm thai sinh hóa.",
-        "Không khớp mô tả ở trang 13: Slide 13 gắn hCG máu mẹ với hiện tượng làm tổ và khái niệm thai sinh hóa.",
-        "Không khớp mô tả ở trang 13: Slide 13 gắn hCG máu mẹ với hiện tượng làm tổ và khái niệm thai sinh hóa.",
-        "Không khớp mô tả ở trang 13: Slide 13 gắn hCG máu mẹ với hiện tượng làm tổ và khái niệm thai sinh hóa."
+        "Dữ kiện này không chứng minh đã hoàn tất tạo cơ quan.",
+        "Có hCG không đồng nghĩa đã quan sát được trên siêu âm."
       ],
       "sources": [
         {
           "page": 13,
-          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ\nC-Terminal có thời gian bán hủy dài \nNếu không có thai thì hoàng thể sẽ bắt đầu sụp đổ từ ngày 11 sau thụ tinh.\nHiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa\n13\nVAI TRÒ CỦA HCG TRONG GIAI ĐOẠN SỚM CỦA THAI KỲ"
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
+        },
+        {
+          "page": 13,
+          "quote": "Hiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa",
+          "type": "text"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q023",
       "topicId": "phattrien",
-      "conceptId": "gestationalweeks",
-      "level": "apply",
+      "conceptId": "m12-tuan3-tuan4",
+      "level": "understand",
       "stem": "Theo slide 17, tuần thứ 3 và tuần thứ 4 lần lượt gắn với hiện tượng nào?",
       "options": [
+        "Hình thành cơ quan rồi thụ tinh",
         "Thụ tinh rồi làm tổ",
         "Làm tổ rồi thụ tinh",
-        "Hình thành cơ quan rồi thụ tinh",
         "Thoát màng rồi sinh"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 17 nêu tuần 3 thụ tinh, tuần 4 làm tổ.",
       "optionExplanations": [
+        "Không đúng thứ tự mốc của slide17.",
         "Slide 17 nêu tuần 3 thụ tinh, tuần 4 làm tổ.",
-        "Không khớp mô tả ở trang 17: Slide 17 nêu tuần 3 thụ tinh, tuần 4 làm tổ.",
-        "Không khớp mô tả ở trang 17: Slide 17 nêu tuần 3 thụ tinh, tuần 4 làm tổ.",
-        "Không khớp mô tả ở trang 17: Slide 17 nêu tuần 3 thụ tinh, tuần 4 làm tổ."
+        "Đảo thứ tự hai sự kiện so với slide17.",
+        "Không phải cặp sự kiện được slide17 gắn hai tuần này."
       ],
       "sources": [
         {
@@ -786,30 +882,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q024",
       "topicId": "phattrien",
       "conceptId": "organogenesis",
-      "level": "apply",
-      "stem": "Từ tuần thứ mấy bài nói bắt đầu hình thành phôi và phát triển cơ quan?",
+      "level": "understand",
+      "stem": "Theo các mốc trong tài liệu, từ tuần thứ mấy bài nói bắt đầu hình thành phôi và phát triển cơ quan?",
       "options": [
-        "Tuần thứ 5",
         "Tuần thứ 1",
-        "Tuần thứ 3",
-        "Tuần thứ 40"
+        "Tuần thứ 40",
+        "Tuần thứ 5",
+        "Tuần thứ 3"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 17 ghi từ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.",
       "optionExplanations": [
+        "Không đúng tuần nguồn nêu.",
+        "Không đúng thời điểm bắt đầu được nguồn nêu.",
         "Slide 17 ghi từ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.",
-        "Không khớp mô tả ở trang 17: Slide 17 ghi từ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.",
-        "Không khớp mô tả ở trang 17: Slide 17 ghi từ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.",
-        "Không khớp mô tả ở trang 17: Slide 17 ghi từ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan."
+        "Nguồn gắn tuần3 với thụ tinh."
       ],
       "sources": [
         {
@@ -818,30 +918,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q025",
       "topicId": "noimac",
       "conceptId": "pinopode-duration",
-      "level": "apply",
-      "stem": "Thời gian xuất hiện và tồn tại của pinopode được slide 5 ghi khoảng bao lâu?",
+      "level": "understand",
+      "stem": "Theo các mốc trong tài liệu, thời gian xuất hiện và tồn tại của pinopode được slide 5 ghi khoảng bao lâu?",
       "options": [
-        "Khoảng 5 ngày",
-        "Khoảng 5 giờ",
         "Khoảng 18 ngày",
-        "Khoảng 40 tuần"
+        "Khoảng 5 ngày",
+        "Khoảng 40 tuần",
+        "Khoảng 5 giờ"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 5 ghi thời gian pinopode khoảng 5 ngày.",
       "optionExplanations": [
+        "Không đúng thời gian tồn tại được nguồn ghi.",
         "Slide 5 ghi thời gian pinopode khoảng 5 ngày.",
-        "Không khớp mô tả ở trang 5: Slide 5 ghi thời gian pinopode khoảng 5 ngày.",
-        "Không khớp mô tả ở trang 5: Slide 5 ghi thời gian pinopode khoảng 5 ngày.",
-        "Không khớp mô tả ở trang 5: Slide 5 ghi thời gian pinopode khoảng 5 ngày."
+        "Không đúng thời gian tồn tại được nguồn ghi.",
+        "Sai đơn vị: nguồn ghi ngày."
       ],
       "sources": [
         {
@@ -850,30 +954,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q026",
       "topicId": "cuaso",
-      "conceptId": "window-closed",
+      "conceptId": "m12-cua-so-thoi-gian",
       "level": "apply",
-      "stem": "Nếu chu kỳ ở ngày 24 và áp dụng mốc thường nêu trong slide 6, cửa sổ làm tổ được mô tả ra sao?",
+      "stem": "Theo các mốc trong tài liệu, nếu chu kỳ ở ngày 24 và áp dụng mốc thường nêu trong slide 6, cửa sổ làm tổ được mô tả ra sao?",
       "options": [
+        "Không thể có cửa sổ do P4",
         "Đã qua thời điểm đóng cửa sổ thường nêu ở ngày 23",
         "Vừa mở cửa sổ vào ngày 24",
-        "Mở liên tục từ ngày 1 đến 40",
-        "Không thể có cửa sổ do P4"
+        "Mở liên tục từ ngày 1 đến 40"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23; đây là mốc bài học.",
       "optionExplanations": [
+        "Nguồn gắn progesterone với mở cửa sổ.",
         "Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23; đây là mốc bài học.",
-        "Không khớp mô tả ở trang 6: Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23; đây là mốc bài học.",
-        "Không khớp mô tả ở trang 6: Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23; đây là mốc bài học.",
-        "Không khớp mô tả ở trang 6: Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23; đây là mốc bài học."
+        "Nguồn thường mở ngày18, không ngày24.",
+        "Trái khoảng mở có giới hạn trong nguồn."
       ],
       "sources": [
         {
@@ -882,30 +990,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q027",
       "topicId": "doithoai",
-      "conceptId": "cytokines",
+      "conceptId": "m12-doi-thoai-hoa-hoc",
       "level": "apply",
       "stem": "Một mô tả cho rằng phôi không tác động lên nội mạc trước khi bám. Slide 11 nêu phản hồi nào?",
       "options": [
         "Phôi đã đối thoại hóa học qua growth factors và cytokines",
-        "Phôi chỉ tạo hCG sau sinh",
         "Phôi chỉ giao tiếp qua tế bào Sertoli",
-        "Bài nói không có tương tác trước làm tổ"
+        "Bài nói không có tương tác trước làm tổ",
+        "Phôi chỉ tạo hCG sau sinh"
       ],
       "answer": 0,
       "explanation": "Slide 11 nêu phôi thoát màng bắt đầu đối thoại hóa học và tác động qua GF/cytokines.",
       "optionExplanations": [
         "Slide 11 nêu phôi thoát màng bắt đầu đối thoại hóa học và tác động qua GF/cytokines.",
-        "Không khớp mô tả ở trang 11: Slide 11 nêu phôi thoát màng bắt đầu đối thoại hóa học và tác động qua GF/cytokines.",
-        "Không khớp mô tả ở trang 11: Slide 11 nêu phôi thoát màng bắt đầu đối thoại hóa học và tác động qua GF/cytokines.",
-        "Không khớp mô tả ở trang 11: Slide 11 nêu phôi thoát màng bắt đầu đối thoại hóa học và tác động qua GF/cytokines."
+        "Sertoli không nằm trong giao diện tương tác được nêu.",
+        "Trái nội dung slide11 nêu tương tác.",
+        "Không bác bỏ mô tả phôi đã thoát màng có đối thoại hóa học."
       ],
       "sources": [
         {
@@ -914,94 +1026,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
-      }
-    },
-    {
-      "id": "m12-q028",
-      "topicId": "hcg",
-      "conceptId": "corpusluteum-rescue",
-      "level": "apply",
-      "stem": "Nếu không có thai, số phận hoàng thể được ghi thế nào ở khoảng ngày 11 sau thụ tinh?",
-      "options": [
-        "Bắt đầu sụp đổ",
-        "Chuyển chắc chắn thành hoàng thể thai kỳ",
-        "Tạo ngoại bì lá nuôi",
-        "Tiết hCG như nhau thai"
-      ],
-      "answer": 0,
-      "explanation": "Slide 13 nêu không có thai thì hoàng thể bắt đầu sụp đổ từ ngày 11 sau thụ tinh.",
-      "optionExplanations": [
-        "Slide 13 nêu không có thai thì hoàng thể bắt đầu sụp đổ từ ngày 11 sau thụ tinh.",
-        "Không khớp mô tả ở trang 13: Slide 13 nêu không có thai thì hoàng thể bắt đầu sụp đổ từ ngày 11 sau thụ tinh.",
-        "Không khớp mô tả ở trang 13: Slide 13 nêu không có thai thì hoàng thể bắt đầu sụp đổ từ ngày 11 sau thụ tinh.",
-        "Không khớp mô tả ở trang 13: Slide 13 nêu không có thai thì hoàng thể bắt đầu sụp đổ từ ngày 11 sau thụ tinh."
-      ],
-      "sources": [
-        {
-          "page": 13,
-          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ\nC-Terminal có thời gian bán hủy dài \nNếu không có thai thì hoàng thể sẽ bắt đầu sụp đổ từ ngày 11 sau thụ tinh.\nHiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa\n13\nVAI TRÒ CỦA HCG TRONG GIAI ĐOẠN SỚM CỦA THAI KỲ"
-        }
-      ],
-      "review": {
-        "source": false,
-        "semantic": false,
-        "coverage": false
-      }
-    },
-    {
-      "id": "m12-q029",
-      "topicId": "hcg",
-      "conceptId": "terminal-half-life",
-      "level": "apply",
-      "stem": "Đặc điểm nào của hCG được slide 13 nêu về C-terminal?",
-      "options": [
-        "Có thời gian bán hủy dài",
-        "Không có thời gian bán hủy",
-        "Có hoạt tính giống FSH",
-        "Chỉ hiện diện sau sinh"
-      ],
-      "answer": 0,
-      "explanation": "Slide 13 ghi C-Terminal có thời gian bán hủy dài.",
-      "optionExplanations": [
-        "Slide 13 ghi C-Terminal có thời gian bán hủy dài.",
-        "Không khớp mô tả ở trang 13: Slide 13 ghi C-Terminal có thời gian bán hủy dài.",
-        "Không khớp mô tả ở trang 13: Slide 13 ghi C-Terminal có thời gian bán hủy dài.",
-        "Không khớp mô tả ở trang 13: Slide 13 ghi C-Terminal có thời gian bán hủy dài."
-      ],
-      "sources": [
-        {
-          "page": 13,
-          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ\nC-Terminal có thời gian bán hủy dài \nNếu không có thai thì hoàng thể sẽ bắt đầu sụp đổ từ ngày 11 sau thụ tinh.\nHiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa\n13\nVAI TRÒ CỦA HCG TRONG GIAI ĐOẠN SỚM CỦA THAI KỲ"
-        }
-      ],
-      "review": {
-        "source": false,
-        "semantic": false,
-        "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q030",
       "topicId": "phattrien",
       "conceptId": "term",
-      "level": "apply",
-      "stem": "Độ dài thai kỳ bình thường theo slide 17 là bao nhiêu tính từ kỳ kinh cuối?",
+      "level": "understand",
+      "stem": "Theo các mốc trong tài liệu, độ dài thai kỳ bình thường theo slide 17 là bao nhiêu tính từ kỳ kinh cuối?",
       "options": [
-        "40 tuần, tương đương 280 ngày",
         "20 tuần, 140 ngày",
-        "37 tuần, 100 ngày",
-        "9 tuần, 63 ngày"
+        "40 tuần, tương đương 280 ngày",
+        "9 tuần, 63 ngày",
+        "37 tuần, 100 ngày"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 17 ghi thai kỳ bình thường 40 tuần (280 ngày) từ ngày đầu kỳ kinh cuối.",
       "optionExplanations": [
+        "Không đúng độ dài nguồn ghi.",
         "Slide 17 ghi thai kỳ bình thường 40 tuần (280 ngày) từ ngày đầu kỳ kinh cuối.",
-        "Không khớp mô tả ở trang 17: Slide 17 ghi thai kỳ bình thường 40 tuần (280 ngày) từ ngày đầu kỳ kinh cuối.",
-        "Không khớp mô tả ở trang 17: Slide 17 ghi thai kỳ bình thường 40 tuần (280 ngày) từ ngày đầu kỳ kinh cuối.",
-        "Không khớp mô tả ở trang 17: Slide 17 ghi thai kỳ bình thường 40 tuần (280 ngày) từ ngày đầu kỳ kinh cuối."
+        "Không đúng độ dài nguồn ghi.",
+        "37 tuần không tương đương100 ngày và không phải cặp số nguồn."
       ],
       "sources": [
         {
@@ -1010,30 +1062,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q031",
       "topicId": "noimac",
       "conceptId": "receptivity-sequence",
-      "level": "analyze",
+      "level": "apply",
       "stem": "Vì sao progesterone trong bài không được mô tả như bước đầu tiên làm nội mạc dày lên?",
       "options": [
-        "Estrogen chuẩn bị nội mạc ở pha tăng sinh trước, rồi progesterone tác động chế tiết và mở cửa sổ",
-        "Progesterone luôn xuất hiện trước estrogen",
         "Estrogen chỉ có sau khi phôi làm tổ",
-        "Hai hormone không có vai trò ở nội mạc"
+        "Hai hormone không có vai trò ở nội mạc",
+        "Estrogen chuẩn bị nội mạc ở pha tăng sinh trước, rồi progesterone tác động chế tiết và mở cửa sổ",
+        "Progesterone luôn xuất hiện trước estrogen"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 5 mô tả trình tự estrogen rồi progesterone; slide 6 gắn progesterone với cửa sổ làm tổ.",
       "optionExplanations": [
+        "Nguồn mô tả estrogen chuẩn bị trước làm tổ.",
+        "Bài nêu rõ tác động cả hai hormone.",
         "Slide 5 mô tả trình tự estrogen rồi progesterone; slide 6 gắn progesterone với cửa sổ làm tổ.",
-        "Không khớp mô tả ở trang 5,6: Slide 5 mô tả trình tự estrogen rồi progesterone; slide 6 gắn progesterone với cửa sổ làm tổ.",
-        "Không khớp mô tả ở trang 5,6: Slide 5 mô tả trình tự estrogen rồi progesterone; slide 6 gắn progesterone với cửa sổ làm tổ.",
-        "Không khớp mô tả ở trang 5,6: Slide 5 mô tả trình tự estrogen rồi progesterone; slide 6 gắn progesterone với cửa sổ làm tổ."
+        "Đảo thứ tự hormone trong slide5."
       ],
       "sources": [
         {
@@ -1046,30 +1102,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q032",
       "topicId": "cuaso",
-      "conceptId": "hatching-window",
-      "level": "analyze",
+      "conceptId": "m12-dong-bo-cua-so",
+      "level": "apply",
       "stem": "Phôi thoát màng ngày 6 nhưng cửa sổ tiếp nhận nội mạc có thời hạn. Mấu chốt nào quyết định tiếp nhận theo bài?",
       "options": [
-        "Sự đồng bộ giữa thoát màng và cửa sổ làm tổ",
         "Chỉ kích thước buồng trứng",
-        "Chỉ số lượng tinh trùng ban đầu",
-        "Chỉ ngày tuổi của người mẹ"
+        "Chỉ ngày tuổi của người mẹ",
+        "Sự đồng bộ giữa thoát màng và cửa sổ làm tổ",
+        "Chỉ số lượng tinh trùng ban đầu"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 6 nêu lệch pha khiến phôi không được tiếp nhận; slide 9 nêu phôi thoát màng.",
       "optionExplanations": [
+        "Không phải điều kiện đồng bộ được bài nêu.",
+        "Không phải điều kiện đồng bộ được bài nêu.",
         "Slide 6 nêu lệch pha khiến phôi không được tiếp nhận; slide 9 nêu phôi thoát màng.",
-        "Không khớp mô tả ở trang 6,9: Slide 6 nêu lệch pha khiến phôi không được tiếp nhận; slide 9 nêu phôi thoát màng.",
-        "Không khớp mô tả ở trang 6,9: Slide 6 nêu lệch pha khiến phôi không được tiếp nhận; slide 9 nêu phôi thoát màng.",
-        "Không khớp mô tả ở trang 6,9: Slide 6 nêu lệch pha khiến phôi không được tiếp nhận; slide 9 nêu phôi thoát màng."
+        "Không phải điều kiện đồng bộ được bài nêu."
       ],
       "sources": [
         {
@@ -1082,30 +1142,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q033",
       "topicId": "phoi",
-      "conceptId": "embryo-communication",
-      "level": "analyze",
+      "conceptId": "m12-lif-egf",
+      "level": "understand",
       "stem": "Một mô hình chỉ gồm phôi nang và nội mạc, bỏ giao diện pinopode/vi nhung mao. Nội dung nào bị bỏ sót?",
       "options": [
         "Các tín hiệu LIF/EGF thúc đẩy tương tác ở giao diện",
         "Quá trình tạo tinh trùng tại ống sinh tinh",
-        "Phản hồi FSH từ inhibin B",
-        "Chuyển đổi nang noãn thành hoàng thể"
+        "Chuyển đổi nang noãn thành hoàng thể",
+        "Phản hồi FSH từ inhibin B"
       ],
       "answer": 0,
       "explanation": "Slide 7 mô tả phôi nang; slide 11 mô tả giao diện và tín hiệu LIF, EGF.",
       "optionExplanations": [
         "Slide 7 mô tả phôi nang; slide 11 mô tả giao diện và tín hiệu LIF, EGF.",
-        "Không khớp mô tả ở trang 7,11: Slide 7 mô tả phôi nang; slide 11 mô tả giao diện và tín hiệu LIF, EGF.",
-        "Không khớp mô tả ở trang 7,11: Slide 7 mô tả phôi nang; slide 11 mô tả giao diện và tín hiệu LIF, EGF.",
-        "Không khớp mô tả ở trang 7,11: Slide 7 mô tả phôi nang; slide 11 mô tả giao diện và tín hiệu LIF, EGF."
+        "Không phải quá trình ở giao diện phôi–nội mạc.",
+        "Không phải quá trình ở giao diện phôi–nội mạc.",
+        "Không phải quá trình ở giao diện phôi–nội mạc."
       ],
       "sources": [
         {
@@ -1118,30 +1182,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q034",
       "topicId": "doithoai",
       "conceptId": "chemical-immune",
-      "level": "analyze",
+      "level": "understand",
       "stem": "Hai loại đối thoại giữa phôi và nội mạc được bài phân biệt thế nào?",
       "options": [
-        "Hóa học qua GF/cytokines và miễn dịch qua nhận diện/cân bằng miễn dịch",
         "Hai loại đều chỉ là vận chuyển cơ học",
+        "Hóa học qua GF/cytokines và miễn dịch qua nhận diện/cân bằng miễn dịch",
         "Hóa học do LH; miễn dịch do HSG",
         "Cả hai chỉ xảy ra sau sinh"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 11 nêu đối thoại hóa học; slide 12 nêu đối thoại miễn dịch.",
       "optionExplanations": [
+        "Bỏ các tín hiệu hóa học và thành phần miễn dịch.",
         "Slide 11 nêu đối thoại hóa học; slide 12 nêu đối thoại miễn dịch.",
-        "Không khớp mô tả ở trang 11,12: Slide 11 nêu đối thoại hóa học; slide 12 nêu đối thoại miễn dịch.",
-        "Không khớp mô tả ở trang 11,12: Slide 11 nêu đối thoại hóa học; slide 12 nêu đối thoại miễn dịch.",
-        "Không khớp mô tả ở trang 11,12: Slide 11 nêu đối thoại hóa học; slide 12 nêu đối thoại miễn dịch."
+        "LH và HSG không là hai cơ chế mô tả ở slide11–12.",
+        "Bài đang mô tả tiến trình làm tổ sớm."
       ],
       "sources": [
         {
@@ -1154,30 +1222,34 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q035",
       "topicId": "doithoai",
       "conceptId": "implantation-nutrition",
-      "level": "analyze",
-      "stem": "Chuỗi thời gian nào phù hợp giữa xâm nhập mô và trao đổi trực tiếp với mẹ trong bài?",
+      "level": "apply",
+      "stem": "Theo các mốc trong tài liệu, chuỗi thời gian nào phù hợp giữa xâm nhập mô và trao đổi trực tiếp với mẹ trong bài?",
       "options": [
-        "Ngày 9 tiếp cận mạch xoắn; ngày 10 phá vỡ mạch tạo hồ huyết và nhận dưỡng chất/trao đổi khí",
-        "Ngày 3 tạo hồ huyết; ngày 4 tạo Sertoli",
+        "Ngày 9 đóng cửa sổ; ngày 10 phôi thoát màng",
         "Ngày 10 mới thụ tinh; ngày 11 mới tạo noãn",
-        "Ngày 9 đóng cửa sổ; ngày 10 phôi thoát màng"
+        "Ngày 9 tiếp cận mạch xoắn; ngày 10 phá vỡ mạch tạo hồ huyết và nhận dưỡng chất/trao đổi khí",
+        "Ngày 3 tạo hồ huyết; ngày 4 tạo Sertoli"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 12–13 nêu các mốc ngày 9 và ngày 10 nối tiếp nhau.",
       "optionExplanations": [
+        "Trộn ngày chu kỳ với ngày sau thụ tinh.",
+        "Không đúng mốc thụ tinh và tạo noãn.",
         "Slide 12–13 nêu các mốc ngày 9 và ngày 10 nối tiếp nhau.",
-        "Không khớp mô tả ở trang 12,13: Slide 12–13 nêu các mốc ngày 9 và ngày 10 nối tiếp nhau.",
-        "Không khớp mô tả ở trang 12,13: Slide 12–13 nêu các mốc ngày 9 và ngày 10 nối tiếp nhau.",
-        "Không khớp mô tả ở trang 12,13: Slide 12–13 nêu các mốc ngày 9 và ngày 10 nối tiếp nhau."
+        "Không có mốc tạo Sertoli trong tiến trình này."
       ],
       "sources": [
         {
@@ -1186,13 +1258,18 @@
         },
         {
           "page": 13,
-          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ\nC-Terminal có thời gian bán hủy dài \nNếu không có thai thì hoàng thể sẽ bắt đầu sụp đổ từ ngày 11 sau thụ tinh.\nHiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa\n13\nVAI TRÒ CỦA HCG TRONG GIAI ĐOẠN SỚM CỦA THAI KỲ"
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -1202,65 +1279,80 @@
       "level": "analyze",
       "stem": "Vì sao có hCG trong máu mẹ chưa đồng nghĩa với thai lâm sàng theo trình tự bài?",
       "options": [
-        "hCG chứng minh làm tổ/thai sinh hóa; thai lâm sàng được xác nhận sau đó bằng siêu âm",
         "hCG chỉ xuất hiện sau khi thấy phôi trên siêu âm",
-        "Thai sinh hóa và thai lâm sàng là cùng một mốc",
-        "Siêu âm không liên quan xác nhận thai lâm sàng"
+        "hCG chứng minh làm tổ/thai sinh hóa; thai lâm sàng được xác nhận sau đó bằng siêu âm",
+        "Siêu âm không liên quan xác nhận thai lâm sàng",
+        "Thai sinh hóa và thai lâm sàng là cùng một mốc"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Slide 13 gắn hCG với thai sinh hóa; slide14 ghi thai được xác nhận lâm sàng bằng siêu âm sau đó.",
       "optionExplanations": [
+        "Đảo thứ tự hai mốc được mô tả.",
         "Slide 13 gắn hCG với thai sinh hóa; slide14 ghi thai được xác nhận lâm sàng bằng siêu âm sau đó.",
-        "Không khớp mô tả ở trang 13,14: Slide 13 gắn hCG với thai sinh hóa; slide14 ghi thai được xác nhận lâm sàng bằng siêu âm sau đó.",
-        "Không khớp mô tả ở trang 13,14: Slide 13 gắn hCG với thai sinh hóa; slide14 ghi thai được xác nhận lâm sàng bằng siêu âm sau đó.",
-        "Không khớp mô tả ở trang 13,14: Slide 13 gắn hCG với thai sinh hóa; slide14 ghi thai được xác nhận lâm sàng bằng siêu âm sau đó."
+        "Siêu âm là căn cứ thai lâm sàng trong slide14.",
+        "Bài phân biệt rõ sinh hóa với thấy thai trên siêu âm."
       ],
       "sources": [
         {
           "page": 13,
-          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ\nC-Terminal có thời gian bán hủy dài \nNếu không có thai thì hoàng thể sẽ bắt đầu sụp đổ từ ngày 11 sau thụ tinh.\nHiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa\n13\nVAI TRÒ CỦA HCG TRONG GIAI ĐOẠN SỚM CỦA THAI KỲ"
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
         },
         {
           "page": 14,
           "quote": "Chênh lệch giữa tỷ lệ thai sinh hóa và thai lâm sàng\nLý do:\nLệch bội\nCán cân miễn dịch bất thường\nBất thường về kiểm soát thượng di truyền\n03 tuần sau thụ tinh, thai kỳ được xác nhận trên lâm sàng bằng siêu âm\nKể từ khi thấy thai trên siêu âm, người ta gọi là “thai lâm sàng\n\n14\nTỪ THAI SINH HÓA ĐẾN THAI LÂM SÀNG \nLệch bội là hiện tượng thường gặp\n“Cơ chế bảo vệ loài”\nKhảo sát tiền làm tổ\nTự sửa chữa hoặc ngưng phát triển\nMiễn dịch thiên về Th1\nThai kỳ thất bại\nKết cục sản khoa bất lợi\nBất thường thượng di truyền\nMethyl hóa các đảo CpG trên DNA\nẢnh hưởng lên tiến trình điều hòa gen của phôi và NMTC"
+        },
+        {
+          "page": 13,
+          "quote": "Hiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa",
+          "type": "text"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q037",
       "topicId": "hcg",
-      "conceptId": "hcg-function",
-      "level": "analyze",
+      "conceptId": "m12-hcg-hoangthe",
+      "level": "understand",
       "stem": "Nếu không có tín hiệu hCG sau khi phôi tiếp cận mạch mẹ, mắt xích nào bài mô tả sẽ thiếu?",
       "options": [
-        "Tác dụng tương đương LH duy trì hoàng thể chu kỳ thành hoàng thể thai kỳ",
-        "Tác dụng trực tiếp tạo zona pellucida",
         "Tác dụng tạo noãn nguyên bào mới",
+        "Tác dụng trực tiếp tạo zona pellucida",
+        "Tác dụng tương đương LH duy trì hoàng thể chu kỳ thành hoàng thể thai kỳ",
         "Tác dụng làm tinh trùng giảm phân I"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 13 nối hCG với hoạt tính tương đương LH và chuyển hoàng thể.",
       "optionExplanations": [
+        "Không phải tác dụng hCG được slide13 nêu.",
+        "Không phải tác dụng hCG được slide13 nêu.",
         "Slide 13 nối hCG với hoạt tính tương đương LH và chuyển hoàng thể.",
-        "Không khớp mô tả ở trang 13: Slide 13 nối hCG với hoạt tính tương đương LH và chuyển hoàng thể.",
-        "Không khớp mô tả ở trang 13: Slide 13 nối hCG với hoạt tính tương đương LH và chuyển hoàng thể.",
-        "Không khớp mô tả ở trang 13: Slide 13 nối hCG với hoạt tính tương đương LH và chuyển hoàng thể."
+        "Không phải tác dụng hCG được slide13 nêu."
       ],
       "sources": [
         {
           "page": 13,
-          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ\nC-Terminal có thời gian bán hủy dài \nNếu không có thai thì hoàng thể sẽ bắt đầu sụp đổ từ ngày 11 sau thụ tinh.\nHiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa\n13\nVAI TRÒ CỦA HCG TRONG GIAI ĐOẠN SỚM CỦA THAI KỲ"
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
@@ -1268,42 +1360,53 @@
       "topicId": "phattrien",
       "conceptId": "cycle-calendar",
       "level": "analyze",
-      "stem": "Một lịch ghi ngày 18–23 là cửa sổ làm tổ thường nêu và tuần 4 là tiến trình làm tổ. Cách hiểu nào hợp lý?",
+      "stem": "Một lịch dùng ngày chu kỳ để ghi cửa sổ làm tổ; lịch khác ghi ngày sau thụ tinh; slide17 lại tính tuần thai từ kỳ kinh cuối. Trước khi so sánh các mốc, cần làm gì?",
       "options": [
-        "Một mốc tính theo chu kỳ kinh và một mốc phát triển thai dùng thang thời gian khác nhau",
-        "Hai mốc đều là ngày thứ 18 của thai kỳ",
-        "Tuần 4 xảy ra trước tuần 3 thụ tinh",
-        "Không thể phân biệt hai thang thời gian"
+        "Coi ngày18 chu kỳ luôn là tuần18 thai kỳ",
+        "Coi ngày6 sau thụ tinh là ngày6 của chu kỳ trong mọi trường hợp",
+        "Coi tuần4 luôn là ngày thứ4 sau thụ tinh",
+        "Xác định rõ điểm bắt đầu của từng cách đếm, không xem các con số ngày và tuần là cùng một mốc"
       ],
-      "answer": 0,
-      "explanation": "Slide 6 dùng ngày chu kỳ; slide 17 dùng tuần thai, với thụ tinh tuần 3 và làm tổ tuần 4.",
+      "answer": 3,
+      "explanation": "Slide6 dùng ngày chu kỳ, slide9 dùng ngày sau thụ tinh, slide17 dùng tuần thai từ ngày bắt đầu kỳ kinh cuối. Phải nhận biết điểm gốc trước khi đối chiếu; bài không đủ để tự suy ra một phép đổi chính xác cho mọi chu kỳ.",
       "optionExplanations": [
-        "Slide 6 dùng ngày chu kỳ; slide 17 dùng tuần thai, với thụ tinh tuần 3 và làm tổ tuần 4.",
-        "Không khớp mô tả ở trang 6,17: Slide 6 dùng ngày chu kỳ; slide 17 dùng tuần thai, với thụ tinh tuần 3 và làm tổ tuần 4.",
-        "Không khớp mô tả ở trang 6,17: Slide 6 dùng ngày chu kỳ; slide 17 dùng tuần thai, với thụ tinh tuần 3 và làm tổ tuần 4.",
-        "Không khớp mô tả ở trang 6,17: Slide 6 dùng ngày chu kỳ; slide 17 dùng tuần thai, với thụ tinh tuần 3 và làm tổ tuần 4."
+        "Đồng nhất ngày chu kỳ với tuần thai.",
+        "Đồng nhất hai điểm bắt đầu khác nhau.",
+        "Đồng nhất đơn vị tuần và ngày, đồng thời đổi điểm bắt đầu.",
+        "Slide6 dùng ngày chu kỳ, slide9 dùng ngày sau thụ tinh, slide17 dùng tuần thai từ ngày bắt đầu kỳ kinh cuối. Phải nhận biết điểm gốc trước khi đối chiếu; bài không đủ để tự suy ra một phép đổi chính xác cho mọi chu kỳ."
       ],
       "sources": [
         {
           "page": 6,
-          "quote": "Sự tác động hiệp đồng một cách hài hoà giữa estrogen và progesterone trên NMTC\nCửa sổ làm tổ được mở bởi progesterone\nNMTC chỉ tiếp nhận phôi đến làm tổ khi và chỉ khi cửa sổ làm tổ đã mở\nCửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ\nSự lệch pha giữa thời điểm mở cửa sổ và thời điểm phôi thoát màng  phôi sẽ không được tiếp nhận\nCửa sổ làm tổ có thể bị di dời do nhiều yếu tố nội sinh cũng như ngoại sinh\n6\nCỬA SỔ LÀM TỔ VÀ VAI TRÒ CỦA PROGESTERONE"
+          "quote": "Cửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ",
+          "type": "text"
+        },
+        {
+          "page": 9,
+          "quote": "Ngày thứ 6 sau khi thụ tinh",
+          "type": "text"
         },
         {
           "page": 17,
-          "quote": "Thai kỳ bình thường có độ dài 40 tuần (280 ngày) kêt từ ngày bắt đầu của kỳ kinh cuối cùng\nTuần thứ 3 diễn ra hiện tượng thụ tinh\nTuần thứ 4 diễn ra tiến trình làm tổ\nTừ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.\n17\nSỰ PHÁT TRIỂN CỦA PHÔI THAI"
+          "quote": "Thai kỳ bình thường có độ dài 40 tuần (280 ngày) kêt từ ngày bắt đầu của kỳ kinh cuối cùng",
+          "type": "text"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q039",
       "topicId": "phattrien",
-      "conceptId": "fertilization-implantation",
-      "level": "analyze",
+      "conceptId": "m12-tuan3-tuan4",
+      "level": "understand",
       "stem": "Một bản ghi đặt làm tổ ở tuần 3 và thụ tinh tuần 4. Cần sửa ra sao theo bài?",
       "options": [
         "Đổi lại: thụ tinh tuần 3, làm tổ tuần 4",
@@ -1315,9 +1418,9 @@
       "explanation": "Slide 17 ghi rõ tuần 3 thụ tinh và tuần 4 làm tổ.",
       "optionExplanations": [
         "Slide 17 ghi rõ tuần 3 thụ tinh và tuần 4 làm tổ.",
-        "Không khớp mô tả ở trang 17: Slide 17 ghi rõ tuần 3 thụ tinh và tuần 4 làm tổ.",
-        "Không khớp mô tả ở trang 17: Slide 17 ghi rõ tuần 3 thụ tinh và tuần 4 làm tổ.",
-        "Không khớp mô tả ở trang 17: Slide 17 ghi rõ tuần 3 thụ tinh và tuần 4 làm tổ."
+        "Trái thứ tự được ghi trong nguồn.",
+        "Không đúng hai mốc của nguồn.",
+        "Nguồn có ghi rõ hai mốc."
       ],
       "sources": [
         {
@@ -1326,46 +1429,82 @@
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     },
     {
       "id": "m12-q040",
       "topicId": "hcg",
-      "conceptId": "maternal-interface",
-      "level": "analyze",
+      "conceptId": "m12-giao-dien-mach-mau",
+      "level": "apply",
       "stem": "Một dòng thời gian cho thấy hồ huyết sơ khai hình thành sau khi hội bào nuôi phá vỡ mạch xoắn, rồi hCG vào máu mẹ. Nhận định nào phù hợp?",
       "options": [
-        "Mốc tiếp xúc và phá vỡ mạch nối với trao đổi mẹ–phôi và dấu hiệu thai sinh hóa",
         "hCG xuất hiện trước thụ tinh theo slide",
         "Hồ huyết hình thành từ nang noãn buồng trứng",
+        "Mốc tiếp xúc và phá vỡ mạch nối với trao đổi mẹ–phôi và dấu hiệu thai sinh hóa",
         "Thai sinh hóa chỉ được xác nhận khi đủ tháng"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Slide 13 mô tả chuỗi hồ huyết, tiếp nhận dưỡng chất/khí và hCG; trang 14 phân biệt thai lâm sàng.",
       "optionExplanations": [
+        "Không phải trình tự của slide13.",
+        "Hồ huyết ở giao diện nội mạc, không từ nang noãn.",
         "Slide 13 mô tả chuỗi hồ huyết, tiếp nhận dưỡng chất/khí và hCG; trang 14 phân biệt thai lâm sàng.",
-        "Không khớp mô tả ở trang 13,14: Slide 13 mô tả chuỗi hồ huyết, tiếp nhận dưỡng chất/khí và hCG; trang 14 phân biệt thai lâm sàng.",
-        "Không khớp mô tả ở trang 13,14: Slide 13 mô tả chuỗi hồ huyết, tiếp nhận dưỡng chất/khí và hCG; trang 14 phân biệt thai lâm sàng.",
-        "Không khớp mô tả ở trang 13,14: Slide 13 mô tả chuỗi hồ huyết, tiếp nhận dưỡng chất/khí và hCG; trang 14 phân biệt thai lâm sàng."
+        "Thai sinh hóa được nguồn gắn hCG trong máu mẹ sớm."
       ],
       "sources": [
         {
           "page": 13,
-          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ\nC-Terminal có thời gian bán hủy dài \nNếu không có thai thì hoàng thể sẽ bắt đầu sụp đổ từ ngày 11 sau thụ tinh.\nHiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa\n13\nVAI TRÒ CỦA HCG TRONG GIAI ĐOẠN SỚM CỦA THAI KỲ"
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
         },
         {
           "page": 14,
           "quote": "Chênh lệch giữa tỷ lệ thai sinh hóa và thai lâm sàng\nLý do:\nLệch bội\nCán cân miễn dịch bất thường\nBất thường về kiểm soát thượng di truyền\n03 tuần sau thụ tinh, thai kỳ được xác nhận trên lâm sàng bằng siêu âm\nKể từ khi thấy thai trên siêu âm, người ta gọi là “thai lâm sàng\n\n14\nTỪ THAI SINH HÓA ĐẾN THAI LÂM SÀNG \nLệch bội là hiện tượng thường gặp\n“Cơ chế bảo vệ loài”\nKhảo sát tiền làm tổ\nTự sửa chữa hoặc ngưng phát triển\nMiễn dịch thiên về Th1\nThai kỳ thất bại\nKết cục sản khoa bất lợi\nBất thường thượng di truyền\nMethyl hóa các đảo CpG trên DNA\nẢnh hưởng lên tiến trình điều hòa gen của phôi và NMTC"
+        },
+        {
+          "page": 13,
+          "quote": "Hiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa",
+          "type": "text"
         }
       ],
       "review": {
-        "source": false,
-        "semantic": false,
+        "source": true,
+        "semantic": true,
         "coverage": false
+      },
+      "reviewNotes": {
+        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
+        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
       }
     }
+  ],
+  "reviewStatus": "needs-expansion",
+  "reviewReport": "content/reviews/gametes-rounds12.md",
+  "examEligibility": {
+    "eligible": false,
+    "reason": "Chưa đủ câu khác ý ở mức vận dụng/vận dụng cao cho đề40 theo10/20/10 sau rà soát; không đổi nhãn để bù số.",
+    "levels": {
+      "understand": 27,
+      "apply": 9,
+      "analyze": 2
+    },
+    "distinctConceptsByLevel": {
+      "understand": 23,
+      "apply": 8,
+      "analyze": 2
+    },
+    "distinctConcepts": 30
+  },
+  "limitations": [
+    "Ngân hàng hiện có 38 câu; còn các biến thể chung concept, không được lấy chung một đề.",
+    "Chỉ những câu hiện có đã qua đối chiếu nguồn và tự giải lựa chọn; điều kiện đề40 chưa đạt.",
+    "Chưa có đủ căn cứ để tạo khoảng100 câu độc lập và đủ10/20/10; cần bổ sung tài liệu hoặc đổi cấu hình đề theo quyết định của người dùng."
   ]
 }
