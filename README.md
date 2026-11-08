@@ -1,10 +1,10 @@
 # Ôn tập Module Sản
 
-Web trắc nghiệm tiếng Việt theo từng tài liệu trong thư mục cha. Mỗi lượt thi có 40 câu chữ (A–B–C–D), xáo trộn câu **trong từng mức độ** và đi theo thứ tự 10 thông hiểu, 20 vận dụng, 10 vận dụng cao. Sau khi chọn đáp án, web báo đúng/sai ngay và mở được giải thích cùng trang/slide gốc.
+Web trắc nghiệm tiếng Việt theo từng tài liệu trong thư mục cha. Mỗi lượt thi có 40 câu chữ (A–B–C–D), xáo trộn câu **trong từng mức độ** và đi theo thứ tự 10 Dễ, 20 Khó, 10 Cực khó. Nhãn là độ khó tương đối trong chính tài liệu, không phải chỉ định lâm sàng. Sau khi chọn đáp án, web báo đúng/sai ngay và mở được giải thích cùng trang/slide gốc.
 
 ## Tình trạng nội dung
 
-Không thể xem ngân hàng là đã duyệt chỉ vì trang web chạy. `content/banks/*.json` lưu câu hỏi và dấu kiểm tra. `scripts/build_site.py` **chỉ phát hành** một phần khi mọi câu trong phần đó đã qua hai lượt nguồn và ngữ nghĩa, đủ 10/20/10 câu với concept không trùng, và `reviewStatus` của phần là `passed2`. Những phần còn lại hiển thị “Đang kiểm duyệt”. Xem `content/REVIEW_POLICY.md`, `content/source-issues.json` và `content/reviews/` trước khi mở khóa một phần.
+Không thể xem ngân hàng là đã duyệt chỉ vì trang web chạy. `content/banks/*.json` lưu câu hỏi và dấu kiểm tra. `scripts/build_site.py` **chỉ phát hành** một phần khi mọi câu trong phần đó đã qua hai lượt nguồn và ngữ nghĩa, đủ 10/20/10 theo nhãn độ khó tương đối, và `reviewStatus` của phần là `passed2`. Xem `content/REVIEW_POLICY.md`, `content/source-issues.json` và `content/reviews/` trước khi sửa một phần.
 
 Một số slide có nội dung nằm trong ảnh nên cần đối chiếu ảnh gốc, không thể chỉ kiểm lớp chữ tự động. Có mệnh đề trong nguồn cần xác minh chuyên môn; các trang này bị loại khỏi câu hỏi. Nguồn học có thể chứa các mốc hoặc phác đồ không còn phù hợp thực hành hiện nay; trang web là công cụ học theo nguồn, không dùng để chỉ định điều trị.
 

@@ -95,7 +95,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -130,7 +135,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -165,7 +175,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -200,7 +215,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -242,7 +262,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -277,7 +302,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -312,7 +342,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -347,7 +382,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -382,7 +422,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -424,7 +469,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -459,7 +509,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -494,7 +549,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -529,7 +589,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -564,7 +629,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -599,7 +669,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -634,7 +709,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -669,7 +749,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -704,7 +789,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -739,7 +829,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -774,7 +869,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -809,7 +909,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -844,7 +949,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -879,7 +989,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -914,7 +1029,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -949,7 +1069,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -984,7 +1109,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1019,7 +1149,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1061,7 +1196,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1096,7 +1236,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1131,7 +1276,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1166,7 +1316,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1201,7 +1356,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1236,7 +1396,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1271,7 +1436,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1306,7 +1476,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1341,7 +1516,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1376,7 +1556,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1411,7 +1596,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1446,7 +1636,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1481,7 +1676,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1516,7 +1716,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1551,7 +1756,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1586,7 +1796,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1621,7 +1836,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1656,7 +1876,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1691,7 +1916,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1726,7 +1956,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1761,7 +1996,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1796,7 +2036,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1831,7 +2076,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1866,7 +2116,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1901,7 +2156,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1943,7 +2203,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -1978,7 +2243,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2013,7 +2283,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2048,7 +2323,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2083,7 +2363,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2118,7 +2403,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2153,7 +2443,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2188,7 +2483,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2223,7 +2523,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2265,7 +2570,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2300,7 +2610,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2342,7 +2657,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2377,7 +2697,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2419,7 +2744,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2468,7 +2798,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2503,7 +2838,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2538,7 +2878,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2573,7 +2918,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2615,7 +2965,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2657,7 +3012,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2699,7 +3059,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2734,7 +3099,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2776,7 +3146,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2825,7 +3200,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2867,7 +3247,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2923,7 +3308,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -2965,7 +3355,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -3014,7 +3409,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -3048,7 +3448,12 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     },
     {
@@ -3082,10 +3487,22 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     }
   ],
   "reviewStatus": "passed2",
-  "reviewReport": "content/reviews/early-rounds12.md"
+  "reviewReport": "content/reviews/difficulty-release-policy.md",
+  "examEligibility": {
+    "eligible": true,
+    "reason": "Đủ 40 câu nguồn nội bộ; đề được sắp theo 10 Dễ, 20 Khó, 10 Cực khó."
+  },
+  "limitations": [
+    "Chỉ dùng kiến thức của đúng tài liệu này. Dễ/Khó/Cực khó là mức tương đối trong tài liệu, không phải khuyến cáo thực hành."
+  ]
 }

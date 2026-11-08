@@ -6,7 +6,7 @@
 
 1. Nguồn: đối chiếu mệnh đề đúng, điều kiện áp dụng, con số và đơn vị với bản gốc; kiểm tra hình khi chữ nằm trong hình. Trích dẫn phải thuộc đúng tài liệu. OCR chỉ giúp tìm nội dung, không là bằng chứng đã duyệt.
 2. Câu hỏi: tự giải lại, kiểm tra cả 4 lựa chọn, loại câu có nhiều đáp án, mơ hồ hoặc suy luận ngoài nguồn; xác định đúng mức độ. Thông hiểu = giải thích/phân biệt; vận dụng = áp dụng vào tình huống; vận dụng cao = kết hợp nhiều dữ kiện hoặc phân tích chuỗi cơ chế. Độ dài câu không quyết định mức độ.
-Trước khi mở phần, kiểm tra cơ học trùng ý, chủ đề, phân bố mức độ và khả năng lấy 40 câu không trùng (10 thông hiểu, 20 vận dụng, 10 vận dụng cao). Các câu cùng một ý cốt lõi không được xuất hiện trong cùng đề. Lượt kiểm tra bao quát độc lập là tùy chọn và được ghi riêng.
+Trước khi mở phần, kiểm tra cơ học trùng ý, chủ đề, phân bố mức độ và khả năng lấy 40 câu theo 10 Dễ, 20 Khó, 10 Cực khó. Các nhãn này là độ khó tương đối trong cùng tài liệu, không phải phân loại mục tiêu lâm sàng. Lượt kiểm tra bao quát độc lập là tùy chọn và được ghi riêng.
 
 Mỗi lượt có kết quả và danh sách lỗi riêng. Sửa nội dung làm mất hiệu lực các xác nhận cũ. Chỉ sử dụng bản đã qua đủ hai lượt và kiểm tra chọn đề. Không tự đánh dấu đạt chỉ vì JSON hợp lệ hoặc chạy cùng một chương trình hai lần.
 

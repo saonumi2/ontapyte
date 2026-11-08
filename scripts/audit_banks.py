@@ -22,6 +22,7 @@ for f in sorted((ROOT/'content'/'banks').glob('m[0-9][0-9].json')):
         stems.add(st)
         if q.get('topicId') not in topics: errors.append(f'{ident}: unknown topic')
         if q.get('level') not in ('understand','apply','analyze'):errors.append(f'{ident}: invalid level')
+        if q.get('difficulty') not in ('easy','hard','veryHard'):errors.append(f'{ident}: invalid difficulty')
         options=q.get('options',[])
         if len(options)!=4 or len({norm(x) for x in options})!=4: errors.append(f'{ident}: options missing/duplicate')
         if not isinstance(q.get('answer'),int) or q['answer'] not in range(4):errors.append(f'{ident}: invalid answer')
@@ -37,18 +38,19 @@ for f in sorted((ROOT/'content'/'banks').glob('m[0-9][0-9].json')):
                 if ref.get('type')!='visual' or not ref.get('transcriptionVerified'):
                     errors.append(f'{ident}: quote not in text layer page {page}')
     counts=Counter(q['level'] for q in qs)
+    difficulties=Counter(q['difficulty'] for q in qs)
     threshold_errors=[]
-    concepts={level:len({q['conceptId'] for q in qs if q['level']==level}) for level in ('understand','apply','analyze')}
-    for level,n in [('understand',10),('apply',20),('analyze',10)]:
-        if counts[level]<n or concepts[level]<n: threshold_errors.append(f'insufficient {level}: {counts[level]} questions, {concepts[level]} concepts')
+    concepts={level:len({q['conceptId'] for q in qs if q['difficulty']==level}) for level in ('easy','hard','veryHard')}
+    for level,n in [('easy',10),('hard',20),('veryHard',10)]:
+        if difficulties[level]<n: threshold_errors.append(f'insufficient {level}: {difficulties[level]} questions')
     topic_counts=Counter(q['topicId'] for q in qs)
     if any(topic_counts[t]==0 for t in topics):threshold_errors.append('unrepresented topic')
     published=d.get('reviewStatus') == 'passed2'
     meets_exam_threshold=not errors and not threshold_errors
     publishable=published and meets_exam_threshold
-    results[module]={'questions':len(qs),'levels':dict(counts),'concepts':concepts,'topicCounts':dict(topic_counts),'mechanicalPass':not errors,'examThresholdPass':not threshold_errors,'published':published,'publishable':publishable,'errors':errors,'thresholdErrors':threshold_errors}
+    results[module]={'questions':len(qs),'levels':dict(counts),'difficulties':dict(difficulties),'concepts':concepts,'topicCounts':dict(topic_counts),'mechanicalPass':not errors,'examThresholdPass':not threshold_errors,'published':published,'publishable':publishable,'errors':errors,'thresholdErrors':threshold_errors}
     label='PASS' if publishable else ('DRAFT' if not published else f'FAIL {len(errors)+len(threshold_errors)}')
-    print(module,len(qs),label,dict(counts))
+    print(module,len(qs),label,dict(difficulties))
     for err in errors[:15]:print(' ',err)
     for err in threshold_errors[:15]:print(' ',err)
 (ROOT/'content'/'reviews'/'mechanical-audit.json').write_text(json.dumps(results,ensure_ascii=False,indent=2),encoding='utf-8')

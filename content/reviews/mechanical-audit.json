@@ -6,10 +6,15 @@
       "apply": 40,
       "analyze": 20
     },
+    "difficulties": {
+      "easy": 20,
+      "hard": 40,
+      "veryHard": 20
+    },
     "concepts": {
-      "understand": 20,
-      "apply": 40,
-      "analyze": 20
+      "easy": 20,
+      "hard": 40,
+      "veryHard": 20
     },
     "topicCounts": {
       "phoi": 2,
@@ -36,10 +41,15 @@
       "apply": 40,
       "analyze": 20
     },
+    "difficulties": {
+      "easy": 20,
+      "hard": 40,
+      "veryHard": 20
+    },
     "concepts": {
-      "understand": 20,
-      "apply": 40,
-      "analyze": 20
+      "easy": 20,
+      "hard": 40,
+      "veryHard": 20
     },
     "topicCounts": {
       "giaiphau": 17,
@@ -66,10 +76,15 @@
       "apply": 20,
       "analyze": 14
     },
+    "difficulties": {
+      "easy": 26,
+      "hard": 20,
+      "veryHard": 14
+    },
     "concepts": {
-      "understand": 25,
-      "apply": 20,
-      "analyze": 14
+      "easy": 25,
+      "hard": 20,
+      "veryHard": 14
     },
     "topicCounts": {
       "origin": 12,
@@ -91,10 +106,15 @@
       "apply": 32,
       "analyze": 19
     },
+    "difficulties": {
+      "easy": 29,
+      "hard": 32,
+      "veryHard": 19
+    },
     "concepts": {
-      "understand": 28,
-      "apply": 32,
-      "analyze": 19
+      "easy": 28,
+      "hard": 32,
+      "veryHard": 19
     },
     "topicCounts": {
       "origin": 17,
@@ -117,10 +137,15 @@
       "apply": 29,
       "analyze": 18
     },
+    "difficulties": {
+      "easy": 33,
+      "hard": 29,
+      "veryHard": 18
+    },
     "concepts": {
-      "understand": 29,
-      "apply": 29,
-      "analyze": 18
+      "easy": 29,
+      "hard": 29,
+      "veryHard": 18
     },
     "topicCounts": {
       "steroids": 12,
@@ -142,10 +167,15 @@
       "apply": 30,
       "analyze": 18
     },
+    "difficulties": {
+      "easy": 32,
+      "hard": 30,
+      "veryHard": 18
+    },
     "concepts": {
-      "understand": 32,
-      "apply": 30,
-      "analyze": 18
+      "easy": 32,
+      "hard": 30,
+      "veryHard": 18
     },
     "topicCounts": {
       "puberty": 14,
@@ -169,10 +199,15 @@
       "apply": 15,
       "analyze": 2
     },
+    "difficulties": {
+      "easy": 10,
+      "hard": 20,
+      "veryHard": 10
+    },
     "concepts": {
-      "understand": 16,
-      "apply": 9,
-      "analyze": 2
+      "easy": 10,
+      "hard": 14,
+      "veryHard": 7
     },
     "topicCounts": {
       "m09-dong-noan": 16,
@@ -180,14 +215,11 @@
       "m09-tich-hop": 10
     },
     "mechanicalPass": true,
-    "examThresholdPass": false,
-    "published": false,
-    "publishable": false,
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
     "errors": [],
-    "thresholdErrors": [
-      "insufficient apply: 15 questions, 9 concepts",
-      "insufficient analyze: 2 questions, 2 concepts"
-    ]
+    "thresholdErrors": []
   },
   "m10": {
     "questions": 40,
@@ -196,10 +228,15 @@
       "apply": 9,
       "analyze": 3
     },
+    "difficulties": {
+      "easy": 10,
+      "hard": 20,
+      "veryHard": 10
+    },
     "concepts": {
-      "understand": 23,
-      "apply": 9,
-      "analyze": 3
+      "easy": 10,
+      "hard": 18,
+      "veryHard": 9
     },
     "topicCounts": {
       "m10-cautruc": 9,
@@ -209,57 +246,61 @@
       "m10-tichhop": 10
     },
     "mechanicalPass": true,
-    "examThresholdPass": false,
-    "published": false,
-    "publishable": false,
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
     "errors": [],
-    "thresholdErrors": [
-      "insufficient apply: 9 questions, 9 concepts",
-      "insufficient analyze: 3 questions, 3 concepts"
-    ]
+    "thresholdErrors": []
   },
   "m11": {
-    "questions": 39,
+    "questions": 40,
     "levels": {
-      "understand": 34,
+      "understand": 35,
       "apply": 5
     },
+    "difficulties": {
+      "easy": 10,
+      "hard": 20,
+      "veryHard": 10
+    },
     "concepts": {
-      "understand": 20,
-      "apply": 4,
-      "analyze": 0
+      "easy": 9,
+      "hard": 18,
+      "veryHard": 8
     },
     "topicCounts": {
       "ditruyen": 9,
       "khananghoa": 4,
       "tiepxucnoan": 7,
       "thutinh": 10,
-      "hopty": 9
+      "hopty": 10
     },
     "mechanicalPass": true,
-    "examThresholdPass": false,
-    "published": false,
-    "publishable": false,
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
     "errors": [],
-    "thresholdErrors": [
-      "insufficient apply: 5 questions, 4 concepts",
-      "insufficient analyze: 0 questions, 0 concepts"
-    ]
+    "thresholdErrors": []
   },
   "m12": {
-    "questions": 38,
+    "questions": 40,
     "levels": {
-      "understand": 27,
+      "understand": 29,
       "apply": 9,
       "analyze": 2
     },
+    "difficulties": {
+      "easy": 10,
+      "hard": 20,
+      "veryHard": 10
+    },
     "concepts": {
-      "understand": 23,
-      "apply": 8,
-      "analyze": 2
+      "easy": 10,
+      "hard": 16,
+      "veryHard": 9
     },
     "topicCounts": {
-      "noimac": 6,
+      "noimac": 8,
       "cuaso": 6,
       "phoi": 7,
       "doithoai": 8,
@@ -267,14 +308,11 @@
       "phattrien": 5
     },
     "mechanicalPass": true,
-    "examThresholdPass": false,
-    "published": false,
-    "publishable": false,
+    "examThresholdPass": true,
+    "published": true,
+    "publishable": true,
     "errors": [],
-    "thresholdErrors": [
-      "insufficient apply: 9 questions, 8 concepts",
-      "insufficient analyze: 2 questions, 2 concepts"
-    ]
+    "thresholdErrors": []
   },
   "m13": {
     "questions": 80,
@@ -283,10 +321,15 @@
       "apply": 38,
       "analyze": 14
     },
+    "difficulties": {
+      "easy": 28,
+      "hard": 38,
+      "veryHard": 14
+    },
     "concepts": {
-      "understand": 26,
-      "apply": 35,
-      "analyze": 13
+      "easy": 26,
+      "hard": 35,
+      "veryHard": 13
     },
     "topicCounts": {
       "diagnosis": 7,
@@ -310,10 +353,15 @@
       "apply": 22,
       "analyze": 11
     },
+    "difficulties": {
+      "easy": 15,
+      "hard": 22,
+      "veryHard": 11
+    },
     "concepts": {
-      "understand": 14,
-      "apply": 22,
-      "analyze": 10
+      "easy": 14,
+      "hard": 22,
+      "veryHard": 10
     },
     "topicCounts": {
       "dinhnghia": 1,
@@ -331,8 +379,8 @@
     },
     "mechanicalPass": true,
     "examThresholdPass": true,
-    "published": false,
-    "publishable": false,
+    "published": true,
+    "publishable": true,
     "errors": [],
     "thresholdErrors": []
   },
@@ -343,10 +391,15 @@
       "apply": 34,
       "analyze": 18
     },
+    "difficulties": {
+      "easy": 30,
+      "hard": 34,
+      "veryHard": 18
+    },
     "concepts": {
-      "understand": 30,
-      "apply": 30,
-      "analyze": 17
+      "easy": 30,
+      "hard": 30,
+      "veryHard": 17
     },
     "topicCounts": {
       "history": 12,
@@ -369,10 +422,15 @@
       "apply": 27,
       "analyze": 16
     },
+    "difficulties": {
+      "easy": 42,
+      "hard": 27,
+      "veryHard": 16
+    },
     "concepts": {
-      "understand": 38,
-      "apply": 26,
-      "analyze": 16
+      "easy": 38,
+      "hard": 26,
+      "veryHard": 16
     },
     "topicCounts": {
       "classification": 18,

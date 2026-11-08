@@ -84,12 +84,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q002",
@@ -120,12 +121,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q003",
@@ -156,12 +158,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q004",
@@ -192,12 +195,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q005",
@@ -228,12 +232,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q006",
@@ -264,12 +269,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q007",
@@ -300,12 +306,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q008",
@@ -336,12 +343,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q009",
@@ -372,12 +380,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q010",
@@ -408,12 +417,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy"
     },
     {
       "id": "m12-q011",
@@ -444,12 +454,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q012",
@@ -480,12 +491,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
     },
     {
       "id": "m12-q013",
@@ -516,12 +528,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q014",
@@ -552,12 +565,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q015",
@@ -588,12 +602,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q016",
@@ -624,12 +639,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q017",
@@ -660,12 +676,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q018",
@@ -696,12 +713,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q019",
@@ -732,12 +750,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q020",
@@ -769,12 +788,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q021",
@@ -806,12 +826,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q022",
@@ -848,12 +869,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
     },
     {
       "id": "m12-q023",
@@ -884,12 +906,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q024",
@@ -920,12 +943,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q025",
@@ -956,12 +980,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q026",
@@ -992,12 +1017,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
     },
     {
       "id": "m12-q027",
@@ -1028,12 +1054,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
     },
     {
       "id": "m12-q030",
@@ -1064,12 +1091,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q031",
@@ -1104,12 +1132,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
     },
     {
       "id": "m12-q032",
@@ -1144,12 +1173,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
     },
     {
       "id": "m12-q033",
@@ -1184,12 +1214,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q034",
@@ -1224,12 +1255,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q035",
@@ -1265,12 +1297,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
     },
     {
       "id": "m12-q036",
@@ -1311,12 +1344,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
     },
     {
       "id": "m12-q037",
@@ -1348,12 +1382,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q038",
@@ -1395,12 +1430,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
     },
     {
       "id": "m12-q039",
@@ -1431,12 +1467,13 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
-      }
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard"
     },
     {
       "id": "m12-q040",
@@ -1477,34 +1514,98 @@
       "review": {
         "source": true,
         "semantic": true,
-        "coverage": false
+        "coverage": true
       },
       "reviewNotes": {
-        "source": "Đối chiếu riêng với trang/slide của đúng tài liệu; xem báo cáo gametes-rounds12.md.",
-        "semantic": "Đã tự giải lại cả bốn lựa chọn; các câu đồng ý cốt lõi dùng chung conceptId; mức độ đã hạ khi chỉ là đọc/nhận diện."
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard"
+    },
+    {
+      "id": "m12-q041",
+      "topicId": "noimac",
+      "conceptId": "m12-pinopode-dialogue-location",
+      "level": "understand",
+      "stem": "Theo tài liệu, các cuộc đối thoại quan trọng giữa phôi và nội mạc tử cung diễn ra ở bề mặt cấu trúc nào?",
+      "options": [
+        "Pinopode",
+        "Mạch máu xoắn ốc",
+        "Hoàng thể chu kỳ",
+        "Màng trong suốt của noãn"
+      ],
+      "answer": 0,
+      "explanation": "Slide 5 ghi tại bề mặt các Pinopode diễn ra các cuộc đối thoại quan trọng giữa phôi và nội mạc tử cung, chuẩn bị làm tổ.",
+      "optionExplanations": [
+        "Slide 5 ghi tại bề mặt các Pinopode diễn ra các cuộc đối thoại quan trọng giữa phôi và nội mạc tử cung, chuẩn bị làm tổ.",
+        "Không phù hợp với nội dung được nêu trong tài liệu.",
+        "Không phù hợp với nội dung được nêu trong tài liệu.",
+        "Không phù hợp với nội dung được nêu trong tài liệu."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "tại bề mặt của các Pinopode sẽ diễn ra các cuộc đối thoại quan trọng giữa phôi và NMTC",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      }
+    },
+    {
+      "id": "m12-q042",
+      "topicId": "noimac",
+      "conceptId": "m12-two-cell-blocks-role",
+      "level": "understand",
+      "stem": "Khi đến buồng tử cung, tài liệu mô tả phôi nang có bao nhiêu khối tế bào chính?",
+      "options": [
+        "Hai khối: khối tế bào trong và ngoại bì lá nuôi",
+        "Một khối tế bào duy nhất",
+        "Ba khối: noãn, tinh trùng và hợp tử",
+        "Bốn khối tương ứng bốn cực cầu"
+      ],
+      "answer": 0,
+      "explanation": "Slide 7 mô tả phôi nang gồm hai khối tế bào: khối tế bào trong và ngoại bì lá nuôi.",
+      "optionExplanations": [
+        "Slide 7 mô tả phôi nang gồm hai khối tế bào: khối tế bào trong và ngoại bì lá nuôi.",
+        "Không phù hợp với nội dung được nêu trong tài liệu.",
+        "Không phù hợp với nội dung được nêu trong tài liệu.",
+        "Không phù hợp với nội dung được nêu trong tài liệu."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "phôi ở giai đoạn phôi nang, gồm 2 khối tế bào: khối tế bào trong và ngoại bì lá nuôi",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
     }
   ],
-  "reviewStatus": "needs-expansion",
-  "reviewReport": "content/reviews/gametes-rounds12.md",
+  "reviewStatus": "passed2",
+  "reviewReport": "content/reviews/difficulty-release-policy.md",
   "examEligibility": {
-    "eligible": false,
-    "reason": "Chưa đủ câu khác ý ở mức vận dụng/vận dụng cao cho đề40 theo10/20/10 sau rà soát; không đổi nhãn để bù số.",
-    "levels": {
-      "understand": 27,
-      "apply": 9,
-      "analyze": 2
-    },
-    "distinctConceptsByLevel": {
-      "understand": 23,
-      "apply": 8,
-      "analyze": 2
-    },
-    "distinctConcepts": 30
+    "eligible": true,
+    "reason": "Đủ 40 câu nguồn nội bộ; đề được sắp theo 10 Dễ, 20 Khó, 10 Cực khó."
   },
   "limitations": [
-    "Ngân hàng hiện có 38 câu; còn các biến thể chung concept, không được lấy chung một đề.",
-    "Chỉ những câu hiện có đã qua đối chiếu nguồn và tự giải lựa chọn; điều kiện đề40 chưa đạt.",
-    "Chưa có đủ căn cứ để tạo khoảng100 câu độc lập và đủ10/20/10; cần bổ sung tài liệu hoặc đổi cấu hình đề theo quyết định của người dùng."
+    "Chỉ dùng kiến thức của đúng tài liệu này. Dễ/Khó/Cực khó là mức tương đối trong tài liệu, không phải khuyến cáo thực hành."
   ]
 }

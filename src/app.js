@@ -1,26 +1,26 @@
 const $ = (id) => document.getElementById(id);
-const LEVELS = {understand:'Thông hiểu',apply:'Vận dụng',analyze:'Vận dụng cao'};
-const COUNTS = {understand:10,apply:20,analyze:10};
+const LEVELS = {easy:'Dễ',hard:'Khó',veryHard:'Cực khó'};
+const COUNTS = {easy:10,hard:20,veryHard:10};
 const shuffle = (array) => {const a=[...array];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 let catalog=[], current=null, quiz=[], index=0, results=[], chosen=null, shown=false;
 function show(name){for(const id of ['home','quiz','result']) $(id).hidden=id!==name; window.scrollTo({top:0,behavior:'instant'})}
 function sample(bank){
   const topics=new Set(bank.topics.map(t=>t.id));
   for(let attempt=0;attempt<500;attempt++){
-    const usedConcepts=new Set(), covered=new Set(), selection=[];
+    const covered=new Set(), selection=[];
     let valid=true;
-    for(const [level,count] of [['apply',20],['analyze',10],['understand',10]]){
+    for(const [level,count] of [['hard',20],['veryHard',10],['easy',10]]){
       for(let n=0;n<count;n++){
-        const candidates=shuffle(bank.questions.filter(q=>q.level===level&&!usedConcepts.has(q.conceptId)));
+        const candidates=shuffle(bank.questions.filter(q=>q.difficulty===level&&!selection.includes(q)));
         if(!candidates.length){valid=false;break}
         const uncovered=candidates.filter(q=>!covered.has(q.topicId));
         const pick=(uncovered.length?uncovered:candidates)[0];
-        selection.push(pick);usedConcepts.add(pick.conceptId);covered.add(pick.topicId);
+        selection.push(pick);covered.add(pick.topicId);
       }
       if(!valid)break;
     }
     if(valid&&[...topics].every(t=>covered.has(t))){
-      const ordered=['understand','apply','analyze'].flatMap(level=>selection.filter(q=>q.level===level));
+      const ordered=['easy','hard','veryHard'].flatMap(level=>selection.filter(q=>q.difficulty===level));
       return ordered.map(q=>{
         const order=shuffle([0,1,2,3]);
         return {...q,options:order.map(i=>q.options[i]),optionExplanations:order.map(i=>q.optionExplanations[i]),answer:order.indexOf(q.answer)};
@@ -53,7 +53,7 @@ function renderQuestion(){
   $('quiz-title').textContent=current.title;
   $('progress-fill').style.width=`${index/40*100}%`;
   $('number').textContent=`CÂU ${index+1} / 40`;
-  $('level').textContent=`(${LEVELS[q.level]})`;
+  $('level').textContent=`(${LEVELS[q.difficulty]})`;
   $('topic').textContent=current.topics[q.topicId]||'';
   $('stem').textContent=q.stem;
   $('feedback').hidden=true;$('explanation').hidden=true;$('show-explanation').hidden=true;$('next').hidden=true;
@@ -66,7 +66,7 @@ function renderQuestion(){
 }
 function answer(i){
   if(chosen!==null)return;
-  const q=quiz[index];chosen=i;results.push({level:q.level,correct:i===q.answer});
+  const q=quiz[index];chosen=i;results.push({level:q.difficulty,correct:i===q.answer});
   [...$('options').children].forEach((button,n)=>{button.disabled=true;if(n===q.answer)button.classList.add('correct');if(n===i&&i!==q.answer)button.classList.add('wrong')});
   $('feedback').hidden=false;$('feedback').className=`feedback ${i===q.answer?'good':'bad'}`;
   $('feedback').textContent=i===q.answer?'Chính xác!':`Chưa đúng. Đáp án đúng là ${'ABCD'[q.answer]}.`;

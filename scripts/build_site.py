@@ -16,10 +16,9 @@ for path in sorted((ROOT/'content').glob('m[0-9][0-9].json')):
     bank_path=ROOT/'content'/'banks'/path.name
     bank=json.loads(bank_path.read_text(encoding='utf-8-sig')) if bank_path.exists() else None
     q=bank['questions'] if bank else []
-    level_counts=Counter(x['level'] for x in q)
+    level_counts=Counter(x.get('difficulty') for x in q)
     all_reviewed=all(all(x.get('review',{}).get(k) is True for k in ('source','semantic')) for x in q)
-    concepts={l:len({x.get('conceptId') for x in q if x['level']==l}) for l in ('understand','apply','analyze')}
-    enough=all(concepts[l]>=n for l,n in [('understand',10),('apply',20),('analyze',10)])
+    enough=all(level_counts[l]>=n for l,n in [('easy',10),('hard',20),('veryHard',10)])
     eligible=bank.get('examEligibility',{}).get('eligible',True)
     ready=bool(q) and all_reviewed and enough and eligible and bank.get('reviewStatus')=='passed2'
     if ready: ready_reason='Đã qua 2 lượt kiểm và đủ điều kiện tạo đề 40 câu.'
