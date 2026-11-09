@@ -35,25 +35,25 @@
     "thresholdErrors": []
   },
   "m04": {
-    "questions": 80,
+    "questions": 83,
     "levels": {
-      "understand": 20,
+      "understand": 23,
       "apply": 40,
       "analyze": 20
     },
     "difficulties": {
-      "easy": 20,
-      "hard": 40,
-      "veryHard": 20
+      "easy": 21,
+      "hard": 41,
+      "veryHard": 21
     },
     "concepts": {
-      "easy": 20,
-      "hard": 40,
-      "veryHard": 20
+      "easy": 21,
+      "hard": 41,
+      "veryHard": 21
     },
     "topicCounts": {
       "giaiphau": 17,
-      "phoi": 5,
+      "phoi": 8,
       "mohoc": 20,
       "hoangthe": 4,
       "chucnang": 3,
@@ -161,28 +161,28 @@
     "thresholdErrors": []
   },
   "m08": {
-    "questions": 80,
+    "questions": 84,
     "levels": {
-      "understand": 32,
+      "understand": 36,
       "apply": 30,
       "analyze": 18
     },
     "difficulties": {
       "easy": 32,
-      "hard": 30,
-      "veryHard": 18
+      "hard": 32,
+      "veryHard": 20
     },
     "concepts": {
       "easy": 32,
-      "hard": 30,
-      "veryHard": 18
+      "hard": 32,
+      "veryHard": 20
     },
     "topicCounts": {
       "puberty": 14,
       "menopause": 12,
       "aub": 8,
       "amenorrhea": 15,
-      "contraception": 24,
+      "contraception": 28,
       "emergency": 7
     },
     "mechanicalPass": true,

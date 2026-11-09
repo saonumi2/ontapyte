@@ -20,6 +20,8 @@ for f in sorted((ROOT/'content'/'banks').glob('m[0-9][0-9].json')):
         st=norm(q.get('stem',''))
         if st in stems: errors.append(f'duplicate stem {ident}')
         stems.add(st)
+        if re.search(r'(?i)(?:theo|dựa vào|trong)\s+(?:bài|slide|trang|tài liệu|bảng|sơ đồ)|\b(?:slide|trang)\s*\d+',q.get('stem','')):
+            errors.append(f'{ident}: source cue in question stem')
         if q.get('topicId') not in topics: errors.append(f'{ident}: unknown topic')
         if q.get('level') not in ('understand','apply','analyze'):errors.append(f'{ident}: invalid level')
         if q.get('difficulty') not in ('easy','hard','veryHard'):errors.append(f'{ident}: invalid difficulty')

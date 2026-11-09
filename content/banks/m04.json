@@ -3184,6 +3184,108 @@
         "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
         "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
+    },
+    {
+      "id": "m04-q081",
+      "topicId": "phoi",
+      "conceptId": "m04-follicle-reserve-birth",
+      "level": "understand",
+      "difficulty": "easy",
+      "stem": "Đến lúc sinh, buồng trứng bé gái có khoảng bao nhiêu nang noãn?",
+      "options": [
+        "Khoảng 1 triệu",
+        "Khoảng 30.000",
+        "Khoảng 8.000",
+        "Khoảng 400–500"
+      ],
+      "answer": 0,
+      "explanation": "Nguồn ghi khoảng 1 triệu nang noãn lúc sinh; các con số còn lại thuộc những mốc khác.",
+      "optionExplanations": [
+        "Nguồn ghi khoảng 1 triệu nang noãn lúc sinh; các con số còn lại thuộc những mốc khác.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Đến lúc sinh, buồng trứng bé gái sẽ có khoảng 1 triệu nang noãn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m04-q082",
+      "topicId": "phoi",
+      "conceptId": "m04-follicle-reserve-puberty",
+      "level": "understand",
+      "difficulty": "hard",
+      "stem": "Đến tuổi dậy thì, số nang noãn còn lại được nêu xấp xỉ bao nhiêu?",
+      "options": [
+        "30.000",
+        "1 triệu",
+        "8.000",
+        "400–500"
+      ],
+      "answer": 0,
+      "explanation": "Mốc dậy thì là khoảng 30.000 nang noãn; 1 triệu thuộc lúc sinh.",
+      "optionExplanations": [
+        "Mốc dậy thì là khoảng 30.000 nang noãn; 1 triệu thuộc lúc sinh.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Đến lúc dậy thì còn khoảng 30.000 nang noãn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m04-q083",
+      "topicId": "phoi",
+      "conceptId": "m04-lifetime-ovulations",
+      "level": "understand",
+      "difficulty": "veryHard",
+      "stem": "Trong số nang noãn có từ đầu đời, khoảng bao nhiêu nang tiến triển đến trưởng thành và phóng noãn?",
+      "options": [
+        "400–500",
+        "Khoảng 1 triệu",
+        "Khoảng 30.000",
+        "Khoảng 8.000"
+      ],
+      "answer": 0,
+      "explanation": "Nguồn nêu chỉ một số ít, khoảng 400–500 nang, tiến triển đến trưởng thành và phóng noãn.",
+      "optionExplanations": [
+        "Nguồn nêu chỉ một số ít, khoảng 400–500 nang, tiến triển đến trưởng thành và phóng noãn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "Chỉ một số ít 400-500 nang noãn tiến triển đến trưởng thành và\nphóng noãn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
     }
   ],
   "reviewStatus": "passed2",

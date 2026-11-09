@@ -3098,6 +3098,142 @@
         "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
         "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
+    },
+    {
+      "id": "m08-q081",
+      "topicId": "contraception",
+      "conceptId": "m08-fsh-negative-feedback",
+      "level": "understand",
+      "difficulty": "hard",
+      "stem": "Estrogen ngoại sinh tạo phản hồi âm lên tuyến yên và ức chế FSH dẫn tới hệ quả nào?",
+      "options": [
+        "Không có nang noãn vượt trội",
+        "Tăng đỉnh LH",
+        "Tăng phóng noãn",
+        "Tăng tiết FSH"
+      ],
+      "answer": 0,
+      "explanation": "Nguồn nối phản hồi âm, ức chế FSH với chu kỳ không có nang noãn vượt trội.",
+      "optionExplanations": [
+        "Nguồn nối phản hồi âm, ức chế FSH với chu kỳ không có nang noãn vượt trội.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "ức chế hoàn toàn sự tiết FSH → chu kỳ không có nang noãn vượt trội",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q082",
+      "topicId": "contraception",
+      "conceptId": "m08-lasds-differences",
+      "level": "understand",
+      "difficulty": "veryHard",
+      "stem": "Vì sao các hệ phóng thích steroid tác dụng dài có thể khác nhau về cơ chế tránh thai?",
+      "options": [
+        "Lượng progestogen phóng thích hằng ngày và hoạt tính của chất khác nhau",
+        "Mọi hệ luôn có cùng liều và hoạt tính",
+        "Chỉ do vị trí đặt, không liên quan hoạt chất",
+        "Chỉ do estrogen được phóng thích hằng ngày"
+      ],
+      "answer": 0,
+      "explanation": "Nguồn nêu khác biệt về lượng phóng thích hằng ngày và hoạt tính progestogenic của hoạt chất.",
+      "optionExplanations": [
+        "Nguồn nêu khác biệt về lượng phóng thích hằng ngày và hoạt tính progestogenic của hoạt chất.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn."
+      ],
+      "sources": [
+        {
+          "page": 25,
+          "quote": "khác nhau trong liều lượng phóng thích progestogen hàng ngày cũng như các hoạt tính progestogenic",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q083",
+      "topicId": "contraception",
+      "conceptId": "m08-lh-negative-feedback",
+      "level": "understand",
+      "difficulty": "hard",
+      "stem": "Progestogen ngoại sinh ngăn đỉnh LH qua phản hồi âm dẫn đến hệ quả nào?",
+      "options": [
+        "Chu kỳ không phóng noãn",
+        "FSH tăng tạo nang vượt trội",
+        "Luôn xuất hiện hai đỉnh LH",
+        "Estrogen nội sinh mất hoàn toàn"
+      ],
+      "answer": 0,
+      "explanation": "Nguồn nối phản hồi âm lên hạ đồi và tuyến yên, ngăn đỉnh LH, với chu kỳ không phóng noãn.",
+      "optionExplanations": [
+        "Nguồn nối phản hồi âm lên hạ đồi và tuyến yên, ngăn đỉnh LH, với chu kỳ không phóng noãn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "ngăn chặn sự xuất hiện của đỉnh LH nhờ phản hồi âm lên hạ đồi & tuyến yên → chu kỳ không có phóng noãn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
+    },
+    {
+      "id": "m08-q084",
+      "topicId": "contraception",
+      "conceptId": "m08-lng-iud-dual-mechanism",
+      "level": "understand",
+      "difficulty": "veryHard",
+      "stem": "Ngoài tác dụng của progestogen, LNG-IUD còn có tác dụng của loại dụng cụ nào?",
+      "options": [
+        "Dụng cụ tử cung trơ",
+        "Que cấy dưới da",
+        "Vòng âm đạo phối hợp",
+        "Thuốc uống phối hợp"
+      ],
+      "answer": 0,
+      "explanation": "Nguồn ghi LNG-IUD còn có tác dụng của dụng cụ tử cung trơ.",
+      "optionExplanations": [
+        "Nguồn ghi LNG-IUD còn có tác dụng của dụng cụ tử cung trơ.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn.",
+        "Không khớp mốc hoặc cơ chế được nêu ở nguồn."
+      ],
+      "sources": [
+        {
+          "page": 25,
+          "quote": "LNG-IUD còn có tác dụng của IUD trơ",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
     }
   ],
   "reviewStatus": "passed2",
