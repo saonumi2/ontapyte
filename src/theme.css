@@ -67,3 +67,4 @@ body{background:#e8f7fc}
 :root,.hero h1,#result h1,.stem,.option,.text-button,.card button,button.primary,button.secondary,.source-link{font-family:"Inter","Be Vietnam Pro",Arial,sans-serif}
 .hero h1,.stem{letter-spacing:-.025em;word-spacing:0}
 .option{line-height:1.6}
+@media(max-width:580px){.quiz-actions{position:static;bottom:auto;background:none;padding:0;margin:22px 0 40px;flex-direction:column}}
