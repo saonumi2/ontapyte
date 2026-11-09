@@ -38,3 +38,22 @@ body{background:#eaf3ff}
 .progress-line>div{background:#2673d9}
 @media(max-width:680px){.hero{margin:20px 0 31px;padding:28px 25px}}
 @media(max-width:580px){.hero{padding:25px 21px}}
+
+/* Medical cyan from the supplied visual reference, with quiet source-backed cards. */
+body{background:#e8f7fc}
+.mark{background:#168fc5;box-shadow:0 6px 16px #148dbd2b}
+.top{border-bottom-color:#cce8f0}
+.hero{background:#dff7ff url("medical-pattern.svg") center/cover no-repeat;border-color:#b5e2ee;border-left-color:#25a7d3;box-shadow:0 6px 20px #187a9a15}
+.hero .eyebrow,.section-kicker{color:#1689b8}
+.hero .eyebrow-dot{background:#21add7;box-shadow:0 0 0 4px #d1f3fb}
+.hero h1 em{color:#087fb5}
+.hero-pills span{border-color:#bce7f4;background:#eafaff;color:#156e99}
+.card{border-color:#cce7ee}.card:before{background:#e0f7fc;color:#128fbd}
+.card:hover{border-color:#8bd4e8}
+.card .num{color:#138dbb}.card button{background:#e3f5fb;color:#116f9f}.card button:hover:not(:disabled){background:#168fc5}
+.primary{background:#168fc5;border-color:#127bad;box-shadow:0 5px 12px #168fc52b}
+.progress-line{background:#ccebf3}.progress-line>div{background:#168fc5}
+.question-meta span:last-child{background:#dff4fb;color:#117ba8}
+.option .letter{background:#e6f7fb;color:#127ca9}
+.quiz-actions{background:linear-gradient(180deg,#e8f7fc00 0,#e8f7fc 24%)}
+@media(max-width:680px){.hero{background-image:linear-gradient(90deg,#e8fafff2 0%,#e8faffe0 70%,#e8faff9c 100%),url("medical-pattern.svg");background-position:center,right center;background-size:cover,auto 100%}}

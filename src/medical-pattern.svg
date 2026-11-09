@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="wash" x2="1" y2=".35"><stop stop-color="#ecfcff"/><stop offset="1" stop-color="#bdeeff"/></linearGradient>
+    <linearGradient id="shield" x2="1" y2="1"><stop stop-color="#74d7f3"/><stop offset="1" stop-color="#249bcf"/></linearGradient>
+    <path id="hex" d="M0-25 22-12.5v25L0 25l-22-12.5v-25Z"/>
+  </defs>
+  <path fill="url(#wash)" d="M0 0h1200v360H0z"/>
+  <g stroke="#72cfe9" stroke-width="2" opacity=".42">
+    <use href="#hex" x="34" y="224"/><use href="#hex" x="79" y="224"/><use href="#hex" x="124" y="224"/>
+    <use href="#hex" x="56" y="263"/><use href="#hex" x="101" y="263"/><use href="#hex" x="146" y="263"/>
+    <use href="#hex" x="34" y="302"/><use href="#hex" x="79" y="302"/><use href="#hex" x="124" y="302"/>
+    <use href="#hex" x="1115" y="34"/><use href="#hex" x="1160" y="34"/><use href="#hex" x="1138" y="73"/>
+    <use href="#hex" x="1160" y="112"/><use href="#hex" x="1138" y="151"/><use href="#hex" x="1183" y="151"/>
+  </g>
+  <g fill="#8cddf3" opacity=".32"><use href="#hex" x="79" y="224"/><use href="#hex" x="34" y="302"/><use href="#hex" x="1160" y="112"/></g>
+  <g stroke="#4dbbde" stroke-width="1.7" opacity=".52">
+    <path d="M0 73 42 98 84 73l44 26 42-25 42 25 43-26M255 73l31-20M83 73V24M170 74V20M43 98v45l42 24 42-24"/>
+    <path d="m765 29 45 25 45-25 45 25 45-25 45 25 46-25M810 54v46l45 26 45-26V54M945 29v45"/>
+    <path d="m1030 272 45-26 45 26 44-26 36 21M1075 246v-50M1120 272v52"/>
+  </g>
+  <g fill="#3eb4dc" opacity=".64">
+    <circle cx="42" cy="98" r="4"/><circle cx="84" cy="73" r="4"/><circle cx="170" cy="74" r="4"/><circle cx="255" cy="73" r="4"/>
+    <circle cx="810" cy="54" r="4"/><circle cx="855" cy="29" r="4"/><circle cx="900" cy="54" r="4"/><circle cx="1036" cy="29" r="4"/>
+    <circle cx="1075" cy="246" r="4"/><circle cx="1120" cy="272" r="4"/>
+  </g>
+  <g transform="translate(1000 168)">
+    <path d="M0-86c37 29 72 24 72 24v62c0 48-27 74-72 95C-45 74-72 48-72 0v-62s35 5 72-24Z" fill="#fff" opacity=".58" stroke="#65c8e8" stroke-width="4"/>
+    <path d="M0-62c29 20 51 20 51 20V0c0 33-18 54-51 72C-33 54-51 33-51 0v-42s22 0 51-20Z" fill="#fff" opacity=".66"/>
+    <path d="M-11-35h22v24h24v22H11v24h-22V11h-24v-22h24Z" fill="url(#shield)"/>
+  </g>
+</svg>
