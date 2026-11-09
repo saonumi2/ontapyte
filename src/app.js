@@ -2,7 +2,7 @@ const $ = (id) => document.getElementById(id);
 const LEVELS = {easy:'Dễ',hard:'Khó',veryHard:'Cực khó'};
 const COUNTS = {easy:10,hard:20,veryHard:10};
 const shuffle = (array) => {const a=[...array];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
-let catalog=[], current=null, quiz=[], index=0, results=[], chosen=null, shown=false;
+let catalog=[], current=null, quiz=[], index=0, results=[], chosen=null, shown=false, sourcePage=1;
 function show(name){for(const id of ['home','quiz','result']) $(id).hidden=id!==name; window.scrollTo({top:0,behavior:'instant'})}
 function sample(bank){
   const topics=new Set(bank.topics.map(t=>t.id));
@@ -83,15 +83,24 @@ function explain(){
   target.hidden=false;$('show-explanation').hidden=true;shown=true;
 }
 function openSource(page){
-  const url=`${current.file}#page=${page}`;
   const dialog=$('source-dialog');
-  if(typeof dialog.showModal!=='function'){window.open(url,'_blank','noopener');return}
-  $('source-title').textContent=`${current.title} · ${current.file.endsWith('.pdf')?'Trang':'Slide'} ${page}`;
-  $('source-frame').src=window.matchMedia('(max-width:580px)').matches?'about:blank':url;
-  $('source-image').src=`page-previews/${current.id}-p${String(page).padStart(3,'0')}.jpg`;
-  $('source-image').alt=`${current.title}, trang ${page}`;
-  $('source-direct').href=url;
+  if(typeof dialog.showModal!=='function'){window.open(`${current.file}#page=${page}`,'_blank','noopener');return}
+  setSourcePage(page);
   dialog.showModal();
+}
+function setSourcePage(page){
+  sourcePage=Math.max(1,Math.min(current.pageCount,page));
+  const url=`${current.file}#page=${sourcePage}`;
+  $('source-title').textContent=current.title;
+  $('source-page-label').textContent=`${sourcePage} / ${current.pageCount}`;
+  $('source-prev').disabled=sourcePage===1;
+  $('source-next').disabled=sourcePage===current.pageCount;
+  if(window.matchMedia('(max-width:580px)').matches){
+    $('source-image').src=`page-previews/${current.id}-p${String(sourcePage).padStart(3,'0')}.jpg`;
+    $('source-image').alt=`${current.title}, trang ${sourcePage}`;
+    $('source-image').closest('.source-image-wrap').scrollTop=0;
+  }else $('source-frame').src=url;
+  $('source-direct').href=url;
 }
 function closeSource(){
   const dialog=$('source-dialog');
@@ -106,6 +115,8 @@ $('retry').addEventListener('click',()=>start(current));
 $('show-explanation').addEventListener('click',explain);
 $('close-source').addEventListener('click',closeSource);
 $('close-source-bottom').addEventListener('click',closeSource);
+$('source-prev').addEventListener('click',()=>setSourcePage(sourcePage-1));
+$('source-next').addEventListener('click',()=>setSourcePage(sourcePage+1));
 $('source-dialog').addEventListener('close',()=>{$('source-frame').src='about:blank';$('source-image').removeAttribute('src')});
 $('next').addEventListener('click',()=>{if(index===39)finish();else{index++;renderQuestion();window.scrollTo({top:0,behavior:'instant'})}});
 try{const response=await fetch('data/catalog.json');if(!response.ok)throw new Error('Không tải được danh mục.');catalog=await response.json();renderCatalog()}catch(error){$('catalog').textContent=error.message}

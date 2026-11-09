@@ -1,4 +1,4 @@
-"""Render cited PDF pages to mobile friendly JPEG previews."""
+"""Render every PDF page to mobile friendly JPEG previews."""
 from pathlib import Path
 import json, subprocess, shutil
 
@@ -7,11 +7,11 @@ out=root/'public'/'page-previews'
 out.mkdir(exist_ok=True)
 renderer=shutil.which('pdftoppm')
 if not renderer:raise SystemExit('pdftoppm is required to render cited pages')
-for bank_path in sorted((root/'content'/'banks').glob('m[0-9][0-9].json')):
-    bank=json.loads(bank_path.read_text(encoding='utf-8-sig'))
-    mid=bank['moduleId']
+for doc_path in sorted((root/'content').glob('m[0-9][0-9].json')):
+    doc=json.loads(doc_path.read_text(encoding='utf-8-sig'))
+    mid=doc['id']
     pdf=root/'public'/'sources'/f'{mid}.pdf'
-    pages=sorted({source['page'] for q in bank['questions'] for source in q['sources']})
+    pages=range(1,len(doc['pages'])+1)
     for page in pages:
         stem=out/f'{mid}-p{page:03}'
         image=stem.with_suffix('.jpg')

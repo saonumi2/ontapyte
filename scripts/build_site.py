@@ -18,10 +18,9 @@ for path in sorted((ROOT/'content').glob('m[0-9][0-9].json')):
     bank_path=ROOT/'content'/'banks'/path.name
     bank=json.loads(bank_path.read_text(encoding='utf-8-sig')) if bank_path.exists() else None
     q=bank['questions'] if bank else []
-    for question in q:
-        for source in question['sources']:
-            preview=ROOT/'public'/'page-previews'/f'{doc["id"]}-p{source["page"]:03}.jpg'
-            if not preview.exists():raise RuntimeError(f'Missing source preview: {preview.name}')
+    for page in range(1,len(doc['pages'])+1):
+        preview=ROOT/'public'/'page-previews'/f'{doc["id"]}-p{page:03}.jpg'
+        if not preview.exists():raise RuntimeError(f'Missing source preview: {preview.name}')
     level_counts=Counter(x.get('difficulty') for x in q)
     all_reviewed=all(all(x.get('review',{}).get(k) is True for k in ('source','semantic')) for x in q)
     enough=all(level_counts[l]>=n for l,n in [('easy',10),('hard',20),('veryHard',10)])
@@ -37,4 +36,4 @@ for path in sorted((ROOT/'content').glob('m[0-9][0-9].json')):
         public_bank={k:v for k,v in bank.items() if k in ('moduleId','title','topics','questions')}
         (DIST/'data'/path.name).write_text(json.dumps(public_bank,ensure_ascii=False),encoding='utf-8')
 (DIST/'data'/'catalog.json').write_text(json.dumps(catalog,ensure_ascii=False),encoding='utf-8')
-print('Built',DIST,'ready',sum(x['ready'] for x in catalog),'of',len(catalog))
+print('Built site: ready',sum(x['ready'] for x in catalog),'of',len(catalog))
