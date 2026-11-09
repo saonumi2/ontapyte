@@ -1988,6 +1988,40 @@
         "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
         "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
+    },
+    {
+      "id": "m14-q049",
+      "topicId": "nguyco",
+      "conceptId": "m14-cervical-pregnancy-history",
+      "level": "understand",
+      "difficulty": "hard",
+      "stem": "Những tiền sử nào được liên hệ với thai ở cổ tử cung?",
+      "options": [
+        "Nạo thai và mổ lấy thai",
+        "Chỉ viêm ruột thừa và sỏi thận",
+        "Chỉ nang noãn và u xơ",
+        "Chỉ đau đầu và tăng huyết áp"
+      ],
+      "answer": 0,
+      "explanation": "Trang nguồn liên hệ thể thai ở cổ tử cung với tiền sử nạo thai, mổ lấy thai; đây là yếu tố liên quan, không phải dấu xác nhận.",
+      "optionExplanations": [
+        "Trang nguồn liên hệ thể thai ở cổ tử cung với tiền sử nạo thai, mổ lấy thai; đây là yếu tố liên quan, không phải dấu xác nhận.",
+        "Không phù hợp với chi tiết được dẫn nguồn.",
+        "Không phù hợp với chi tiết được dẫn nguồn.",
+        "Không phù hợp với chi tiết được dẫn nguồn."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Loại TNTC này có liên quan đến tiền sử nạo thai, mổ lấy thai",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
     }
   ],
   "reviewStatus": "passed2",

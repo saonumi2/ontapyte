@@ -1597,6 +1597,40 @@
         "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
         "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
+    },
+    {
+      "id": "m12-q043",
+      "topicId": "phoi",
+      "conceptId": "m12-day3-laser-hatching",
+      "level": "understand",
+      "difficulty": "hard",
+      "stem": "Kỹ thuật nào được nêu để hỗ trợ phôi ngày 3 thoát màng?",
+      "options": [
+        "Laser",
+        "Siêu âm Doppler",
+        "Nội soi ổ bụng",
+        "Chọc dò Douglas"
+      ],
+      "answer": 0,
+      "explanation": "Trang nguồn ghi hỗ trợ phôi ngày 3 thoát màng bằng laser; không suy ra chỉ định cho từng phôi.",
+      "optionExplanations": [
+        "Trang nguồn ghi hỗ trợ phôi ngày 3 thoát màng bằng laser; không suy ra chỉ định cho từng phôi.",
+        "Không phù hợp với chi tiết được dẫn nguồn.",
+        "Không phù hợp với chi tiết được dẫn nguồn.",
+        "Không phù hợp với chi tiết được dẫn nguồn."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "Hỗ trợ phôi thoát màng đối với phôi ngày 3 bằng laser",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": false
+      }
     }
   ],
   "reviewStatus": "passed2",

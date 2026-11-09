@@ -283,26 +283,26 @@
     "thresholdErrors": []
   },
   "m12": {
-    "questions": 40,
+    "questions": 41,
     "levels": {
-      "understand": 29,
+      "understand": 30,
       "apply": 9,
       "analyze": 2
     },
     "difficulties": {
       "easy": 10,
-      "hard": 20,
+      "hard": 21,
       "veryHard": 10
     },
     "concepts": {
       "easy": 10,
-      "hard": 16,
+      "hard": 17,
       "veryHard": 9
     },
     "topicCounts": {
       "noimac": 8,
       "cuaso": 6,
-      "phoi": 7,
+      "phoi": 8,
       "doithoai": 8,
       "hcg": 6,
       "phattrien": 5
@@ -347,26 +347,26 @@
     "thresholdErrors": []
   },
   "m14": {
-    "questions": 48,
+    "questions": 49,
     "levels": {
-      "understand": 15,
+      "understand": 16,
       "apply": 22,
       "analyze": 11
     },
     "difficulties": {
       "easy": 15,
-      "hard": 22,
+      "hard": 23,
       "veryHard": 11
     },
     "concepts": {
       "easy": 14,
-      "hard": 22,
+      "hard": 23,
       "veryHard": 10
     },
     "topicCounts": {
       "dinhnghia": 1,
       "vitri": 5,
-      "nguyco": 4,
+      "nguyco": 5,
       "coche": 3,
       "lamsang": 6,
       "cls": 8,
