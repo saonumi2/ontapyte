@@ -211,7 +211,7 @@
       "topicId": "m09-nang-noan",
       "conceptId": "m09-chuoi-nang",
       "level": "understand",
-      "stem": "Trình tự phát triển nang noãn nào phù hợp với bài?",
+      "stem": "Trình tự phát triển nang noãn nào phù hợp?",
       "options": [
         "Nguyên thủy → sơ cấp → thứ cấp → trưởng thành",
         "Sơ cấp → nguyên thủy → trưởng thành → thứ cấp",
@@ -292,7 +292,7 @@
       "topicId": "m09-nang-noan",
       "conceptId": "m09-zona-khoi-dau",
       "level": "understand",
-      "stem": "Việc bắt đầu tạo zona pellucida được bài gắn với giai đoạn nào?",
+      "stem": "Việc bắt đầu tạo zona pellucida được gắn với giai đoạn nào?",
       "options": [
         "Hoàng thể thoái hóa",
         "Noãn chín sau thụ tinh mới bắt đầu tạo màng",
@@ -492,7 +492,7 @@
       "topicId": "m09-dong-noan",
       "conceptId": "m09-dung-giam-phan",
       "level": "understand",
-      "stem": "Một noãn đang tạm ngưng ở kỳ đầu của giảm phân I. gọi tế bào đó là gì?",
+      "stem": "Một noãn đang tạm ngưng ở kỳ đầu giảm phân I. Tế bào đó được gọi là gì?",
       "options": [
         "Tế bào hạt",
         "Noãn bào 1",
@@ -1250,7 +1250,7 @@
       "topicId": "m09-tich-hop",
       "conceptId": "m09-phanbiet-noan-va-nang",
       "level": "apply",
-      "stem": "Một mô hình ghép “nang nguyên thủy–noãn nguyên bào; nang sơ cấp–noãn bào 1; nang thứ cấp–noãn bào 2” theo số thứ tự. Vì sao cách ghép này không đúng với bài?",
+      "stem": "Một mô hình ghép “nang nguyên thủy–noãn nguyên bào; nang sơ cấp–noãn bào 1; nang thứ cấp–noãn bào 2” theo số thứ tự. Vì sao cách ghép này không đúng?",
       "options": [
         "Nang nguyên thủy phải chứa noãn chín",
         "Mọi nang thứ cấp đều đã qua thụ tinh",
@@ -1743,6 +1743,1746 @@
         "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       },
       "difficulty": "veryHard"
+    },
+    {
+      "id": "m09-v001",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-phanbiet-noan-va-nang",
+      "level": "understand",
+      "stem": "Phân biệt nào đúng giữa “noãn bào” và “nang noãn”?",
+      "options": [
+        "Nang noãn là cấu trúc chứa noãn bào",
+        "Noãn bào là cấu trúc chứa nhiều nang noãn",
+        "Hai thuật ngữ luôn chỉ cùng một cấu trúc",
+        "Nang noãn chỉ là tên khác của noãn chín"
+      ],
+      "answer": 0,
+      "explanation": "Slide 4 nêu nang noãn chứa noãn bào; slide 6 liệt kê các giai đoạn riêng của dòng noãn.",
+      "optionExplanations": [
+        "Slide 4 nêu nang noãn chứa noãn bào; slide 6 liệt kê các giai đoạn riêng của dòng noãn.",
+        "Đảo ngược quan hệ chứa.",
+        "Bài phân biệt cấu trúc nang và tế bào noãn.",
+        "Nang có nhiều giai đoạn, không chỉ chứa noãn chín."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "NANG NOÃN\n Chứa noãn bào\n Nhiều giai đoạn phát triển\n Nguyên thuỷ\n Sơ cấp\n Thứ cấp\n Trưởng thành",
+          "type": "text"
+        },
+        {
+          "page": 6,
+          "quote": "NOÃN BÀO\n Noãn nguyên bào\n Noãn bào 1\n Noãn bào 2\n Noãn chín",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q001"
+    },
+    {
+      "id": "m09-v002",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-chuoi-dong-noan",
+      "level": "understand",
+      "stem": "Trình tự nào mô tả đúng các giai đoạn dòng noãn được trình bày?",
+      "options": [
+        "Noãn bào 2 → noãn nguyên bào → noãn chín → noãn bào 1",
+        "Noãn chín → noãn bào 1 → noãn bào 2 → noãn nguyên bào",
+        "Noãn nguyên bào → noãn bào 2 → noãn bào 1 → noãn chín",
+        "Noãn nguyên bào → noãn bào 1 → noãn bào 2 → noãn chín"
+      ],
+      "answer": 3,
+      "explanation": "Danh sách giai đoạn trên slide 6 đi từ noãn nguyên bào qua noãn bào 1, noãn bào 2 đến noãn chín.",
+      "optionExplanations": [
+        "Đặt noãn bào 2 trước noãn nguyên bào.",
+        "Đảo ngược đầu và cuối tiến trình.",
+        "Đảo thứ tự noãn bào 1 và 2.",
+        "Danh sách giai đoạn trên slide 6 đi từ noãn nguyên bào qua noãn bào 1, noãn bào 2 đến noãn chín."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "NOÃN BÀO\n Noãn nguyên bào\n Noãn bào 1\n Noãn bào 2\n Noãn chín",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q002"
+    },
+    {
+      "id": "m09-v003",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-dung-giam-phan",
+      "level": "understand",
+      "stem": "Điểm khác biệt về vị trí tạm ngưng giảm phân giữa noãn bào 1 và noãn bào 2 là gì?",
+      "options": [
+        "Cả hai đều ngưng ở kỳ giữa II",
+        "Noãn bào 1 ngưng ở kỳ giữa II; noãn bào 2 ngưng ở kỳ đầu I",
+        "Noãn bào 1 ngưng ở kỳ đầu I; noãn bào 2 ngưng ở kỳ giữa II",
+        "Cả hai đều ngưng ở kỳ đầu I"
+      ],
+      "answer": 2,
+      "explanation": "Slide 9 và 10 nêu hai điểm dừng khác nhau: kỳ đầu I và kỳ giữa II.",
+      "optionExplanations": [
+        "Điểm dừng của noãn bào 1 là kỳ đầu I.",
+        "Đã hoán đổi hai giai đoạn.",
+        "Slide 9 và 10 nêu hai điểm dừng khác nhau: kỳ đầu I và kỳ giữa II.",
+        "Điểm dừng của noãn bào 2 đã khác."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "NOÃN BÀO 1(sơ cấp)\n Ngưng tại kỳ đầu I\n Từ tháng thứ 7 đến trước tuổi dậy thì\n #106 đến 30.000 lúc dậy thì\n Apoptosis  số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 10,
+          "quote": "NOÃN BÀO 2(thứ cấp)\n Tuổi dậy thì \n Sau đỉnh LH  hoàn thành GP I\nNgưng tại kỳ giữa II\nApoptosis",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q003"
+    },
+    {
+      "id": "m09-v004",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-apoptosis",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Apoptosis giúp giải thích đặc điểm nào của quần thể noãn bào 1?",
+      "options": [
+        "Tất cả noãn bào 1 trở thành noãn chín trước dậy thì",
+        "Số lượng giảm dần",
+        "Số lượng tăng liên tục sau sinh",
+        "Mỗi noãn bào 1 tạo ngay nhiều nang nguyên thủy"
+      ],
+      "answer": 1,
+      "explanation": "Slide 9 nối apoptosis với số lượng giảm dần.",
+      "optionExplanations": [
+        "Noãn bào 1 còn tạm ngưng trước dậy thì.",
+        "Slide 9 nối apoptosis với số lượng giảm dần.",
+        "Trái chiều biến đổi được nêu.",
+        "Bài không nêu cơ chế tạo nhiều nang như vậy."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "NOÃN BÀO 1(sơ cấp)\n Ngưng tại kỳ đầu I\n Từ tháng thứ 7 đến trước tuổi dậy thì\n #106 đến 30.000 lúc dậy thì\n Apoptosis  số lượng giảm dần",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q004"
+    },
+    {
+      "id": "m09-v005",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-chuoi-nang",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trình tự phát triển nang noãn nào phù hợp?",
+      "options": [
+        "Nguyên thủy → sơ cấp → thứ cấp → trưởng thành",
+        "Sơ cấp → nguyên thủy → trưởng thành → thứ cấp",
+        "Trưởng thành → thứ cấp → sơ cấp → nguyên thủy",
+        "Nguyên thủy → trưởng thành → sơ cấp → thứ cấp"
+      ],
+      "answer": 0,
+      "explanation": "Slide 4 liệt kê các giai đoạn theo trình tự nguyên thủy, sơ cấp, thứ cấp, trưởng thành.",
+      "optionExplanations": [
+        "Slide 4 liệt kê các giai đoạn theo trình tự nguyên thủy, sơ cấp, thứ cấp, trưởng thành.",
+        "Đảo vị trí nguyên thủy và sơ cấp, rồi trưởng thành và thứ cấp.",
+        "Là trình tự ngược.",
+        "Bỏ qua hai giai đoạn trước trưởng thành."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "NANG NOÃN\n Chứa noãn bào\n Nhiều giai đoạn phát triển\n Nguyên thuỷ\n Sơ cấp\n Thứ cấp\n Trưởng thành",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q005"
+    },
+    {
+      "id": "m09-v006",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-mot-hang-det-vuong",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Đặc điểm tế bào bao quanh noãn phân biệt nang nguyên thủy và nang sơ cấp là gì?",
+      "options": [
+        "Một hàng vuông ở nang nguyên thủy, một hàng dẹt ở nang sơ cấp",
+        "Nhiều hàng ở cả hai loại",
+        "Không có tế bào bao quanh ở cả hai loại",
+        "Một hàng dẹt ở nang nguyên thủy, một hàng vuông ở nang sơ cấp"
+      ],
+      "answer": 3,
+      "explanation": "Hai slide dùng hình dạng dẹt và vuông của một hàng tế bào để phân biệt.",
+      "optionExplanations": [
+        "Đảo hai hình dạng.",
+        "Bài mô tả một hàng ở cả hai giai đoạn này.",
+        "Cả hai đều có tế bào bao quanh noãn.",
+        "Hai slide dùng hình dạng dẹt và vuông của một hàng tế bào để phân biệt."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "NANG NOÃN NGUYÊN THUỶ\n Bào thai đến trước dậy thì\n Noãn bào 1\n Một hàng tế bào dẹt quanh noãn\n Số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q006"
+    },
+    {
+      "id": "m09-v007",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-zona-khoi-dau",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Việc bắt đầu tạo zona pellucida được gắn với giai đoạn nào?",
+      "options": [
+        "Hoàng thể thoái hóa",
+        "Noãn chín sau thụ tinh mới bắt đầu tạo màng",
+        "Nang noãn sơ cấp",
+        "Noãn nguyên bào chưa tạo nang"
+      ],
+      "answer": 2,
+      "explanation": "Slide 16 ghi nang sơ cấp bắt đầu tạo lớp màng trong suốt.",
+      "optionExplanations": [
+        "Không phải giai đoạn hình thành màng được nêu.",
+        "Màng đã hình thành từ giai đoạn nang sơ cấp.",
+        "Slide 16 ghi nang sơ cấp bắt đầu tạo lớp màng trong suốt.",
+        "Bài gắn với nang sơ cấp."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q007"
+    },
+    {
+      "id": "m09-v008",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-thu-cap-nhieu-hang",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Cụm “đặc → có hốc” diễn đạt thay đổi nào của nang thứ cấp?",
+      "options": [
+        "Từ một hàng tế bào dẹt thành không còn tế bào quanh noãn",
+        "Từ cấu trúc đặc chuyển sang có hốc",
+        "Từ có hốc chuyển trở lại nang nguyên thủy",
+        "Từ noãn bào 2 chuyển lại thành noãn nguyên bào"
+      ],
+      "answer": 1,
+      "explanation": "Slide 18 mô tả nang thứ cấp có nhiều hàng tế bào, màng trong suốt và chuyển từ đặc sang có hốc.",
+      "optionExplanations": [
+        "Sai cả số hàng tế bào lẫn chiều thay đổi.",
+        "Slide 18 mô tả nang thứ cấp có nhiều hàng tế bào, màng trong suốt và chuyển từ đặc sang có hốc.",
+        "Đảo chiều diễn tiến.",
+        "Không phải thay đổi dòng tế bào được mô tả."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q008"
+    },
+    {
+      "id": "m09-v009",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-noan1-qua-cac-nang",
+      "level": "understand",
+      "stem": "Lý do nào giải thích vì sao chỉ biết một nang chứa noãn bào 1 chưa đủ để gọi tên giai đoạn nang?",
+      "options": [
+        "Nang nguyên thủy, sơ cấp và thứ cấp đều được mô tả chứa noãn bào 1",
+        "Chỉ nang chín mới có noãn bào 1",
+        "Noãn bào 1 không nằm trong nang nào",
+        "Tên nang hoàn toàn không liên quan cấu trúc quanh noãn"
+      ],
+      "answer": 0,
+      "explanation": "Slide 14, 16 và 18 đều nêu noãn bào 1; phải xét thêm hình dạng, số hàng tế bào và hốc nang.",
+      "optionExplanations": [
+        "Slide 14, 16 và 18 đều nêu noãn bào 1; phải xét thêm hình dạng, số hàng tế bào và hốc nang.",
+        "Không phù hợp ba slide được dẫn.",
+        "Ba loại nang được mô tả đều chứa noãn bào 1.",
+        "Cấu trúc quanh noãn chính là dấu hiệu phân biệt trong bài."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "NANG NOÃN NGUYÊN THUỶ\n Bào thai đến trước dậy thì\n Noãn bào 1\n Một hàng tế bào dẹt quanh noãn\n Số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        },
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q009"
+    },
+    {
+      "id": "m09-v010",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-lh-va-noan2",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Đỉnh LH và việc tạo noãn bào 2 liên hệ thế nào?",
+      "options": [
+        "Đỉnh LH chỉ bắt đầu nguyên phân của noãn chín",
+        "Đỉnh LH làm noãn bào 2 quay lại noãn nguyên bào",
+        "Sau đỉnh LH, noãn hoàn thành ngay cả giảm phân II dù chưa thụ tinh",
+        "Sau đỉnh LH, noãn hoàn thành giảm phân I"
+      ],
+      "answer": 3,
+      "explanation": "Slide 10 nêu sau đỉnh LH hoàn thành giảm phân I, rồi ngưng ở kỳ giữa II.",
+      "optionExplanations": [
+        "Bài mô tả giảm phân I, không phải nguyên phân của noãn chín.",
+        "Không có sự quay ngược được mô tả.",
+        "Noãn vẫn tạm ngưng tại kỳ giữa II.",
+        "Slide 10 nêu sau đỉnh LH hoàn thành giảm phân I, rồi ngưng ở kỳ giữa II."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "NOÃN BÀO 2(thứ cấp)\n Tuổi dậy thì \n Sau đỉnh LH  hoàn thành GP I\nNgưng tại kỳ giữa II\nApoptosis",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m09-q010"
+    },
+    {
+      "id": "m09-v011",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-phanloai-nguyenbao",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một tế bào được xác định là noãn nguyên bào. Bối cảnh nào phù hợp nhất?",
+      "options": [
+        "Trong hoàng thể đã thoái hóa",
+        "Chỉ xuất hiện sau mãn kinh",
+        "Thời kỳ bào thai",
+        "Sau thụ tinh và đã thành noãn chín"
+      ],
+      "answer": 2,
+      "explanation": "Slide 7 ghi noãn nguyên bào chỉ thấy trong thời kỳ bào thai.",
+      "optionExplanations": [
+        "Hoàng thể thoái hóa không phải bối cảnh được nêu.",
+        "Trái với giới hạn thời kỳ bào thai.",
+        "Slide 7 ghi noãn nguyên bào chỉ thấy trong thời kỳ bào thai.",
+        "Noãn chín là giai đoạn khác."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "NOÃN NGUYÊN BÀO\n Chỉ thấy trong thời kỳ bào thai\n Nguyên phân với đỉnh #20 tuần: 6-7 triệu noãn\n Tuần thứ 8  giảm phân I rất chậm chạp, apoptosis\n Đến tháng thứ 7 hầu hết thành noãn bào 1",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q011"
+    },
+    {
+      "id": "m09-v012",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-dung-giam-phan",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một noãn đang tạm ngưng ở kỳ đầu giảm phân I. Tế bào đó được gọi là gì?",
+      "options": [
+        "Tế bào hạt",
+        "Noãn bào 1",
+        "Noãn bào 2",
+        "Noãn chín"
+      ],
+      "answer": 1,
+      "explanation": "Điểm dừng tại kỳ đầu I là đặc điểm của noãn bào 1 trên slide 9.",
+      "optionExplanations": [
+        "Tế bào hạt là tế bào bao quanh noãn, không tên giai đoạn noãn.",
+        "Điểm dừng tại kỳ đầu I là đặc điểm của noãn bào 1 trên slide 9.",
+        "Noãn bào 2 ngưng ở kỳ giữa II.",
+        "Không phải noãn đã hoàn tất trưởng thành khi thụ tinh."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "NOÃN BÀO 1(sơ cấp)\n Ngưng tại kỳ đầu I\n Từ tháng thứ 7 đến trước tuổi dậy thì\n #106 đến 30.000 lúc dậy thì\n Apoptosis  số lượng giảm dần",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q012"
+    },
+    {
+      "id": "m09-v013",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-dung-giam-phan",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một noãn đã qua giảm phân I và đang ngưng ở kỳ giữa II. Cách gọi nào đúng?",
+      "options": [
+        "Noãn bào 2",
+        "Noãn nguyên bào",
+        "Noãn bào 1 ở kỳ đầu I",
+        "Nang nguyên thủy"
+      ],
+      "answer": 0,
+      "explanation": "Slide 10 gắn noãn bào 2 với hoàn thành giảm phân I và ngưng kỳ giữa II.",
+      "optionExplanations": [
+        "Slide 10 gắn noãn bào 2 với hoàn thành giảm phân I và ngưng kỳ giữa II.",
+        "Noãn nguyên bào thuộc giai đoạn sớm hơn.",
+        "Đã vượt qua điểm dừng kỳ đầu I.",
+        "Nang là cấu trúc chứa noãn, không tên tế bào ở kỳ giữa II."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "NOÃN BÀO 2(thứ cấp)\n Tuổi dậy thì \n Sau đỉnh LH  hoàn thành GP I\nNgưng tại kỳ giữa II\nApoptosis",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q013"
+    },
+    {
+      "id": "m09-v014",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-mot-hang-det-vuong",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Mô tả một nang gồm noãn bào 1 được bao quanh bởi một hàng tế bào dẹt phù hợp nhất với loại nào?",
+      "options": [
+        "Nang noãn sơ cấp",
+        "Nang noãn thứ cấp",
+        "Nang noãn chín có hốc",
+        "Nang noãn nguyên thủy"
+      ],
+      "answer": 3,
+      "explanation": "Đây là hai đặc điểm cấu trúc được nêu ở slide 14.",
+      "optionExplanations": [
+        "Nang sơ cấp được mô tả bằng một hàng tế bào vuông.",
+        "Nang thứ cấp có nhiều hàng tế bào.",
+        "Nang chín có nhiều hàng và có hốc.",
+        "Đây là hai đặc điểm cấu trúc được nêu ở slide 14."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "NANG NOÃN NGUYÊN THUỶ\n Bào thai đến trước dậy thì\n Noãn bào 1\n Một hàng tế bào dẹt quanh noãn\n Số lượng giảm dần",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q014"
+    },
+    {
+      "id": "m09-v015",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-mot-hang-det-vuong",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một nang chứa noãn bào 1, một hàng tế bào vuông và bắt đầu có màng trong suốt. Xếp vào giai đoạn nào?",
+      "options": [
+        "Nang chín",
+        "Hoàng thể",
+        "Nang sơ cấp",
+        "Nang nguyên thủy"
+      ],
+      "answer": 2,
+      "explanation": "Tổ hợp ba dấu hiệu trùng mô tả nang sơ cấp trên slide 16.",
+      "optionExplanations": [
+        "Nang chín có nhiều hàng và hốc.",
+        "Hoàng thể không phải giai đoạn mô tả này.",
+        "Tổ hợp ba dấu hiệu trùng mô tả nang sơ cấp trên slide 16.",
+        "Nang nguyên thủy có một hàng tế bào dẹt."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q015"
+    },
+    {
+      "id": "m09-v016",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-thu-cap-nhieu-hang",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một nang có noãn bào 1, nhiều hàng tế bào quanh noãn, màng trong suốt, đang chuyển từ đặc sang có hốc. Loại nào phù hợp?",
+      "options": [
+        "Noãn nguyên bào tự do",
+        "Nang thứ cấp",
+        "Nang nguyên thủy",
+        "Nang sơ cấp một hàng"
+      ],
+      "answer": 1,
+      "explanation": "Slide 18 mô tả đầy đủ tổ hợp này ở nang thứ cấp.",
+      "optionExplanations": [
+        "Đây là nang có cấu trúc bao quanh, không noãn nguyên bào.",
+        "Slide 18 mô tả đầy đủ tổ hợp này ở nang thứ cấp.",
+        "Không còn cấu trúc một hàng dẹt.",
+        "Đã có nhiều hàng tế bào."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q016"
+    },
+    {
+      "id": "m09-v017",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-phanloai-chin",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một nang có hốc, nhiều hàng tế bào, màng trong suốt và noãn chuyển từ bào 1 sang bào 2. Mô tả hợp với giai đoạn nào nhất?",
+      "options": [
+        "Nang noãn chín",
+        "Nang nguyên thủy",
+        "Nang sơ cấp",
+        "Noãn nguyên bào trước giảm phân"
+      ],
+      "answer": 0,
+      "explanation": "Slide 21 nêu noãn bào 1→2 kèm nhiều hàng, màng trong suốt và hốc nang.",
+      "optionExplanations": [
+        "Slide 21 nêu noãn bào 1→2 kèm nhiều hàng, màng trong suốt và hốc nang.",
+        "Cấu trúc vượt quá nang nguyên thủy.",
+        "Nang sơ cấp còn một hàng tế bào vuông.",
+        "Đây là giai đoạn nang, không tế bào nguyên thủy."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "NANG NOÃN CHÍN\n Sau dậy thì\n Noãn bào 12\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Có hốc\n Hiện tượng chọn lọc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q017"
+    },
+    {
+      "id": "m09-v018",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-dung-giam-phan",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Theo mô tả, noãn bào 1 ở trẻ chưa dậy thì thường được trình bày ở trạng thái nào?",
+      "options": [
+        "Đã hoàn thành giảm phân II",
+        "Đang nguyên phân để tạo nhiều noãn chín",
+        "Đã chuyển hết thành noãn bào 2",
+        "Tạm ngưng tại kỳ đầu I"
+      ],
+      "answer": 3,
+      "explanation": "Slide 9 mô tả khoảng từ tháng thứ 7 đến trước dậy thì và điểm dừng kỳ đầu I.",
+      "optionExplanations": [
+        "Giảm phân II chưa được hoàn thành ở giai đoạn này.",
+        "Không phải tiến trình được nêu.",
+        "Noãn bào 2 gắn với diễn tiến sau đỉnh LH.",
+        "Slide 9 mô tả khoảng từ tháng thứ 7 đến trước dậy thì và điểm dừng kỳ đầu I."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "NOÃN BÀO 1(sơ cấp)\n Ngưng tại kỳ đầu I\n Từ tháng thứ 7 đến trước tuổi dậy thì\n #106 đến 30.000 lúc dậy thì\n Apoptosis  số lượng giảm dần",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q018"
+    },
+    {
+      "id": "m09-v019",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-cuc-cau1",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trong mô tả bằng chữ của một noãn, thể cực thứ nhất đã được tống ra và nhiễm sắc chất dừng ở metaphase II. Kết luận nào phù hợp?",
+      "options": [
+        "Noãn đang nguyên phân",
+        "Noãn đã hoàn thành toàn bộ giảm phân II",
+        "Noãn đã qua lần giảm phân I",
+        "Noãn chưa bắt đầu lần giảm phân I"
+      ],
+      "answer": 2,
+      "explanation": "Chú thích hình slide 12 mô tả thể cực thứ nhất đã tống ra, phần nhiễm sắc chất còn lại dừng ở metaphase II.",
+      "optionExplanations": [
+        "Nguồn mô tả tiến trình giảm phân.",
+        "Vẫn dừng ở metaphase II, chưa hoàn tất lần II.",
+        "Chú thích hình slide 12 mô tả thể cực thứ nhất đã tống ra, phần nhiễm sắc chất còn lại dừng ở metaphase II.",
+        "Mâu thuẫn việc đã có thể cực thứ nhất và đang ở giảm phân II."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "type": "visual",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q019"
+    },
+    {
+      "id": "m09-v020",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-noanchin-thutinh",
+      "level": "understand",
+      "stem": "Biến cố nào cần có khi chuyển sang mô tả noãn chín?",
+      "options": [
+        "Chỉ đạt thời kỳ bào thai tuần 8",
+        "Hiện tượng thụ tinh",
+        "Chỉ bắt đầu hình thành một hàng tế bào vuông",
+        "Chỉ xuất hiện một hàng tế bào dẹt"
+      ],
+      "answer": 1,
+      "explanation": "Slide 11 nêu noãn chín khi có hiện tượng thụ tinh.",
+      "optionExplanations": [
+        "Giai đoạn khởi đầu giảm phân không phải noãn chín.",
+        "Slide 11 nêu noãn chín khi có hiện tượng thụ tinh.",
+        "Đặc điểm của nang sơ cấp, không đủ xác định noãn chín.",
+        "Đặc điểm của nang nguyên thủy."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "NOÃN CHÍN\n Tế bào lớn nhất\n d#0.1mm\n Khi có hiện tượng thụ tinh",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q020"
+    },
+    {
+      "id": "m09-v021",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-thu-cap-nhieu-hang",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai mẫu đều có noãn bào 1 và màng trong suốt; mẫu A có một hàng vuông, mẫu B nhiều hàng. Ghép loại nang nào phù hợp?",
+      "options": [
+        "A sơ cấp; B thứ cấp",
+        "A thứ cấp; B sơ cấp",
+        "Cả hai nguyên thủy",
+        "Cả hai bắt buộc là nang chín"
+      ],
+      "answer": 0,
+      "explanation": "Khác biệt số hàng tế bào trong mô tả cho phép ghép sơ cấp với A, thứ cấp với B.",
+      "optionExplanations": [
+        "Khác biệt số hàng tế bào trong mô tả cho phép ghép sơ cấp với A, thứ cấp với B.",
+        "Hoán đổi đặc điểm số hàng.",
+        "Nang nguyên thủy được mô tả là một hàng dẹt.",
+        "Các dữ kiện này chưa cho thấy cả hai là nang chín."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        },
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q021"
+    },
+    {
+      "id": "m09-v022",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-hoc-chua-du",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Chỉ biết “nang có hốc”, có thể khẳng định noãn bên trong đã là noãn bào 2 hay chưa?",
+      "options": [
+        "Có; cứ có hốc là noãn bào 2",
+        "Có; mọi nang có hốc đã được thụ tinh",
+        "Không; vì nang chín không bao giờ có hốc",
+        "Chưa; nang thứ cấp có thể có hốc mà vẫn chứa noãn bào 1"
+      ],
+      "answer": 3,
+      "explanation": "Slide 18 cho thấy nang thứ cấp chuyển sang có hốc nhưng vẫn chứa noãn bào 1; slide 21 mới nêu chuyển 1→2 ở nang chín.",
+      "optionExplanations": [
+        "Đã bỏ qua nang thứ cấp có hốc.",
+        "Có hốc không đồng nghĩa đã thụ tinh.",
+        "Slide 21 nêu nang chín có hốc.",
+        "Slide 18 cho thấy nang thứ cấp chuyển sang có hốc nhưng vẫn chứa noãn bào 1; slide 21 mới nêu chuyển 1→2 ở nang chín."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        },
+        {
+          "page": 21,
+          "quote": "NANG NOÃN CHÍN\n Sau dậy thì\n Noãn bào 12\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Có hốc\n Hiện tượng chọn lọc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q022"
+    },
+    {
+      "id": "m09-v023",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-lh-va-noan2",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một ghi chú viết: “Sau đỉnh LH, noãn bào 2 đã là noãn chín dù chưa thụ tinh”. Cần sửa điểm nào?",
+      "options": [
+        "Đổi noãn bào 2 thành noãn nguyên bào là đủ",
+        "Bỏ điều kiện thụ tinh vì hoàn toàn không liên quan",
+        "Noãn bào 2 vẫn dừng ở kỳ giữa II; noãn chín gắn với thụ tinh",
+        "Đổi LH thành apoptosis là đủ"
+      ],
+      "answer": 2,
+      "explanation": "Slide 10 nêu điểm dừng kỳ giữa II; slide 11 nêu noãn chín khi có thụ tinh.",
+      "optionExplanations": [
+        "Noãn nguyên bào không phải giai đoạn sau LH.",
+        "Thụ tinh là điều kiện được nêu cho noãn chín.",
+        "Slide 10 nêu điểm dừng kỳ giữa II; slide 11 nêu noãn chín khi có thụ tinh.",
+        "Apoptosis không thay thế tín hiệu LH trong mô tả này."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "NOÃN BÀO 2(thứ cấp)\n Tuổi dậy thì \n Sau đỉnh LH  hoàn thành GP I\nNgưng tại kỳ giữa II\nApoptosis",
+          "type": "text"
+        },
+        {
+          "page": 11,
+          "quote": "NOÃN CHÍN\n Tế bào lớn nhất\n d#0.1mm\n Khi có hiện tượng thụ tinh",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q023"
+    },
+    {
+      "id": "m09-v024",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-mot-hang-det-vuong",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một sinh viên mô tả “nang nguyên thủy có một hàng tế bào vuông, bắt đầu tạo zona pellucida”. Nên sửa tên nang thành gì?",
+      "options": [
+        "Nang thứ cấp nhiều hàng",
+        "Nang sơ cấp",
+        "Nang chín",
+        "Hoàng thể"
+      ],
+      "answer": 1,
+      "explanation": "Một hàng tế bào vuông và bắt đầu tạo màng trong suốt là mô tả của nang sơ cấp.",
+      "optionExplanations": [
+        "Nang thứ cấp được mô tả có nhiều hàng.",
+        "Một hàng tế bào vuông và bắt đầu tạo màng trong suốt là mô tả của nang sơ cấp.",
+        "Nang chín có nhiều hàng và hốc.",
+        "Không phải mô tả hoàng thể."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "NANG NOÃN NGUYÊN THUỶ\n Bào thai đến trước dậy thì\n Noãn bào 1\n Một hàng tế bào dẹt quanh noãn\n Số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q024"
+    },
+    {
+      "id": "m09-v025",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-noan1-qua-cac-nang",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một nang sơ cấp phát triển thêm nhiều hàng tế bào và chuyển thành nang thứ cấp. noãn bên trong phải đổi từ noãn bào 1 sang noãn bào 2 ngay không?",
+      "options": [
+        "Không; cả hai giai đoạn đều được mô tả chứa noãn bào 1",
+        "Có; cứ tăng số hàng là hoàn thành giảm phân II",
+        "Có; nang thứ cấp luôn chứa noãn chín sau thụ tinh",
+        "Không; vì nang thứ cấp không còn chứa noãn"
+      ],
+      "answer": 0,
+      "explanation": "Slide 16 và 18 đều ghi noãn bào 1, dù cấu trúc tế bào bao quanh đã đổi.",
+      "optionExplanations": [
+        "Slide 16 và 18 đều ghi noãn bào 1, dù cấu trúc tế bào bao quanh đã đổi.",
+        "Số hàng tế bào không chứng minh hoàn thành giảm phân II.",
+        "Slide 18 nêu noãn bào 1.",
+        "Nang thứ cấp vẫn chứa noãn."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        },
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q025"
+    },
+    {
+      "id": "m09-v026",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-duongkinh-noanchin",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Theo đường kính khoảng 0,1 mm của noãn chín ghi, cách đổi đơn vị nào đúng?",
+      "options": [
+        "Khoảng 1 µm",
+        "Khoảng 10 mm",
+        "Khoảng 100 cm",
+        "Khoảng 100 µm"
+      ],
+      "answer": 3,
+      "explanation": "0,1 mm × 1.000 = 100 µm. Đây là đổi đơn vị của số liệu trên slide 11.",
+      "optionExplanations": [
+        "1 µm tương đương 0,001 mm.",
+        "10 mm lớn hơn số liệu 100 lần.",
+        "100 cm không tương đương 0,1 mm.",
+        "0,1 mm × 1.000 = 100 µm. Đây là đổi đơn vị của số liệu trên slide 11."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "NOÃN CHÍN\n Tế bào lớn nhất\n d#0.1mm\n Khi có hiện tượng thụ tinh",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q026"
+    },
+    {
+      "id": "m09-v027",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-thai7thang",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tại mốc tháng thứ 7 thai kỳ, phần lớn noãn nguyên bào đã chuyển thành dạng nào?",
+      "options": [
+        "Noãn chín sau thụ tinh",
+        "Hoàng thể",
+        "Noãn bào 1",
+        "Noãn bào 2 sau đỉnh LH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 7 ghi đến tháng thứ 7 hầu hết thành noãn bào 1.",
+      "optionExplanations": [
+        "Không có thụ tinh của các noãn ở bào thai.",
+        "Hoàng thể không phải tên giai đoạn của dòng noãn.",
+        "Slide 7 ghi đến tháng thứ 7 hầu hết thành noãn bào 1.",
+        "Không phải mốc tạo noãn bào 2 sau LH."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "NOÃN NGUYÊN BÀO\n Chỉ thấy trong thời kỳ bào thai\n Nguyên phân với đỉnh #20 tuần: 6-7 triệu noãn\n Tuần thứ 8  giảm phân I rất chậm chạp, apoptosis\n Đến tháng thứ 7 hầu hết thành noãn bào 1",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q027"
+    },
+    {
+      "id": "m09-v028",
+      "topicId": "m09-nang-noan",
+      "conceptId": "m09-mot-hang-det-vuong",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Mẫu A và B đều có noãn bào 1 nhưng hàng tế bào quanh A dẹt, quanh B vuông. Khi ghi kết quả, cách nào giữ được thông tin đúng?",
+      "options": [
+        "Bỏ khác biệt hình dạng tế bào quanh noãn",
+        "Ghi cùng loại noãn bào nhưng khác giai đoạn nang",
+        "Ghi A là noãn bào 1 và B là noãn chín",
+        "Ghi cả hai là nang nguyên thủy vì đều có noãn bào 1"
+      ],
+      "answer": 1,
+      "explanation": "Điểm chung là noãn bào 1; điểm khác là nang nguyên thủy so với nang sơ cấp.",
+      "optionExplanations": [
+        "Mất dấu hiệu cần để phân giai đoạn nang.",
+        "Điểm chung là noãn bào 1; điểm khác là nang nguyên thủy so với nang sơ cấp.",
+        "Hình dạng tế bào quanh noãn không chứng minh noãn chín.",
+        "Bỏ qua tiêu chí dẹt/vuông phân biệt hai nang."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "NANG NOÃN NGUYÊN THUỶ\n Bào thai đến trước dậy thì\n Noãn bào 1\n Một hàng tế bào dẹt quanh noãn\n Số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q028"
+    },
+    {
+      "id": "m09-v029",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-gv-nguyenvẹn",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một noãn còn nguyên túi mầm (germinal vesicle), nhiễm sắc chất dừng ở prophase I. Phát biểu nào phù hợp?",
+      "options": [
+        "Trưởng thành giảm phân chưa bắt đầu",
+        "Đã thải thể cực thứ nhất và dừng ở metaphase II",
+        "Đã hoàn tất giảm phân II",
+        "Đã hợp nhất hai tiền nhân"
+      ],
+      "answer": 0,
+      "explanation": "Chú thích slide 12 gọi trạng thái túi mầm còn nguyên là immature và cho biết meiotic maturation has not begun.",
+      "optionExplanations": [
+        "Chú thích slide 12 gọi trạng thái túi mầm còn nguyên là immature và cho biết meiotic maturation has not begun.",
+        "Đó là mô tả giai đoạn C, khác trạng thái đang cho.",
+        "Chưa bắt đầu trưởng thành giảm phân nên không thể đã hoàn tất II.",
+        "Bài không gắn trạng thái túi mầm này với hợp nhất tiền nhân."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "type": "visual",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q029"
+    },
+    {
+      "id": "m09-v030",
+      "topicId": "m09-dong-noan",
+      "conceptId": "m09-gvbd",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Khi túi mầm đã vỡ và giảm phân I đang tiếp tục, có thể kết luận nào?",
+      "options": [
+        "Noãn chắc chắn đã hoàn thành giảm phân II",
+        "Noãn quay về nguyên phân",
+        "Noãn không còn trải qua giảm phân I",
+        "Noãn đã rời trạng thái túi mầm nguyên vẹn để tiếp tục giảm phân I"
+      ],
+      "answer": 3,
+      "explanation": "Chú thích giai đoạn B nêu meiosis I has resumed, with breakdown of the germinal vesicle.",
+      "optionExplanations": [
+        "Nguồn chỉ mô tả tiếp tục lần I.",
+        "Không mô tả quay lại nguyên phân.",
+        "Nguồn khẳng định giảm phân I đang tiếp tục.",
+        "Chú thích giai đoạn B nêu meiosis I has resumed, with breakdown of the germinal vesicle."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "type": "visual",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q030"
+    },
+    {
+      "id": "m09-v031",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-phanbiet-noan-va-nang",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một mô hình ghép “nang nguyên thủy–noãn nguyên bào; nang sơ cấp–noãn bào 1; nang thứ cấp–noãn bào 2” theo số thứ tự. Vì sao cách ghép này không đúng?",
+      "options": [
+        "Nang nguyên thủy phải chứa noãn chín",
+        "Mọi nang thứ cấp đều đã qua thụ tinh",
+        "Giai đoạn nang và giai đoạn noãn không ghép một-một; cả ba loại nang được mô tả có noãn bào 1",
+        "Tên nang luôn phải trùng số của tên noãn"
+      ],
+      "answer": 2,
+      "explanation": "Phải đọc cấu trúc nang độc lập với tiến trình tế bào; slide 14,16,18 đều nêu noãn bào 1.",
+      "optionExplanations": [
+        "Slide 14 ghi noãn bào 1.",
+        "Không có cơ sở đồng nhất nang thứ cấp với đã thụ tinh.",
+        "Phải đọc cấu trúc nang độc lập với tiến trình tế bào; slide 14,16,18 đều nêu noãn bào 1.",
+        "Đây chính là giả định sai của mô hình."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "NANG NOÃN\n Chứa noãn bào\n Nhiều giai đoạn phát triển\n Nguyên thuỷ\n Sơ cấp\n Thứ cấp\n Trưởng thành",
+          "type": "text"
+        },
+        {
+          "page": 6,
+          "quote": "NOÃN BÀO\n Noãn nguyên bào\n Noãn bào 1\n Noãn bào 2\n Noãn chín",
+          "type": "text"
+        },
+        {
+          "page": 14,
+          "quote": "NANG NOÃN NGUYÊN THUỶ\n Bào thai đến trước dậy thì\n Noãn bào 1\n Một hàng tế bào dẹt quanh noãn\n Số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        },
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q031"
+    },
+    {
+      "id": "m09-v032",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-lh-va-noan2",
+      "level": "analyze",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Theo dõi một noãn từ kỳ đầu I, sau đỉnh LH thấy nó dừng ở kỳ giữa II nhưng chưa thụ tinh. Tổ hợp kết luận nào đúng?",
+      "options": [
+        "Đã quay về noãn nguyên bào; sắp nguyên phân",
+        "Đã hoàn thành giảm phân I; chưa được gọi là noãn chín theo slide 11",
+        "Chưa hoàn thành giảm phân I; đã là noãn chín",
+        "Đã hoàn thành cả hai lần giảm phân; không cần thụ tinh"
+      ],
+      "answer": 1,
+      "explanation": "Kết hợp điểm dừng ban đầu, tác động LH và điều kiện noãn chín: lần I đã xong, lần II vẫn dừng và chưa thụ tinh.",
+      "optionExplanations": [
+        "Không có diễn tiến quay về nguyên bào.",
+        "Kết hợp điểm dừng ban đầu, tác động LH và điều kiện noãn chín: lần I đã xong, lần II vẫn dừng và chưa thụ tinh.",
+        "Kỳ giữa II là sau hoàn thành lần I; chưa thụ tinh.",
+        "Bỏ qua điểm dừng kỳ giữa II."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "NOÃN BÀO 1(sơ cấp)\n Ngưng tại kỳ đầu I\n Từ tháng thứ 7 đến trước tuổi dậy thì\n #106 đến 30.000 lúc dậy thì\n Apoptosis  số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 10,
+          "quote": "NOÃN BÀO 2(thứ cấp)\n Tuổi dậy thì \n Sau đỉnh LH  hoàn thành GP I\nNgưng tại kỳ giữa II\nApoptosis",
+          "type": "text"
+        },
+        {
+          "page": 11,
+          "quote": "NOÃN CHÍN\n Tế bào lớn nhất\n d#0.1mm\n Khi có hiện tượng thụ tinh",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q032"
+    },
+    {
+      "id": "m09-v033",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-hoc-chua-du",
+      "level": "analyze",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai nang cùng có hốc. Chỉ mẫu B được mô tả noãn đã thải thể cực thứ nhất và dừng ở metaphase II. Cách suy luận nào chặt chẽ nhất?",
+      "options": [
+        "Có hốc chưa đủ phân giai đoạn noãn; dữ kiện thể cực và điểm dừng xác nhận B đã qua giảm phân I",
+        "Có hốc chứng minh cả A và B đều đã thụ tinh",
+        "B có thể cực nên chắc chắn chưa bắt đầu giảm phân I",
+        "A và B phải cùng giai đoạn noãn vì cùng có hốc"
+      ],
+      "answer": 0,
+      "explanation": "Slide 18 cho phép có hốc khi còn noãn bào 1; chú thích slide 12 xác định trạng thái sau lần I bằng thể cực thứ nhất và metaphase II.",
+      "optionExplanations": [
+        "Slide 18 cho phép có hốc khi còn noãn bào 1; chú thích slide 12 xác định trạng thái sau lần I bằng thể cực thứ nhất và metaphase II.",
+        "Hốc nang không là bằng chứng thụ tinh.",
+        "Thể cực thứ nhất và metaphase II cho thấy đã qua lần I.",
+        "Đồng nhất giai đoạn nang với giai đoạn noãn."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "type": "visual",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        },
+        {
+          "page": 21,
+          "quote": "NANG NOÃN CHÍN\n Sau dậy thì\n Noãn bào 12\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Có hốc\n Hiện tượng chọn lọc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q033"
+    },
+    {
+      "id": "m09-v034",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-apoptosis",
+      "level": "understand",
+      "stem": "Một học viên kết luận mọi noãn ban đầu đều sẽ trưởng thành. Dữ kiện nào bác bỏ kết luận đó?",
+      "options": [
+        "Có nhiều tên gọi khác nhau của nang",
+        "Noãn chín có đường kính khoảng 0,1 mm",
+        "Có một hàng tế bào vuông ở nang sơ cấp",
+        "Apoptosis và sự giảm dần số lượng noãn/nang"
+      ],
+      "answer": 3,
+      "explanation": "Slide 7,9 nêu apoptosis và slide 14 nêu số lượng giảm dần; chuỗi giai đoạn không có nghĩa mọi phần tử đều đi đến cuối.",
+      "optionExplanations": [
+        "Số tên gọi không chứng minh mất noãn.",
+        "Kích thước không bác bỏ tỷ lệ trưởng thành.",
+        "Hình dạng tế bào bao quanh không đủ chứng minh quần thể giảm.",
+        "Slide 7,9 nêu apoptosis và slide 14 nêu số lượng giảm dần; chuỗi giai đoạn không có nghĩa mọi phần tử đều đi đến cuối."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "NOÃN NGUYÊN BÀO\n Chỉ thấy trong thời kỳ bào thai\n Nguyên phân với đỉnh #20 tuần: 6-7 triệu noãn\n Tuần thứ 8  giảm phân I rất chậm chạp, apoptosis\n Đến tháng thứ 7 hầu hết thành noãn bào 1",
+          "type": "text"
+        },
+        {
+          "page": 9,
+          "quote": "NOÃN BÀO 1(sơ cấp)\n Ngưng tại kỳ đầu I\n Từ tháng thứ 7 đến trước tuổi dậy thì\n #106 đến 30.000 lúc dậy thì\n Apoptosis  số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 14,
+          "quote": "NANG NOÃN NGUYÊN THUỶ\n Bào thai đến trước dậy thì\n Noãn bào 1\n Một hàng tế bào dẹt quanh noãn\n Số lượng giảm dần",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q034"
+    },
+    {
+      "id": "m09-v035",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-noan1-qua-cac-nang",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Muốn phân biệt ba nang nguyên thủy, sơ cấp và thứ cấp đều chứa noãn bào 1, bộ thông tin bổ sung nào hữu ích nhất?",
+      "options": [
+        "Chỉ đo đường kính của một noãn chín khác",
+        "Chỉ hỏi có đỉnh LH hay không rồi bỏ mô tả nang",
+        "Hình dạng và số hàng tế bào bao quanh noãn, cùng cấu trúc màng/hốc",
+        "Chỉ xác nhận lại rằng cả ba đều có noãn bào 1"
+      ],
+      "answer": 2,
+      "explanation": "Các slide phân biệt một hàng dẹt, một hàng vuông, nhiều hàng; màng trong suốt và hốc giúp bổ sung mô tả.",
+      "optionExplanations": [
+        "Không phải đặc điểm của ba nang đang xét.",
+        "Bỏ mất các dấu hiệu trực tiếp của nang trong bài.",
+        "Các slide phân biệt một hàng dẹt, một hàng vuông, nhiều hàng; màng trong suốt và hốc giúp bổ sung mô tả.",
+        "Lặp lại dữ kiện không phân biệt được."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "NANG NOÃN NGUYÊN THUỶ\n Bào thai đến trước dậy thì\n Noãn bào 1\n Một hàng tế bào dẹt quanh noãn\n Số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        },
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q035"
+    },
+    {
+      "id": "m09-v036",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-noan1-qua-cac-nang",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Người học cho rằng “nang chuyển sơ cấp→thứ cấp tức là noãn hoàn thành giảm phân I”. Phân tích nào sửa đúng cả hai phần?",
+      "options": [
+        "Tên thứ cấp đồng nghĩa mọi cấu trúc trong nang đều đã hoàn thành lần I",
+        "Nang thay đổi số hàng tế bào nhưng vẫn có noãn bào 1; hoàn thành giảm phân I được gắn với đỉnh LH",
+        "Nang thứ cấp vẫn chỉ có một hàng vuông, còn LH không liên quan",
+        "Nang sơ cấp đã chứa noãn chín, nên không cần xét giảm phân"
+      ],
+      "answer": 1,
+      "explanation": "Slide 16/18 giữ noãn bào 1 trong hai giai đoạn nang; slide 10 mới liên hệ hoàn thành lần I với đỉnh LH.",
+      "optionExplanations": [
+        "Suy luận theo tên gọi thay cho bằng chứng.",
+        "Slide 16/18 giữ noãn bào 1 trong hai giai đoạn nang; slide 10 mới liên hệ hoàn thành lần I với đỉnh LH.",
+        "Sai mô tả nhiều hàng và sai vai trò LH.",
+        "Slide 16 ghi noãn bào 1."
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        },
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        },
+        {
+          "page": 10,
+          "quote": "NOÃN BÀO 2(thứ cấp)\n Tuổi dậy thì \n Sau đỉnh LH  hoàn thành GP I\nNgưng tại kỳ giữa II\nApoptosis",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q036"
+    },
+    {
+      "id": "m09-v037",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-giai-doan-vs-ket-cuc",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Ba mốc “bào thai tháng 7”, “sau đỉnh LH và dừng kỳ giữa II”, “có thụ tinh” được ghép lần lượt với dạng nào?",
+      "options": [
+        "Noãn bào 1; noãn bào 2; noãn chín",
+        "Noãn bào 2; noãn chín; noãn nguyên bào",
+        "Noãn chín; noãn bào 1; noãn bào 2",
+        "Noãn nguyên bào; nang sơ cấp; hoàng thể"
+      ],
+      "answer": 0,
+      "explanation": "Slide 7 gắn tháng 7 với noãn bào 1, slide 10 gắn sau LH với noãn bào 2, slide 11 gắn thụ tinh với noãn chín.",
+      "optionExplanations": [
+        "Slide 7 gắn tháng 7 với noãn bào 1, slide 10 gắn sau LH với noãn bào 2, slide 11 gắn thụ tinh với noãn chín.",
+        "Các mốc không theo mô tả nguồn.",
+        "Đảo các giai đoạn.",
+        "Trộn tên tế bào, tên nang và hoàng thể."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "NOÃN NGUYÊN BÀO\n Chỉ thấy trong thời kỳ bào thai\n Nguyên phân với đỉnh #20 tuần: 6-7 triệu noãn\n Tuần thứ 8  giảm phân I rất chậm chạp, apoptosis\n Đến tháng thứ 7 hầu hết thành noãn bào 1",
+          "type": "text"
+        },
+        {
+          "page": 10,
+          "quote": "NOÃN BÀO 2(thứ cấp)\n Tuổi dậy thì \n Sau đỉnh LH  hoàn thành GP I\nNgưng tại kỳ giữa II\nApoptosis",
+          "type": "text"
+        },
+        {
+          "page": 11,
+          "quote": "NOÃN CHÍN\n Tế bào lớn nhất\n d#0.1mm\n Khi có hiện tượng thụ tinh",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q037"
+    },
+    {
+      "id": "m09-v038",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-dung-giam-phan",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai báo cáo: A “túi mầm nguyên vẹn, kỳ đầu I”; B “thể cực thứ nhất đã ra, metaphase II”. Đánh giá nào đúng?",
+      "options": [
+        "A đã qua giảm phân I, B chưa bắt đầu",
+        "Cả A và B đều đã hoàn thành giảm phân II",
+        "Chỉ khác hình dạng, không liên quan tiến trình giảm phân",
+        "A còn ở trạng thái noãn bào 1; B đã qua giảm phân I và ở trạng thái noãn bào 2"
+      ],
+      "answer": 3,
+      "explanation": "Kết hợp mô tả slide 9/10 với chú thích slide 12 xác định hai mức trưởng thành giảm phân khác nhau.",
+      "optionExplanations": [
+        "Đảo trạng thái A và B.",
+        "B vẫn ở điểm dừng kỳ giữa II.",
+        "Các chú thích trực tiếp gắn hình thái với giảm phân.",
+        "Kết hợp mô tả slide 9/10 với chú thích slide 12 xác định hai mức trưởng thành giảm phân khác nhau."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "NOÃN BÀO 1(sơ cấp)\n Ngưng tại kỳ đầu I\n Từ tháng thứ 7 đến trước tuổi dậy thì\n #106 đến 30.000 lúc dậy thì\n Apoptosis  số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 10,
+          "quote": "NOÃN BÀO 2(thứ cấp)\n Tuổi dậy thì \n Sau đỉnh LH  hoàn thành GP I\nNgưng tại kỳ giữa II\nApoptosis",
+          "type": "text"
+        },
+        {
+          "page": 12,
+          "quote": "(A) Immature, germinal vesicle-intact stage. The chromatin is arrested in prophase of meiosis I; meiotic maturation has not begun. (B) Germinal vesicle breakdown stage. Meiosis I has resumed, with breakdown of the germinal vesicle; the chromatin is progressing through the remainder of meiosis I. (C) Mature oocyte. The first polar body has been emitted, and the remaining chromatin is arrested in metaphase of meiosis II.",
+          "type": "visual",
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q038"
+    },
+    {
+      "id": "m09-v039",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-noanchin-thutinh",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một nang được gọi là “nang chín” và noãn đang chuyển 1→2. Có nên kết luận noãn đó đã là “noãn chín sau thụ tinh” không?",
+      "options": [
+        "Có; mọi nang có hốc đều chứa hợp tử",
+        "Không; vì nang chín không chứa noãn nào",
+        "Không; tên nang chín không thay thế điều kiện thụ tinh của noãn chín",
+        "Có; hai cụm “chín” luôn đồng nghĩa"
+      ],
+      "answer": 2,
+      "explanation": "Slide 21 mô tả nang chín ở giai đoạn noãn 1→2; slide 11 gắn noãn chín với thụ tinh. Không đồng nhất hai thuật ngữ.",
+      "optionExplanations": [
+        "Hốc nang không chứng minh hợp tử.",
+        "Slide 21 nêu rõ noãn bên trong.",
+        "Slide 21 mô tả nang chín ở giai đoạn noãn 1→2; slide 11 gắn noãn chín với thụ tinh. Không đồng nhất hai thuật ngữ.",
+        "Bỏ qua hai đối tượng khác nhau."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "NOÃN BÀO 2(thứ cấp)\n Tuổi dậy thì \n Sau đỉnh LH  hoàn thành GP I\nNgưng tại kỳ giữa II\nApoptosis",
+          "type": "text"
+        },
+        {
+          "page": 11,
+          "quote": "NOÃN CHÍN\n Tế bào lớn nhất\n d#0.1mm\n Khi có hiện tượng thụ tinh",
+          "type": "text"
+        },
+        {
+          "page": 21,
+          "quote": "NANG NOÃN CHÍN\n Sau dậy thì\n Noãn bào 12\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Có hốc\n Hiện tượng chọn lọc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m09-q039"
+    },
+    {
+      "id": "m09-v040",
+      "topicId": "m09-tich-hop",
+      "conceptId": "m09-noan1-qua-cac-nang",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một quần thể có nang ở nhiều giai đoạn nhưng nhiều noãn vẫn ở kỳ đầu I. Có nhất thiết là dữ liệu tự mâu thuẫn không?",
+      "options": [
+        "Không; vì kỳ đầu I là trạng thái của mọi noãn chín sau thụ tinh",
+        "Không; nang có thể khác giai đoạn cấu trúc trong khi đều chứa noãn bào 1",
+        "Có; mọi thay đổi của nang buộc noãn tiến thêm một lần giảm phân",
+        "Có; chỉ một loại nang được chứa noãn bào 1"
+      ],
+      "answer": 1,
+      "explanation": "Slide 14,16,18 cùng chứa noãn bào 1, còn slide 9 xác định điểm dừng kỳ đầu I của dạng này.",
+      "optionExplanations": [
+        "Noãn chín không được mô tả dừng kỳ đầu I.",
+        "Slide 14,16,18 cùng chứa noãn bào 1, còn slide 9 xác định điểm dừng kỳ đầu I của dạng này.",
+        "Nguồn không cho phép suy luận một-một đó.",
+        "Có ba loại nang cùng được mô tả chứa noãn bào 1."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "NOÃN BÀO 1(sơ cấp)\n Ngưng tại kỳ đầu I\n Từ tháng thứ 7 đến trước tuổi dậy thì\n #106 đến 30.000 lúc dậy thì\n Apoptosis  số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 14,
+          "quote": "NANG NOÃN NGUYÊN THUỶ\n Bào thai đến trước dậy thì\n Noãn bào 1\n Một hàng tế bào dẹt quanh noãn\n Số lượng giảm dần",
+          "type": "text"
+        },
+        {
+          "page": 16,
+          "quote": "NANG NOÃN SƠ CẤP\n Sau dậy thì\n Noãn bào 1\n Một hàng tế bào vuông quanh noãn\n Bắt đầu tạo lớp màng trong suốt (zona pellucida)",
+          "type": "text"
+        },
+        {
+          "page": 18,
+          "quote": "NANG NOÃN THỨ CẤP\n Sau dậy thì\n Noãn bào 1\n Nhiều hàng tế bào quanh noãn\n Lớp màng trong suốt (zona pellucida)\n Đặc  có hốc",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m09-q040"
     }
   ],
   "limitations": [

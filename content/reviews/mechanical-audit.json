@@ -193,16 +193,16 @@
     "thresholdErrors": []
   },
   "m09": {
-    "questions": 40,
+    "questions": 80,
     "levels": {
-      "understand": 23,
-      "apply": 15,
-      "analyze": 2
+      "understand": 46,
+      "apply": 30,
+      "analyze": 4
     },
     "difficulties": {
-      "easy": 10,
-      "hard": 20,
-      "veryHard": 10
+      "easy": 20,
+      "hard": 40,
+      "veryHard": 20
     },
     "concepts": {
       "easy": 10,
@@ -210,9 +210,9 @@
       "veryHard": 7
     },
     "topicCounts": {
-      "m09-dong-noan": 16,
-      "m09-nang-noan": 14,
-      "m09-tich-hop": 10
+      "m09-dong-noan": 32,
+      "m09-nang-noan": 28,
+      "m09-tich-hop": 20
     },
     "mechanicalPass": true,
     "examThresholdPass": true,
@@ -222,16 +222,16 @@
     "thresholdErrors": []
   },
   "m10": {
-    "questions": 40,
+    "questions": 80,
     "levels": {
-      "understand": 28,
-      "apply": 9,
-      "analyze": 3
+      "understand": 56,
+      "apply": 18,
+      "analyze": 6
     },
     "difficulties": {
-      "easy": 10,
-      "hard": 20,
-      "veryHard": 10
+      "easy": 20,
+      "hard": 40,
+      "veryHard": 20
     },
     "concepts": {
       "easy": 10,
@@ -239,11 +239,11 @@
       "veryHard": 9
     },
     "topicCounts": {
-      "m10-cautruc": 9,
-      "m10-sinhtinh": 9,
-      "m10-sertoli": 8,
-      "m10-vanchuyen": 4,
-      "m10-tichhop": 10
+      "m10-cautruc": 18,
+      "m10-sinhtinh": 18,
+      "m10-sertoli": 16,
+      "m10-vanchuyen": 8,
+      "m10-tichhop": 20
     },
     "mechanicalPass": true,
     "examThresholdPass": true,
@@ -253,15 +253,15 @@
     "thresholdErrors": []
   },
   "m11": {
-    "questions": 40,
+    "questions": 80,
     "levels": {
-      "understand": 35,
-      "apply": 5
+      "understand": 70,
+      "apply": 10
     },
     "difficulties": {
-      "easy": 10,
-      "hard": 20,
-      "veryHard": 10
+      "easy": 20,
+      "hard": 40,
+      "veryHard": 20
     },
     "concepts": {
       "easy": 9,
@@ -269,11 +269,11 @@
       "veryHard": 8
     },
     "topicCounts": {
-      "ditruyen": 9,
-      "khananghoa": 4,
-      "tiepxucnoan": 7,
-      "thutinh": 10,
-      "hopty": 10
+      "ditruyen": 18,
+      "khananghoa": 8,
+      "tiepxucnoan": 14,
+      "thutinh": 20,
+      "hopty": 20
     },
     "mechanicalPass": true,
     "examThresholdPass": true,
@@ -283,16 +283,16 @@
     "thresholdErrors": []
   },
   "m12": {
-    "questions": 41,
+    "questions": 80,
     "levels": {
-      "understand": 30,
-      "apply": 9,
-      "analyze": 2
+      "understand": 58,
+      "apply": 18,
+      "analyze": 4
     },
     "difficulties": {
-      "easy": 10,
-      "hard": 21,
-      "veryHard": 10
+      "easy": 20,
+      "hard": 40,
+      "veryHard": 20
     },
     "concepts": {
       "easy": 10,
@@ -300,12 +300,12 @@
       "veryHard": 9
     },
     "topicCounts": {
-      "noimac": 8,
-      "cuaso": 6,
-      "phoi": 8,
-      "doithoai": 8,
-      "hcg": 6,
-      "phattrien": 5
+      "noimac": 15,
+      "cuaso": 12,
+      "phoi": 15,
+      "doithoai": 16,
+      "hcg": 12,
+      "phattrien": 10
     },
     "mechanicalPass": true,
     "examThresholdPass": true,
@@ -347,16 +347,16 @@
     "thresholdErrors": []
   },
   "m14": {
-    "questions": 49,
+    "questions": 80,
     "levels": {
-      "understand": 16,
-      "apply": 22,
-      "analyze": 11
+      "understand": 28,
+      "apply": 40,
+      "analyze": 12
     },
     "difficulties": {
-      "easy": 15,
-      "hard": 23,
-      "veryHard": 11
+      "easy": 27,
+      "hard": 41,
+      "veryHard": 12
     },
     "concepts": {
       "easy": 14,
@@ -364,15 +364,15 @@
       "veryHard": 10
     },
     "topicCounts": {
-      "dinhnghia": 1,
-      "vitri": 5,
-      "nguyco": 5,
-      "coche": 3,
-      "lamsang": 6,
-      "cls": 8,
-      "chandoan": 3,
-      "xutri": 9,
-      "tienluong": 2,
+      "dinhnghia": 2,
+      "vitri": 9,
+      "nguyco": 9,
+      "coche": 5,
+      "lamsang": 11,
+      "cls": 14,
+      "chandoan": 5,
+      "xutri": 15,
+      "tienluong": 3,
       "giaiphaubenh": 2,
       "thaioobung": 3,
       "phongngua": 2

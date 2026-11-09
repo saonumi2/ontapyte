@@ -739,7 +739,7 @@
       "topicId": "utan",
       "conceptId": "tumorclassification",
       "level": "understand",
-      "stem": "Bài học phân loại u tân sinh buồng trứng chủ yếu dựa vào gì?",
+      "stem": "Phân loại u tân sinh buồng trứng chủ yếu dựa vào gì?",
       "options": [
         "Nguồn gốc phôi học và mô học",
         "Chỉ bên trái hay bên phải",
@@ -850,7 +850,7 @@
       "topicId": "giaiphau",
       "conceptId": "dimensions",
       "level": "apply",
-      "stem": "Một mô hình buồng trứng ghi dày 1 cm, rộng 2 cm, cao 3 cm. Đối chiếu bài, nhận xét nào đúng?",
+      "stem": "Một mô hình buồng trứng ghi dày 1 cm, rộng 2 cm, cao 3 cm. nhận xét nào đúng?",
       "options": [
         "Phù hợp bộ kích thước mô tả",
         "Bài ghi dày 3 cm, rộng 1 cm, cao 2 cm",
@@ -1150,7 +1150,7 @@
       "topicId": "giaiphau",
       "conceptId": "dualsupply",
       "level": "apply",
-      "stem": "Ngoài động mạch buồng trứng, nguồn động mạch nào khác được bài liệt kê?",
+      "stem": "Ngoài động mạch buồng trứng, nguồn động mạch nào khác được liệt kê?",
       "options": [
         "Nhánh buồng trứng của động mạch tử cung",
         "Nhánh trực tiếp từ động mạch phổi",
@@ -1224,7 +1224,7 @@
       "topicId": "phoi",
       "conceptId": "germmigration",
       "level": "apply",
-      "stem": "Một tế bào sinh dục nguyên thủy được theo dõi trên đường đến gờ sinh dục. Nguồn xuất phát nào phù hợp bài?",
+      "stem": "Một tế bào sinh dục nguyên thủy được theo dõi trên đường đến gờ sinh dục. Nguồn xuất phát nào phù hợp?",
       "options": [
         "Thành túi noãn hoàng",
         "Lớp cơ tử cung",
@@ -1409,7 +1409,7 @@
       "topicId": "mohoc",
       "conceptId": "fertilizationcompletion",
       "level": "apply",
-      "stem": "Sau thụ tinh, noãn bào II hoàn tất phân chia. Bộ NST của noãn chín được bài ghi là gì?",
+      "stem": "Sau thụ tinh, noãn bào II hoàn tất phân chia. Bộ NST của noãn chín được ghi là gì?",
       "options": [
         "n đơn",
         "2n kép",
@@ -1557,7 +1557,7 @@
       "topicId": "mohoc",
       "conceptId": "antralfluid",
       "level": "apply",
-      "stem": "Dịch được lấy từ hốc nang để đối chiếu mô tả thành phần. Tổ hợp nào phù hợp bài?",
+      "stem": "Dịch được lấy từ hốc nang để đối chiếu mô tả thành phần. Tổ hợp nào phù hợp?",
       "options": [
         "Dịch thấm huyết tương, hyaluronate, yếu tố tăng trưởng và steroid",
         "Chỉ khí và không có chất hòa tan",
@@ -1705,7 +1705,7 @@
       "topicId": "mohoc",
       "conceptId": "coronaradiata",
       "level": "apply",
-      "stem": "Các tế bào hạt bao quanh noãn bào II tạo thành cấu trúc nào được bài gọi tên?",
+      "stem": "Các tế bào hạt bao quanh noãn bào II tạo thành cấu trúc nào được gọi tên?",
       "options": [
         "Vành tia, corona radiata",
         "Bạch thể",
@@ -1890,7 +1890,7 @@
       "topicId": "nangconang",
       "conceptId": "follicularcourse",
       "level": "apply",
-      "stem": "Một nang noãn nang được theo dõi qua vài chu kỳ. Diễn tiến nào được bài nêu có thể xảy ra?",
+      "stem": "Một nang noãn nang được theo dõi qua vài chu kỳ. Diễn tiến nào được nêu có thể xảy ra?",
       "options": [
         "Tự mất sau vài chu kỳ kinh",
         "Luôn tiến triển thành u quái",
@@ -2112,7 +2112,7 @@
       "topicId": "lacnoimac",
       "conceptId": "endometriomainfertility",
       "level": "apply",
-      "stem": "Bài giải thích hiếm muộn liên quan nang lạc nội mạc buồng trứng qua cơ chế nào?",
+      "stem": "Được nêu hiếm muộn liên quan nang lạc nội mạc buồng trứng qua cơ chế nào?",
       "options": [
         "Viêm dính vòi trứng",
         "Tăng số tua vòi",
@@ -2149,7 +2149,7 @@
       "topicId": "utan",
       "conceptId": "epithelialtumors",
       "level": "apply",
-      "stem": "Cặp u nào được bài xếp có nguồn gốc thượng mô?",
+      "stem": "Cặp u nào được xếp có nguồn gốc thượng mô?",
       "options": [
         "U thanh dịch và u dịch nhầy",
         "U quái trưởng thành và mọi u di căn",
@@ -2190,7 +2190,7 @@
       "topicId": "utan",
       "conceptId": "matureteratoma",
       "level": "apply",
-      "stem": "U quái trưởng thành được bài mô tả thuộc nguồn gốc nào và tính chất gì?",
+      "stem": "U quái trưởng thành được mô tả thuộc nguồn gốc nào và tính chất gì?",
       "options": [
         "Tế bào mầm, dạng lành tính",
         "Thượng mô, luôn ác tính",
@@ -2387,7 +2387,7 @@
       "topicId": "giaiphau",
       "conceptId": "surfaceversusserosa",
       "level": "analyze",
-      "stem": "Một người đồng nhất biểu mô phủ bề mặt buồng trứng với thanh mạc. Đối chiếu bài nên kết luận gì?",
+      "stem": "Một người đồng nhất biểu mô phủ bề mặt buồng trứng với thanh mạc. nên kết luận gì?",
       "options": [
         "Bài nêu không có thanh mạc bao phủ, nhưng bề mặt vẫn có biểu mô lát hoặc vuông đơn",
         "Không có thanh mạc nghĩa là không có bất kỳ biểu mô nào",
@@ -2592,7 +2592,7 @@
       "topicId": "hoangthe",
       "conceptId": "luteolysismenses",
       "level": "analyze",
-      "stem": "Không có thụ tinh, hoàng thể thoái triển. Chuỗi hậu quả nào phù hợp bài?",
+      "stem": "Không có thụ tinh, hoàng thể thoái triển. Chuỗi hậu quả nào phù hợp?",
       "options": [
         "Steroid sinh dục giảm → nội mạc tử cung bong tróc → hành kinh",
         "Steroid tăng không ngừng → luôn duy trì nội mạc",
@@ -2887,7 +2887,7 @@
       "topicId": "utan",
       "conceptId": "malignancynuance",
       "level": "analyze",
-      "stem": "Có ý kiến mọi u tân sinh buồng trứng đều ác tính. Đối chiếu bài, nhận định nào đúng?",
+      "stem": "Có ý kiến mọi u tân sinh buồng trứng đều ác tính. nhận định nào đúng?",
       "options": [
         "Cần loại trừ ác tính, nhưng bài vẫn nêu u thanh dịch có tỷ lệ lành và u quái trưởng thành dạng lành",
         "Bài khẳng định mọi u đều ác tính",
@@ -2932,7 +2932,7 @@
       "topicId": "pcos",
       "conceptId": "pcoscriteriongroups",
       "level": "analyze",
-      "stem": "Một người có kinh thưa và rậm lông; bài xếp hai biểu hiện vào những nhóm tiêu chuẩn nào?",
+      "stem": "Một người có kinh thưa và rậm lông; xếp hai biểu hiện vào những nhóm tiêu chuẩn nào?",
       "options": [
         "Rối loạn phóng noãn và cường androgen",
         "Hai biểu hiện đều chỉ thuộc nhóm hình ảnh siêu âm",

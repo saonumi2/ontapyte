@@ -65,7 +65,7 @@
       "topicId": "classification",
       "conceptId": "m16-gtd-definition",
       "level": "understand",
-      "stem": "Bản chất của GTD theo định nghĩa bài học là gì?",
+      "stem": "Bản chất của GTD theo định nghĩa là gì?",
       "options": [
         "Tăng sinh nguyên bào nuôi của bánh nhau",
         "Chỉ tăng kích thước cơ tử cung",
@@ -105,7 +105,7 @@
       "topicId": "classification",
       "conceptId": "m16-gtd-marker",
       "level": "understand",
-      "stem": "Dấu chỉ đặc trưng của GTD và phương tiện theo dõi được bài học nêu là gì?",
+      "stem": "Dấu chỉ đặc trưng của GTD và phương tiện theo dõi được nêu là gì?",
       "options": [
         "CRL",
         "BPD",
@@ -580,7 +580,7 @@
       "topicId": "clinical",
       "conceptId": "m16-complications",
       "level": "understand",
-      "stem": "Nhóm biến chứng thai trứng nào được bài nêu?",
+      "stem": "Nhóm biến chứng thai trứng nào được nêu?",
       "options": [
         "Nhiễm trùng, xuất huyết và ung thư nguyên bào nuôi",
         "Chỉ thay đổi ngày dự sanh",
@@ -620,7 +620,7 @@
       "topicId": "clinical",
       "conceptId": "m16-clinical-syndrome",
       "level": "understand",
-      "stem": "Nhóm triệu chứng cơ năng nào phù hợp danh sách bài học?",
+      "stem": "Nhóm triệu chứng cơ năng nào phù hợp danh sách?",
       "options": [
         "Chỉ cảm giác thai máy ở cuối thai kỳ",
         "Chỉ rạn da mà không thông tin khác",
@@ -660,7 +660,7 @@
       "topicId": "clinical",
       "conceptId": "m16-theca-lutein",
       "level": "understand",
-      "stem": "Bài học mô tả nang hoàng tuyến thường ở vị trí nào?",
+      "stem": "Được nêu nang hoàng tuyến thường ở vị trí nào?",
       "options": [
         "Chỉ luôn bên trái",
         "Chỉ trong buồng tử cung",
@@ -860,7 +860,7 @@
       "topicId": "followup",
       "conceptId": "m16-contraception-followup",
       "level": "understand",
-      "stem": "Trong thời gian theo dõi, bài học nêu yêu cầu nào?",
+      "stem": "Trong thời gian theo dõi, được nêu yêu cầu nào?",
       "options": [
         "Mọi người phải có thai ngay",
         "Tránh thai",
@@ -1401,7 +1401,7 @@
       "topicId": "pathology",
       "conceptId": "m16-p57",
       "level": "understand",
-      "stem": "p57KIP2 dương tính được ghép với nhóm nào?",
+      "stem": "P57KIP2 dương tính được ghép với nhóm nào?",
       "options": [
         "Bán phần",
         "Toàn phần",
@@ -1441,7 +1441,7 @@
       "topicId": "pathology",
       "conceptId": "m16-p57",
       "level": "understand",
-      "stem": "p57KIP2 âm tính thường hướng về nhóm nào?",
+      "stem": "P57KIP2 âm tính thường hướng về nhóm nào?",
       "options": [
         "Bán phần",
         "Chỉ thai ngoài tử cung",
@@ -1742,7 +1742,7 @@
       "topicId": "clinical",
       "conceptId": "m16-risk-age",
       "level": "understand",
-      "stem": "Người học cần ghi một yếu tố nguy cơ về tuổi được bài nêu. Mốc nào đúng?",
+      "stem": "Người học cần ghi một yếu tố nguy cơ về tuổi được nêu. Mốc nào đúng?",
       "options": [
         "Trên 40 tuổi",
         "Dưới 10 tuổi là mốc duy nhất",
@@ -1862,7 +1862,7 @@
       "topicId": "clinical",
       "conceptId": "m16-hyper-hcg-symptoms",
       "level": "understand",
-      "stem": "Trong danh sách triệu chứng liên quan hCG quá cao, bài học nêu cặp nào?",
+      "stem": "Trong danh sách triệu chứng liên quan hCG quá cao, được nêu cặp nào?",
       "options": [
         "Chỉ tăng CRL và giảm BPD",
         "Cường giáp và tiền sản giật",
@@ -1902,7 +1902,7 @@
       "topicId": "clinical",
       "conceptId": "m16-vaginal-nodule",
       "level": "apply",
-      "stem": "Một mô tả nhắc nhân di căn âm đạo màu tím sẫm, dễ vỡ. Nguy cơ trực tiếp nào được bài nêu?",
+      "stem": "Một mô tả nhắc nhân di căn âm đạo màu tím sẫm, dễ vỡ. Nguy cơ trực tiếp nào được nêu?",
       "options": [
         "Chảy máu",
         "Luôn không chảy máu",
@@ -2022,7 +2022,7 @@
       "topicId": "diagnostics",
       "conceptId": "m16-confirm-test",
       "level": "apply",
-      "stem": "Muốn xác nhận chẩn đoán theo vai trò được bài học nêu, lựa chọn nào đúng?",
+      "stem": "Muốn xác nhận chẩn đoán theo vai trò được nêu, lựa chọn nào đúng?",
       "options": [
         "Chỉ hCG tăng",
         "Giải phẫu bệnh",
@@ -2062,7 +2062,7 @@
       "topicId": "diagnostics",
       "conceptId": "m16-ectopic-differential",
       "level": "apply",
-      "stem": "Ra máu, tử cung nhỏ và khối cạnh tử cung đau được bài liệt kê khi phân biệt với tình trạng nào?",
+      "stem": "Ra máu, tử cung nhỏ và khối cạnh tử cung đau được liệt kê khi phân biệt với tình trạng nào?",
       "options": [
         "Thai ngoài tử cung",
         "Chỉ đa thai",
@@ -2102,7 +2102,7 @@
       "topicId": "diagnostics",
       "conceptId": "m16-demise-differential",
       "level": "apply",
-      "stem": "Trong chẩn đoán phân biệt, thai chết lưu có thể nhầm với dạng nào được bài nêu?",
+      "stem": "Trong chẩn đoán phân biệt, thai chết lưu có thể nhầm với dạng nào được nêu?",
       "options": [
         "Nang hoàng tuyến được xác định đơn độc",
         "U xơ tử cung mọi trường hợp",
@@ -2142,7 +2142,7 @@
       "topicId": "diagnostics",
       "conceptId": "m16-hyperemesis-differential",
       "level": "apply",
-      "stem": "Một sinh viên cho rằng nghén nặng chỉ có ở thai trứng. Bài học nêu tình trạng nào khác có thể nghén nặng?",
+      "stem": "Một sinh viên cho rằng nghén nặng chỉ có ở thai trứng. được nêu tình trạng nào khác có thể nghén nặng?",
       "options": [
         "Chỉ u xơ tử cung",
         "Chỉ mô nguyên bào nuôi không liên quan thai kỳ",
@@ -2222,7 +2222,7 @@
       "topicId": "followup",
       "conceptId": "m16-systemic-procedure-risks",
       "level": "apply",
-      "stem": "Ngoài thủng tử cung và mất máu, bài học còn cảnh báo biến cố nào?",
+      "stem": "Ngoài thủng tử cung và mất máu, còn cảnh báo biến cố nào?",
       "options": [
         "Cơn bão giáp hoặc thuyên tắc nguyên bào nuôi",
         "Chỉ thay đổi ngày dự sanh",
@@ -2302,7 +2302,7 @@
       "topicId": "followup",
       "conceptId": "m16-hcg-until-negative",
       "level": "understand",
-      "stem": "Theo lịch bài học, trước khi hCG âm tính, khoảng kiểm định lượng được nêu là bao lâu?",
+      "stem": "Theo lịch, trước khi hCG âm tính, khoảng kiểm định lượng được nêu là bao lâu?",
       "options": [
         "Mỗi 6 tháng ngay từ đầu",
         "Không cần định lượng",
@@ -2382,7 +2382,7 @@
       "topicId": "followup",
       "conceptId": "m16-complete-postnegative",
       "level": "understand",
-      "stem": "Sau hCG âm tính, lịch TTTP được bài học nêu là gì?",
+      "stem": "Sau hCG âm tính, lịch TTTP được nêu là gì?",
       "options": [
         "Mỗi tháng trong 6 tháng",
         "Chỉ một lần sau 1 ngày",
@@ -2422,7 +2422,7 @@
       "topicId": "followup",
       "conceptId": "m16-figo-plateau",
       "level": "apply",
-      "stem": "hCG bình nguyên qua 4 lần đo vào ngày 1, 7, 14 và 21 đáp ứng mô tả nào?",
+      "stem": "HCG bình nguyên qua 4 lần đo vào ngày 1, 7, 14 và 21 đáp ứng mô tả nào?",
       "options": [
         "Chỉ mới một lần đo nên không có động học",
         "Tiêu chí bắt buộc hCG giảm 50%",

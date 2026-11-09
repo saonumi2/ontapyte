@@ -20,7 +20,7 @@ for f in sorted((ROOT/'content'/'banks').glob('m[0-9][0-9].json')):
         st=norm(q.get('stem',''))
         if st in stems: errors.append(f'duplicate stem {ident}')
         stems.add(st)
-        if re.search(r'(?i)(?:theo|dựa vào|trong)\s+(?:bài|slide|trang|tài liệu|bảng|sơ đồ)|\b(?:slide|trang)\s*\d+',q.get('stem','')):
+        if re.search(r'(?i)(?:theo|dựa vào|trong)\s+(?:bài|slide|trang|tài liệu|bảng|sơ đồ)|\b(?:slide|trang)\s*\d+|\bbài\b(?!\s+tập)',q.get('stem','')):
             errors.append(f'{ident}: source cue in question stem')
         if q.get('topicId') not in topics: errors.append(f'{ident}: unknown topic')
         if q.get('level') not in ('understand','apply','analyze'):errors.append(f'{ident}: invalid level')
@@ -40,6 +40,12 @@ for f in sorted((ROOT/'content'/'banks').glob('m[0-9][0-9].json')):
                 if ref.get('type')!='visual' or not ref.get('transcriptionVerified'):
                     errors.append(f'{ident}: quote not in text layer page {page}')
     counts=Counter(q['level'] for q in qs)
+    by_id={q['id']:q for q in qs}
+    for q in qs:
+        if q.get('variantOf'):
+            parent=by_id.get(q['variantOf'])
+            if parent is None or any(q.get(k)!=parent.get(k) for k in ('conceptId','options','answer','explanation','sources')):
+                errors.append(f'{q["id"]}: variant differs from sourced parent')
     difficulties=Counter(q['difficulty'] for q in qs)
     threshold_errors=[]
     concepts={level:len({q['conceptId'] for q in qs if q['difficulty']==level}) for level in ('easy','hard','veryHard')}

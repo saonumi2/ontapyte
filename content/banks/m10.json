@@ -57,7 +57,7 @@
       "topicId": "m10-cautruc",
       "conceptId": "m10-nhan-dau",
       "level": "understand",
-      "stem": "Cách ghép cấu trúc với vùng của tinh trùng nào phù hợp bài?",
+      "stem": "Cách ghép cấu trúc với vùng của tinh trùng nào phù hợp?",
       "options": [
         "Nhân thuộc phần đầu",
         "Nhân nằm ở đầu tận của đuôi",
@@ -297,7 +297,7 @@
       "topicId": "m10-sertoli",
       "conceptId": "m10-nangdo-vs-dongmam",
       "level": "understand",
-      "stem": "Vì sao bài gọi Sertoli là tế bào “điều dưỡng” của tinh bào?",
+      "stem": "Vì sao gọi Sertoli là tế bào “điều dưỡng” của tinh bào?",
       "options": [
         "Do thay nhân cho tinh bào khi giảm phân",
         "Do là tên khác của thể cực đầu",
@@ -1703,6 +1703,1698 @@
         "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       },
       "difficulty": "hard"
+    },
+    {
+      "id": "m10-v001",
+      "topicId": "m10-cautruc",
+      "conceptId": "m10-nhan-dau",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Cách ghép cấu trúc với vùng của tinh trùng nào phù hợp?",
+      "options": [
+        "Nhân thuộc phần đầu",
+        "Nhân nằm ở đầu tận của đuôi",
+        "Thể cực đầu nằm ở cuối roi",
+        "Ty thể tạo thành nhân"
+      ],
+      "answer": 0,
+      "explanation": "Slide 3 đặt nhãn nucleus trong head của tinh trùng.",
+      "optionExplanations": [
+        "Slide 3 đặt nhãn nucleus trong head của tinh trùng.",
+        "Không phù hợp vị trí nhân trên sơ đồ.",
+        "Acrosome được vẽ ở phần đầu.",
+        "Ty thể và nhân là hai cấu trúc được ghi riêng."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "HEAD; NUCLEUS; ACROSOME; MID-PIECE; MITOCHONDRIA; TAIL / FLAGELLUM; AXONEME",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q001"
+    },
+    {
+      "id": "m10-v002",
+      "topicId": "m10-cautruc",
+      "conceptId": "m10-tythe-doangiua",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Cụm ty thể của tinh trùng nằm ở vùng nào?",
+      "options": [
+        "Nhân ở đầu",
+        "Mặt ngoài toàn bộ thể cực đầu",
+        "Đầu tận cùng của đuôi",
+        "Đoạn giữa"
+      ],
+      "answer": 3,
+      "explanation": "Nhãn mitochondria trỏ vào mid-piece trên slide 3.",
+      "optionExplanations": [
+        "Nhân được ghi riêng trong head.",
+        "Không phải vị trí nhãn ty thể.",
+        "Nhãn ty thể nằm ở đoạn giữa, gần đầu.",
+        "Nhãn mitochondria trỏ vào mid-piece trên slide 3."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "HEAD; NUCLEUS; ACROSOME; MID-PIECE; MITOCHONDRIA; TAIL / FLAGELLUM; AXONEME",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q002"
+    },
+    {
+      "id": "m10-v003",
+      "topicId": "m10-cautruc",
+      "conceptId": "m10-cuctdau-golgi",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Bộ máy Golgi tham gia hình thành cấu trúc nào khi tinh tử biệt hóa?",
+      "options": [
+        "Ống dẫn tinh",
+        "Hàng rào máu–tinh hoàn",
+        "Thể cực đầu",
+        "Nhân thứ hai ở đuôi"
+      ],
+      "answer": 2,
+      "explanation": "Slide 6 đặt thể Golgi cạnh thể cực đầu trong giai đoạn đầu của biệt hóa tinh tử.",
+      "optionExplanations": [
+        "Ống dẫn tinh là cấu trúc cơ quan, không bào quan hình thành từ Golgi ở đây.",
+        "Hàng rào không được tạo thành từ Golgi của tinh tử trong sơ đồ.",
+        "Slide 6 đặt thể Golgi cạnh thể cực đầu trong giai đoạn đầu của biệt hóa tinh tử.",
+        "Sơ đồ không hình thành nhân thứ hai ở đuôi."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Thể Golgi; Thể cực đầu; Nhân tinh tử; Ty lạp thể; Vi quản; Đuôi; Bào tương thừa; Đoạn giữa; Đầu",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q003"
+    },
+    {
+      "id": "m10-v004",
+      "topicId": "m10-sinhtinh",
+      "conceptId": "m10-sinh-tinh-thu-tu",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trình tự dòng tế bào nào đúng sinh tinh?",
+      "options": [
+        "Tinh nguyên bào → tinh trùng → tinh bào I → tinh tử",
+        "Tinh nguyên bào → tinh bào I → tinh bào II → tinh tử → tinh trùng",
+        "Tinh tử → tinh nguyên bào → tinh trùng → tinh bào II",
+        "Tinh bào II → tinh bào I → tinh nguyên bào → tinh trùng"
+      ],
+      "answer": 1,
+      "explanation": "Các mũi tên slide 5 nối lần lượt năm giai đoạn nêu trong đáp án.",
+      "optionExplanations": [
+        "Tinh trùng là giai đoạn cuối, không trước tinh bào I.",
+        "Các mũi tên slide 5 nối lần lượt năm giai đoạn nêu trong đáp án.",
+        "Đảo thứ tự trước và sau giảm phân.",
+        "Đảo ngược ba giai đoạn đầu."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q004"
+    },
+    {
+      "id": "m10-v005",
+      "topicId": "m10-sinhtinh",
+      "conceptId": "m10-giamphan-I",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Giảm phân I xảy ra trong chuyển tiếp nào của dòng tế bào tinh?",
+      "options": [
+        "Tinh bào I → tinh bào II",
+        "Tinh bào II → tinh tử",
+        "Tinh tử → tinh trùng",
+        "Tế bào mầm → tinh nguyên bào bằng nguyên phân"
+      ],
+      "answer": 0,
+      "explanation": "Giảm phân I nối tinh bào bậc 1 với tinh bào bậc 2 trên slide 5.",
+      "optionExplanations": [
+        "Giảm phân I nối tinh bào bậc 1 với tinh bào bậc 2 trên slide 5.",
+        "Đây là giảm phân II.",
+        "Đây là biến đổi thành tinh trùng, không nhãn giảm phân I.",
+        "Được gắn nhãn nguyên phân."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q005"
+    },
+    {
+      "id": "m10-v006",
+      "topicId": "m10-sinhtinh",
+      "conceptId": "m10-giamphan-II",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tinh tử xuất hiện trực tiếp sau bước nào?",
+      "options": [
+        "Nguyên phân của tinh trùng trưởng thành",
+        "Giảm phân I của tinh tử",
+        "Biến đổi ngược của tế bào Sertoli",
+        "Giảm phân II của tinh bào II"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5 cho thấy tinh bào II qua giảm phân II tạo tinh tử.",
+      "optionExplanations": [
+        "Không có bước nguyên phân của tinh trùng trên sơ đồ.",
+        "Tinh tử là sản phẩm sau lần II, không tế bào đi vào lần I.",
+        "Sertoli không thuộc chuỗi tế bào mầm này.",
+        "Slide 5 cho thấy tinh bào II qua giảm phân II tạo tinh tử."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q006"
+    },
+    {
+      "id": "m10-v007",
+      "topicId": "m10-sertoli",
+      "conceptId": "m10-nangdo-vs-dongmam",
+      "level": "understand",
+      "stem": "Lý do nào giải thích vì sao gọi Sertoli là tế bào “điều dưỡng” của tinh bào?",
+      "options": [
+        "Do thay nhân cho tinh bào khi giảm phân",
+        "Do là tên khác của thể cực đầu",
+        "Do nâng đỡ, bảo vệ và điều hòa dinh dưỡng",
+        "Do trực tiếp biến thành mọi tinh trùng"
+      ],
+      "answer": 2,
+      "explanation": "Slide 10 liệt kê nâng đỡ, bảo vệ, điều hòa dinh dưỡng ở Sertoli.",
+      "optionExplanations": [
+        "Không có cơ chế thay nhân trong bài.",
+        "Thể cực đầu là cấu trúc của tinh trùng.",
+        "Slide 10 liệt kê nâng đỡ, bảo vệ, điều hòa dinh dưỡng ở Sertoli.",
+        "Không phải chức năng được mô tả của Sertoli."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q007"
+    },
+    {
+      "id": "m10-v008",
+      "topicId": "m10-sertoli",
+      "conceptId": "m10-sertoli-che-tiet",
+      "level": "understand",
+      "stem": "Tổ hợp nào gồm các sản phẩm chế tiết của Sertoli được nêu?",
+      "options": [
+        "Bàng quang, niệu quản, niệu đạo",
+        "Dịch, ABP, inhibin",
+        "Chỉ có thể cực đầu và roi",
+        "Chỉ có tinh bào I và tinh bào II"
+      ],
+      "answer": 1,
+      "explanation": "Slide 10 liệt kê dịch, ABP và inhibin dưới chức năng chế tiết.",
+      "optionExplanations": [
+        "Đây là cấu trúc giải phẫu, không sản phẩm chế tiết.",
+        "Slide 10 liệt kê dịch, ABP và inhibin dưới chức năng chế tiết.",
+        "Đây là cấu trúc của tinh trùng.",
+        "Đây là các giai đoạn tế bào dòng tinh."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q008"
+    },
+    {
+      "id": "m10-v009",
+      "topicId": "m10-sertoli",
+      "conceptId": "m10-sertoli-thucbao",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Vai trò thực bào của Sertoli được mô tả là gì?",
+      "options": [
+        "Thu dọn các sản phẩm dư thừa",
+        "Tạo thêm tinh bào bằng giảm phân",
+        "Đưa tinh trùng qua niệu quản",
+        "Tạo nhân tinh trùng từ ty thể"
+      ],
+      "answer": 0,
+      "explanation": "Slide 10 nêu thực bào các sản phẩm dư thừa.",
+      "optionExplanations": [
+        "Slide 10 nêu thực bào các sản phẩm dư thừa.",
+        "Không phải chức năng thực bào được nêu.",
+        "Niệu quản không được nêu là đường tinh trùng.",
+        "Không có quá trình chuyển ty thể thành nhân."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q009"
+    },
+    {
+      "id": "m10-v010",
+      "topicId": "m10-vanchuyen",
+      "conceptId": "m10-nieuquan-nieudao",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Đường vận chuyển, niệu quản và niệu đạo có phải cùng một ống không?",
+      "options": [
+        "Có; chỉ là hai tên của cùng đoạn ống dẫn tinh",
+        "Có; cả hai đều là tên của mào tinh",
+        "Không; niệu đạo nằm bên trong nhân tinh trùng",
+        "Không; được ghi riêng, niệu quản đi vào bàng quang còn niệu đạo chạy qua dương vật"
+      ],
+      "answer": 3,
+      "explanation": "Slide 12 vẽ và ghi hai đường khác nhau: niệu quản đi vào bàng quang, niệu đạo đi xuống qua dương vật.",
+      "optionExplanations": [
+        "Sơ đồ phân biệt chúng với ống dẫn tinh.",
+        "Mào tinh được ghi ở cạnh tinh hoàn.",
+        "Niệu đạo là cấu trúc cơ quan.",
+        "Slide 12 vẽ và ghi hai đường khác nhau: niệu quản đi vào bàng quang, niệu đạo đi xuống qua dương vật."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Ống dẫn tinh; Túi tinh; Tuyến tiền liệt; Tuyến Cowper; Niệu đạo; Mào tinh hoàn; Tinh hoàn; Niệu quản; Bàng quang",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m10-q010"
+    },
+    {
+      "id": "m10-v011",
+      "topicId": "m10-sinhtinh",
+      "conceptId": "m10-giamphan-I",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trong một mô hình sinh tinh, tế bào 2n chuẩn bị thực hiện giảm phân I được gắn tên nào?",
+      "options": [
+        "Tinh tử",
+        "Tinh trùng",
+        "Tinh bào I",
+        "Tinh bào II"
+      ],
+      "answer": 2,
+      "explanation": "Sơ đồ slide 5 ghi tinh bào bậc 1 là 2n trước lần giảm phân I.",
+      "optionExplanations": [
+        "Tinh tử nằm sau lần II và được ghi n.",
+        "Tinh trùng là sản phẩm cuối.",
+        "Sơ đồ slide 5 ghi tinh bào bậc 1 là 2n trước lần giảm phân I.",
+        "Tinh bào II nằm sau lần I và được ghi n."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q011"
+    },
+    {
+      "id": "m10-v012",
+      "topicId": "m10-sinhtinh",
+      "conceptId": "m10-giamphan-I",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một tế bào nằm ngay sau giảm phân I nhưng chưa thực hiện giảm phân II. Xếp vào dạng nào?",
+      "options": [
+        "Tinh trùng",
+        "Tinh bào II",
+        "Tinh nguyên bào",
+        "Tinh tử"
+      ],
+      "answer": 1,
+      "explanation": "Vị trí giữa hai lần giảm phân trên slide 5 là tinh bào bậc 2.",
+      "optionExplanations": [
+        "Tinh trùng nằm sau biệt hóa tinh tử.",
+        "Vị trí giữa hai lần giảm phân trên slide 5 là tinh bào bậc 2.",
+        "Tinh nguyên bào ở trước tinh bào I.",
+        "Tinh tử xuất hiện sau lần II."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q012"
+    },
+    {
+      "id": "m10-v013",
+      "topicId": "m10-sinhtinh",
+      "conceptId": "m10-giamphan-II",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một tế bào đã hoàn tất giảm phân II nhưng đang chuẩn bị kéo dài đầu và tạo đuôi. Tên phù hợp nhất là gì?",
+      "options": [
+        "Tinh tử",
+        "Tinh nguyên bào",
+        "Tinh bào I",
+        "Tế bào Sertoli"
+      ],
+      "answer": 0,
+      "explanation": "Slide 5 cho tinh tử sau giảm phân II; slide 6 mô tả biến đổi của tinh tử thành tinh trùng.",
+      "optionExplanations": [
+        "Slide 5 cho tinh tử sau giảm phân II; slide 6 mô tả biến đổi của tinh tử thành tinh trùng.",
+        "Tinh nguyên bào ở giai đoạn trước giảm phân.",
+        "Tinh bào I chưa hoàn tất hai lần giảm phân.",
+        "Sertoli là tế bào hỗ trợ, không giai đoạn này."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 6,
+          "quote": "Thể Golgi; Thể cực đầu; Nhân tinh tử; Ty lạp thể; Vi quản; Đuôi; Bào tương thừa; Đoạn giữa; Đầu",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q013"
+    },
+    {
+      "id": "m10-v014",
+      "topicId": "m10-cautruc",
+      "conceptId": "m10-xep-vung-acrosome",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Nhận định “thể cực đầu phủ vùng đầu chứa nhân” được đánh giá thế nào?",
+      "options": [
+        "Sai vì acrosome nằm ở cuối roi",
+        "Sai vì nhân ở đoạn giữa",
+        "Sai vì tinh trùng không có phần đầu",
+        "Phù hợp với vị trí acrosome và nucleus trên sơ đồ"
+      ],
+      "answer": 3,
+      "explanation": "Slide 3 ghi acrosome ở phần đầu, cạnh vùng chứa nucleus.",
+      "optionExplanations": [
+        "Sơ đồ không đặt acrosome ở cuối roi.",
+        "Nhân được ghi trong phần đầu.",
+        "Sơ đồ ghi rõ head.",
+        "Slide 3 ghi acrosome ở phần đầu, cạnh vùng chứa nucleus."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "HEAD; NUCLEUS; ACROSOME; MID-PIECE; MITOCHONDRIA; TAIL / FLAGELLUM; AXONEME",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q014"
+    },
+    {
+      "id": "m10-v015",
+      "topicId": "m10-cautruc",
+      "conceptId": "m10-xep-vung-axoneme",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Axoneme thuộc phần nào của tinh trùng?",
+      "options": [
+        "Ống dẫn tinh",
+        "Nang noãn",
+        "Trục của đuôi/roi",
+        "Nhân trong đầu"
+      ],
+      "answer": 2,
+      "explanation": "Nhãn axoneme trên slide 3 trỏ vào phần tail/flagellum.",
+      "optionExplanations": [
+        "Ống dẫn tinh không thuộc cấu trúc bên trong tinh trùng.",
+        "Nang noãn không xuất hiện trong sơ đồ tinh trùng này.",
+        "Nhãn axoneme trên slide 3 trỏ vào phần tail/flagellum.",
+        "Nucleus được ghi riêng trong đầu."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "HEAD; NUCLEUS; ACROSOME; MID-PIECE; MITOCHONDRIA; TAIL / FLAGELLUM; AXONEME",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q015"
+    },
+    {
+      "id": "m10-v016",
+      "topicId": "m10-cautruc",
+      "conceptId": "m10-tythe-doangiua",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trong quá trình biệt hóa tinh tử, mô tả ty thể tập trung gần vùng nối đầu–đuôi phù hợp tên vùng nào của tinh trùng cuối cùng?",
+      "options": [
+        "Đầu tận của roi",
+        "Đoạn giữa",
+        "Thể cực đầu",
+        "Nhân"
+      ],
+      "answer": 1,
+      "explanation": "Slide 6 theo dõi ty lạp thể đến vùng đoạn giữa ở tinh trùng hình thành.",
+      "optionExplanations": [
+        "Hình không đặt ty thể tại đầu tận roi.",
+        "Slide 6 theo dõi ty lạp thể đến vùng đoạn giữa ở tinh trùng hình thành.",
+        "Thể cực đầu ở phía đầu, không vùng tập trung ty thể.",
+        "Nhân và ty thể được ghi riêng."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Thể Golgi; Thể cực đầu; Nhân tinh tử; Ty lạp thể; Vi quản; Đuôi; Bào tương thừa; Đoạn giữa; Đầu",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q016"
+    },
+    {
+      "id": "m10-v017",
+      "topicId": "m10-cautruc",
+      "conceptId": "m10-du-thua",
+      "level": "apply",
+      "stem": "Một nhận định biệt hóa nói tinh tử giữ nguyên toàn bộ khối bào tương ban đầu. Chi tiết nào cần dùng để sửa?",
+      "options": [
+        "Có phần bào tương thừa được tách ra trong quá trình tạo hình tinh trùng",
+        "Có hình thành thêm một bàng quang trong tinh tử",
+        "Nhân biến thành ty thể",
+        "Đuôi biến thành thể Golgi"
+      ],
+      "answer": 0,
+      "explanation": "Slide 6 đánh dấu bào tương thừa ở giai đoạn biến đổi hình thái.",
+      "optionExplanations": [
+        "Slide 6 đánh dấu bào tương thừa ở giai đoạn biến đổi hình thái.",
+        "Bàng quang không phải bào quan của tinh tử.",
+        "Không có mũi tên biến nhân thành ty thể.",
+        "Không có diễn tiến đuôi thành Golgi."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Thể Golgi; Thể cực đầu; Nhân tinh tử; Ty lạp thể; Vi quản; Đuôi; Bào tương thừa; Đoạn giữa; Đầu",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q017"
+    },
+    {
+      "id": "m10-v018",
+      "topicId": "m10-sertoli",
+      "conceptId": "m10-sertoli-thucbao",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Chức năng Sertoli, nâng đỡ và chế tiết được giữ lại nhưng việc thu dọn sản phẩm dư thừa bị bỏ qua. Chức năng nào còn thiếu?",
+      "options": [
+        "Giảm phân I",
+        "Tạo túi tinh",
+        "Dẫn nước tiểu",
+        "Thực bào"
+      ],
+      "answer": 3,
+      "explanation": "Thu dọn sản phẩm dư thừa tương ứng chức năng thực bào trên slide 10.",
+      "optionExplanations": [
+        "Giảm phân I thuộc dòng tinh, không chức năng này của Sertoli.",
+        "Túi tinh là cơ quan riêng.",
+        "Không phải chức năng của Sertoli trong bài.",
+        "Thu dọn sản phẩm dư thừa tương ứng chức năng thực bào trên slide 10."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q018"
+    },
+    {
+      "id": "m10-v019",
+      "topicId": "m10-sertoli",
+      "conceptId": "m10-sertoli-che-tiet",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Ngoài nâng đỡ và thực bào, Sertoli còn có chức năng nào liên quan tạo dịch, ABP và inhibin?",
+      "options": [
+        "Vận chuyển qua niệu quản",
+        "Tạo màng trong suốt",
+        "Chế tiết",
+        "Giảm phân II"
+      ],
+      "answer": 2,
+      "explanation": "Dịch, ABP, inhibin nằm trong mục chế tiết ở slide 10.",
+      "optionExplanations": [
+        "Không liên quan chức năng Sertoli được nêu.",
+        "Màng trong suốt không được liệt kê trong sản phẩm Sertoli.",
+        "Dịch, ABP, inhibin nằm trong mục chế tiết ở slide 10.",
+        "Không phải tiến trình tạo ba sản phẩm này."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q019"
+    },
+    {
+      "id": "m10-v020",
+      "topicId": "m10-sertoli",
+      "conceptId": "m10-hangrao",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hàng rào máu–tinh hoàn liên quan trực tiếp đến loại tế bào nào?",
+      "options": [
+        "Tế bào của bàng quang",
+        "Sertoli",
+        "Tinh trùng trưởng thành",
+        "Tinh tử đơn độc"
+      ],
+      "answer": 1,
+      "explanation": "Slide 10 liệt kê hàng rào máu–tinh hoàn trong các chức năng của Sertoli.",
+      "optionExplanations": [
+        "Không thuộc môi trường ống sinh tinh được mô tả.",
+        "Slide 10 liệt kê hàng rào máu–tinh hoàn trong các chức năng của Sertoli.",
+        "Không được bài giao vai trò này.",
+        "Không được bài giao vai trò hàng rào."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q020"
+    },
+    {
+      "id": "m10-v021",
+      "topicId": "m10-sinhtinh",
+      "conceptId": "m10-vi-tri-ong",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Muốn quan sát nơi các tế bào dòng tinh phân chia nên hướng đến cấu trúc nào?",
+      "options": [
+        "Ống sinh tinh trong tinh hoàn",
+        "Bàng quang",
+        "Niệu quản",
+        "Túi tinh"
+      ],
+      "answer": 0,
+      "explanation": "Slide 5 chú thích ống sinh tinh là nơi tế bào phân chia.",
+      "optionExplanations": [
+        "Slide 5 chú thích ống sinh tinh là nơi tế bào phân chia.",
+        "Sơ đồ không gắn phân chia dòng tinh với bàng quang.",
+        "Niệu quản không là nơi sinh tinh được nêu.",
+        "Túi tinh không được sơ đồ chỉ là nơi phân chia dòng tinh."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q021"
+    },
+    {
+      "id": "m10-v022",
+      "topicId": "m10-sinhtinh",
+      "conceptId": "m10-daythi",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tinh bào I bắt đầu giảm phân vào mốc tuổi nào?",
+      "options": [
+        "Chỉ trước khi sinh",
+        "Chỉ sau mãn dục",
+        "Ngay sau thụ tinh của noãn",
+        "Từ tuổi dậy thì"
+      ],
+      "answer": 3,
+      "explanation": "Chú thích slide 5 ghi “từ tuổi dậy thì bắt đầu giảm phân”.",
+      "optionExplanations": [
+        "Không phải mốc được ghi trong sơ đồ.",
+        "Không phải mốc được ghi.",
+        "Không liên quan mốc của tinh bào I trong sơ đồ.",
+        "Chú thích slide 5 ghi “từ tuổi dậy thì bắt đầu giảm phân”."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q022"
+    },
+    {
+      "id": "m10-v023",
+      "topicId": "m10-sinhtinh",
+      "conceptId": "m10-so-tinh-tu",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Lý tưởng một tinh bào I đi hết hai lần giảm phân, không mất tế bào, tạo bao nhiêu tinh tử?",
+      "options": [
+        "2",
+        "8",
+        "4",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "Slide 5 cho một tinh bào I thành hai tinh bào II rồi bốn tinh tử.",
+      "optionExplanations": [
+        "Mới là số tinh bào II sau lần I.",
+        "Không có lần phân chia thứ ba trong sơ đồ.",
+        "Slide 5 cho một tinh bào I thành hai tinh bào II rồi bốn tinh tử.",
+        "Bỏ qua hai lần phân chia."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q023"
+    },
+    {
+      "id": "m10-v024",
+      "topicId": "m10-cautruc",
+      "conceptId": "m10-biet-hoa-khong-doi-n",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tinh tử có cần tăng từ n lên 2n để trở thành tinh trùng không?",
+      "options": [
+        "Bỏ hoàn toàn giai đoạn tiền tinh trùng",
+        "Giữ n ở cả tiền tinh trùng và tinh trùng",
+        "Giữ 2n ở cả hai",
+        "Đổi tinh trùng thành 4n"
+      ],
+      "answer": 1,
+      "explanation": "Slide 13 ghi tiền tinh trùng (n) và tinh trùng (n), không tăng bội thể ở bước biệt hóa.",
+      "optionExplanations": [
+        "Giai đoạn tiền tinh trùng vẫn có trên sơ đồ.",
+        "Slide 13 ghi tiền tinh trùng (n) và tinh trùng (n), không tăng bội thể ở bước biệt hóa.",
+        "Không khớp nhãn n của hai giai đoạn.",
+        "Không có nhãn 4n ở tinh trùng."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "Tinh bào bậc 1 (2n); Tinh bào bậc 2 (n); Tiền tinh trùng (n); TINH TRÙNG (n)",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q024"
+    },
+    {
+      "id": "m10-v025",
+      "topicId": "m10-sertoli",
+      "conceptId": "m10-khoang-ke",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tế bào Leydig và mạch máu nằm ở vị trí nào so với biểu mô ống sinh tinh?",
+      "options": [
+        "Phù hợp vị trí các nhãn trong slide 11",
+        "Sai vì mạch máu nằm trong nhân tinh trùng",
+        "Sai vì Leydig là tên của thể cực đầu",
+        "Sai vì không có khoang kẽ trong sơ đồ"
+      ],
+      "answer": 0,
+      "explanation": "Slide 11 ghi interstitial compartment với Leydig cell và blood vessel phía ngoài ống.",
+      "optionExplanations": [
+        "Slide 11 ghi interstitial compartment với Leydig cell và blood vessel phía ngoài ống.",
+        "Mạch máu là cấu trúc ngoài ống, không trong nhân.",
+        "Leydig cell là nhãn tế bào riêng.",
+        "Sơ đồ ghi rõ interstitial compartment."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Sertoli cell; Spermatozoa; Spermatids; Spermatocytes; Spermatogonia; Interstitial compartment; Leydig cell; Blood vessel",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q025"
+    },
+    {
+      "id": "m10-v026",
+      "topicId": "m10-sertoli",
+      "conceptId": "m10-thu-tu-tu-day-den-long",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tổ chức ống sinh tinh, chuỗi từ vùng đáy hướng về phía lòng ống phù hợp nhất là gì?",
+      "options": [
+        "Tinh trùng → tinh tử → tinh bào → tinh nguyên bào",
+        "Mạch máu → thể cực đầu → bàng quang → tinh trùng",
+        "Tế bào Leydig → niệu quản → tinh tử → nhân",
+        "Tinh nguyên bào → tinh bào → tinh tử → tinh trùng"
+      ],
+      "answer": 3,
+      "explanation": "Các nhãn spermatogonia, spermatocytes, spermatids và spermatozoa được bố trí từ vùng đáy lên phía lòng trên slide 11.",
+      "optionExplanations": [
+        "Là hướng ngược.",
+        "Trộn các cấu trúc không thuộc chuỗi dòng tinh trong ống.",
+        "Trộn khoang kẽ, đường tiết niệu và tế bào.",
+        "Các nhãn spermatogonia, spermatocytes, spermatids và spermatozoa được bố trí từ vùng đáy lên phía lòng trên slide 11."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Sertoli cell; Spermatozoa; Spermatids; Spermatocytes; Spermatogonia; Interstitial compartment; Leydig cell; Blood vessel",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q026"
+    },
+    {
+      "id": "m10-v027",
+      "topicId": "m10-vanchuyen",
+      "conceptId": "m10-mao-tinh",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trong mô tả đường đi, cấu trúc áp sát tinh hoàn rồi liên tục với ống dẫn tinh là gì?",
+      "options": [
+        "Bàng quang",
+        "Thể cực đầu",
+        "Mào tinh hoàn",
+        "Niệu quản"
+      ],
+      "answer": 2,
+      "explanation": "Slide 12 đặt mào tinh cạnh tinh hoàn, nối tiếp với ống dẫn tinh.",
+      "optionExplanations": [
+        "Bàng quang là khoang ở phía trên, không ôm sát tinh hoàn.",
+        "Thể cực đầu thuộc từng tinh trùng.",
+        "Slide 12 đặt mào tinh cạnh tinh hoàn, nối tiếp với ống dẫn tinh.",
+        "Niệu quản đi vào bàng quang."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Ống dẫn tinh; Túi tinh; Tuyến tiền liệt; Tuyến Cowper; Niệu đạo; Mào tinh hoàn; Tinh hoàn; Niệu quản; Bàng quang",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q027"
+    },
+    {
+      "id": "m10-v028",
+      "topicId": "m10-vanchuyen",
+      "conceptId": "m10-ong-dan-tinh",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Ống dẫn từ mào tinh đi lên vùng chậu được gọi là gì?",
+      "options": [
+        "Ống sinh tinh trong nhân",
+        "Ống dẫn tinh",
+        "Niệu quản",
+        "Niệu đạo trong dương vật"
+      ],
+      "answer": 1,
+      "explanation": "Đường từ mào tinh lên vùng chậu được ghi ống dẫn tinh trên slide 12.",
+      "optionExplanations": [
+        "Ống sinh tinh không nằm trong nhân.",
+        "Đường từ mào tinh lên vùng chậu được ghi ống dẫn tinh trên slide 12.",
+        "Niệu quản không xuất phát từ mào tinh.",
+        "Niệu đạo là đường đi xuống qua dương vật trong hình."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Ống dẫn tinh; Túi tinh; Tuyến tiền liệt; Tuyến Cowper; Niệu đạo; Mào tinh hoàn; Tinh hoàn; Niệu quản; Bàng quang",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q028"
+    },
+    {
+      "id": "m10-v029",
+      "topicId": "m10-vanchuyen",
+      "conceptId": "m10-tien-liet",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tuyến nằm dưới bàng quang và bao quanh đoạn đầu của niệu đạo được ghi là gì?",
+      "options": [
+        "Tuyến tiền liệt",
+        "Tinh hoàn",
+        "Mào tinh",
+        "Túi tinh nằm sau bàng quang"
+      ],
+      "answer": 0,
+      "explanation": "Nhãn tuyến tiền liệt ở slide 12 trỏ tới tuyến dưới bàng quang quanh niệu đạo.",
+      "optionExplanations": [
+        "Nhãn tuyến tiền liệt ở slide 12 trỏ tới tuyến dưới bàng quang quanh niệu đạo.",
+        "Tinh hoàn nằm trong bìu.",
+        "Mào tinh áp sát tinh hoàn.",
+        "Túi tinh được ghi ở vị trí khác phía sau bàng quang."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Ống dẫn tinh; Túi tinh; Tuyến tiền liệt; Tuyến Cowper; Niệu đạo; Mào tinh hoàn; Tinh hoàn; Niệu quản; Bàng quang",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q029"
+    },
+    {
+      "id": "m10-v030",
+      "topicId": "m10-cautruc",
+      "conceptId": "m10-muc-to-chuc",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Nhân, thể cực đầu và Sertoli có phải đều là bộ phận của cùng một tinh trùng không?",
+      "options": [
+        "Tách nhân vì tinh trùng không có nhân",
+        "Tách thể cực đầu vì nó nằm ở bàng quang",
+        "Gộp tất cả thành tên khác của đuôi",
+        "Tách Sertoli thành loại tế bào hỗ trợ riêng"
+      ],
+      "answer": 3,
+      "explanation": "Slide 3 mô tả nhân/thể cực đầu là cấu trúc tinh trùng; slide 10 mô tả Sertoli là tế bào điều dưỡng.",
+      "optionExplanations": [
+        "Sơ đồ có nhãn nucleus.",
+        "Acrosome được ghi ở phần đầu tinh trùng.",
+        "Không phải các tên đồng nghĩa của đuôi.",
+        "Slide 3 mô tả nhân/thể cực đầu là cấu trúc tinh trùng; slide 10 mô tả Sertoli là tế bào điều dưỡng."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "HEAD; NUCLEUS; ACROSOME; MID-PIECE; MITOCHONDRIA; TAIL / FLAGELLUM; AXONEME",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 10,
+          "quote": "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q030"
+    },
+    {
+      "id": "m10-v031",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-biet-hoa-khong-doi-n",
+      "level": "analyze",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai mẫu đều có bộ NST n; một còn dạng tinh tử, một có đầu–đoạn giữa–đuôi rõ. Kết luận nào đúng?",
+      "options": [
+        "Mẫu chưa có đuôi bắt buộc chưa giảm phân I",
+        "Cả hai phải là tinh nguyên bào vì cùng bộ NST",
+        "Cùng n không đồng nghĩa cùng mức biệt hóa; tinh tử còn trải qua biến đổi hình thái thành tinh trùng",
+        "Mẫu có đuôi bắt buộc là 2n"
+      ],
+      "answer": 2,
+      "explanation": "Slide 13 giữ n từ tiền tinh trùng đến tinh trùng; slide 6 cho thấy biệt hóa hình thái ở giai đoạn này.",
+      "optionExplanations": [
+        "Tinh tử đã nằm sau giảm phân II.",
+        "Tinh nguyên bào được ghi 2n trên slide 5.",
+        "Slide 13 giữ n từ tiền tinh trùng đến tinh trùng; slide 6 cho thấy biệt hóa hình thái ở giai đoạn này.",
+        "Tinh trùng được ghi n."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 6,
+          "quote": "Thể Golgi; Thể cực đầu; Nhân tinh tử; Ty lạp thể; Vi quản; Đuôi; Bào tương thừa; Đoạn giữa; Đầu",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 13,
+          "quote": "Tinh bào bậc 1 (2n); Tinh bào bậc 2 (n); Tiền tinh trùng (n); TINH TRÙNG (n)",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q031"
+    },
+    {
+      "id": "m10-v032",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-stop-I-vs-II",
+      "level": "analyze",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Theo dõi hai nhóm tinh bào: A gồm tinh bào I chưa bắt đầu giảm phân I; B đã hoàn thành giảm phân I nhưng chưa bắt đầu II. Ghép giai đoạn và bộ NST nào đúng?",
+      "options": [
+        "A là tinh bào I 2n; B là tinh bào II n",
+        "A là tinh bào I n; B là tinh bào II 2n",
+        "A là tinh tử n; B là tinh bào I 2n",
+        "A và B đều là tinh tử n"
+      ],
+      "answer": 0,
+      "explanation": "Từ chính điều kiện ban đầu và các nhãn trên slide 5, A ở trước lần I với 2n; B ở sau lần I với n và là tinh bào II.",
+      "optionExplanations": [
+        "Từ chính điều kiện ban đầu và các nhãn trên slide 5, A ở trước lần I với 2n; B ở sau lần I với n và là tinh bào II.",
+        "Đảo bộ NST giữa hai giai đoạn.",
+        "A chưa qua giảm phân còn B đã qua lần I, không phù hợp hai tên này.",
+        "Cả hai nhóm đều chưa hoàn tất giảm phân II để thành tinh tử."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q032"
+    },
+    {
+      "id": "m10-v033",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-dem-theo-nhanh",
+      "level": "analyze",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một tinh bào I tạo hai tinh bào II, một tinh bào II không tiếp tục, tinh bào II còn lại hoàn tất giảm phân II. Không giả định tăng sinh bù, tối đa có bao nhiêu tinh tử từ dòng này?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "Mỗi tinh bào II trên sơ đồ tạo hai tinh tử. Chỉ một nhánh còn đi hết lần II nên tạo hai, không phải bốn.",
+      "optionExplanations": [
+        "Mỗi tinh bào II trên sơ đồ tạo hai tinh tử. Chỉ một nhánh còn đi hết lần II nên tạo hai, không phải bốn.",
+        "Bốn đòi hỏi cả hai nhánh tinh bào II cùng hoàn tất.",
+        "Không có hai lần nhân đôi số tế bào nữa.",
+        "Tinh bào II hoàn tất lần II cho hai tế bào theo mô hình."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q033"
+    },
+    {
+      "id": "m10-v034",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-phan-bao-vs-biet-hoa",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một sinh viên đặt “giảm phân III” giữa tinh tử và tinh trùng vì thấy tế bào đổi hình dạng. Phản biện nào có căn cứ?",
+      "options": [
+        "Mọi đổi hình dạng đều là một lần giảm phân",
+        "Tinh tử chưa trải qua giảm phân nào",
+        "Tinh trùng phải phân chia lần III để trở thành tinh bào I",
+        "Sơ đồ chỉ có hai lần giảm phân; bước tinh tử→tinh trùng mô tả tạo thể cực đầu, đuôi và loại bào tương thừa"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5 chỉ ghi lần I và II; slide 6 mô tả biệt hóa tinh tử, không thêm phân bào giảm nhiễm.",
+      "optionExplanations": [
+        "Đổi hình dạng không đủ chứng minh phân chia.",
+        "Tinh tử là sản phẩm sau giảm phân II.",
+        "Đảo chiều phát triển và thêm bước không có nguồn.",
+        "Slide 5 chỉ ghi lần I và II; slide 6 mô tả biệt hóa tinh tử, không thêm phân bào giảm nhiễm."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 6,
+          "quote": "Thể Golgi; Thể cực đầu; Nhân tinh tử; Ty lạp thể; Vi quản; Đuôi; Bào tương thừa; Đoạn giữa; Đầu",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q034"
+    },
+    {
+      "id": "m10-v035",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-sertoli-va-du-thua",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Bào tương thừa khi tinh tử biệt hóa được xử lý bởi cơ chế nào?",
+      "options": [
+        "Sertoli phải giảm phân II để thu dọn",
+        "Bào tương thừa tạo thành niệu quản",
+        "Hai nội dung nối việc tạo sản phẩm dư thừa với chức năng thu dọn của Sertoli",
+        "Bào tương thừa phải biến thành tinh bào I mới"
+      ],
+      "answer": 2,
+      "explanation": "Có thể kết nối sản phẩm thừa trong biệt hóa với vai trò thực bào được bài giao cho Sertoli; không thêm cơ chế ngoài nguồn.",
+      "optionExplanations": [
+        "Thực bào không được mô tả bằng giảm phân II.",
+        "Niệu quản không hình thành từ bào tương tinh tử trong bài.",
+        "Có thể kết nối sản phẩm thừa trong biệt hóa với vai trò thực bào được bài giao cho Sertoli; không thêm cơ chế ngoài nguồn.",
+        "Không có diễn tiến quay về tinh bào I."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Thể Golgi; Thể cực đầu; Nhân tinh tử; Ty lạp thể; Vi quản; Đuôi; Bào tương thừa; Đoạn giữa; Đầu",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 10,
+          "quote": "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q035"
+    },
+    {
+      "id": "m10-v036",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-muc-to-chuc",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một bản tổng hợp đặt “thể cực đầu → tinh hoàn → tinh bào II → niệu đạo” làm chuỗi giai đoạn tế bào. Cách sửa phù hợp nhất là gì?",
+      "options": [
+        "Chỉ đổi niệu đạo thành niệu quản để hoàn chỉnh chuỗi",
+        "Tách bộ phận tinh trùng, giai đoạn dòng tinh và cấu trúc đường dẫn thành ba mức mô tả",
+        "Đổi tất cả thành tinh bào II vì cùng hệ sinh dục",
+        "Giữ nguyên vì mũi tên có thể nối bất kỳ cấu trúc nào"
+      ],
+      "answer": 1,
+      "explanation": "Thể cực đầu là bộ phận, tinh bào II là giai đoạn tế bào, còn tinh hoàn/niệu đạo là cấu trúc cơ quan. Ba slide mô tả ba mức khác nhau.",
+      "optionExplanations": [
+        "Đổi sang niệu quản vẫn không tạo chuỗi dòng tế bào.",
+        "Thể cực đầu là bộ phận, tinh bào II là giai đoạn tế bào, còn tinh hoàn/niệu đạo là cấu trúc cơ quan. Ba slide mô tả ba mức khác nhau.",
+        "Không phải cùng loại đối tượng.",
+        "Mũi tên trình tự phải thể hiện quan hệ có nguồn."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "HEAD; NUCLEUS; ACROSOME; MID-PIECE; MITOCHONDRIA; TAIL / FLAGELLUM; AXONEME",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 12,
+          "quote": "Ống dẫn tinh; Túi tinh; Tuyến tiền liệt; Tuyến Cowper; Niệu đạo; Mào tinh hoàn; Tinh hoàn; Niệu quản; Bàng quang",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q036"
+    },
+    {
+      "id": "m10-v037",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-khoang-ke",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai mô tả được đưa ra: (1) dòng tinh phân chia trong ống sinh tinh; (2) Leydig và mạch máu nằm ở khoang kẽ. Có mâu thuẫn không?",
+      "options": [
+        "Không; đây là hai khoang/cấu trúc khác nhau được thể hiện trong bài",
+        "Có; mọi tế bào trong tinh hoàn đều nằm trong lòng ống",
+        "Có; mạch máu phải là một giai đoạn của tinh bào",
+        "Không; vì Leydig là tên khác của tinh trùng"
+      ],
+      "answer": 0,
+      "explanation": "Slide 5 chỉ nơi sinh tinh; slide 11 phân biệt ống sinh tinh với interstitial compartment chứa Leydig và mạch máu.",
+      "optionExplanations": [
+        "Slide 5 chỉ nơi sinh tinh; slide 11 phân biệt ống sinh tinh với interstitial compartment chứa Leydig và mạch máu.",
+        "Bỏ qua khoang kẽ được vẽ rõ.",
+        "Mạch máu không là một giai đoạn dòng tinh.",
+        "Leydig và spermatozoa được ghi ở vị trí khác nhau."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 11,
+          "quote": "Sertoli cell; Spermatozoa; Spermatids; Spermatocytes; Spermatogonia; Interstitial compartment; Leydig cell; Blood vessel",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q037"
+    },
+    {
+      "id": "m10-v038",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-hangrao-dinhduong",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một mô hình Sertoli chỉ kiểm tra thực bào và bỏ qua các vai trò còn lại. Vì sao chưa đủ để đại diện toàn bộ chức năng Sertoli?",
+      "options": [
+        "Vì thực bào không hề được bài nêu",
+        "Vì Sertoli chỉ có chức năng biến thành tinh trùng",
+        "Vì tất cả chức năng Sertoli chỉ là vận chuyển qua niệu đạo",
+        "Bài còn nêu nâng đỡ, bảo vệ, dinh dưỡng, chế tiết và hàng rào máu–tinh hoàn"
+      ],
+      "answer": 3,
+      "explanation": "Slide 10 liệt kê nhiều nhóm chức năng; kiểm tra một nhóm không bao quát toàn bộ.",
+      "optionExplanations": [
+        "Thực bào có trong danh sách.",
+        "Sertoli được mô tả là tế bào điều dưỡng.",
+        "Không phải danh sách chức năng của Sertoli.",
+        "Slide 10 liệt kê nhiều nhóm chức năng; kiểm tra một nhóm không bao quát toàn bộ."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "TẾ BÀO SERTOLI\n Tế bào “điều dưỡng” của tinh bào\n Nâng đỡ, bảo vệ, điều hoà dinh dưỡng\n Thực bào các sản phẫm dư thừa\n Chế tiết: dịch, ABP, Inhibin\n Hàng rào máu-tinh hoàn",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q038"
+    },
+    {
+      "id": "m10-v039",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-phan-biet-sinh-va-van-chuyen",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một mô hình ngừng đường đi ở ống dẫn tinh nhưng vẫn giữ hoạt động tế bào trong ống sinh tinh. Phân biệt nào đúng?",
+      "options": [
+        "Hai tên ống thực ra chỉ cùng một vị trí",
+        "Tinh trùng phải được tạo trực tiếp trong bàng quang để bù",
+        "Sinh tinh tại ống sinh tinh và đường vận chuyển qua ống dẫn tinh là hai khâu khác nhau",
+        "Ngừng ống dẫn tinh đồng nghĩa ống sinh tinh đổi thành niệu quản"
+      ],
+      "answer": 2,
+      "explanation": "Slide 5 mô tả tạo tế bào trong ống sinh tinh; slide 12 mô tả đường dẫn. Không suy diễn thêm hậu quả lâm sàng từ mô hình.",
+      "optionExplanations": [
+        "Hai cấu trúc được chỉ ở vị trí khác nhau.",
+        "Bài không nêu tạo tinh trùng ở bàng quang.",
+        "Slide 5 mô tả tạo tế bào trong ống sinh tinh; slide 12 mô tả đường dẫn. Không suy diễn thêm hậu quả lâm sàng từ mô hình.",
+        "Không có biến đổi cấu trúc đó trong nguồn."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh nguyên bào; Tinh bào bậc 1 (từ tuổi dậy thì bắt đầu giảm phân); Giảm phân I; Tinh bào bậc 2; Giảm phân II; Tinh tử; Tinh trùng",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        },
+        {
+          "page": 12,
+          "quote": "Ống dẫn tinh; Túi tinh; Tuyến tiền liệt; Tuyến Cowper; Niệu đạo; Mào tinh hoàn; Tinh hoàn; Niệu quản; Bàng quang",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m10-q039"
+    },
+    {
+      "id": "m10-v040",
+      "topicId": "m10-tichhop",
+      "conceptId": "m10-so-sanh-giao-tu",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. So sánh sinh giao tử, sau giảm phân, dòng tinh cho các tế bào có thể biệt hóa thành tinh trùng còn dòng noãn có thể cực. Phân tích nào phù hợp?",
+      "options": [
+        "Dòng noãn không có giảm phân I hoặc II",
+        "Cùng có giảm phân nhưng cách phân bố sản phẩm không được vẽ giống nhau ở hai dòng",
+        "Mỗi dòng đều chỉ tạo một tinh trùng và ba noãn",
+        "Dòng tinh tạo thể cực rồi thành noãn"
+      ],
+      "answer": 1,
+      "explanation": "Slide 13 vẽ dòng tinh phân nhánh thành bốn tiền tinh trùng, còn dòng noãn có tế bào lớn và thể cực. Đây là so sánh nằm ngay trong tài liệu sinh tinh.",
+      "optionExplanations": [
+        "Cả hai cột đều có các mức GP I và GP II.",
+        "Slide 13 vẽ dòng tinh phân nhánh thành bốn tiền tinh trùng, còn dòng noãn có tế bào lớn và thể cực. Đây là so sánh nằm ngay trong tài liệu sinh tinh.",
+        "Không phải sản phẩm được vẽ.",
+        "Trộn hai dòng tế bào."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "Tinh bào bậc 1 (2n); Tinh bào bậc 2 (n); Tiền tinh trùng (n); TINH TRÙNG (n)",
+          "type": "visual",
+          "note": "Nhãn/chú thích đã đọc trực tiếp trên hình của slide; câu hỏi không hiển thị hình.",
+          "transcriptionVerified": true
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m10-q040"
     }
   ],
   "limitations": [

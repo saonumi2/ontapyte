@@ -645,7 +645,7 @@
       "topicId": "origin",
       "conceptId": "m05-encapsulation",
       "level": "understand",
-      "stem": "Một phức bộ có tế bào sinh dục ở giữa, tế bào hạt bao quanh và tế bào vỏ ngoài cùng. Bài gọi đây là gì?",
+      "stem": "Một phức bộ có tế bào sinh dục ở giữa, tế bào hạt bao quanh và tế bào vỏ ngoài cùng. gọi đây là gì?",
       "options": [
         "Phức bộ noãn nguyên thủy",
         "Bạch thể",
@@ -867,7 +867,7 @@
       "topicId": "axis",
       "conceptId": "m05-pulse-rate",
       "level": "apply",
-      "stem": "Hai tín hiệu GnRH có tần số khác nhau. Khác biệt đáp ứng nào được bài cho phép dự đoán?",
+      "stem": "Hai tín hiệu GnRH có tần số khác nhau. Khác biệt đáp ứng nào được cho phép dự đoán?",
       "options": [
         "Không thể thay đổi đáp ứng tuyến yên",
         "Luôn mất toàn bộ thụ thể nang",
@@ -1015,7 +1015,7 @@
       "topicId": "axis",
       "conceptId": "m05-e2-potency",
       "level": "understand",
-      "stem": "So với E1, estrogen chủ lực E2 được bài mô tả thế nào?",
+      "stem": "So với E1, estrogen chủ lực E2 được mô tả thế nào?",
       "options": [
         "Là gonadotropin",
         "Chỉ được sản xuất ở tuyến yên",
@@ -1089,7 +1089,7 @@
       "topicId": "selection",
       "conceptId": "m05-asynchrony",
       "level": "apply",
-      "stem": "Hai nang thứ cấp có lượng thụ thể khác nhau. Kết quả nào phù hợp bài?",
+      "stem": "Hai nang thứ cấp có lượng thụ thể khác nhau. Kết quả nào phù hợp?",
       "options": [
         "Phát triển không đồng bộ",
         "Bắt hormone luôn ngang nhau",
@@ -1163,7 +1163,7 @@
       "topicId": "selection",
       "conceptId": "m05-poor-receptors",
       "level": "apply",
-      "stem": "FSH giảm, một nang có rất ít tế bào hạt và thụ thể. Diễn tiến nào được bài mô tả?",
+      "stem": "FSH giảm, một nang có rất ít tế bào hạt và thụ thể. Diễn tiến nào được mô tả?",
       "options": [
         "Tăng trưởng không cần FSH",
         "Trở thành tế bào tuyến yên",
@@ -1311,7 +1311,7 @@
       "topicId": "selection",
       "conceptId": "m05-surge-output",
       "level": "apply",
-      "stem": "Một nang tạo E2 vượt ngưỡng đủ lâu và phản hồi dương đã được kích hoạt. Dạng đáp ứng LH nào phù hợp nhất với mô hình bài?",
+      "stem": "Một nang tạo E2 vượt ngưỡng đủ lâu và phản hồi dương đã được kích hoạt. Dạng đáp ứng LH nào phù hợp nhất với mô hình?",
       "options": [
         "Một đợt phóng thích lớn trong thời gian ngắn",
         "LH thấp không thay đổi do phản hồi dương",
@@ -1607,7 +1607,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-p4-luteolysis-chain",
       "level": "apply",
-      "stem": "Progesterone tăng trong pha hoàng thể. Tác động lên nhịp GnRH nào được bài nêu?",
+      "stem": "Progesterone tăng trong pha hoàng thể. Tác động lên nhịp GnRH nào được nêu?",
       "options": [
         "Không thể tác động hạ đồi",
         "Biến GnRH thành FSH",
@@ -1681,7 +1681,7 @@
       "topicId": "ovulation",
       "conceptId": "m05-cycle-reset-reason",
       "level": "apply",
-      "stem": "Hoàng thể thoái triển, E2 và P4 cùng giảm. Trục hạ đồi–yên được bài mô tả thế nào?",
+      "stem": "Hoàng thể thoái triển, E2 và P4 cùng giảm. Trục hạ đồi–yên được mô tả thế nào?",
       "options": [
         "Thoát ràng buộc chu kỳ trước, sẵn sàng chu kỳ mới",
         "Bị ức chế vĩnh viễn",
@@ -1800,7 +1800,7 @@
       "topicId": "axis",
       "conceptId": "m05-fsh-not-lh-substitute",
       "level": "analyze",
-      "stem": "Một mô hình thay FSH bằng LH tại tế bào hạt và vẫn dự đoán thơm hóa bình thường. Điểm nào không đúng với bài?",
+      "stem": "Một mô hình thay FSH bằng LH tại tế bào hạt và vẫn dự đoán thơm hóa bình thường. Điểm nào không đúng?",
       "options": [
         "Tế bào hạt không dùng androgen",
         "Nhầm hormone điều khiển tế bào hạt với hormone của tế bào vỏ",
@@ -2001,7 +2001,7 @@
       "topicId": "selection",
       "conceptId": "m05-e2-proxy",
       "level": "analyze",
-      "stem": "Vì sao E2 cao vượt ngưỡng đủ lâu được bài xem là dấu hiệu nang đáp ứng điều kiện phóng noãn?",
+      "stem": "Vì sao E2 cao vượt ngưỡng đủ lâu được xem là dấu hiệu nang đáp ứng điều kiện phóng noãn?",
       "options": [
         "Phản ánh khối tế bào hạt lớn và chế tiết ổn định",
         "Chứng minh mọi nang đã thành bạch thể",

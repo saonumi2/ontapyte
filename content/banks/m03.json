@@ -353,7 +353,7 @@
       "topicId": "mohoc",
       "conceptId": "musclelayers",
       "level": "understand",
-      "stem": "Cách sắp xếp cơ trơn nào được bài học mô tả?",
+      "stem": "Cách sắp xếp cơ trơn nào được mô tả?",
       "options": [
         "Cơ vòng trong, cơ dọc ngoài",
         "Cơ dọc trong, cơ vòng ngoài",
@@ -686,7 +686,7 @@
       "topicId": "nangcanh",
       "conceptId": "paratubalorigin",
       "level": "understand",
-      "stem": "Nguồn gốc nào được bài học nêu cho nang nước cạnh vòi trứng?",
+      "stem": "Nguồn gốc nào được nêu cho nang nước cạnh vòi trứng?",
       "options": [
         "Di tích ống Wolff",
         "Hoàng thể sau phóng noãn",
@@ -871,7 +871,7 @@
       "topicId": "giaiphau",
       "conceptId": "length",
       "level": "apply",
-      "stem": "Một ống chạy từ góc bên tử cung tới buồng trứng dài 9 cm. Đặc điểm này có phù hợp khoảng chiều dài bài nêu không?",
+      "stem": "Một ống chạy từ góc bên tử cung tới buồng trứng dài 9 cm. Đặc điểm này có phù hợp khoảng chiều dài được nêu không?",
       "options": [
         "Có, nằm trong khoảng 7–12 cm",
         "Không, bài chỉ nêu 1 cm cho toàn bộ vòi trứng",
@@ -1389,7 +1389,7 @@
       "topicId": "hinhanh",
       "conceptId": "hsgpregnancy",
       "level": "apply",
-      "stem": "Một bệnh nhân đang có thai được đề xuất chụp HSG. Đối chiếu bài, nhận xét nào đúng?",
+      "stem": "Một bệnh nhân đang có thai được đề xuất chụp HSG. nhận xét nào đúng?",
       "options": [
         "Có thai nằm trong chống chỉ định HSG được liệt kê",
         "Có thai là chỉ định ưu tiên của HSG",
@@ -1500,7 +1500,7 @@
       "topicId": "udich",
       "conceptId": "bilateralhydro",
       "level": "apply",
-      "stem": "Hai vòi trứng căng phồng do tắc và tích dịch. Đặc điểm hai bên có phù hợp mô tả bài không?",
+      "stem": "Hai vòi trứng căng phồng do tắc và tích dịch. Đặc điểm hai bên có phù hợp mô tả không?",
       "options": [
         "Có, ứ dịch thường xảy ra ở cả hai vòi trứng",
         "Không, ứ dịch không bao giờ xảy ra hai bên",
@@ -1611,7 +1611,7 @@
       "topicId": "udich",
       "conceptId": "hydrosymptoms",
       "level": "apply",
-      "stem": "Người được xác định ứ dịch vòi trứng nhưng không đau. Điều này có phù hợp bài không?",
+      "stem": "Người được xác định ứ dịch vòi trứng nhưng không đau. Điều này có phù hợp không?",
       "options": [
         "Có, bệnh có thể không triệu chứng",
         "Không, mọi trường hợp đều đau dữ dội liên tục",
@@ -1796,7 +1796,7 @@
       "topicId": "udich",
       "conceptId": "distalrepair",
       "level": "apply",
-      "stem": "Trong nhóm điều trị được bài liệt kê cho tắc đoạn xa, thao tác nào phù hợp?",
+      "stem": "Trong nhóm điều trị được liệt kê cho tắc đoạn xa, thao tác nào phù hợp?",
       "options": [
         "Mở đầu bị tắc, tái tạo loa vòi và cắt dây dính qua nội soi",
         "Tạo thêm lông chuyển bằng PCR",
@@ -1870,7 +1870,7 @@
       "topicId": "apxe",
       "conceptId": "abscessorigin",
       "level": "apply",
-      "stem": "Một khối áp xe phần phụ xuất hiện sau viêm vùng chậu. Chuỗi này có phù hợp bài không?",
+      "stem": "Một khối áp xe phần phụ xuất hiện sau viêm vùng chậu. Chuỗi này có phù hợp không?",
       "options": [
         "Có, áp xe phần phụ thường là hậu quả viêm vùng chậu",
         "Không, áp xe phần phụ chỉ do di tích Wolff",
@@ -1981,7 +1981,7 @@
       "topicId": "apxe",
       "conceptId": "abscessrupture",
       "level": "apply",
-      "stem": "Một áp xe phần phụ vỡ. Biến chứng đe dọa tính mạng nào bài nhấn mạnh?",
+      "stem": "Một áp xe phần phụ vỡ. Biến chứng đe dọa tính mạng nào được nêu?",
       "options": [
         "Nhiễm trùng huyết",
         "Tăng số tua vòi",
@@ -2018,7 +2018,7 @@
       "topicId": "apxe",
       "conceptId": "abscesstreatment",
       "level": "apply",
-      "stem": "Nhóm điều trị nào được bài nêu cho áp xe vòi trứng–buồng trứng?",
+      "stem": "Nhóm điều trị nào được nêu cho áp xe vòi trứng–buồng trứng?",
       "options": [
         "Kháng sinh phối hợp, có thể kèm phẫu thuật cắt vòi trứng",
         "Chỉ theo dõi mọi trường hợp như nang nhỏ không triệu chứng",
@@ -2055,7 +2055,7 @@
       "topicId": "nangcanh",
       "conceptId": "paratubalmimic",
       "level": "apply",
-      "stem": "Một nang dịch nằm rất gần buồng trứng được nhận định có thể là u buồng trứng. Bài nhắc cần phân biệt với gì?",
+      "stem": "Một nang dịch nằm rất gần buồng trứng được nhận định có thể là u buồng trứng. cần cần phân biệt với gì?",
       "options": [
         "Nang nước cạnh vòi trứng",
         "Đoạn nội thành bình thường chắc chắn không có nang",
@@ -2092,7 +2092,7 @@
       "topicId": "nangcanh",
       "conceptId": "paratubalfollowup",
       "level": "apply",
-      "stem": "Nang cạnh vòi nhỏ và không triệu chứng: hướng nào được bài cho phép?",
+      "stem": "Nang cạnh vòi nhỏ và không triệu chứng: hướng nào được cho phép?",
       "options": [
         "Có thể theo dõi",
         "Bắt buộc coi là áp xe đã vỡ",
@@ -2396,7 +2396,7 @@
       "topicId": "chucnang",
       "conceptId": "transportintegration",
       "level": "analyze",
-      "stem": "Một nhóm chỉ ghi vòi trứng là nơi thụ tinh và bỏ hết chức năng khác. Bổ sung nào tổng hợp đúng bài?",
+      "stem": "Một nhóm chỉ ghi vòi trứng là nơi thụ tinh và bỏ hết chức năng khác. Bổ sung nào tổng hợp đúng?",
       "options": [
         "Cung cấp dinh dưỡng, vận chuyển noãn/hợp tử và có dòng dịch cản vi trùng đi ngược",
         "Sản xuất noãn mới, tạo tinh trùng và sinh ra hCG",
@@ -2597,7 +2597,7 @@
       "topicId": "udich",
       "conceptId": "chlamydiaintegration",
       "level": "analyze",
-      "stem": "Người có tiền sử Chlamydia, viêm dính vùng chậu và viêm dính quanh gan. Cách liên hệ nào phù hợp bài?",
+      "stem": "Người có tiền sử Chlamydia, viêm dính vùng chậu và viêm dính quanh gan. Cách liên hệ nào phù hợp?",
       "options": [
         "Chlamydia liên quan bệnh vòi trứng; tổ hợp viêm dính quanh gan–vùng chậu gợi Fitz-Hugh–Curtis",
         "Viêm quanh gan chứng minh nang do di tích Wolff",
@@ -2716,7 +2716,7 @@
       "topicId": "udich",
       "conceptId": "adhesionrepair",
       "level": "analyze",
-      "stem": "Khi tắc đoạn xa kèm dây dính, lựa chọn nào nối đúng nguyên nhân và phương án bài nêu?",
+      "stem": "Khi tắc đoạn xa kèm dây dính, lựa chọn nào nối đúng nguyên nhân và phương án được nêu?",
       "options": [
         "Dính có thể liên quan bệnh vòi; nội soi có thể mở đầu tắc, tái tạo loa và cắt dính",
         "Dính chứng minh mọi trường hợp phải cắt tử cung",
@@ -2757,7 +2757,7 @@
       "topicId": "apxe",
       "conceptId": "infectionseverity",
       "level": "analyze",
-      "stem": "Đau bụng dưới, sốt, dịch mủ, khối phần phụ rồi có vỡ khối. Chuỗi giải thích nào bám bài?",
+      "stem": "Đau bụng dưới, sốt, dịch mủ, khối phần phụ rồi có vỡ khối. Chuỗi giải thích nào phù hợp?",
       "options": [
         "Nhiễm trùng phần phụ có thể tạo áp xe; vỡ áp xe có thể gây nhiễm trùng huyết",
         "Đây luôn là nang do di tích Wolff và vỡ không có nguy cơ",
@@ -3036,7 +3036,7 @@
       "topicId": "apxe",
       "conceptId": "rupturecomparison",
       "level": "analyze",
-      "stem": "Cần phân biệt hậu quả vỡ của ba bệnh lý. Ghép nào đúng với bài?",
+      "stem": "Cần phân biệt hậu quả vỡ của ba bệnh lý. Ghép nào đúng?",
       "options": [
         "Áp xe: nhiễm trùng huyết; nang cạnh vòi và thai ngoài tử cung: có thể xuất huyết ổ bụng",
         "Áp xe: tăng sinh noãn; nang cạnh vòi: tạo phôi; thai ngoài tử cung: thông vòi",
@@ -3081,7 +3081,7 @@
       "topicId": "udich",
       "conceptId": "treatmentcomparison",
       "level": "analyze",
-      "stem": "Ba mục bệnh lý có ba hướng xử trí khác nhau. Ghép nào phù hợp bài?",
+      "stem": "Ba mục bệnh lý có ba hướng xử trí khác nhau. Ghép nào phù hợp?",
       "options": [
         "Ứ dịch: có thể tái tạo/cắt vòi; áp xe: kháng sinh phối hợp ± mổ; nang nhỏ không triệu chứng: có thể theo dõi",
         "Mọi trường hợp của cả ba nhóm chỉ cần theo dõi",

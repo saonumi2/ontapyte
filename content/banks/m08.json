@@ -261,7 +261,7 @@
       "topicId": "menopause",
       "conceptId": "m08-early-selection",
       "level": "understand",
-      "stem": "Biểu hiện sớm nhất của quanh mãn kinh được bài nhấn mạnh là gì?",
+      "stem": "Biểu hiện sớm nhất của quanh mãn kinh được nhấn mạnh là gì?",
       "options": [
         "Mất vĩnh viễn mọi hormone ngay",
         "Luôn vô kinh tức thì",
@@ -526,7 +526,7 @@
       "topicId": "contraception",
       "conceptId": "m08-ee-fsh-case",
       "level": "understand",
-      "stem": "Cơ chế sơ cấp của COCs được bài gọi là gì?",
+      "stem": "Cơ chế sơ cấp của COCs được gọi là gì?",
       "options": [
         "Ngăn phát triển nang noãn",
         "Tăng đỉnh LH",
@@ -600,7 +600,7 @@
       "topicId": "contraception",
       "conceptId": "m08-coc-vs-pop",
       "level": "understand",
-      "stem": "POPs được bài mô tả có ý nghĩa nào khi không dùng được EE?",
+      "stem": "POPs được mô tả có ý nghĩa nào khi không dùng được EE?",
       "options": [
         "Thay bằng FSH",
         "Luôn phối hợp hai estrogen",
@@ -789,7 +789,7 @@
       "topicId": "emergency",
       "conceptId": "m08-timing-not-guarantee",
       "level": "understand",
-      "stem": "Vì sao hiệu quả ECP được bài gắn với thời điểm so với phóng noãn?",
+      "stem": "Vì sao hiệu quả ECP được gắn với thời điểm so với phóng noãn?",
       "options": [
         "ECP luôn kích thích phóng noãn",
         "Cơ chế chính là ngăn hoặc trì hoãn phóng noãn",
@@ -826,7 +826,7 @@
       "topicId": "puberty",
       "conceptId": "m08-fsh-response",
       "level": "apply",
-      "stem": "Ở đầu dậy thì, xung GnRH mới đủ tạo đáp ứng FSH. Diễn biến nào được bài mô tả?",
+      "stem": "Ở đầu dậy thì, xung GnRH mới đủ tạo đáp ứng FSH. Diễn biến nào được mô tả?",
       "options": [
         "Nang phát triển và tạo E2",
         "Mọi chu kỳ chắc chắn phóng noãn",
@@ -974,7 +974,7 @@
       "topicId": "puberty",
       "conceptId": "m08-bleeding-pattern",
       "level": "apply",
-      "stem": "Xuất huyết cơ năng trong vài năm đầu sau lần ra máu đầu tiên được bài mô tả ra sao?",
+      "stem": "Xuất huyết cơ năng trong vài năm đầu sau lần ra máu đầu tiên được mô tả ra sao?",
       "options": [
         "Không đều, lượng và tính chất thay đổi",
         "Luôn giống hệt từng tháng",
@@ -1085,7 +1085,7 @@
       "topicId": "menopause",
       "conceptId": "m08-reserve-markers",
       "level": "apply",
-      "stem": "Dự trữ buồng trứng giảm làm tổng khối tế bào hạt giảm. Hai dấu ấn nào giảm theo mô tả bài?",
+      "stem": "Dự trữ buồng trứng giảm làm tổng khối tế bào hạt giảm. Hai dấu ấn nào giảm theo mô tả?",
       "options": [
         "EE và etonogestrel",
         "AMH và inhibin B",
@@ -1196,7 +1196,7 @@
       "topicId": "menopause",
       "conceptId": "m08-overlap-steroids",
       "level": "apply",
-      "stem": "Nang de Graaf mới xuất hiện khi hoàng thể cũ chưa ly giải. Tác động lên nội mạc được bài nêu là gì?",
+      "stem": "Nang de Graaf mới xuất hiện khi hoàng thể cũ chưa ly giải. Tác động lên nội mạc được nêu là gì?",
       "options": [
         "Chắc chắn bong hoàn toàn đúng ngày",
         "Không thể có phóng noãn nữa",
@@ -1307,7 +1307,7 @@
       "topicId": "aub",
       "conceptId": "m08-obesity",
       "level": "apply",
-      "stem": "Trong danh sách AUB-O, béo phì được bài liên hệ với nguồn estrogen nào?",
+      "stem": "Trong danh sách AUB-O, béo phì được liên hệ với nguồn estrogen nào?",
       "options": [
         "Mạch cửa tự sản xuất",
         "Xương sọ",
@@ -1418,7 +1418,7 @@
       "topicId": "aub",
       "conceptId": "m08-luteal-deficiency",
       "level": "apply",
-      "stem": "Thiếu hụt giai đoạn hoàng thể được bài đặt gần tình huống nào về rối loạn nội tiết?",
+      "stem": "Thiếu hụt giai đoạn hoàng thể được đặt gần tình huống nào về rối loạn nội tiết?",
       "options": [
         "Chu kỳ không phóng noãn",
         "Chu kỳ luôn có P4 dư thừa",
@@ -1917,7 +1917,7 @@
       "topicId": "contraception",
       "conceptId": "m08-ee-risk",
       "level": "apply",
-      "stem": "Tác dụng ngoại ý của EE nào được bài nhấn mạnh phụ thuộc cơ địa và liều?",
+      "stem": "Tác dụng ngoại ý của EE nào được nhấn mạnh phụ thuộc cơ địa và liều?",
       "options": [
         "Tạo thêm buồng trứng",
         "Chuyển E2 thành AMH",
@@ -1954,7 +1954,7 @@
       "topicId": "contraception",
       "conceptId": "m08-pop-adherence",
       "level": "apply",
-      "stem": "Khi học cách dùng POPs, yêu cầu tuân thủ nào được bài nhấn mạnh?",
+      "stem": "Khi học cách dùng POPs, yêu cầu tuân thủ nào được nhấn mạnh?",
       "options": [
         "Không cần quan tâm quên thuốc",
         "Đổi thuốc mỗi ngày tùy ý",
@@ -1991,7 +1991,7 @@
       "topicId": "contraception",
       "conceptId": "m08-dmpa-depot",
       "level": "apply",
-      "stem": "DMPA được tiêm vào cơ hoặc dưới da. Cơ chế cung cấp hormone nào được bài mô tả?",
+      "stem": "DMPA được tiêm vào cơ hoặc dưới da. Cơ chế cung cấp hormone nào được mô tả?",
       "options": [
         "Không có hoạt chất phóng thích",
         "Tạo kho tại chỗ, phóng thích dần vào máu",
@@ -2028,7 +2028,7 @@
       "topicId": "contraception",
       "conceptId": "m08-implant-release",
       "level": "apply",
-      "stem": "Que cấy có màng cách ly với mô. Vai trò màng được bài nêu là gì?",
+      "stem": "Que cấy có màng cách ly với mô. Vai trò màng được nêu là gì?",
       "options": [
         "Đảm bảo phóng thích lượng progestogen hằng định mỗi ngày",
         "Ngăn mọi hoạt chất thoát ra mãi",
@@ -2102,7 +2102,7 @@
       "topicId": "contraception",
       "conceptId": "m08-lng-placement",
       "level": "understand",
-      "stem": "Hệ IUD-LNG được bài mô tả đặt ở đâu để phóng thích LNG?",
+      "stem": "Hệ IUD-LNG được mô tả đặt ở đâu để phóng thích LNG?",
       "options": [
         "Trong cơ",
         "Trong tuyến yên",

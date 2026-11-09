@@ -188,7 +188,7 @@
       "topicId": "history",
       "conceptId": "m15-blood-origin",
       "level": "understand",
-      "stem": "Bài học lưu ý máu mất khi khai thác chảy máu thường là máu của ai?",
+      "stem": "Lưu ý máu mất khi khai thác chảy máu thường là máu của ai?",
       "options": [
         "Luôn là máu của nguyên bào nuôi",
         "Máu mẹ",
@@ -482,7 +482,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-frequency",
       "level": "understand",
-      "stem": "Bài học mô tả mối liên quan tần số siêu âm thế nào?",
+      "stem": "Được nêu mối liên quan tần số siêu âm thế nào?",
       "options": [
         "Tần số không liên quan mục tiêu khảo sát",
         "Mọi ngả siêu âm chỉ dùng đúng một tần số",
@@ -602,7 +602,7 @@
       "topicId": "hcg",
       "conceptId": "m15-one-value-limit",
       "level": "understand",
-      "stem": "Một giá trị β-hCG đơn độc có hạn chế nào được bài học nêu rõ?",
+      "stem": "Một giá trị β-hCG đơn độc có hạn chế nào được nêu rõ?",
       "options": [
         "Xác định chắc chắn vị trí trong mọi trường hợp",
         "Phân biệt được mọi dạng mô học thai trứng",
@@ -882,7 +882,7 @@
       "topicId": "history",
       "conceptId": "m15-cause-range",
       "level": "apply",
-      "stem": "Người ra máu thai sớm được phát hiện nguồn máu tại cổ tử cung. Dữ kiện này có nằm trong phạm vi nguyên nhân bài học không?",
+      "stem": "Người ra máu thai sớm được phát hiện nguồn máu tại cổ tử cung. Dữ kiện này có nằm trong phạm vi nguyên nhân không?",
       "options": [
         "Có, bài nêu nguyên nhân từ cổ tử cung và âm đạo",
         "Không, mọi chảy máu phải từ buồng tử cung",
@@ -1042,7 +1042,7 @@
       "topicId": "history",
       "conceptId": "m15-heavy-bleeding",
       "level": "apply",
-      "stem": "Người bệnh kể thấm 2 băng vệ sinh mỗi giờ trong 2 giờ. Theo mô tả bài học, dữ kiện này thuộc nhóm nào?",
+      "stem": "Người bệnh kể thấm 2 băng vệ sinh mỗi giờ trong 2 giờ. Theo mô tả, dữ kiện này thuộc nhóm nào?",
       "options": [
         "Chảy máu nặng",
         "Chỉ xuất huyết điểm",
@@ -1082,7 +1082,7 @@
       "topicId": "history",
       "conceptId": "m15-bleeding-detail",
       "level": "apply",
-      "stem": "Phiếu bệnh sử chỉ ghi 'có ra máu'. Bổ sung nào phù hợp nhất với yêu cầu bài?",
+      "stem": "Phiếu bệnh sử chỉ ghi 'có ra máu'. Bổ sung nào phù hợp nhất với yêu cầu?",
       "options": [
         "Chỉ chép lại 'có ra máu' nhiều lần",
         "Bỏ bệnh sử và đo CRL cho mọi người",
@@ -1122,7 +1122,7 @@
       "topicId": "history",
       "conceptId": "m15-syncope",
       "level": "apply",
-      "stem": "Trong bệnh sử xuất huyết, người bệnh có ngất. Bài học liên hệ triệu chứng này với thông tin nào cần chú ý?",
+      "stem": "Trong bệnh sử xuất huyết, người bệnh có ngất. liên hệ triệu chứng này với thông tin nào cần chú ý?",
       "options": [
         "Phân loại hình dạng túi thai",
         "Số lượng nguyên bào nuôi",
@@ -1162,7 +1162,7 @@
       "topicId": "exam",
       "conceptId": "m15-peritoneal-signs",
       "level": "apply",
-      "stem": "Khám bụng phát hiện dấu phúc mạc ở người ra máu thai sớm. Mối liên hệ nào được bài nêu cần xem xét?",
+      "stem": "Khám bụng phát hiện dấu phúc mạc ở người ra máu thai sớm. Mối liên hệ nào được nêu cần xem xét?",
       "options": [
         "Dùng dấu này để tính dự sanh",
         "Xuất huyết nội và tình trạng cấp cứu",
@@ -1209,7 +1209,7 @@
       "topicId": "exam",
       "conceptId": "m15-speculum-purpose",
       "level": "apply",
-      "stem": "Muốn xác định chảy máu từ đâu và mức độ ra sao, thao tác thăm khám nào bài học mô tả?",
+      "stem": "Muốn xác định chảy máu từ đâu và mức độ ra sao, thao tác thăm khám nào được nêu?",
       "options": [
         "Khám mỏ vịt nhẹ nhàng",
         "Chỉ hỏi chỉ số hCG lần trước",
@@ -1249,7 +1249,7 @@
       "topicId": "exam",
       "conceptId": "m15-tissue-verification",
       "level": "apply",
-      "stem": "Một khối lẫn máu được nghi là mô thai. Bước khảo sát mẫu được bài nêu là gì?",
+      "stem": "Một khối lẫn máu được nghi là mô thai. Bước khảo sát mẫu được nêu là gì?",
       "options": [
         "Coi mọi cục máu là mô thai đã xác nhận",
         "Bỏ mẫu ngay vì không thể đánh giá",
@@ -1289,7 +1289,7 @@
       "topicId": "exam",
       "conceptId": "m15-inner-os",
       "level": "apply",
-      "stem": "Lỗ trong cổ tử cung mở ở người đang chảy máu. Cặp hình thái nào phù hợp với danh sách bài học?",
+      "stem": "Lỗ trong cổ tử cung mở ở người đang chảy máu. Cặp hình thái nào phù hợp với danh sách?",
       "options": [
         "Chỉ thai ngoài tử cung và thai trứng",
         "Chỉ thai đủ tháng và đa thai",
@@ -1409,7 +1409,7 @@
       "topicId": "exam",
       "conceptId": "m15-posterior-fornix",
       "level": "apply",
-      "stem": "Cùng đồ sau ấn đau trong đánh giá người ra huyết thai sớm gợi cần xem xét vấn đề nào được bài nêu?",
+      "stem": "Cùng đồ sau ấn đau trong đánh giá người ra huyết thai sớm gợi cần xem xét vấn đề nào được nêu?",
       "options": [
         "Chỉ tính tuổi thai",
         "Chỉ chu kỳ kinh kéo dài",
@@ -1449,7 +1449,7 @@
       "topicId": "exam",
       "conceptId": "m15-emergency-parallel",
       "level": "apply",
-      "stem": "Đang nghi tình trạng đe dọa tính mạng trong xuất huyết thai sớm. Trình tự nào phù hợp bài học?",
+      "stem": "Đang nghi tình trạng đe dọa tính mạng trong xuất huyết thai sớm. Trình tự nào phù hợp?",
       "options": [
         "Chờ đúng 48 giờ cho hCG rồi mới đánh giá sinh hiệu",
         "Chỉ theo dõi tại nhà bất kể huyết động",
@@ -1489,7 +1489,7 @@
       "topicId": "exam",
       "conceptId": "m15-emergency-labs",
       "level": "apply",
-      "stem": "Trong chuẩn bị cấp cứu được bài học nêu, nhóm xét nghiệm nào phù hợp?",
+      "stem": "Trong chuẩn bị cấp cứu được nêu, nhóm xét nghiệm nào phù hợp?",
       "options": [
         "Chỉ quan sát màu máu, không cần xét nghiệm",
         "Hct, đông máu, nhóm máu và phản ứng chéo",
@@ -1529,7 +1529,7 @@
       "topicId": "ultrasound",
       "conceptId": "m15-ultrasound-information",
       "level": "apply",
-      "stem": "Cần khảo sát vị trí, số lượng, sinh tồn và tuổi thai. Phương tiện sơ cấp được bài học nêu là gì?",
+      "stem": "Cần khảo sát vị trí, số lượng, sinh tồn và tuổi thai. Phương tiện sơ cấp được nêu là gì?",
       "options": [
         "Siêu âm",
         "Một giá trị hCG đơn độc",
@@ -2049,7 +2049,7 @@
       "topicId": "hcg",
       "conceptId": "m15-rise-low",
       "level": "apply",
-      "stem": "Bài tập có hCG ban đầu 1000 IU/L. Nếu chỉ tính mức tương ứng tăng 49%, giá trị sau 48 giờ là bao nhiêu?",
+      "stem": "Tập có hCG ban đầu 1000 IU/L. Nếu chỉ tính mức tương ứng tăng 49%, giá trị sau 48 giờ là bao nhiêu?",
       "options": [
         "1049 IU/L",
         "490 IU/L",
@@ -2216,7 +2216,7 @@
       "topicId": "hcg",
       "conceptId": "m15-slow-fall",
       "level": "apply",
-      "stem": "Một diễn biến hCG giảm dưới ngưỡng kỳ vọng được nhận diện. Những khả năng nào bài học yêu cầu nghĩ đến?",
+      "stem": "Một diễn biến hCG giảm dưới ngưỡng kỳ vọng được nhận diện. Những khả năng nào yêu cầu nghĩ đến?",
       "options": [
         "Chắc chắn không còn bệnh lý",
         "Chắc chắn thai trong tử cung bình thường",
@@ -2416,7 +2416,7 @@
       "topicId": "aub",
       "conceptId": "m15-pregnancy-exclusion",
       "level": "understand",
-      "stem": "Sau các bước tiếp cận, cần loại trừ AUB liên quan thai kỳ. Bài học yêu cầu nhóm thông tin nào?",
+      "stem": "Sau các bước tiếp cận, cần loại trừ AUB liên quan thai kỳ. yêu cầu nhóm thông tin nào?",
       "options": [
         "Chỉ lỗ ngoài cổ tử cung",
         "Chỉ tần số chu kỳ",
@@ -2710,7 +2710,7 @@
       "topicId": "exam",
       "conceptId": "m15-integrated-stability",
       "level": "analyze",
-      "stem": "Người ra máu có huyết động không ổn; sinh viên muốn chờ 48 giờ để xét động học hCG trước khi xử trí. Nhận xét nào phù hợp bài?",
+      "stem": "Người ra máu có huyết động không ổn; sinh viên muốn chờ 48 giờ để xét động học hCG trước khi xử trí. Nhận xét nào phù hợp?",
       "options": [
         "Đúng vì mọi hCG đều phải chờ rồi mới đánh giá sinh hiệu",
         "Đúng vì xuất huyết nội không thuộc cấp cứu",
@@ -3461,7 +3461,7 @@
       "topicId": "hcg",
       "conceptId": "m15-hcg-beta-core",
       "level": "apply",
-      "stem": "β-core fragment được tìm thấy trong loại mẫu nào?",
+      "stem": "Β-core fragment được tìm thấy trong loại mẫu nào?",
       "options": [
         "Nước tiểu",
         "Chỉ dịch não tủy",

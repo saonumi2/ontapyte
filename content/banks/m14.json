@@ -192,7 +192,7 @@
       "topicId": "vitri",
       "conceptId": "interstitialrisk",
       "level": "understand",
-      "stem": "Vì sao bài nhấn mạnh thai đoạn kẽ khi vỡ?",
+      "stem": "Vì sao thai ở đoạn kẽ khi vỡ có nguy cơ mất máu nặng?",
       "options": [
         "Có thể gây mất máu nặng",
         "Luôn tự vào buồng tử cung",
@@ -229,7 +229,7 @@
       "topicId": "nguyco",
       "conceptId": "riskgroups",
       "level": "understand",
-      "stem": "Nhóm nào đều là yếu tố nguy cơ thai ngoài tử cung được bài nêu?",
+      "stem": "Nhóm nào đều là yếu tố nguy cơ thai ngoài tử cung được nêu?",
       "options": [
         "Viêm vùng chậu, phẫu thuật vòi trứng, tiền căn thai ngoài tử cung",
         "Chỉ màu sắc tóc và chiều cao",
@@ -303,7 +303,7 @@
       "topicId": "lamsang",
       "conceptId": "rupturedcomparison",
       "level": "understand",
-      "stem": "Dấu hiệu nào gợi tình trạng đã vỡ hơn so với chưa vỡ trong mô tả bài?",
+      "stem": "Dấu hiệu nào gợi tình trạng đã vỡ hơn so với chưa vỡ trong mô tả?",
       "options": [
         "Đau dữ dội, muốn ngất và dấu choáng xuất huyết",
         "Tổng trạng, sinh hiệu bình thường",
@@ -422,7 +422,7 @@
       "topicId": "chandoan",
       "conceptId": "goldstandard",
       "level": "understand",
-      "stem": "Phương tiện nào bài gọi là tiêu chuẩn vàng chẩn đoán thai ngoài tử cung?",
+      "stem": "Phương tiện nào gọi là tiêu chuẩn vàng chẩn đoán thai ngoài tử cung?",
       "options": [
         "Nội soi ổ bụng",
         "Chỉ một lần β-hCG",
@@ -459,7 +459,7 @@
       "topicId": "xutri",
       "conceptId": "treatmentgoals",
       "level": "understand",
-      "stem": "Hai mục tiêu điều trị được bài nêu là gì?",
+      "stem": "Hai mục tiêu điều trị được nêu là gì?",
       "options": [
         "Cấp cứu kịp thời và duy trì khả năng sinh sản nếu cần",
         "Chỉ giảm đau và không xét tình trạng huyết động",
@@ -644,7 +644,7 @@
       "topicId": "coche",
       "conceptId": "cilia",
       "level": "apply",
-      "stem": "Một người có tổn thương lông chuyển vòi trứng do viêm. Cơ chế nguy cơ nào bài mô tả?",
+      "stem": "Một người có tổn thương lông chuyển vòi trứng do viêm. Cơ chế nguy cơ nào được nêu?",
       "options": [
         "Vận chuyển hợp tử chậm/cản trở, có thể liên quan thai ngoài tử cung",
         "Lông chuyển bị tổn thương làm hợp tử luôn đi nhanh hơn",
@@ -722,7 +722,7 @@
       "topicId": "lamsang",
       "conceptId": "shock",
       "level": "apply",
-      "stem": "Mạch nhanh, huyết áp tụt ở người nghi thai ngoài tử cung vỡ được bài giải thích bởi gì?",
+      "stem": "Mạch nhanh, huyết áp tụt ở người nghi thai ngoài tử cung vỡ được giải thích bởi gì?",
       "options": [
         "Choáng do xuất huyết nội",
         "Chỉ thay đổi hormone sinh lý",
@@ -759,7 +759,7 @@
       "topicId": "lamsang",
       "conceptId": "hematoma",
       "level": "apply",
-      "stem": "Khối cạnh hoặc sau tử cung giới hạn không rõ, chạm đau và thiếu máu được bài mô tả ở tình trạng nào?",
+      "stem": "Khối cạnh hoặc sau tử cung giới hạn không rõ, chạm đau và thiếu máu được mô tả ở tình trạng nào?",
       "options": [
         "Huyết tụ thành nang",
         "Nang nguyên thủy",
@@ -796,7 +796,7 @@
       "topicId": "lamsang",
       "conceptId": "cervicalpregnancy",
       "level": "apply",
-      "stem": "Người ra huyết nhiều có đoạn dưới tử cung phình dạng đồng hồ cát; siêu âm thấy túi thai ở vùng cổ tử cung. Trong các thể bài mô tả, thể nào cần được nghĩ đến?",
+      "stem": "Người ra huyết nhiều có đoạn dưới tử cung phình dạng đồng hồ cát; siêu âm thấy túi thai ở vùng cổ tử cung. Trong các thể được nêu, thể nào cần được nghĩ đến?",
       "options": [
         "Thai ở cổ tử cung, cần phân biệt với thai đang sẩy",
         "Thai đoạn bóng được xác nhận chỉ từ ra máu",
@@ -833,7 +833,7 @@
       "topicId": "cls",
       "conceptId": "serialhcg",
       "level": "apply",
-      "stem": "Khi nghi thai kỳ bất thường và β-hCG chưa định vị thai, bài nêu cần làm gì với xét nghiệm?",
+      "stem": "Khi nghi thai kỳ bất thường và β-hCG chưa định vị thai, được nêu cần làm gì với xét nghiệm?",
       "options": [
         "Lặp lại định lượng sau khoảng 48–72 giờ để đánh giá động học",
         "Kết luận vị trí thai từ một số đơn lẻ",
@@ -870,7 +870,7 @@
       "topicId": "cls",
       "conceptId": "ultrasoundfindings",
       "level": "apply",
-      "stem": "Ở người nghi thai ngoài tử cung, siêu âm thấy buồng tử cung trống nhưng chưa xác định được khối thai. Phát hiện thêm nào được bài liệt kê là hình ảnh cần khảo sát?",
+      "stem": "Ở người nghi thai ngoài tử cung, siêu âm thấy buồng tử cung trống nhưng chưa xác định được khối thai. Phát hiện thêm nào được liệt kê là hình ảnh cần khảo sát?",
       "options": [
         "Khối echo hỗn hợp cạnh tử cung",
         "Chỉ nang noãn nguyên thủy trong buồng tử cung",
@@ -1137,7 +1137,7 @@
       "topicId": "xutri",
       "conceptId": "conservativesize",
       "level": "apply",
-      "stem": "Một khối thai 3 cm không có tim thai, huyết động ổn định. Yếu tố kích thước này có nằm trong giới hạn bài nêu cho bảo tồn không?",
+      "stem": "Một khối thai 3 cm không có tim thai, huyết động ổn định. Yếu tố kích thước này có nằm trong giới hạn được nêu cho bảo tồn không?",
       "options": [
         "Có, vì nhỏ hơn 4 cm",
         "Không, bài yêu cầu mọi khối lớn hơn 4 cm",
@@ -1174,7 +1174,7 @@
       "topicId": "xutri",
       "conceptId": "salpingostomyfollow",
       "level": "apply",
-      "stem": "Sau xẻ vòi hút khối thai, kế hoạch chỉ ghi theo dõi triệu chứng và bỏ xét nghiệm mà bài nhắc để đề phòng sót nhau. Xét nghiệm cần bổ sung là gì?",
+      "stem": "Sau xẻ vòi hút khối thai, kế hoạch chỉ ghi theo dõi triệu chứng và bỏ xét nghiệm mà cần để đề phòng sót nhau. Xét nghiệm cần bổ sung là gì?",
       "options": [
         "β-hCG",
         "IgG Chlamydia thay β-hCG",
@@ -1293,7 +1293,7 @@
       "topicId": "vitri",
       "conceptId": "siteandbleeding",
       "level": "analyze",
-      "stem": "Một ca thai đoạn kẽ vỡ có dấu mạch nhanh và huyết áp tụt. Ghép vị trí với biến chứng được bài nhấn mạnh thế nào?",
+      "stem": "Một ca thai đoạn kẽ vỡ có dấu mạch nhanh và huyết áp tụt. Ghép vị trí với biến chứng được nhấn mạnh thế nào?",
       "options": [
         "Đoạn kẽ vỡ có thể mất máu nặng; dấu hiệu trên phù hợp choáng xuất huyết nội",
         "Đoạn kẽ vỡ luôn không chảy máu",
@@ -1334,7 +1334,7 @@
       "topicId": "lamsang",
       "conceptId": "stableversusshock",
       "level": "analyze",
-      "stem": "Một ca ban đầu sinh hiệu bình thường, sau đau dữ dội, mạch nhanh và huyết áp tụt. Cách đọc tiến triển nào phù hợp bài?",
+      "stem": "Một ca ban đầu sinh hiệu bình thường, sau đau dữ dội, mạch nhanh và huyết áp tụt. Cách đọc tiến triển nào phù hợp?",
       "options": [
         "Chuyển từ mô tả chưa vỡ sang nghi vỡ kèm choáng xuất huyết",
         "Sinh hiệu bình thường ban đầu chứng minh không thể vỡ về sau",
@@ -1547,7 +1547,7 @@
       "topicId": "xutri",
       "conceptId": "unstablepriority",
       "level": "analyze",
-      "stem": "Người nghi thai ngoài tử cung vỡ với mạch nhanh, tụt huyết áp. Ghép biểu hiện và ưu tiên nào phù hợp bài?",
+      "stem": "Người nghi thai ngoài tử cung vỡ với mạch nhanh, tụt huyết áp. Ghép biểu hiện và ưu tiên nào phù hợp?",
       "options": [
         "Dấu choáng xuất huyết; cần cấp cứu kịp thời, không coi là tình trạng huyết động ổn định",
         "Dấu này chứng minh huyết động ổn định để bảo tồn",
@@ -1629,7 +1629,7 @@
       "topicId": "giaiphaubenh",
       "conceptId": "arias",
       "level": "understand",
-      "stem": "Phản ứng Arias–Stella được bài nêu có thể thấy ở mô nào khi thai ngoài tử cung?",
+      "stem": "Phản ứng Arias–Stella được nêu có thể thấy ở mô nào khi thai ngoài tử cung?",
       "options": [
         "Tuyến nội mạc tử cung",
         "Tế bào Sertoli",
@@ -1666,7 +1666,7 @@
       "topicId": "thaioobung",
       "conceptId": "abdominalorigin",
       "level": "understand",
-      "stem": "Bài mô tả thai trong ổ bụng có thể hình thành qua bước nào?",
+      "stem": "Được nêu thai trong ổ bụng có thể hình thành qua bước nào?",
       "options": [
         "Thai sẩy qua loa vòi, gai nhau bám cơ quan trong ổ bụng",
         "Noãn nguyên bào đi vào ổ bụng rồi phát triển thành thai",
@@ -1703,7 +1703,7 @@
       "topicId": "phongngua",
       "conceptId": "prevention",
       "level": "understand",
-      "stem": "Biện pháp phòng ngừa nào được bài liệt kê nhằm giảm bệnh lây truyền qua đường tình dục?",
+      "stem": "Biện pháp phòng ngừa nào được liệt kê nhằm giảm bệnh lây truyền qua đường tình dục?",
       "options": [
         "Quan hệ tình dục an toàn",
         "Chỉ đo β-hCG hàng tháng ở mọi người",
@@ -1740,7 +1740,7 @@
       "topicId": "thaioobung",
       "conceptId": "abdominalpregnancy",
       "level": "apply",
-      "stem": "Một thai nằm ngoài tử cung, giữa các quai ruột; siêu âm không thấy thành tử cung bao quanh. Thể nào được bài mô tả phù hợp nhất?",
+      "stem": "Một thai nằm ngoài tử cung, giữa các quai ruột; siêu âm không thấy thành tử cung bao quanh. Thể nào được mô tả phù hợp nhất?",
       "options": [
         "Thai trong ổ bụng",
         "Thai đoạn bóng trong vòi",
@@ -1781,7 +1781,7 @@
       "topicId": "phongngua",
       "conceptId": "infectionprevention",
       "level": "apply",
-      "stem": "Bài vừa nêu viêm vùng chậu do bệnh lây truyền tình dục là nguy cơ, vừa nêu cách phòng ngừa nào tương ứng?",
+      "stem": "Vừa nêu viêm vùng chậu do bệnh lây truyền tình dục là nguy cơ, vừa nêu cách phòng ngừa nào tương ứng?",
       "options": [
         "Quan hệ tình dục an toàn và điều trị triệt để viêm nhiễm đường sinh dục",
         "Chỉ tránh mọi siêu âm",
@@ -1867,7 +1867,7 @@
       "topicId": "thaioobung",
       "conceptId": "abdominalrisk",
       "level": "analyze",
-      "stem": "Vì sao thai ổ bụng được bài xem có nguy cơ cho mẹ khi bóc nhau dù vị trí thai đã rõ trên hình ảnh?",
+      "stem": "Vì sao thai ổ bụng được xem có nguy cơ cho mẹ khi bóc nhau dù vị trí thai đã rõ trên hình ảnh?",
       "options": [
         "Gai nhau có thể bám cơ quan ổ bụng; bóc nhau khó kiểm soát cầm máu tại chỗ bám",
         "Vì mọi nhau đều nằm trong lòng buồng tử cung",
@@ -2022,6 +2022,1212 @@
         "semantic": true,
         "coverage": false
       }
+    },
+    {
+      "id": "m14-v001",
+      "topicId": "dinhnghia",
+      "conceptId": "ectopicdefinition",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Định nghĩa thai ngoài tử cung dựa vào tiêu chí nào?",
+      "options": [
+        "Trứng thụ tinh làm tổ và phát triển ngoài buồng tử cung",
+        "Chỉ dựa vào đau bụng dưới",
+        "Chỉ dựa vào nồng độ β-hCG",
+        "Chỉ dựa vào việc thai đã vỡ"
+      ],
+      "answer": 0,
+      "explanation": "Trang 3 định nghĩa thai ngoài tử cung bằng vị trí làm tổ và phát triển ngoài buồng tử cung.",
+      "optionExplanations": [
+        "Trang 3 định nghĩa thai ngoài tử cung bằng vị trí làm tổ và phát triển ngoài buồng tử cung.",
+        "Không khớp mô tả ở trang 3: Trang 3 định nghĩa thai ngoài tử cung bằng vị trí làm tổ và phát triển ngoài buồng tử cung.",
+        "Không khớp mô tả ở trang 3: Trang 3 định nghĩa thai ngoài tử cung bằng vị trí làm tổ và phát triển ngoài buồng tử cung.",
+        "Không khớp mô tả ở trang 3: Trang 3 định nghĩa thai ngoài tử cung bằng vị trí làm tổ và phát triển ngoài buồng tử cung."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "I. ĐỊNH NGHĨA\nThai ngoài tử cung (TNTC) là trứng thụ tinh làm tổ và phát triển ở một vị trí ngoài buồng tử cung."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q001"
+    },
+    {
+      "id": "m14-v002",
+      "topicId": "vitri",
+      "conceptId": "ampulla",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Vị trí nào chiếm tỷ lệ lớn nhất vị trí thai ngoài tử cung?",
+      "options": [
+        "Đoạn bóng vòi tử cung",
+        "Buồng trứng",
+        "Cổ tử cung",
+        "Ổ bụng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 4 ghi đoạn bóng vòi tử cung chiếm 80%, lớn nhất trong các vị trí được liệt kê.",
+      "optionExplanations": [
+        "Trang 4 ghi đoạn bóng vòi tử cung chiếm 80%, lớn nhất trong các vị trí được liệt kê.",
+        "Không khớp mô tả ở trang 4: Trang 4 ghi đoạn bóng vòi tử cung chiếm 80%, lớn nhất trong các vị trí được liệt kê.",
+        "Không khớp mô tả ở trang 4: Trang 4 ghi đoạn bóng vòi tử cung chiếm 80%, lớn nhất trong các vị trí được liệt kê.",
+        "Không khớp mô tả ở trang 4: Trang 4 ghi đoạn bóng vòi tử cung chiếm 80%, lớn nhất trong các vị trí được liệt kê."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "II. PHÂN LOẠI\nCác vị trí TNTC\nĐoạn bóng vòi TC (80%): là phần tương đối rộng nên vỡ muộn\nLoa vòi (5%): khối thai phát triển gây rỉ máu qua loa tạo thành huyết tụ thành nang (HTTN)\rĐoạn eo vòi (12%)\rĐoạn kẻ (sừng) (2%): Đoạn này vỡ gây mất máu nặng\rBuồng trứng (0.5%)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q002"
+    },
+    {
+      "id": "m14-v003",
+      "topicId": "vitri",
+      "conceptId": "interstitialrisk",
+      "level": "understand",
+      "stem": "Lý do nào giải thích vì sao thai ở đoạn kẽ khi vỡ có nguy cơ mất máu nặng?",
+      "options": [
+        "Có thể gây mất máu nặng",
+        "Luôn tự vào buồng tử cung",
+        "Không gây xuất huyết",
+        "Chỉ tạo hạch thắt lưng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 4 nêu đoạn kẽ khi vỡ gây mất máu nặng.",
+      "optionExplanations": [
+        "Trang 4 nêu đoạn kẽ khi vỡ gây mất máu nặng.",
+        "Không khớp mô tả ở trang 4: Trang 4 nêu đoạn kẽ khi vỡ gây mất máu nặng.",
+        "Không khớp mô tả ở trang 4: Trang 4 nêu đoạn kẽ khi vỡ gây mất máu nặng.",
+        "Không khớp mô tả ở trang 4: Trang 4 nêu đoạn kẽ khi vỡ gây mất máu nặng."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "II. PHÂN LOẠI\nCác vị trí TNTC\nĐoạn bóng vòi TC (80%): là phần tương đối rộng nên vỡ muộn\nLoa vòi (5%): khối thai phát triển gây rỉ máu qua loa tạo thành huyết tụ thành nang (HTTN)\rĐoạn eo vòi (12%)\rĐoạn kẻ (sừng) (2%): Đoạn này vỡ gây mất máu nặng\rBuồng trứng (0.5%)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q003"
+    },
+    {
+      "id": "m14-v004",
+      "topicId": "nguyco",
+      "conceptId": "riskgroups",
+      "level": "understand",
+      "stem": "Tổ hợp nào đều là yếu tố nguy cơ thai ngoài tử cung được nêu?",
+      "options": [
+        "Viêm vùng chậu, phẫu thuật vòi trứng, tiền căn thai ngoài tử cung",
+        "Chỉ màu sắc tóc và chiều cao",
+        "Chỉ sẹo phóng noãn sinh lý",
+        "Chỉ số lượng tua vòi bình thường"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 liệt kê các nhóm yếu tố nguy cơ này.",
+      "optionExplanations": [
+        "Trang 7 liệt kê các nhóm yếu tố nguy cơ này.",
+        "Không khớp mô tả ở trang 7: Trang 7 liệt kê các nhóm yếu tố nguy cơ này.",
+        "Không khớp mô tả ở trang 7: Trang 7 liệt kê các nhóm yếu tố nguy cơ này.",
+        "Không khớp mô tả ở trang 7: Trang 7 liệt kê các nhóm yếu tố nguy cơ này."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "YẾU TỐ NGUY CƠ \nViêm nhiễm vùng chậu, viêm CTC do lậu hoặc Chlamydia trachomatis.\rTiền sử phẫu thuật vòi trứng: tái tạo vòi trứng, nối vòi trứng, tiền căn TNTC.\rBất thường cấu trúc giải phẫu của vòi trứng: polyp, túi thừa \rCác kỹ thuật HTSS: kích thích rụng trứng, IVF"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q004"
+    },
+    {
+      "id": "m14-v005",
+      "topicId": "coche",
+      "conceptId": "migrationdelay",
+      "level": "understand",
+      "stem": "Lý do nào giải thích vì sao hợp tử có thể làm tổ trước khi đến buồng tử cung?",
+      "options": [
+        "Sự di chuyển từ nơi thụ tinh vào tử cung bị cản trở hoặc chậm trễ",
+        "Vì hợp tử vốn được tạo trong cổ tử cung",
+        "Vì vòi trứng không có đường thông với tử cung",
+        "Vì mọi hợp tử bình thường phải làm tổ ở vòi"
+      ],
+      "answer": 0,
+      "explanation": "Trang 8 nêu cản trở/chậm di chuyển hợp tử là nguyên nhân cơ chế bệnh sinh.",
+      "optionExplanations": [
+        "Trang 8 nêu cản trở/chậm di chuyển hợp tử là nguyên nhân cơ chế bệnh sinh.",
+        "Không khớp mô tả ở trang 8: Trang 8 nêu cản trở/chậm di chuyển hợp tử là nguyên nhân cơ chế bệnh sinh.",
+        "Không khớp mô tả ở trang 8: Trang 8 nêu cản trở/chậm di chuyển hợp tử là nguyên nhân cơ chế bệnh sinh.",
+        "Không khớp mô tả ở trang 8: Trang 8 nêu cản trở/chậm di chuyển hợp tử là nguyên nhân cơ chế bệnh sinh."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "NGUYÊN NHÂN\nDo những yếu tố ngăn cản hay làm chậm trễ sự di chuyển của hợp tử từ nơi thụ tinh (thường là ở 1/3 ngoài của vòi trứng) vào đến buồng tử cung.\rDo tổn thương lớp bề mặt lông chuyển ống dẫn trứng ( thường gặp viêm nhiễm Chlamydia trachomatis)."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q005"
+    },
+    {
+      "id": "m14-v006",
+      "topicId": "lamsang",
+      "conceptId": "rupturedcomparison",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Dấu hiệu nào gợi tình trạng đã vỡ hơn so với chưa vỡ trong mô tả?",
+      "options": [
+        "Đau dữ dội, muốn ngất và dấu choáng xuất huyết",
+        "Tổng trạng, sinh hiệu bình thường",
+        "Chỉ đau âm ỉ một bên",
+        "Chỉ chậm kinh mà không có triệu chứng khác"
+      ],
+      "answer": 0,
+      "explanation": "Trang 11 mô tả chưa vỡ, trang 12–13 mô tả vỡ và choáng do xuất huyết nội.",
+      "optionExplanations": [
+        "Trang 11 mô tả chưa vỡ, trang 12–13 mô tả vỡ và choáng do xuất huyết nội.",
+        "Không khớp mô tả ở trang 11,12,13: Trang 11 mô tả chưa vỡ, trang 12–13 mô tả vỡ và choáng do xuất huyết nội.",
+        "Không khớp mô tả ở trang 11,12,13: Trang 11 mô tả chưa vỡ, trang 12–13 mô tả vỡ và choáng do xuất huyết nội.",
+        "Không khớp mô tả ở trang 11,12,13: Trang 11 mô tả chưa vỡ, trang 12–13 mô tả vỡ và choáng do xuất huyết nội."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "V. LÂM SÀNG\n1. TNTC chưa vỡ\nTCCN : trễ kinh, ra huyết rỉ, nâu đen. Đau bụng dưới âm ỉ, 1 bên.\rTC thực thể\rTổng trạng và dấu hiệu sinh tồn bình thường. \rBụng không căng hay căng nhẹ, có thể có phản ứng dội hoặc không.\rMV : A Đ có ít máu đen chảy ra từ lỗ cổ TC. Cổ TC tím, khép kín.\rKhám tay: cổ TC mềm, TC to hơn bình thường. Khối cạnh bên TC chạm vào đau (50%). Túi cùng sau trống."
+        },
+        {
+          "page": 12,
+          "quote": "V. LÂM SÀNG\n2. TNTC vỡ\nTriệu chứng cơ năng: trễ kinh, rong huyết, đau bụng dưới ngày càng tăng. Lúc TNTC vỡ, đau dữ dội như dao đâm, muốn ngất xỉu."
+        },
+        {
+          "page": 13,
+          "quote": "V. LÂM SÀNG\n2. TNTC vỡ\nTriệu chứng thực thể: Da xanh, viêm nhạt, vã mồ hôi, khát nước. Choáng do xuất huyết nội: mạch nhanh, HA tụt.\rBụng phình, ấn đau, gõ đục vùng thấp. \rKhám Â. Đạo: cổ TC mềm, đóng, lay TC đau, 2 phần phụ khó xác định, do bệnh nhân gồng, túi cùng sau căng và rất đau khi khám."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q006"
+    },
+    {
+      "id": "m14-v007",
+      "topicId": "cls",
+      "conceptId": "hcglimit",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một lần định lượng β-hCG đơn độc cho biết điều gì?",
+      "options": [
+        "Có thai nhưng không xác định chắc vị trí thai",
+        "Xác định vị trí thai không cần siêu âm",
+        "Loại trừ chắc mọi thai ngoài tử cung",
+        "Cho biết chính xác đoạn vòi trứng làm tổ"
+      ],
+      "answer": 0,
+      "explanation": "Trang 18 ghi β-hCG chỉ cho biết có thai, không chẩn đoán vị trí.",
+      "optionExplanations": [
+        "Trang 18 ghi β-hCG chỉ cho biết có thai, không chẩn đoán vị trí.",
+        "Không khớp mô tả ở trang 18: Trang 18 ghi β-hCG chỉ cho biết có thai, không chẩn đoán vị trí.",
+        "Không khớp mô tả ở trang 18: Trang 18 ghi β-hCG chỉ cho biết có thai, không chẩn đoán vị trí.",
+        "Không khớp mô tả ở trang 18: Trang 18 ghi β-hCG chỉ cho biết có thai, không chẩn đoán vị trí."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "VI. CẬN LÂM SÀNG\n1. Định lượng ßHCG \nChỉ cho biết có thai mà không chẩn đoán vị trí thai. Ngưỡng để phân biệt thai trong TC \r. Khi khám lâm sàng nghi ngờ một thai kỳ bất thường, lặp lại βhCG lần hai vào 2 ngày (48 -72h) sau đó để đánh giá nồng độ βhCG tăng hay giảm. \rNồng độ βhCG tăng ≥ 66% sau 48 giờ cho một thai đang phát triển. Tuy nhiên, khoảng 15% trường hợp TNTC βhCG tăng < 53% sau 48 giờ và 17% trường hợp TNTC có βhCG tăng x 2 sau 48 giờ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q007"
+    },
+    {
+      "id": "m14-v008",
+      "topicId": "cls",
+      "conceptId": "ultrasound",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Vai trò của siêu âm đầu dò âm đạo là gì?",
+      "options": [
+        "Phương tiện rất quan trọng khi nghi thai ngoài tử cung",
+        "Chỉ dùng để đo tuổi mẹ",
+        "Không có vai trò trong xác định vị trí thai",
+        "Chỉ dùng sau phẫu thuật cắt vòi"
+      ],
+      "answer": 0,
+      "explanation": "Trang 19 xếp siêu âm đầu dò âm đạo là phương tiện chẩn đoán quan trọng.",
+      "optionExplanations": [
+        "Trang 19 xếp siêu âm đầu dò âm đạo là phương tiện chẩn đoán quan trọng.",
+        "Không khớp mô tả ở trang 19: Trang 19 xếp siêu âm đầu dò âm đạo là phương tiện chẩn đoán quan trọng.",
+        "Không khớp mô tả ở trang 19: Trang 19 xếp siêu âm đầu dò âm đạo là phương tiện chẩn đoán quan trọng.",
+        "Không khớp mô tả ở trang 19: Trang 19 xếp siêu âm đầu dò âm đạo là phương tiện chẩn đoán quan trọng."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "VI. CẬN LÂM SÀNG\n2. Siêu âm\nLà phương tiện chuẩn đoán rất quan trọng (đầu dò Â. đạo)\rHình ảnh:\r\t+ Không thấy thai trong lòng TC ( +- túi thai giả)\r\t+ Khối echo hỗn hợp cạnh TC\r\t+ Túi thai với phôi thai (+- sống) ngoài TC\r\t+ Tụ dịch ở túi cùng sau hay dich trong ổ bụng khi TNTC đã vỡ\r\t+ Nếu chưa rõ ràng thì hẹn SA lại 3 ngày sau.\r\n3. XQ: dùng khi nghi ngờ thai trong ổ bung\r4. Nạo sinh thiết buồng TC: dùng để chẩn đoán phân biệt thai trong TC và thai ngoài TC ( không giữ thai)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q008"
+    },
+    {
+      "id": "m14-v009",
+      "topicId": "chandoan",
+      "conceptId": "goldstandard",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Phương tiện nào gọi là tiêu chuẩn vàng chẩn đoán thai ngoài tử cung?",
+      "options": [
+        "Nội soi ổ bụng",
+        "Chỉ một lần β-hCG",
+        "Chỉ đau bụng",
+        "Chỉ tiền căn viêm vùng chậu"
+      ],
+      "answer": 0,
+      "explanation": "Trang 21 ghi nội soi ổ bụng là tiêu chuẩn vàng.",
+      "optionExplanations": [
+        "Trang 21 ghi nội soi ổ bụng là tiêu chuẩn vàng.",
+        "Không khớp mô tả ở trang 21: Trang 21 ghi nội soi ổ bụng là tiêu chuẩn vàng.",
+        "Không khớp mô tả ở trang 21: Trang 21 ghi nội soi ổ bụng là tiêu chuẩn vàng.",
+        "Không khớp mô tả ở trang 21: Trang 21 ghi nội soi ổ bụng là tiêu chuẩn vàng."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "VII. CHẨN ĐOÁN:\n+ Chẩn đoán xác định: dựa vào lâm sàng, cận lâm sàng (siêu âm và ßHCG) . Nội soi ổ bụng là tiêu chuẩn vàng.\r\r+ Chẩn đoán phân biệt: sẩy thai, ứ dịch vòi TC, Vỡ nang hoàng thể/thai trong TC."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q009"
+    },
+    {
+      "id": "m14-v010",
+      "topicId": "xutri",
+      "conceptId": "treatmentgoals",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai mục tiêu điều trị được nêu là gì?",
+      "options": [
+        "Cấp cứu kịp thời và duy trì khả năng sinh sản nếu cần",
+        "Chỉ giảm đau và không xét tình trạng huyết động",
+        "Chỉ lấy máu xét nghiệm mà không đánh giá bệnh nhân",
+        "Chỉ bảo đảm mọi thai tiếp tục phát triển"
+      ],
+      "answer": 0,
+      "explanation": "Trang 22 nêu cấp cứu kịp thời và bảo tồn khả năng sinh sản khi cần là mục tiêu điều trị.",
+      "optionExplanations": [
+        "Trang 22 nêu cấp cứu kịp thời và bảo tồn khả năng sinh sản khi cần là mục tiêu điều trị.",
+        "Không khớp mô tả ở trang 22: Trang 22 nêu cấp cứu kịp thời và bảo tồn khả năng sinh sản khi cần là mục tiêu điều trị.",
+        "Không khớp mô tả ở trang 22: Trang 22 nêu cấp cứu kịp thời và bảo tồn khả năng sinh sản khi cần là mục tiêu điều trị.",
+        "Không khớp mô tả ở trang 22: Trang 22 nêu cấp cứu kịp thời và bảo tồn khả năng sinh sản khi cần là mục tiêu điều trị."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "VIII. XỬ TRÍ\nTuổi bệnh nhân\rTiền sử & thai nghén\rSố con và nguyện vọng muốn có con hay không\rĐặc điểm, vị trí của khối TNTC\rTình trạng sức khoẻ bệnh nhân khi nhập viện\rMục tiêu điều trị:\r\t+ Duy trì khả năng sinh sản nếu cần\r\t+ Cấp cứu kịp thời"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q010"
+    },
+    {
+      "id": "m14-v011",
+      "topicId": "vitri",
+      "conceptId": "ampulla",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tỷ lệ thai ngoài tử cung ở đoạn bóng vòi tử cung được ghi là bao nhiêu?",
+      "options": [
+        "80%",
+        "2%",
+        "0,5%",
+        "0,1%"
+      ],
+      "answer": 0,
+      "explanation": "Trang 4 ghi đoạn bóng 80%; các số còn lại thuộc các vị trí khác.",
+      "optionExplanations": [
+        "Trang 4 ghi đoạn bóng 80%; các số còn lại thuộc các vị trí khác.",
+        "Không khớp mô tả ở trang 4: Trang 4 ghi đoạn bóng 80%; các số còn lại thuộc các vị trí khác.",
+        "Không khớp mô tả ở trang 4: Trang 4 ghi đoạn bóng 80%; các số còn lại thuộc các vị trí khác.",
+        "Không khớp mô tả ở trang 4: Trang 4 ghi đoạn bóng 80%; các số còn lại thuộc các vị trí khác."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "II. PHÂN LOẠI\nCác vị trí TNTC\nĐoạn bóng vòi TC (80%): là phần tương đối rộng nên vỡ muộn\nLoa vòi (5%): khối thai phát triển gây rỉ máu qua loa tạo thành huyết tụ thành nang (HTTN)\rĐoạn eo vòi (12%)\rĐoạn kẻ (sừng) (2%): Đoạn này vỡ gây mất máu nặng\rBuồng trứng (0.5%)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q011"
+    },
+    {
+      "id": "m14-v012",
+      "topicId": "vitri",
+      "conceptId": "fimbrialbleeding",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Khối thai vùng loa vòi rỉ máu qua loa có thể hình thành gì?",
+      "options": [
+        "Huyết tụ thành nang",
+        "Bạch thể sinh lý",
+        "Nang hoàng tuyến",
+        "Nang noãn nguyên thủy"
+      ],
+      "answer": 0,
+      "explanation": "Trang 4 nêu rỉ máu qua loa tạo huyết tụ thành nang.",
+      "optionExplanations": [
+        "Trang 4 nêu rỉ máu qua loa tạo huyết tụ thành nang.",
+        "Không khớp mô tả ở trang 4: Trang 4 nêu rỉ máu qua loa tạo huyết tụ thành nang.",
+        "Không khớp mô tả ở trang 4: Trang 4 nêu rỉ máu qua loa tạo huyết tụ thành nang.",
+        "Không khớp mô tả ở trang 4: Trang 4 nêu rỉ máu qua loa tạo huyết tụ thành nang."
+      ],
+      "sources": [
+        {
+          "page": 4,
+          "quote": "II. PHÂN LOẠI\nCác vị trí TNTC\nĐoạn bóng vòi TC (80%): là phần tương đối rộng nên vỡ muộn\nLoa vòi (5%): khối thai phát triển gây rỉ máu qua loa tạo thành huyết tụ thành nang (HTTN)\rĐoạn eo vòi (12%)\rĐoạn kẻ (sừng) (2%): Đoạn này vỡ gây mất máu nặng\rBuồng trứng (0.5%)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q012"
+    },
+    {
+      "id": "m14-v013",
+      "topicId": "nguyco",
+      "conceptId": "prioroperations",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Người có tiền sử nối vòi trứng được xếp vào nhóm nguy cơ nào?",
+      "options": [
+        "Tiền sử phẫu thuật vòi trứng",
+        "Chỉ bất thường hình thái tử cung",
+        "Chỉ triệu chứng cường giáp",
+        "Chỉ dấu hiệu chắc chắn thai đoạn kẽ"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 nêu nối vòi trứng trong nhóm tiền sử phẫu thuật vòi trứng.",
+      "optionExplanations": [
+        "Trang 7 nêu nối vòi trứng trong nhóm tiền sử phẫu thuật vòi trứng.",
+        "Không khớp mô tả ở trang 7: Trang 7 nêu nối vòi trứng trong nhóm tiền sử phẫu thuật vòi trứng.",
+        "Không khớp mô tả ở trang 7: Trang 7 nêu nối vòi trứng trong nhóm tiền sử phẫu thuật vòi trứng.",
+        "Không khớp mô tả ở trang 7: Trang 7 nêu nối vòi trứng trong nhóm tiền sử phẫu thuật vòi trứng."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "YẾU TỐ NGUY CƠ \nViêm nhiễm vùng chậu, viêm CTC do lậu hoặc Chlamydia trachomatis.\rTiền sử phẫu thuật vòi trứng: tái tạo vòi trứng, nối vòi trứng, tiền căn TNTC.\rBất thường cấu trúc giải phẫu của vòi trứng: polyp, túi thừa \rCác kỹ thuật HTSS: kích thích rụng trứng, IVF"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q013"
+    },
+    {
+      "id": "m14-v014",
+      "topicId": "nguyco",
+      "conceptId": "sti",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tiền sử viêm cổ tử cung do Chlamydia liên quan nhóm nào?",
+      "options": [
+        "Yếu tố nguy cơ thai ngoài tử cung",
+        "Tiêu chuẩn loại trừ thai ngoài tử cung",
+        "Bằng chứng chắc chắn thai trong tử cung",
+        "Chỉ chẩn đoán thai trứng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 liệt kê viêm cổ tử cung do Chlamydia trong yếu tố nguy cơ; không một mình xác nhận chẩn đoán.",
+      "optionExplanations": [
+        "Trang 7 liệt kê viêm cổ tử cung do Chlamydia trong yếu tố nguy cơ; không một mình xác nhận chẩn đoán.",
+        "Không khớp mô tả ở trang 7: Trang 7 liệt kê viêm cổ tử cung do Chlamydia trong yếu tố nguy cơ; không một mình xác nhận chẩn đoán.",
+        "Không khớp mô tả ở trang 7: Trang 7 liệt kê viêm cổ tử cung do Chlamydia trong yếu tố nguy cơ; không một mình xác nhận chẩn đoán.",
+        "Không khớp mô tả ở trang 7: Trang 7 liệt kê viêm cổ tử cung do Chlamydia trong yếu tố nguy cơ; không một mình xác nhận chẩn đoán."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "YẾU TỐ NGUY CƠ \nViêm nhiễm vùng chậu, viêm CTC do lậu hoặc Chlamydia trachomatis.\rTiền sử phẫu thuật vòi trứng: tái tạo vòi trứng, nối vòi trứng, tiền căn TNTC.\rBất thường cấu trúc giải phẫu của vòi trứng: polyp, túi thừa \rCác kỹ thuật HTSS: kích thích rụng trứng, IVF"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q014"
+    },
+    {
+      "id": "m14-v015",
+      "topicId": "coche",
+      "conceptId": "cilia",
+      "level": "apply",
+      "stem": "Một học viên có tổn thương lông chuyển vòi trứng do viêm. Cơ chế nguy cơ nào được nêu?",
+      "options": [
+        "Vận chuyển hợp tử chậm/cản trở, có thể liên quan thai ngoài tử cung",
+        "Lông chuyển bị tổn thương làm hợp tử luôn đi nhanh hơn",
+        "Không ảnh hưởng đường di chuyển theo bài",
+        "Tự làm vị trí làm tổ chuyển vào buồng tử cung"
+      ],
+      "answer": 0,
+      "explanation": "Trang 8 nêu tổn thương lông chuyển và sự chậm di chuyển; trang 9 nêu viêm, sẹo dính, tắc nghẽn.",
+      "optionExplanations": [
+        "Trang 8 nêu tổn thương lông chuyển và sự chậm di chuyển; trang 9 nêu viêm, sẹo dính, tắc nghẽn.",
+        "Không khớp mô tả ở trang 8,9: Trang 8 nêu tổn thương lông chuyển và sự chậm di chuyển; trang 9 nêu viêm, sẹo dính, tắc nghẽn.",
+        "Không khớp mô tả ở trang 8,9: Trang 8 nêu tổn thương lông chuyển và sự chậm di chuyển; trang 9 nêu viêm, sẹo dính, tắc nghẽn.",
+        "Không khớp mô tả ở trang 8,9: Trang 8 nêu tổn thương lông chuyển và sự chậm di chuyển; trang 9 nêu viêm, sẹo dính, tắc nghẽn."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "NGUYÊN NHÂN\nDo những yếu tố ngăn cản hay làm chậm trễ sự di chuyển của hợp tử từ nơi thụ tinh (thường là ở 1/3 ngoài của vòi trứng) vào đến buồng tử cung.\rDo tổn thương lớp bề mặt lông chuyển ống dẫn trứng ( thường gặp viêm nhiễm Chlamydia trachomatis)."
+        },
+        {
+          "page": 9,
+          "quote": "Cơ chế bệnh sinh \nVòi trứng \nTổn thương nhung mao vòi TC\rViêm -> tích tụ fibrin -> sẹo dính -> tắc nghẽn vòi\r+ Hoàn toàn \r+ Không hoàn toàn -> TNTC"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q015"
+    },
+    {
+      "id": "m14-v016",
+      "topicId": "lamsang",
+      "conceptId": "unrupturedtriad",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trễ kinh, rỉ máu nâu đen, đau âm ỉ một bên với sinh hiệu bình thường phù hợp mô tả nào?",
+      "options": [
+        "Thai ngoài tử cung chưa vỡ trong bài",
+        "Chắc chắn thai ngoài tử cung đã vỡ và choáng",
+        "Chắc chắn thai ổ bụng đủ tháng",
+        "Chỉ phản ứng Arias–Stella không triệu chứng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 11 mô tả nhóm triệu chứng và tổng trạng/sinh hiệu của thai ngoài tử cung chưa vỡ; đây không là chẩn đoán độc lập.",
+      "optionExplanations": [
+        "Trang 11 mô tả nhóm triệu chứng và tổng trạng/sinh hiệu của thai ngoài tử cung chưa vỡ; đây không là chẩn đoán độc lập.",
+        "Không khớp mô tả ở trang 11: Trang 11 mô tả nhóm triệu chứng và tổng trạng/sinh hiệu của thai ngoài tử cung chưa vỡ; đây không là chẩn đoán độc lập.",
+        "Không khớp mô tả ở trang 11: Trang 11 mô tả nhóm triệu chứng và tổng trạng/sinh hiệu của thai ngoài tử cung chưa vỡ; đây không là chẩn đoán độc lập.",
+        "Không khớp mô tả ở trang 11: Trang 11 mô tả nhóm triệu chứng và tổng trạng/sinh hiệu của thai ngoài tử cung chưa vỡ; đây không là chẩn đoán độc lập."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "V. LÂM SÀNG\n1. TNTC chưa vỡ\nTCCN : trễ kinh, ra huyết rỉ, nâu đen. Đau bụng dưới âm ỉ, 1 bên.\rTC thực thể\rTổng trạng và dấu hiệu sinh tồn bình thường. \rBụng không căng hay căng nhẹ, có thể có phản ứng dội hoặc không.\rMV : A Đ có ít máu đen chảy ra từ lỗ cổ TC. Cổ TC tím, khép kín.\rKhám tay: cổ TC mềm, TC to hơn bình thường. Khối cạnh bên TC chạm vào đau (50%). Túi cùng sau trống."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q016"
+    },
+    {
+      "id": "m14-v017",
+      "topicId": "lamsang",
+      "conceptId": "shock",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Mạch nhanh, huyết áp tụt ở người nghi thai ngoài tử cung vỡ được giải thích bởi gì?",
+      "options": [
+        "Choáng do xuất huyết nội",
+        "Chỉ thay đổi hormone sinh lý",
+        "Chỉ bệnh không triệu chứng",
+        "Chỉ tử cung lớn sinh lý"
+      ],
+      "answer": 0,
+      "explanation": "Trang 13 gắn các dấu này với choáng do xuất huyết nội.",
+      "optionExplanations": [
+        "Trang 13 gắn các dấu này với choáng do xuất huyết nội.",
+        "Không khớp mô tả ở trang 13: Trang 13 gắn các dấu này với choáng do xuất huyết nội.",
+        "Không khớp mô tả ở trang 13: Trang 13 gắn các dấu này với choáng do xuất huyết nội.",
+        "Không khớp mô tả ở trang 13: Trang 13 gắn các dấu này với choáng do xuất huyết nội."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "V. LÂM SÀNG\n2. TNTC vỡ\nTriệu chứng thực thể: Da xanh, viêm nhạt, vã mồ hôi, khát nước. Choáng do xuất huyết nội: mạch nhanh, HA tụt.\rBụng phình, ấn đau, gõ đục vùng thấp. \rKhám Â. Đạo: cổ TC mềm, đóng, lay TC đau, 2 phần phụ khó xác định, do bệnh nhân gồng, túi cùng sau căng và rất đau khi khám."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q017"
+    },
+    {
+      "id": "m14-v018",
+      "topicId": "lamsang",
+      "conceptId": "hematoma",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Khối cạnh hoặc sau tử cung giới hạn không rõ, chạm đau và thiếu máu được mô tả ở tình trạng nào?",
+      "options": [
+        "Huyết tụ thành nang",
+        "Nang nguyên thủy",
+        "Bạch thể",
+        "Vòi trứng bình thường"
+      ],
+      "answer": 0,
+      "explanation": "Trang 14 mô tả đặc điểm lâm sàng huyết tụ thành nang.",
+      "optionExplanations": [
+        "Trang 14 mô tả đặc điểm lâm sàng huyết tụ thành nang.",
+        "Không khớp mô tả ở trang 14: Trang 14 mô tả đặc điểm lâm sàng huyết tụ thành nang.",
+        "Không khớp mô tả ở trang 14: Trang 14 mô tả đặc điểm lâm sàng huyết tụ thành nang.",
+        "Không khớp mô tả ở trang 14: Trang 14 mô tả đặc điểm lâm sàng huyết tụ thành nang."
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "quote": "V. LÂM SÀNG\n3. Huyết tụ thành nang:\nLâm sàng: tình trạng thiếu máu\rThăm âm đạo: phát hiện 1 khối dính giới hạn không rõ ở cạnh TC hay sau TC, chạm đau.\rSiêu âm: khối phảm âm hỗn hợp cạnh TC _ ßHCG"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q018"
+    },
+    {
+      "id": "m14-v019",
+      "topicId": "lamsang",
+      "conceptId": "cervicalpregnancy",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Người ra huyết nhiều có đoạn dưới tử cung phình dạng đồng hồ cát; siêu âm thấy túi thai ở vùng cổ tử cung. Trong các thể được nêu, thể nào cần được nghĩ đến?",
+      "options": [
+        "Thai ở cổ tử cung, cần phân biệt với thai đang sẩy",
+        "Thai đoạn bóng được xác nhận chỉ từ ra máu",
+        "Thai trong ổ bụng vì có ra máu",
+        "Nang nước cạnh vòi được xác nhận từ hình đồng hồ cát"
+      ],
+      "answer": 0,
+      "explanation": "Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt.",
+      "optionExplanations": [
+        "Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt.",
+        "Không phù hợp. Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt.",
+        "Không phù hợp. Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt.",
+        "Không phù hợp. Trang 17 mô tả đoạn dưới tử cung phình, túi thai ở cổ tử cung và khả năng nhầm thai đang sẩy. Tổ hợp gợi thể cổ tử cung, không thay đánh giá phân biệt."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "V. LÂM SÀNG\n5. Thai ở cổ TC: rất hiếm \nThường sẩy trong 3 tháng đầu\rNếu thai ở eo cổ TC -> khi nạo thường băng huyết nặng:\r\t+ Triệu chứng cơ năng:\r\t\t* Ra huyết Â. Đạo nhiều\r\t\t* Đau bụng dưới quặn từng cơn (1/3 trường hợp)\r\t+ Triệu chứng thực thể:\r\t\t* Mỏ vịt: cổ TC mở, có tổ chức giống nhau thai -> dễ nhầm  thai đang sẩy\r\t\t* Khám tay Â. Đạo:  đoạn dưới TC phình to (hình ảnh đồng hồ cát …..) . Lỗ ngoài cổ TC hé mở\r\t\t* Siêu âm: cổ TC có khối máu tụ hoặc túi thai\r\t\t* Doppler: tăng sinh mạch máu cổ TC (CĐ # thai đang sẩy)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q019"
+    },
+    {
+      "id": "m14-v020",
+      "topicId": "cls",
+      "conceptId": "serialhcg",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Khi nghi thai kỳ bất thường và β-hCG chưa định vị thai, được nêu cần làm gì với xét nghiệm?",
+      "options": [
+        "Lặp lại định lượng sau khoảng 48–72 giờ để đánh giá động học",
+        "Kết luận vị trí thai từ một số đơn lẻ",
+        "Chỉ đo một lần rồi bỏ siêu âm",
+        "Dùng β-hCG để xác định đoạn vòi chính xác"
+      ],
+      "answer": 0,
+      "explanation": "Trang 18 nêu xét nghiệm lặp lại sau 2 ngày (48–72 giờ) nhằm đánh giá tăng/giảm; không suy luận vị trí từ số đơn lẻ.",
+      "optionExplanations": [
+        "Trang 18 nêu xét nghiệm lặp lại sau 2 ngày (48–72 giờ) nhằm đánh giá tăng/giảm; không suy luận vị trí từ số đơn lẻ.",
+        "Không khớp mô tả ở trang 18: Trang 18 nêu xét nghiệm lặp lại sau 2 ngày (48–72 giờ) nhằm đánh giá tăng/giảm; không suy luận vị trí từ số đơn lẻ.",
+        "Không khớp mô tả ở trang 18: Trang 18 nêu xét nghiệm lặp lại sau 2 ngày (48–72 giờ) nhằm đánh giá tăng/giảm; không suy luận vị trí từ số đơn lẻ.",
+        "Không khớp mô tả ở trang 18: Trang 18 nêu xét nghiệm lặp lại sau 2 ngày (48–72 giờ) nhằm đánh giá tăng/giảm; không suy luận vị trí từ số đơn lẻ."
+      ],
+      "sources": [
+        {
+          "page": 18,
+          "quote": "VI. CẬN LÂM SÀNG\n1. Định lượng ßHCG \nChỉ cho biết có thai mà không chẩn đoán vị trí thai. Ngưỡng để phân biệt thai trong TC \r. Khi khám lâm sàng nghi ngờ một thai kỳ bất thường, lặp lại βhCG lần hai vào 2 ngày (48 -72h) sau đó để đánh giá nồng độ βhCG tăng hay giảm. \rNồng độ βhCG tăng ≥ 66% sau 48 giờ cho một thai đang phát triển. Tuy nhiên, khoảng 15% trường hợp TNTC βhCG tăng < 53% sau 48 giờ và 17% trường hợp TNTC có βhCG tăng x 2 sau 48 giờ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q020"
+    },
+    {
+      "id": "m14-v021",
+      "topicId": "cls",
+      "conceptId": "ultrasoundfindings",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Ở người nghi thai ngoài tử cung, siêu âm thấy buồng tử cung trống nhưng chưa xác định được khối thai. Phát hiện thêm nào được liệt kê là hình ảnh cần khảo sát?",
+      "options": [
+        "Khối echo hỗn hợp cạnh tử cung",
+        "Chỉ nang noãn nguyên thủy trong buồng tử cung",
+        "Chỉ dịch trong bàng quang",
+        "Chỉ hạch vùng cổ"
+      ],
+      "answer": 0,
+      "explanation": "Trang 19 liệt kê khối echo hỗn hợp cạnh tử cung bên cạnh hình ảnh không thấy thai trong lòng tử cung; một dấu đơn độc chưa đủ kết luận vị trí.",
+      "optionExplanations": [
+        "Trang 19 liệt kê khối echo hỗn hợp cạnh tử cung bên cạnh hình ảnh không thấy thai trong lòng tử cung; một dấu đơn độc chưa đủ kết luận vị trí.",
+        "Không khớp mô tả ở trang 19: Trang 19 liệt kê khối echo hỗn hợp cạnh tử cung bên cạnh hình ảnh không thấy thai trong lòng tử cung; một dấu đơn độc chưa đủ kết luận vị trí.",
+        "Không khớp mô tả ở trang 19: Trang 19 liệt kê khối echo hỗn hợp cạnh tử cung bên cạnh hình ảnh không thấy thai trong lòng tử cung; một dấu đơn độc chưa đủ kết luận vị trí.",
+        "Không khớp mô tả ở trang 19: Trang 19 liệt kê khối echo hỗn hợp cạnh tử cung bên cạnh hình ảnh không thấy thai trong lòng tử cung; một dấu đơn độc chưa đủ kết luận vị trí."
+      ],
+      "sources": [
+        {
+          "page": 19,
+          "quote": "VI. CẬN LÂM SÀNG\n2. Siêu âm\nLà phương tiện chuẩn đoán rất quan trọng (đầu dò Â. đạo)\rHình ảnh:\r\t+ Không thấy thai trong lòng TC ( +- túi thai giả)\r\t+ Khối echo hỗn hợp cạnh TC\r\t+ Túi thai với phôi thai (+- sống) ngoài TC\r\t+ Tụ dịch ở túi cùng sau hay dich trong ổ bụng khi TNTC đã vỡ\r\t+ Nếu chưa rõ ràng thì hẹn SA lại 3 ngày sau.\r\n3. XQ: dùng khi nghi ngờ thai trong ổ bung\r4. Nạo sinh thiết buồng TC: dùng để chẩn đoán phân biệt thai trong TC và thai ngoài TC ( không giữ thai)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q021"
+    },
+    {
+      "id": "m14-v022",
+      "topicId": "cls",
+      "conceptId": "freefluid",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Người nghi thai ngoài tử cung xuất hiện đau tăng và dấu choáng. Khi tìm dấu siêu âm đi kèm tình trạng vỡ cần chú ý phát hiện nào?",
+      "options": [
+        "Dịch túi cùng sau hoặc dịch ổ bụng",
+        "Chỉ kích thước bàng quang",
+        "Chỉ hạch cổ",
+        "Chỉ hình nang noãn nguyên thủy"
+      ],
+      "answer": 0,
+      "explanation": "Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu.",
+      "optionExplanations": [
+        "Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu.",
+        "Không phù hợp. Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu.",
+        "Không phù hợp. Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu.",
+        "Không phù hợp. Trang 13 mô tả choáng do xuất huyết nội; trang 19 nêu tụ dịch túi cùng sau hoặc ổ bụng khi thai ngoài tử cung đã vỡ. Dịch không tự xác nhận cơ chế chỉ từ một dấu."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "V. LÂM SÀNG\n2. TNTC vỡ\nTriệu chứng thực thể: Da xanh, viêm nhạt, vã mồ hôi, khát nước. Choáng do xuất huyết nội: mạch nhanh, HA tụt.\rBụng phình, ấn đau, gõ đục vùng thấp. \rKhám Â. Đạo: cổ TC mềm, đóng, lay TC đau, 2 phần phụ khó xác định, do bệnh nhân gồng, túi cùng sau căng và rất đau khi khám."
+        },
+        {
+          "page": 19,
+          "quote": "VI. CẬN LÂM SÀNG\n2. Siêu âm\nLà phương tiện chuẩn đoán rất quan trọng (đầu dò Â. đạo)\rHình ảnh:\r\t+ Không thấy thai trong lòng TC ( +- túi thai giả)\r\t+ Khối echo hỗn hợp cạnh TC\r\t+ Túi thai với phôi thai (+- sống) ngoài TC\r\t+ Tụ dịch ở túi cùng sau hay dich trong ổ bụng khi TNTC đã vỡ\r\t+ Nếu chưa rõ ràng thì hẹn SA lại 3 ngày sau.\r\n3. XQ: dùng khi nghi ngờ thai trong ổ bung\r4. Nạo sinh thiết buồng TC: dùng để chẩn đoán phân biệt thai trong TC và thai ngoài TC ( không giữ thai)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q022"
+    },
+    {
+      "id": "m14-v023",
+      "topicId": "cls",
+      "conceptId": "laparoscopy",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Cần một phương tiện vừa giúp xác định thai ngoài tử cung vừa có khả năng phẫu thuật bảo tồn hoặc cắt vòi khi phù hợp. Phương tiện nào đáp ứng cả hai mục tiêu?",
+      "options": [
+        "Nội soi ổ bụng",
+        "Chỉ một lần định lượng β-hCG",
+        "Chỉ quan sát máu âm đạo",
+        "Chỉ chụp ảnh bên ngoài"
+      ],
+      "answer": 0,
+      "explanation": "Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này.",
+      "optionExplanations": [
+        "Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này.",
+        "Không phù hợp. Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này.",
+        "Không phù hợp. Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này.",
+        "Không phù hợp. Trang 20 nêu nội soi giúp chẩn đoán xác định và có thể phẫu thuật bảo tồn hoặc cắt vòi. Xét nghiệm hay nhìn bên ngoài không có hai chức năng này."
+      ],
+      "sources": [
+        {
+          "page": 20,
+          "quote": "VI. CẬN LÂM SÀNG\n5. Chọc dò Douglas\nThống kê cho thấy khi có máu trong bụng thì chỉ 50% TNTC đã vỡ\rHiện nay khynh hướng bảo tồn tai vòi nên chỉ định này ít còn sử dụng\n6. Soi ổ bụng:\rGiúp chuẩn đoán xác định TNTC\rCó thể phẫu thuật: bảo tồn hoặc cắt bỏ VT.\rĐánh giá tình trạng viêm dính, bệnh lý TC và 2 PP, tiên lượng khả năng sinh sản."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q023"
+    },
+    {
+      "id": "m14-v024",
+      "topicId": "chandoan",
+      "conceptId": "differential",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trong danh sách chẩn đoán phân biệt, tình trạng nào có thể gây nhầm với thai ngoài tử cung?",
+      "options": [
+        "Sẩy thai",
+        "Nang noãn nguyên thủy bình thường",
+        "Sẹo phóng noãn cũ không triệu chứng",
+        "Hàng rào máu–tinh hoàn"
+      ],
+      "answer": 0,
+      "explanation": "Trang 21 liệt kê sẩy thai, ứ dịch vòi, vỡ nang hoàng thể trong chẩn đoán phân biệt.",
+      "optionExplanations": [
+        "Trang 21 liệt kê sẩy thai, ứ dịch vòi, vỡ nang hoàng thể trong chẩn đoán phân biệt.",
+        "Không khớp mô tả ở trang 21: Trang 21 liệt kê sẩy thai, ứ dịch vòi, vỡ nang hoàng thể trong chẩn đoán phân biệt.",
+        "Không khớp mô tả ở trang 21: Trang 21 liệt kê sẩy thai, ứ dịch vòi, vỡ nang hoàng thể trong chẩn đoán phân biệt.",
+        "Không khớp mô tả ở trang 21: Trang 21 liệt kê sẩy thai, ứ dịch vòi, vỡ nang hoàng thể trong chẩn đoán phân biệt."
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "quote": "VII. CHẨN ĐOÁN:\n+ Chẩn đoán xác định: dựa vào lâm sàng, cận lâm sàng (siêu âm và ßHCG) . Nội soi ổ bụng là tiêu chuẩn vàng.\r\r+ Chẩn đoán phân biệt: sẩy thai, ứ dịch vòi TC, Vỡ nang hoàng thể/thai trong TC."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "easy",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q024"
+    },
+    {
+      "id": "m14-v025",
+      "topicId": "xutri",
+      "conceptId": "choicefactors",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai hồ sơ có khối thai cùng vị trí, nhưng khác tình trạng sức khỏe khi nhập viện và nguyện vọng sinh con. Theo mục xử trí, cách đánh giá nào đúng?",
+      "options": [
+        "Phải xét thêm sức khỏe và nguyện vọng, không quyết định chỉ từ vị trí",
+        "Cùng vị trí thì bắt buộc cùng cách xử trí",
+        "Chỉ chọn theo số con, bỏ sức khỏe",
+        "Bỏ qua mong muốn sinh con trong mọi trường hợp"
+      ],
+      "answer": 0,
+      "explanation": "Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ.",
+      "optionExplanations": [
+        "Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ.",
+        "Không phù hợp. Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ.",
+        "Không phù hợp. Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ.",
+        "Không phù hợp. Trang 22 liệt kê đặc điểm/vị trí khối cùng tình trạng sức khỏe, số con và nguyện vọng. Cùng một yếu tố không làm các hồ sơ tương đương toàn bộ."
+      ],
+      "sources": [
+        {
+          "page": 22,
+          "quote": "VIII. XỬ TRÍ\nTuổi bệnh nhân\rTiền sử & thai nghén\rSố con và nguyện vọng muốn có con hay không\rĐặc điểm, vị trí của khối TNTC\rTình trạng sức khoẻ bệnh nhân khi nhập viện\rMục tiêu điều trị:\r\t+ Duy trì khả năng sinh sản nếu cần\r\t+ Cấp cứu kịp thời"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q025"
+    },
+    {
+      "id": "m14-v026",
+      "topicId": "xutri",
+      "conceptId": "surgicalfeasibility",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một kế hoạch ghi phải dùng nội soi cho mọi trường hợp, dù tình trạng bệnh không cho phép thực hiện. Cách sửa nào bám đúng phần điều trị tận gốc?",
+      "options": [
+        "Ưu tiên nội soi khi thực hiện được; bài còn nêu mổ bụng khi tình trạng bệnh không thực hiện được nội soi",
+        "Vẫn bắt buộc nội soi bất kể tình trạng bệnh",
+        "Bỏ mọi xử trí nếu không nội soi được",
+        "Chỉ lặp β-hCG để thay mọi phẫu thuật"
+      ],
+      "answer": 0,
+      "explanation": "Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể.",
+      "optionExplanations": [
+        "Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể.",
+        "Không phù hợp. Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể.",
+        "Không phù hợp. Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể.",
+        "Không phù hợp. Trang 23 nêu ưu tiên nội soi, nhưng còn phương án mổ bụng khi tình trạng bệnh không thực hiện được nội soi. Đây là đối chiếu điều kiện trong bài, không lựa chọn cách mổ cho bệnh nhân cụ thể."
+      ],
+      "sources": [
+        {
+          "page": 23,
+          "quote": "VIII. ĐIỀU TRỊ: \nĐiều trị tận gốc:\rCắt tai vòi sát góc TC: khi đủ con, TNTC vỡ, huyết tụ thành nang \rƯu tiên nội soi ổ bụng / mổ bụng khi tình trạng bệnh không thực hiện được NS)\rMổ lấy thai: nếu thai trong ổ bụng: \r\t+ Chết: mổ ngay để tránh rối loạn đông máu\r\t+ Sống: <24 tuần: mổ ngay\r\t\t\t\t> 24 tuần: chờ đến khi có khả năng nuôi được (32-36 tuàn) -> mổ lấy thai. Nhau nếu lấy được thì lấy, không lấy được để lại (MTX, tăc mạch -> đề phòng nhiễm trùng)"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q026"
+    },
+    {
+      "id": "m14-v027",
+      "topicId": "xutri",
+      "conceptId": "conservativehemodynamics",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Người mạch nhanh và huyết áp tụt lại được ghi là huyết động ổn định. Cần sửa điều gì?",
+      "options": [
+        "Dấu này thuộc mô tả choáng của bài, không đáp ứng điều kiện huyết động ổn định",
+        "Mạch nhanh và huyết áp tụt xác nhận ổn định",
+        "Không cần xét huyết động khi muốn bảo tồn",
+        "Chỉ kích thước khối đủ thay đánh giá sinh hiệu"
+      ],
+      "answer": 0,
+      "explanation": "Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh.",
+      "optionExplanations": [
+        "Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh.",
+        "Không phù hợp. Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh.",
+        "Không phù hợp. Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh.",
+        "Không phù hợp. Trang 13 mô tả mạch nhanh, huyết áp tụt ở choáng xuất huyết; trang 25 yêu cầu huyết động ổn định. Cần phân biệt điều kiện chưa đạt với quyết định điều trị hoàn chỉnh."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "V. LÂM SÀNG\n2. TNTC vỡ\nTriệu chứng thực thể: Da xanh, viêm nhạt, vã mồ hôi, khát nước. Choáng do xuất huyết nội: mạch nhanh, HA tụt.\rBụng phình, ấn đau, gõ đục vùng thấp. \rKhám Â. Đạo: cổ TC mềm, đóng, lay TC đau, 2 phần phụ khó xác định, do bệnh nhân gồng, túi cùng sau căng và rất đau khi khám."
+        },
+        {
+          "page": 25,
+          "quote": "VIII. ĐIỀU TRỊ: \n2. Điều trị bảo tồn: nếu còn muốn có con\rChỉ định:\rhuyết động học ổn định\r kích thước khối thai < 4cm , không có tim thai\rßHCG ≤ 10 000 mIU/ml"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q027"
+    },
+    {
+      "id": "m14-v028",
+      "topicId": "xutri",
+      "conceptId": "conservativesize",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một khối thai 3 cm không có tim thai, huyết động ổn định. Yếu tố kích thước này có nằm trong giới hạn được nêu cho bảo tồn không?",
+      "options": [
+        "Có, vì nhỏ hơn 4 cm",
+        "Không, bài yêu cầu mọi khối lớn hơn 4 cm",
+        "Không, bài chỉ nêu khối trên 10 cm",
+        "Bài không hề xét kích thước"
+      ],
+      "answer": 0,
+      "explanation": "Trang 25 ghi khối thai <4 cm và không có tim thai cùng các điều kiện khác; đây chỉ là đối chiếu một điều kiện, không quyết định điều trị.",
+      "optionExplanations": [
+        "Trang 25 ghi khối thai <4 cm và không có tim thai cùng các điều kiện khác; đây chỉ là đối chiếu một điều kiện, không quyết định điều trị.",
+        "Không khớp mô tả ở trang 25: Trang 25 ghi khối thai <4 cm và không có tim thai cùng các điều kiện khác; đây chỉ là đối chiếu một điều kiện, không quyết định điều trị.",
+        "Không khớp mô tả ở trang 25: Trang 25 ghi khối thai <4 cm và không có tim thai cùng các điều kiện khác; đây chỉ là đối chiếu một điều kiện, không quyết định điều trị.",
+        "Không khớp mô tả ở trang 25: Trang 25 ghi khối thai <4 cm và không có tim thai cùng các điều kiện khác; đây chỉ là đối chiếu một điều kiện, không quyết định điều trị."
+      ],
+      "sources": [
+        {
+          "page": 25,
+          "quote": "VIII. ĐIỀU TRỊ: \n2. Điều trị bảo tồn: nếu còn muốn có con\rChỉ định:\rhuyết động học ổn định\r kích thước khối thai < 4cm , không có tim thai\rßHCG ≤ 10 000 mIU/ml"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q028"
+    },
+    {
+      "id": "m14-v029",
+      "topicId": "xutri",
+      "conceptId": "salpingostomyfollow",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Sau xẻ vòi hút khối thai, kế hoạch chỉ ghi theo dõi triệu chứng và bỏ xét nghiệm mà cần để đề phòng sót nhau. Xét nghiệm cần bổ sung là gì?",
+      "options": [
+        "β-hCG",
+        "IgG Chlamydia thay β-hCG",
+        "AMH thay β-hCG",
+        "Estradiol thay β-hCG"
+      ],
+      "answer": 0,
+      "explanation": "Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ.",
+      "optionExplanations": [
+        "Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ.",
+        "Không phù hợp. Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ.",
+        "Không phù hợp. Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ.",
+        "Không phù hợp. Trang 27 nhắc theo dõi β-hCG sau xẻ vòi hút khối thai trong phần đề phòng sót nhau. Câu không sử dụng liều hoặc chỉ định thuốc sau mổ."
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "quote": "VIII. ĐIỀU TRỊ: \n2. Điều trị bảo tồn: nếu còn muốn có con\rPhẫu thuật bảo tồn:\rXẻ vòi TC hút khối thai:\r\t- Co mạch: Oxytocin trước xẻ\r\t- Đề phòng sót nhau: theo dõi ßHCG,  MTX sau mỗ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q029"
+    },
+    {
+      "id": "m14-v030",
+      "topicId": "tienluong",
+      "conceptId": "prognosisearly",
+      "level": "apply",
+      "stem": "Một học viên đọc mục tiên lượng rồi kết luận “phát hiện sớm chắc chắn vẫn vô sinh”. Cách sửa nào đúng mức khẳng định của nguồn?",
+      "options": [
+        "Phát hiện sớm có tiên lượng tốt và có thể duy trì khả năng sinh sản; không bảo đảm kết quả tuyệt đối",
+        "Nguồn bảo đảm mọi người đều vô sinh",
+        "Nguồn bảo đảm mọi người đều có thai về sau",
+        "Thời điểm phát hiện hoàn toàn không liên quan tiên lượng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau.",
+      "optionExplanations": [
+        "Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau.",
+        "Không phù hợp. Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau.",
+        "Không phù hợp. Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau.",
+        "Không phù hợp. Trang 28 dùng “có thể duy trì” khi phát hiện sớm, không nói chắc chắn vô sinh hoặc chắc chắn có thai về sau."
+      ],
+      "sources": [
+        {
+          "page": 28,
+          "quote": "IX. TIÊN LƯỢNG\nPhát hiện sớm: tiên lượng tốt, có thể duy trì khả năng sinh sản\rPhát hiện trễ: TNTC đã vỡ, choáng: có thể nguy hiểm tính mạng ( cuối Thế kỷ 19: tỉ lệ tử vong 5%. Hiện ngay dưới 5/10 000 , mặc dù tần suất bệnh tăng)\rTái phát sau 1 lần bị TNTC : 10-25%\rKhả năng có thai trong TC ở người đã bị TNTC: 50-80%, số còn lại là vô sinh"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q030"
+    },
+    {
+      "id": "m14-v031",
+      "topicId": "nguyco",
+      "conceptId": "infectionchain",
+      "level": "analyze",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tiền sử Chlamydia, tổn thương lông chuyển và sẹo dính vòi trứng liên kết với nguy cơ thai ngoài tử cung theo chuỗi nào?",
+      "options": [
+        "Viêm/tổn thương vòi → di chuyển hợp tử chậm hoặc tắc không hoàn toàn → nguy cơ làm tổ ngoài tử cung",
+        "Viêm vòi làm hợp tử luôn tới tử cung nhanh hơn",
+        "Sẹo dính chứng minh mọi thai đều trong tử cung",
+        "Chlamydia chỉ tác động lên buồng trứng, không liên quan vòi"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7–9 nối yếu tố viêm với tổn thương và cản trở vận chuyển; đây là mô hình cơ chế, không khẳng định chẩn đoán từ tiền sử.",
+      "optionExplanations": [
+        "Trang 7–9 nối yếu tố viêm với tổn thương và cản trở vận chuyển; đây là mô hình cơ chế, không khẳng định chẩn đoán từ tiền sử.",
+        "Không khớp mô tả ở trang 7,8,9: Trang 7–9 nối yếu tố viêm với tổn thương và cản trở vận chuyển; đây là mô hình cơ chế, không khẳng định chẩn đoán từ tiền sử.",
+        "Không khớp mô tả ở trang 7,8,9: Trang 7–9 nối yếu tố viêm với tổn thương và cản trở vận chuyển; đây là mô hình cơ chế, không khẳng định chẩn đoán từ tiền sử.",
+        "Không khớp mô tả ở trang 7,8,9: Trang 7–9 nối yếu tố viêm với tổn thương và cản trở vận chuyển; đây là mô hình cơ chế, không khẳng định chẩn đoán từ tiền sử."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "YẾU TỐ NGUY CƠ \nViêm nhiễm vùng chậu, viêm CTC do lậu hoặc Chlamydia trachomatis.\rTiền sử phẫu thuật vòi trứng: tái tạo vòi trứng, nối vòi trứng, tiền căn TNTC.\rBất thường cấu trúc giải phẫu của vòi trứng: polyp, túi thừa \rCác kỹ thuật HTSS: kích thích rụng trứng, IVF"
+        },
+        {
+          "page": 8,
+          "quote": "NGUYÊN NHÂN\nDo những yếu tố ngăn cản hay làm chậm trễ sự di chuyển của hợp tử từ nơi thụ tinh (thường là ở 1/3 ngoài của vòi trứng) vào đến buồng tử cung.\rDo tổn thương lớp bề mặt lông chuyển ống dẫn trứng ( thường gặp viêm nhiễm Chlamydia trachomatis)."
+        },
+        {
+          "page": 9,
+          "quote": "Cơ chế bệnh sinh \nVòi trứng \nTổn thương nhung mao vòi TC\rViêm -> tích tụ fibrin -> sẹo dính -> tắc nghẽn vòi\r+ Hoàn toàn \r+ Không hoàn toàn -> TNTC"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m14-q031"
     }
   ],
   "reviewStatus": "passed2",

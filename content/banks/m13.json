@@ -166,7 +166,7 @@
       "topicId": "diagnosis",
       "conceptId": "m13-test-groups",
       "level": "understand",
-      "stem": "Khi phân biệt thông tin do người bệnh kể với kết quả khảo sát, nhóm nào là cận lâm sàng được bài học nêu?",
+      "stem": "Khi phân biệt thông tin do người bệnh kể với kết quả khảo sát, nhóm nào là cận lâm sàng được nêu?",
       "options": [
         "Đau hạ vị, ra máu và tiền sử",
         "Tử cung to, rạn da và sờ thấy thai",
@@ -246,7 +246,7 @@
       "topicId": "dating",
       "conceptId": "m13-trimester-accuracy",
       "level": "understand",
-      "stem": "Vì sao bài học ưu tiên định tuổi thai trong quý 1?",
+      "stem": "Vì sao ưu tiên định tuổi thai trong quý 1?",
       "options": [
         "Vì xác định ở quý 2 và 3 kém chính xác hơn",
         "Vì quý 2 và 3 hoàn toàn không thể định tuổi thai",
@@ -340,7 +340,7 @@
       "topicId": "dating",
       "conceptId": "m13-dating-growth",
       "level": "understand",
-      "stem": "Bài học yêu cầu gắn việc định tuổi thai với việc nào?",
+      "stem": "Yêu cầu gắn việc định tuổi thai với việc nào?",
       "options": [
         "Xác nhận thai trứng chỉ bằng nghén",
         "Thay đổi ngày dự sanh sau mọi lần đo",
@@ -500,7 +500,7 @@
       "topicId": "loss",
       "conceptId": "m13-prediction-not-certainty",
       "level": "understand",
-      "stem": "Bài học phân biệt dự báo với khẳng định như thế nào ở mục dọa sẩy thai lưu?",
+      "stem": "Phân biệt dự báo với khẳng định như thế nào ở mục dọa sẩy thai lưu?",
       "options": [
         "Đau bụng đơn độc xác nhận thai đã lưu",
         "Ra huyết đơn độc xác nhận thai đã lưu",
@@ -540,7 +540,7 @@
       "topicId": "loss",
       "conceptId": "m13-miscarriage-definition",
       "level": "understand",
-      "stem": "Yếu tố nào nằm trong định nghĩa sẩy thai được bài học sử dụng?",
+      "stem": "Yếu tố nào nằm trong định nghĩa sẩy thai được sử dụng?",
       "options": [
         "Thai có nghén nhưng chưa làm siêu âm",
         "Thai tống xuất trước 22 tuần vô kinh, chưa có khả năng tự sống",
@@ -740,7 +740,7 @@
       "topicId": "mole",
       "conceptId": "m13-mole-nature",
       "level": "understand",
-      "stem": "Thai trứng được bài học gắn với sự bất thường của thành phần nào?",
+      "stem": "Thai trứng được gắn với sự bất thường của thành phần nào?",
       "options": [
         "Nguyên bào nuôi",
         "Cơ vòng cổ tử cung",
@@ -980,7 +980,7 @@
       "topicId": "diagnosis",
       "conceptId": "m13-test-groups",
       "level": "understand",
-      "stem": "Một người chưa có kết quả cận lâm sàng, chỉ kể triệu chứng. Khảo sát nào trong danh sách bài học có thể bổ sung cho nhóm cận lâm sàng?",
+      "stem": "Một người chưa có kết quả cận lâm sàng, chỉ kể triệu chứng. Khảo sát nào trong danh sách có thể bổ sung cho nhóm cận lâm sàng?",
       "options": [
         "Hỏi ngày bắt đầu trễ kinh",
         "Ghi lại thay đổi ở vú do người bệnh kể",
@@ -1140,7 +1140,7 @@
       "topicId": "dating",
       "conceptId": "m13-crl-over-limit",
       "level": "apply",
-      "stem": "Siêu âm đo CRL 35 mm. Cách áp dụng bài học phù hợp là gì?",
+      "stem": "Siêu âm đo CRL 35 mm. Cách áp dụng phù hợp là gì?",
       "options": [
         "Bỏ hoàn toàn CRL vì trên 30 mm",
         "Đổi 35 mm thành 35 tuần",
@@ -1180,7 +1180,7 @@
       "topicId": "dating",
       "conceptId": "m13-lmp-close",
       "level": "apply",
-      "stem": "Kinh chót phù hợp và siêu âm quý 1 cho hai ngày dự sanh lệch 3 ngày. Theo quy tắc bài học, chọn mốc nào?",
+      "stem": "Kinh chót phù hợp và siêu âm quý 1 cho hai ngày dự sanh lệch 3 ngày. Theo quy tắc, chọn mốc nào?",
       "options": [
         "Bỏ cả hai và chờ quý 3",
         "Dự sanh theo kinh chót",
@@ -1220,7 +1220,7 @@
       "topicId": "dating",
       "conceptId": "m13-earliest-eligible",
       "level": "apply",
-      "stem": "Có ba lần đo CRL trong quý 1, theo thứ tự thời gian là 8, 12 và 25 mm. Bài học ưu tiên kết quả nào?",
+      "stem": "Có ba lần đo CRL trong quý 1, theo thứ tự thời gian là 8, 12 và 25 mm. ưu tiên kết quả nào?",
       "options": [
         "Lần đo 12 mm",
         "Lần đo 8 mm vì sớm nhất bất kể kích thước",
@@ -1380,7 +1380,7 @@
       "topicId": "dating",
       "conceptId": "m13-due-date",
       "level": "apply",
-      "stem": "Một lịch theo dõi đánh dấu ngày thai đạt 40 tuần. Theo định nghĩa bài học, nhãn phù hợp cho ngày này là gì?",
+      "stem": "Một lịch theo dõi đánh dấu ngày thai đạt 40 tuần. Theo định nghĩa, nhãn phù hợp cho ngày này là gì?",
       "options": [
         "Ngày dự sanh",
         "Ngày xác nhận thai sinh hóa",
@@ -1460,7 +1460,7 @@
       "topicId": "assessment",
       "conceptId": "m13-tvs-tas",
       "level": "understand",
-      "stem": "Có điều kiện thực hiện cả TVS và TAS khi khảo sát thai sớm. Bài học nêu ưu thế của phương pháp nào?",
+      "stem": "Có điều kiện thực hiện cả TVS và TAS khi khảo sát thai sớm. được nêu ưu thế của phương pháp nào?",
       "options": [
         "Hai phương pháp không thể so sánh trong tài liệu",
         "Cả hai đều không khảo sát được vị trí thai",
@@ -1627,7 +1627,7 @@
       "topicId": "loss",
       "conceptId": "m13-demise-ultrasound",
       "level": "apply",
-      "stem": "Khi đánh giá thai lưu, sinh viên đề nghị chỉ dựa vào β-hCG. Phương tiện bài học đặt ở vai trò chẩn đoán là gì?",
+      "stem": "Khi đánh giá thai lưu, sinh viên đề nghị chỉ dựa vào β-hCG. Phương tiện đặt ở vai trò chẩn đoán là gì?",
       "options": [
         "Chỉ mức độ nghén",
         "Chỉ ngày kinh chót",
@@ -1667,7 +1667,7 @@
       "topicId": "loss",
       "conceptId": "m13-prediction-not-certainty",
       "level": "apply",
-      "stem": "Siêu âm có dấu hiệu dự báo bất lợi nhưng chưa đủ khẳng định. Cách viết kết luận nào tôn trọng giới hạn bài học?",
+      "stem": "Siêu âm có dấu hiệu dự báo bất lợi nhưng chưa đủ khẳng định. Cách viết kết luận nào tôn trọng giới hạn?",
       "options": [
         "Chắc chắn không thể có thai trong tử cung",
         "Dấu hiệu dự báo không tự nó xác nhận thai đã ngừng phát triển",
@@ -1747,7 +1747,7 @@
       "topicId": "loss",
       "conceptId": "m13-loss-timing",
       "level": "understand",
-      "stem": "Một báo cáo học tập ghi phần lớn sẩy thai xảy ra trước 12 tuần. Con số nào được bài học dùng để mô tả tỷ trọng này?",
+      "stem": "Một báo cáo học tập ghi phần lớn sẩy thai xảy ra trước 12 tuần. Con số nào được dùng để mô tả tỷ trọng này?",
       "options": [
         "Dưới 1% các trường hợp sẩy thai",
         "Đúng 5% các trường hợp sẩy thai",
@@ -1787,7 +1787,7 @@
       "topicId": "loss",
       "conceptId": "m13-loss-options",
       "level": "understand",
-      "stem": "Khi liệt kê các hướng xử trí thai nghén thất bại sớm được bài học nêu, nhóm nào đầy đủ?",
+      "stem": "Khi liệt kê các hướng xử trí thai nghén thất bại sớm được nêu, nhóm nào đầy đủ?",
       "options": [
         "Chỉ đo CRL và không đánh giá diễn tiến",
         "Chỉ dùng hCG để chọn mọi liều điều trị",
@@ -1947,7 +1947,7 @@
       "topicId": "ectopic",
       "conceptId": "m13-ectopic-signs",
       "level": "apply",
-      "stem": "Một bệnh sử có trễ kinh, ra máu âm đạo và đau hạ vị. Bài học liệt kê tổ hợp này ở phần nào cần được xem xét?",
+      "stem": "Một bệnh sử có trễ kinh, ra máu âm đạo và đau hạ vị. liệt kê tổ hợp này ở phần nào cần được xem xét?",
       "options": [
         "Chắc chắn đủ tháng",
         "Chắc chắn sẩy thai trọn không cần khảo sát",
@@ -2147,7 +2147,7 @@
       "topicId": "mole",
       "conceptId": "m13-mole-confirm",
       "level": "apply",
-      "stem": "Sau khảo sát nghi thai trứng, xét nghiệm nào được bài học đặt ở vai trò xác nhận chẩn đoán?",
+      "stem": "Sau khảo sát nghi thai trứng, xét nghiệm nào được đặt ở vai trò xác nhận chẩn đoán?",
       "options": [
         "Chỉ ngày kinh chót",
         "Giải phẫu bệnh",
@@ -3287,7 +3287,7 @@
       "topicId": "assessment",
       "conceptId": "m13-integrated-tests-roles",
       "level": "analyze",
-      "stem": "Cách ghép vai trò nào tránh nhầm giữa các phần của cùng bài?",
+      "stem": "Cách ghép vai trò nào tránh nhầm giữa các phần của cùng?",
       "options": [
         "Siêu âm khảo sát vị trí/sinh tồn và chẩn đoán thai lưu; GPB xác nhận thai trứng",
         "hCG đơn độc xác nhận mô học thai trứng và mọi thai lưu",
@@ -3435,7 +3435,7 @@
       "topicId": "mole",
       "conceptId": "m13-integrated-subtypes-method",
       "level": "apply",
-      "stem": "Sinh viên suy từ tên 'thai trứng xâm lấn' rằng chỉ cần triệu chứng để xác nhận mọi loại bệnh nguyên bào nuôi. Phản biện nào đúng phạm vi bài?",
+      "stem": "Sinh viên suy từ tên 'thai trứng xâm lấn' rằng chỉ cần triệu chứng để xác nhận mọi loại bệnh nguyên bào nuôi. Phản biện nào đúng phạm vi?",
       "options": [
         "Nghén nặng xác định được chính xác từng loại",
         "Tên phân loại không thay bằng chứng chẩn đoán; phần thai trứng vẫn phân biệt siêu âm, hCG và GPB",

@@ -51,7 +51,7 @@
       "topicId": "ditruyen",
       "conceptId": "m11-duong-di",
       "level": "understand",
-      "stem": "Trình tự đường đi được bài nêu cho tinh trùng trong đường sinh dục nữ là gì?",
+      "stem": "Trình tự đường đi được nêu cho tinh trùng trong đường sinh dục nữ là gì?",
       "options": [
         "Âm đạo → tử cung → vòi trứng",
         "Tử cung → bàng quang → âm đạo",
@@ -282,7 +282,7 @@
       "topicId": "thutinh",
       "conceptId": "m11-hoan-tat-II",
       "level": "understand",
-      "stem": "Sự kiện nào xảy ra ở noãn trong giai đoạn bài gọi là thụ tinh chính danh?",
+      "stem": "Sự kiện nào xảy ra ở noãn trong giai đoạn gọi là thụ tinh chính danh?",
       "options": [
         "Hoàn thành phân bào II",
         "Tạo noãn bào I lần đầu",
@@ -319,7 +319,7 @@
       "topicId": "thutinh",
       "conceptId": "m11-tien-nhan",
       "level": "understand",
-      "stem": "Hai tiền nhân được bài nêu sau thụ tinh là gì?",
+      "stem": "Hai tiền nhân được nêu sau thụ tinh là gì?",
       "options": [
         "Tiền nhân cái và tiền nhân đực",
         "Hai tiền nhân cái",
@@ -356,7 +356,7 @@
       "topicId": "thutinh",
       "conceptId": "m11-dong-dac-ZP",
       "level": "understand",
-      "stem": "Thay đổi nào của màng trong suốt được bài nêu sau vỡ tiểu thể dưới màng?",
+      "stem": "Thay đổi nào của màng trong suốt được nêu sau vỡ tiểu thể dưới màng?",
       "options": [
         "Màng trong suốt luôn biến mất trước tinh trùng",
         "Màng trong suốt đông đặc",
@@ -393,7 +393,7 @@
       "topicId": "hopty",
       "conceptId": "m11-E2-nhu-dong",
       "level": "understand",
-      "stem": "Hormone nào được bài nối với nhu động cơ vòi trứng khi hợp tử di chuyển?",
+      "stem": "Hormone nào được nối với nhu động cơ vòi trứng khi hợp tử di chuyển?",
       "options": [
         "Chỉ FSH",
         "Chỉ prolactin",
@@ -584,7 +584,7 @@
       "topicId": "tiepxucnoan",
       "conceptId": "spermcrowd",
       "level": "understand",
-      "stem": "Quanh noãn, số lượng tinh trùng được bài mô tả ở mức nào?",
+      "stem": "Quanh noãn, số lượng tinh trùng được mô tả ở mức nào?",
       "options": [
         "Chính xác hai",
         "Chính xác một triệu",
@@ -660,7 +660,7 @@
       "topicId": "thutinh",
       "conceptId": "polarbody",
       "level": "understand",
-      "stem": "Bài ghi bao nhiêu cực cầu ở mục thụ tinh chính danh?",
+      "stem": "Được nêu bao nhiêu cực cầu ở mục thụ tinh chính danh?",
       "options": [
         "Hai cực cầu",
         "Tám cực cầu",
@@ -697,7 +697,7 @@
       "topicId": "thutinh",
       "conceptId": "m11-tien-nhan",
       "level": "understand",
-      "stem": "Sau khi noãn hoàn tất phân bào II, tiền nhân nào từ phía noãn được bài nêu?",
+      "stem": "Sau khi noãn hoàn tất phân bào II, tiền nhân nào từ phía noãn được nêu?",
       "options": [
         "Tiền nhân đực là duy nhất",
         "Tiền nhân của tuyến cổ tử cung",
@@ -734,7 +734,7 @@
       "topicId": "thutinh",
       "conceptId": "m11-dong-dac-ZP",
       "level": "understand",
-      "stem": "Một tóm tắt bỏ qua vỡ các tiểu thể dưới màng sau tinh trùng xâm nhập. Hậu quả trực tiếp được bài ghi sẽ bị bỏ sót là gì?",
+      "stem": "Một tóm tắt bỏ qua vỡ các tiểu thể dưới màng sau tinh trùng xâm nhập. Hậu quả trực tiếp được ghi sẽ bị bỏ sót là gì?",
       "options": [
         "Tạo màng trắng buồng trứng",
         "Tạo lại noãn nguyên bào",
@@ -808,7 +808,7 @@
       "topicId": "hopty",
       "conceptId": "fluidflow",
       "level": "understand",
-      "stem": "Hướng luồng dịch liên quan vận chuyển hợp tử được bài nêu như thế nào?",
+      "stem": "Hướng luồng dịch liên quan vận chuyển hợp tử được nêu như thế nào?",
       "options": [
         "Từ buồng tử cung ra phổi",
         "Từ tinh hoàn vào vòi trứng",
@@ -1312,7 +1312,7 @@
       "topicId": "hopty",
       "conceptId": "routevszygote",
       "level": "apply",
-      "stem": "Sự di chuyển tinh trùng và hợp tử cùng nhắc vòi trứng. Khác biệt hướng đích nào bài cho phép rút ra?",
+      "stem": "Sự di chuyển tinh trùng và hợp tử cùng nhắc vòi trứng. Khác biệt hướng đích nào cho phép rút ra?",
       "options": [
         "Hợp tử đi từ tinh hoàn vào niệu đạo",
         "Tinh trùng hướng từ âm đạo qua tử cung tới vòi; hợp tử được vận chuyển về buồng tử cung",
@@ -1517,7 +1517,7 @@
       "topicId": "hopty",
       "conceptId": "m11-nhieu-co-che-van-chuyen",
       "level": "understand",
-      "stem": "Một người cho rằng hợp tử chỉ được đẩy bởi một cơ chế duy nhất. Cách sửa nào bám bài?",
+      "stem": "Một người cho rằng hợp tử chỉ được đẩy bởi một cơ chế duy nhất. Cách sửa nào phù hợp?",
       "options": [
         "Chỉ có bạch huyết thắt lưng tham gia",
         "Không có yếu tố nào trong bài liên quan vận chuyển",
@@ -1586,6 +1586,1587 @@
         "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
         "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
       }
+    },
+    {
+      "id": "m11-v001",
+      "topicId": "ditruyen",
+      "conceptId": "m11-duong-di",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trình tự đường đi được nêu cho tinh trùng trong đường sinh dục nữ là gì?",
+      "options": [
+        "Âm đạo → tử cung → vòi trứng",
+        "Tử cung → bàng quang → âm đạo",
+        "Buồng trứng → niệu đạo → vòi trứng",
+        "Vòi trứng → âm đạo → tử cung"
+      ],
+      "answer": 0,
+      "explanation": "Slide 3 ghi trình tự âm đạo, tử cung, vòi trứng.",
+      "optionExplanations": [
+        "Slide 3 ghi trình tự âm đạo, tử cung, vòi trứng.",
+        "Thêm bàng quang, không thuộc trình tự slide3.",
+        "Thêm niệu đạo, không phải đường đi nêu ở slide3.",
+        "Đảo hướng và thứ tự đường đi của tinh trùng."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q001"
+    },
+    {
+      "id": "m11-v002",
+      "topicId": "ditruyen",
+      "conceptId": "m11-ly-giai",
+      "level": "understand",
+      "stem": "Biến đổi nào được liệt kê trong mục “Từ âm đạo đến vòi trứng”?",
+      "options": [
+        "Phôi thoát màng trong suốt",
+        "Tạo hồ huyết ở nội mạc",
+        "Ly giải tinh dịch",
+        "Hình thành hoàng thể thai kỳ"
+      ],
+      "answer": 2,
+      "explanation": "Slide 3 liệt kê ly giải tinh dịch. Danh sách không được dùng để khẳng định mọi hiện tượng xảy ra nối tiếp hoàn toàn.",
+      "optionExplanations": [
+        "Không được liệt kê trong mục hành trình tinh trùng này.",
+        "Không được liệt kê trong mục hành trình tinh trùng này.",
+        "Slide 3 liệt kê ly giải tinh dịch. Danh sách không được dùng để khẳng định mọi hiện tượng xảy ra nối tiếp hoàn toàn.",
+        "Không được liệt kê trong mục hành trình tinh trùng này."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q002"
+    },
+    {
+      "id": "m11-v003",
+      "topicId": "ditruyen",
+      "conceptId": "m11-chon-loc",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Quá trình nào được liệt kê khi tinh trùng đi qua đường sinh dục nữ?",
+      "options": [
+        "Tạo noãn bào I trong tinh trùng",
+        "Tạo nang Graaf từ tinh trùng",
+        "Chọn lọc tinh trùng",
+        "Tạo hợp tử trước thụ tinh"
+      ],
+      "answer": 2,
+      "explanation": "Slide 3 ghi chọn lọc tinh trùng trong đoạn từ âm đạo đến vòi trứng.",
+      "optionExplanations": [
+        "Noãn bào I không được liệt kê là sản phẩm trong tinh trùng.",
+        "Nang Graaf không được liệt kê là sản phẩm của tinh trùng.",
+        "Slide 3 ghi chọn lọc tinh trùng trong đoạn từ âm đạo đến vòi trứng.",
+        "Bài phân biệt hành trình tinh trùng với hợp tử sau thụ tinh."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q003"
+    },
+    {
+      "id": "m11-v004",
+      "topicId": "khananghoa",
+      "conceptId": "m11-kha-nang-hoa",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Khả năng hóa chủ yếu liên quan đến đối tượng nào?",
+      "options": [
+        "Tinh trùng trong quá trình di chuyển",
+        "Nội mạc tử cung bong tróc",
+        "Tế bào hạt tạo estrogen",
+        "Hoàng thể sau phóng noãn"
+      ],
+      "answer": 0,
+      "explanation": "Slide 3 ghi khả năng hóa trong hành trình tinh trùng; slide 5 mô tả thay đổi lớp phủ đầu tinh trùng.",
+      "optionExplanations": [
+        "Slide 3 ghi khả năng hóa trong hành trình tinh trùng; slide 5 mô tả thay đổi lớp phủ đầu tinh trùng.",
+        "Đó là biến đổi nội mạc, không khả năng hóa tinh trùng.",
+        "Đó là tế bào khác, không tinh trùng.",
+        "Đó là cấu trúc khác, không đối tượng của khả năng hóa được mô tả."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        },
+        {
+          "page": 5,
+          "quote": "Tinh trùng được bọc bởi các chất ngăn khả năng thụ tinh. Trong quá trình di chuyển, tinh trùng va chạm với cấu trúc lưới của chất nhầy cổ tử cung và các hoạt chất khác, dẫn đến dỡ bỏ các chất ức chế",
+          "type": "visual",
+          "transcriptionVerified": true,
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q004"
+    },
+    {
+      "id": "m11-v005",
+      "topicId": "tiepxucnoan",
+      "conceptId": "m11-lop-quanh-noan",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tinh trùng vượt qua lớp nào trước màng trong suốt theo trình tự chữ?",
+      "options": [
+        "Lớp thanh mạc tử cung",
+        "Lớp tế bào hạt quanh noãn",
+        "Lớp hạch bạch huyết",
+        "Lớp cơ vòi trứng"
+      ],
+      "answer": 1,
+      "explanation": "Slide 6 nêu xuyên lớp tế bào hạt quanh noãn rồi qua màng trong suốt.",
+      "optionExplanations": [
+        "Thanh mạc tử cung không phải lớp quanh noãn.",
+        "Slide 6 nêu xuyên lớp tế bào hạt quanh noãn rồi qua màng trong suốt.",
+        "Hạch bạch huyết không phải lớp quanh noãn.",
+        "Cơ vòi không phải lớp quanh noãn được hỏi."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vài chục tinh trùng quanh noãn\nXuyên thủng lớp tế bào hạt quanh noãn\nXuyên qua màng trong suốt",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q005"
+    },
+    {
+      "id": "m11-v006",
+      "topicId": "tiepxucnoan",
+      "conceptId": "m11-lop-quanh-noan",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tên lớp nào phải vượt qua sau lớp tế bào hạt quanh noãn?",
+      "options": [
+        "Màng trong suốt",
+        "Thanh mạc tử cung",
+        "Màng đáy của tinh hoàn",
+        "Màng trắng buồng trứng"
+      ],
+      "answer": 0,
+      "explanation": "Slide 6 nêu màng trong suốt sau lớp tế bào hạt quanh noãn.",
+      "optionExplanations": [
+        "Slide 6 nêu màng trong suốt sau lớp tế bào hạt quanh noãn.",
+        "Không phải lớp tiếp theo trong slide6.",
+        "Không phải lớp tiếp theo trong slide6.",
+        "Bài nêu màng trong suốt, không màng trắng buồng trứng."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vài chục tinh trùng quanh noãn\nXuyên thủng lớp tế bào hạt quanh noãn\nXuyên qua màng trong suốt",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q006"
+    },
+    {
+      "id": "m11-v007",
+      "topicId": "thutinh",
+      "conceptId": "m11-hoan-tat-II",
+      "level": "understand",
+      "stem": "Biến cố nào xảy ra ở noãn trong giai đoạn gọi là thụ tinh chính danh?",
+      "options": [
+        "Hoàn thành phân bào II",
+        "Tạo noãn bào I lần đầu",
+        "Bắt đầu nguyên phân của noãn nguyên bào",
+        "Tạo buồng trứng từ ống Wolff"
+      ],
+      "answer": 0,
+      "explanation": "Slide 10 ghi noãn hoàn thành phân bào II.",
+      "optionExplanations": [
+        "Slide 10 ghi noãn hoàn thành phân bào II.",
+        "Noãn đã ở tiến trình hoàn tất lầnII, không tạo bàoI lần đầu.",
+        "Không phải sự kiện giảm phânII đang được hỏi.",
+        "Không phải sự kiện thụ tinh chính danh trong bài."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q007"
+    },
+    {
+      "id": "m11-v008",
+      "topicId": "thutinh",
+      "conceptId": "m11-tien-nhan",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai tiền nhân được nêu sau thụ tinh là gì?",
+      "options": [
+        "Tiền nhân cái và tiền nhân đực",
+        "Hai tiền nhân cái",
+        "Tiền nhân của buồng trứng và niệu quản",
+        "Hai tiền nhân đực"
+      ],
+      "answer": 0,
+      "explanation": "Slide 10 ghi tiền nhân cái và tiền nhân đực.",
+      "optionExplanations": [
+        "Slide 10 ghi tiền nhân cái và tiền nhân đực.",
+        "Bài nêu một tiền nhân đực và một cái.",
+        "Không phải hai tiền nhân được nêu.",
+        "Bài nêu một tiền nhân đực và một cái."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q008"
+    },
+    {
+      "id": "m11-v009",
+      "topicId": "thutinh",
+      "conceptId": "m11-dong-dac-ZP",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Thay đổi nào của màng trong suốt được nêu sau vỡ tiểu thể dưới màng?",
+      "options": [
+        "Màng trong suốt luôn biến mất trước tinh trùng",
+        "Màng trong suốt đông đặc",
+        "Màng trong suốt biến thành hoàng thể",
+        "Màng trong suốt trở thành tử cung"
+      ],
+      "answer": 1,
+      "explanation": "Slide 10 nêu vỡ tiểu thể dưới màng làm đông đặc ZP.",
+      "optionExplanations": [
+        "Bài mô tả ZP đông đặc, không luôn biến mất trước tinh trùng.",
+        "Slide 10 nêu vỡ tiểu thể dưới màng làm đông đặc ZP.",
+        "Không có biến đổi ZP thành hoàng thể trong bài.",
+        "Không có biến đổi ZP thành tử cung trong bài."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q009"
+    },
+    {
+      "id": "m11-v010",
+      "topicId": "hopty",
+      "conceptId": "m11-E2-nhu-dong",
+      "level": "understand",
+      "stem": "Chất nội tiết nào được nối với nhu động cơ vòi trứng khi hợp tử di chuyển?",
+      "options": [
+        "Chỉ FSH",
+        "Chỉ prolactin",
+        "E2",
+        "Chỉ inhibin"
+      ],
+      "answer": 2,
+      "explanation": "Slide 12 nêu E2 tạo nhu động cơ vòi trứng.",
+      "optionExplanations": [
+        "Slide12 gắn nhu động với E2, không chỉ FSH.",
+        "Slide12 gắn nhu động với E2, không chỉ prolactin.",
+        "Slide 12 nêu E2 tạo nhu động cơ vòi trứng.",
+        "Slide12 gắn nhu động với E2, không chỉ inhibin."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m11-q010"
+    },
+    {
+      "id": "m11-v011",
+      "topicId": "ditruyen",
+      "conceptId": "m11-du-tru-co-tu-cung",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tuyến cổ tử cung có vai trò nào trong hành trình tinh trùng?",
+      "options": [
+        "Thụ tinh luôn trong âm đạo",
+        "Dự trữ tinh trùng tại tuyến cổ tử cung",
+        "Tạo hoàng thể ở tuyến cổ tử cung",
+        "Tạo noãn mới ở tuyến cổ tử cung"
+      ],
+      "answer": 1,
+      "explanation": "Slide 3 liệt kê dự trữ tinh trùng tại tuyến cổ tử cung.",
+      "optionExplanations": [
+        "Không phải chức năng tuyến cổ tử cung được liệt kê.",
+        "Slide 3 liệt kê dự trữ tinh trùng tại tuyến cổ tử cung.",
+        "Không phải chức năng tuyến cổ tử cung được liệt kê.",
+        "Không phải chức năng tuyến cổ tử cung được liệt kê."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q011"
+    },
+    {
+      "id": "m11-v012",
+      "topicId": "ditruyen",
+      "conceptId": "m11-duong-di",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tinh trùng đang ở tử cung. Vị trí tiếp theo là đâu?",
+      "options": [
+        "Vòi trứng",
+        "Buồng trứng trước vòi trứng",
+        "Tuyến tiền liệt",
+        "Niệu quản"
+      ],
+      "answer": 0,
+      "explanation": "Slide 3 ghi âm đạo–tử cung–vòi trứng.",
+      "optionExplanations": [
+        "Slide 3 ghi âm đạo–tử cung–vòi trứng.",
+        "Slide3 ghi vòi trứng tiếp theo tử cung.",
+        "Tuyến tiền liệt không nằm trong trình tự slide3.",
+        "Niệu quản không nằm trong trình tự slide3."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m11-q012"
+    },
+    {
+      "id": "m11-v013",
+      "topicId": "khananghoa",
+      "conceptId": "m11-kha-nang-hoa",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tinh trùng ban đầu được phủ bởi chất ngăn khả năng thụ tinh. Trong khi di chuyển, biến đổi nào xảy ra?",
+      "options": [
+        "Đóng kín mọi điểm yếu ở chóp tinh trùng",
+        "Tạo tế bào Sertoli mới trong đầu",
+        "Chuyển nhân tinh trùng thành noãn",
+        "Loại bỏ dần chất ức chế trên đầu tinh trùng"
+      ],
+      "answer": 3,
+      "explanation": "Chú thích hình slide 5 mô tả loại chất ức chế khi tinh trùng tương tác chất nhầy cổ tử cung.",
+      "optionExplanations": [
+        "Trái với sự dỡ bỏ chất ức chế được mô tả.",
+        "Không có tạo Sertoli trong đầu tinh trùng theo chú thích.",
+        "Không có biến đổi nhân tinh trùng thành noãn theo chú thích.",
+        "Chú thích hình slide 5 mô tả loại chất ức chế khi tinh trùng tương tác chất nhầy cổ tử cung."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh trùng được bọc bởi các chất ngăn khả năng thụ tinh. Trong quá trình di chuyển, tinh trùng va chạm với cấu trúc lưới của chất nhầy cổ tử cung và các hoạt chất khác, dẫn đến dỡ bỏ các chất ức chế",
+          "type": "visual",
+          "transcriptionVerified": true,
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q013"
+    },
+    {
+      "id": "m11-v014",
+      "topicId": "khananghoa",
+      "conceptId": "m11-kha-nang-hoa",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Yếu tố nào trong đường di chuyển được chú thích hình liên hệ với khả năng hóa?",
+      "options": [
+        "Hàng rào máu–tinh hoàn trong tử cung",
+        "Cấu trúc lưới của chất nhầy cổ tử cung",
+        "Lớp thanh mạc bàng quang",
+        "Mạch máu thắt lưng"
+      ],
+      "answer": 1,
+      "explanation": "Chú thích hình slide 5 nêu tương tác với cấu trúc lưới chất nhầy cổ tử cung.",
+      "optionExplanations": [
+        "Không có hàng rào máu–tinh hoàn ở tử cung trong mô tả.",
+        "Chú thích hình slide 5 nêu tương tác với cấu trúc lưới chất nhầy cổ tử cung.",
+        "Không được chú thích gắn với khả năng hóa.",
+        "Không được chú thích gắn với khả năng hóa."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tinh trùng được bọc bởi các chất ngăn khả năng thụ tinh. Trong quá trình di chuyển, tinh trùng va chạm với cấu trúc lưới của chất nhầy cổ tử cung và các hoạt chất khác, dẫn đến dỡ bỏ các chất ức chế",
+          "type": "visual",
+          "transcriptionVerified": true,
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q014"
+    },
+    {
+      "id": "m11-v015",
+      "topicId": "tiepxucnoan",
+      "conceptId": "spermcrowd",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Quanh noãn, số lượng tinh trùng được mô tả ở mức nào?",
+      "options": [
+        "Chính xác hai",
+        "Chính xác một triệu",
+        "Không có tinh trùng nào",
+        "Vài chục"
+      ],
+      "answer": 3,
+      "explanation": "Slide 6 ghi vài chục tinh trùng quanh noãn.",
+      "optionExplanations": [
+        "Nguồn không giới hạn chính xác hai.",
+        "Không đúng mức vài chục được nguồn nêu.",
+        "Trái với nguồn có vài chục tinh trùng quanh noãn.",
+        "Slide 6 ghi vài chục tinh trùng quanh noãn."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vài chục tinh trùng quanh noãn\nXuyên thủng lớp tế bào hạt quanh noãn\nXuyên qua màng trong suốt",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q015"
+    },
+    {
+      "id": "m11-v016",
+      "topicId": "tiepxucnoan",
+      "conceptId": "m11-lop-quanh-noan",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tinh trùng đã vượt tế bào hạt quanh noãn. Lớp tiếp theo cần vượt là gì?",
+      "options": [
+        "Lớp cơ tử cung",
+        "Màng trắng buồng trứng",
+        "Màng trong suốt",
+        "Hàng rào máu–tinh hoàn"
+      ],
+      "answer": 2,
+      "explanation": "Slide 6 đặt màng trong suốt sau lớp tế bào hạt.",
+      "optionExplanations": [
+        "Cơ tử cung không phải lớp kế tiếp quanh noãn.",
+        "Không phải màng được slide6 nêu.",
+        "Slide 6 đặt màng trong suốt sau lớp tế bào hạt.",
+        "Không phải lớp được slide6 nêu."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vài chục tinh trùng quanh noãn\nXuyên thủng lớp tế bào hạt quanh noãn\nXuyên qua màng trong suốt",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m11-q016"
+    },
+    {
+      "id": "m11-v017",
+      "topicId": "thutinh",
+      "conceptId": "polarbody",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Được nêu bao nhiêu cực cầu ở mục thụ tinh chính danh?",
+      "options": [
+        "Hai cực cầu",
+        "Tám cực cầu",
+        "Bốn cực cầu",
+        "Không có cực cầu"
+      ],
+      "answer": 0,
+      "explanation": "Slide 10 ghi hai cực cầu.",
+      "optionExplanations": [
+        "Slide 10 ghi hai cực cầu.",
+        "Nguồn nêu hai, không tám.",
+        "Nguồn nêu hai, không bốn.",
+        "Nguồn nêu có hai cực cầu."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q017"
+    },
+    {
+      "id": "m11-v018",
+      "topicId": "thutinh",
+      "conceptId": "m11-tien-nhan",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Sau khi noãn hoàn tất phân bào II, tiền nhân nào từ phía noãn được nêu?",
+      "options": [
+        "Tiền nhân đực là duy nhất",
+        "Tiền nhân của tuyến cổ tử cung",
+        "Tiền nhân của tế bào Sertoli",
+        "Tiền nhân cái"
+      ],
+      "answer": 3,
+      "explanation": "Slide 10 nêu tiền nhân cái và đực sau mốc hoàn tất phân bào II.",
+      "optionExplanations": [
+        "Bỏ tiền nhân cái có trong nguồn.",
+        "Không phải tiền nhân của phía noãn.",
+        "Không phải tiền nhân của phía noãn.",
+        "Slide 10 nêu tiền nhân cái và đực sau mốc hoàn tất phân bào II."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q018"
+    },
+    {
+      "id": "m11-v019",
+      "topicId": "thutinh",
+      "conceptId": "m11-dong-dac-ZP",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một tóm tắt bỏ qua vỡ các tiểu thể dưới màng sau tinh trùng xâm nhập. Hậu quả trực tiếp được ghi sẽ bị bỏ sót là gì?",
+      "options": [
+        "Tạo màng trắng buồng trứng",
+        "Tạo lại noãn nguyên bào",
+        "Đông đặc màng trong suốt ZP",
+        "Tiết FSH từ tinh trùng"
+      ],
+      "answer": 2,
+      "explanation": "Slide 10 nêu vỡ tiểu thể dưới màng làm đông đặc ZP.",
+      "optionExplanations": [
+        "Không phải hậu quả được slide10 mô tả.",
+        "Không phải hậu quả được slide10 mô tả.",
+        "Slide 10 nêu vỡ tiểu thể dưới màng làm đông đặc ZP.",
+        "Không phải hậu quả được slide10 mô tả."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q019"
+    },
+    {
+      "id": "m11-v020",
+      "topicId": "hopty",
+      "conceptId": "ciliatransport",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Ngoài cơ vòi, yếu tố bề mặt nào góp phần vận chuyển hợp tử?",
+      "options": [
+        "Tế bào Sertoli",
+        "Vi nhung mao",
+        "Hạch vùng thắt lưng",
+        "Màng trắng buồng trứng"
+      ],
+      "answer": 1,
+      "explanation": "Slide 12 liệt kê vi nhung mao trong các yếu tố di chuyển hợp tử.",
+      "optionExplanations": [
+        "Sertoli không được slide12 liệt kê.",
+        "Slide 12 liệt kê vi nhung mao trong các yếu tố di chuyển hợp tử.",
+        "Hạch không phải yếu tố bề mặt được slide12 liệt kê.",
+        "Màng trắng không được slide12 liệt kê."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q020"
+    },
+    {
+      "id": "m11-v021",
+      "topicId": "hopty",
+      "conceptId": "fluidflow",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hướng luồng dịch liên quan vận chuyển hợp tử được nêu như thế nào?",
+      "options": [
+        "Từ buồng tử cung ra phổi",
+        "Từ tinh hoàn vào vòi trứng",
+        "Từ niệu quản vào buồng trứng",
+        "Từ ổ bụng đến buồng tử cung"
+      ],
+      "answer": 3,
+      "explanation": "Slide 12 ghi luồng dịch từ ổ bụng đến buồng tử cung.",
+      "optionExplanations": [
+        "Không đúng hướng đến buồng tử cung.",
+        "Không đúng đường luồng dịch trong nguồn.",
+        "Không đúng đường luồng dịch trong nguồn.",
+        "Slide 12 ghi luồng dịch từ ổ bụng đến buồng tử cung."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q021"
+    },
+    {
+      "id": "m11-v022",
+      "topicId": "hopty",
+      "conceptId": "p4low",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trạng thái P4 nào được liệt kê trong mục di chuyển hợp tử?",
+      "options": [
+        "Nồng độ cao liên tục là điều kiện duy nhất",
+        "Nồng độ bằng không được chứng minh",
+        "P4 không có trong bài",
+        "Nồng độ thấp"
+      ],
+      "answer": 3,
+      "explanation": "Slide 12 liệt kê nồng độ thấp của P4.",
+      "optionExplanations": [
+        "Nguồn ghi thấp và liệt kê nhiều yếu tố khác.",
+        "Thấp không đồng nghĩa bằng không.",
+        "P4 có được liệt kê ở slide12.",
+        "Slide 12 liệt kê nồng độ thấp của P4."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q022"
+    },
+    {
+      "id": "m11-v023",
+      "topicId": "ditruyen",
+      "conceptId": "m11-ly-giai",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một tóm tắt chỉ ghi đường đi âm đạo–tử cung–vòi trứng và các biến đổi của tinh trùng, nhưng chưa nêu biến đổi của tinh dịch. Mục nào cần bổ sung?",
+      "options": [
+        "Hình thành hồ huyết",
+        "Phôi thoát màng",
+        "Ly giải tinh dịch",
+        "Hình thành hoàng thể thai kỳ"
+      ],
+      "answer": 2,
+      "explanation": "Mục về tinh dịch trên slide 3 là ly giải tinh dịch; không suy diễn thứ tự tuyệt đối chỉ từ cách xếp dòng.",
+      "optionExplanations": [
+        "Đây không phải biến đổi tinh dịch được hỏi.",
+        "Đây không phải biến đổi tinh dịch được hỏi.",
+        "Mục về tinh dịch trên slide 3 là ly giải tinh dịch; không suy diễn thứ tự tuyệt đối chỉ từ cách xếp dòng.",
+        "Đây không phải biến đổi tinh dịch được hỏi."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q023"
+    },
+    {
+      "id": "m11-v024",
+      "topicId": "tiepxucnoan",
+      "conceptId": "m11-lop-quanh-noan",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Sắp xếp nào đúng các lớp cần vượt trước khi tinh trùng tiếp xúc noãn?",
+      "options": [
+        "Màng trong suốt → ống sinh tinh → tế bào hạt",
+        "Tế bào hạt quanh noãn → màng trong suốt → tiếp xúc noãn",
+        "Hoàng thể → màng trắng → noãn",
+        "Tế bào Sertoli → nội mạc → noãn"
+      ],
+      "answer": 1,
+      "explanation": "Slide 6 liệt kê thứ tự lớp tế bào hạt, màng trong suốt rồi tới noãn.",
+      "optionExplanations": [
+        "Thêm ống sinh tinh không có trong đường qua lớp quanh noãn.",
+        "Slide 6 liệt kê thứ tự lớp tế bào hạt, màng trong suốt rồi tới noãn.",
+        "Thay hai lớp quanh noãn bằng cấu trúc khác.",
+        "Không phải chuỗi lớp quanh noãn."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vài chục tinh trùng quanh noãn\nXuyên thủng lớp tế bào hạt quanh noãn\nXuyên qua màng trong suốt",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q024"
+    },
+    {
+      "id": "m11-v025",
+      "topicId": "thutinh",
+      "conceptId": "m11-su-kien-thu-tinh",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Chọn hai sự kiện được liệt kê cùng trong mục thụ tinh chính danh.",
+      "options": [
+        "Tinh trùng nguyên phân lại và noãn nguyên bào mới được tạo",
+        "Buồng trứng tạo tuyến cổ tử cung và niệu quản",
+        "Noãn hoàn thành phân bào II và xuất hiện tiền nhân cái/đực",
+        "Nang Graaf tạo FSH và Sertoli tạo hCG"
+      ],
+      "answer": 2,
+      "explanation": "Slide 10 nêu hoàn tất phân bào II và hai tiền nhân.",
+      "optionExplanations": [
+        "Không phải hai sự kiện slide10 liệt kê.",
+        "Không phải hai sự kiện slide10 liệt kê.",
+        "Slide 10 nêu hoàn tất phân bào II và hai tiền nhân.",
+        "Không phải hai sự kiện slide10 liệt kê."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q025"
+    },
+    {
+      "id": "m11-v026",
+      "topicId": "hopty",
+      "conceptId": "m11-E2-nhu-dong",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Yếu tố nào tạo nhu động cơ vòi trứng khi hợp tử di chuyển?",
+      "options": [
+        "Chỉ kháng thể IgG",
+        "Chỉ hCG",
+        "E2",
+        "Chỉ chất cản quang"
+      ],
+      "answer": 2,
+      "explanation": "Slide 12 nối E2 với nhu động cơ vòi trứng.",
+      "optionExplanations": [
+        "Không phải yếu tố slide12 nối với nhu động.",
+        "Không phải yếu tố slide12 nối với nhu động.",
+        "Slide 12 nối E2 với nhu động cơ vòi trứng.",
+        "Không phải yếu tố slide12 nối với nhu động."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q026"
+    },
+    {
+      "id": "m11-v027",
+      "topicId": "ditruyen",
+      "conceptId": "m11-chon-loc",
+      "level": "understand",
+      "stem": "Giả sử chỉ mô tả số tinh trùng ban đầu mà bỏ quá trình thay đổi quần thể trong đường sinh dục nữ, quá trình nào bị bỏ sót?",
+      "options": [
+        "Tạo bạch thể",
+        "Tạo steroid ở tế bào vỏ",
+        "Chọn lọc tinh trùng",
+        "Phân bào II của noãn trước thụ tinh"
+      ],
+      "answer": 2,
+      "explanation": "Slide 3 có mục chọn lọc tinh trùng, riêng với tuyến cổ tử cung và khả năng hóa.",
+      "optionExplanations": [
+        "Không phải quá trình ở quần thể tinh trùng của slide3.",
+        "Không phải mục thay đổi quần thể tinh trùng của slide3.",
+        "Slide 3 có mục chọn lọc tinh trùng, riêng với tuyến cổ tử cung và khả năng hóa.",
+        "Không phải mục thay đổi quần thể tinh trùng của slide3."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q027"
+    },
+    {
+      "id": "m11-v028",
+      "topicId": "hopty",
+      "conceptId": "m11-nhieu-co-che-van-chuyen",
+      "level": "understand",
+      "stem": "Tổ hợp nào toàn là yếu tố vận chuyển hợp tử?",
+      "options": [
+        "Chỉ hoàng thể, màng trắng, nang Graaf",
+        "Chỉ tinh hoàn, Sertoli, ống dẫn tinh",
+        "Nhu động vòi do E2, vi nhung mao, luồng dịch về tử cung",
+        "Chỉ hCG, nang hoàng tuyến, HSG"
+      ],
+      "answer": 2,
+      "explanation": "Slide 12 liệt kê ba yếu tố đầu cùng nồng độ thấp P4.",
+      "optionExplanations": [
+        "Không phải các yếu tố vận chuyển được slide12 liệt kê.",
+        "Đây là cấu trúc hệ sinh dục nam, không nhóm của slide12.",
+        "Slide 12 liệt kê ba yếu tố đầu cùng nồng độ thấp P4.",
+        "Không phải nhóm yếu tố của slide12."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q029"
+    },
+    {
+      "id": "m11-v029",
+      "topicId": "thutinh",
+      "conceptId": "m11-hoan-tat-II",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một noãn đang dừng giảm phân II. bước trong mục thụ tinh chính danh là gì?",
+      "options": [
+        "Tạo ống sinh tinh",
+        "Đi vào giảm phân I lần nữa",
+        "Hoàn thành phân bào II",
+        "Quay lại noãn nguyên bào"
+      ],
+      "answer": 2,
+      "explanation": "Slide 10 nêu noãn hoàn thành phân bào II trong thụ tinh chính danh.",
+      "optionExplanations": [
+        "Không phải sự kiện của noãn được mô tả.",
+        "Nguồn nêu hoàn tất lầnII, không lặp lại lầnI.",
+        "Slide 10 nêu noãn hoàn thành phân bào II trong thụ tinh chính danh.",
+        "Nguồn không mô tả quay lại nguyên bào."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q030"
+    },
+    {
+      "id": "m11-v030",
+      "topicId": "ditruyen",
+      "conceptId": "m11-lop-quanh-noan",
+      "level": "apply",
+      "stem": "Một học viên mô tả tinh trùng đi âm đạo–tử cung–vòi trứng rồi trực tiếp vào noãn, bỏ cấu trúc nào quanh noãn?",
+      "options": [
+        "Còn phải vượt lớp tế bào hạt và màng trong suốt",
+        "Chỉ cần đi vào bàng quang",
+        "Phải quay lại tinh hoàn để giảm phân",
+        "Bỏ qua noãn, làm tổ ngay trong tử cung"
+      ],
+      "answer": 0,
+      "explanation": "Slide 3 mô tả đường đi; slide 6 mô tả các lớp quanh noãn phải vượt.",
+      "optionExplanations": [
+        "Slide 3 mô tả đường đi; slide 6 mô tả các lớp quanh noãn phải vượt.",
+        "Bàng quang không nằm trong hành trình được mô tả.",
+        "Bài không nêu tinh trùng quay lại tinh hoàn.",
+        "Bỏ thụ tinh và trộn với làm tổ."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        },
+        {
+          "page": 6,
+          "quote": "Vài chục tinh trùng quanh noãn\nXuyên thủng lớp tế bào hạt quanh noãn\nXuyên qua màng trong suốt",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m11-q031"
+    },
+    {
+      "id": "m11-v031",
+      "topicId": "khananghoa",
+      "conceptId": "m11-kha-nang-hoa",
+      "level": "understand",
+      "stem": "Lý do nào giải thích vì sao không thể trình bày khả năng hóa như bước tạo tinh trùng mới trong buồng trứng?",
+      "options": [
+        "Bài nói tinh trùng hình thành từ noãn bào",
+        "Bài nói buồng trứng là nơi sinh tinh",
+        "Bài đặt khả năng hóa ở hành trình tinh trùng và mô tả biến đổi lớp phủ đầu tinh trùng",
+        "Bài không hề nhắc tinh trùng trong hành trình"
+      ],
+      "answer": 2,
+      "explanation": "Slide 3 đặt khả năng hóa trong hành trình; chú thích hình slide 5 nêu biến đổi trên tinh trùng đã có.",
+      "optionExplanations": [
+        "Không có nội dung tinh trùng hình thành từ noãn.",
+        "Không có nội dung buồng trứng sinh tinh.",
+        "Slide 3 đặt khả năng hóa trong hành trình; chú thích hình slide 5 nêu biến đổi trên tinh trùng đã có.",
+        "Slide3 nêu tinh trùng ngay trong hành trình."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        },
+        {
+          "page": 5,
+          "quote": "Tinh trùng được bọc bởi các chất ngăn khả năng thụ tinh. Trong quá trình di chuyển, tinh trùng va chạm với cấu trúc lưới của chất nhầy cổ tử cung và các hoạt chất khác, dẫn đến dỡ bỏ các chất ức chế",
+          "type": "visual",
+          "transcriptionVerified": true,
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q032"
+    },
+    {
+      "id": "m11-v032",
+      "topicId": "tiepxucnoan",
+      "conceptId": "entryandcompletion",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Mốc tinh trùng vượt các lớp quanh noãn và noãn hoàn tất phân bào II thuộc hai phần nào?",
+      "options": [
+        "Cả hai đều là ly giải tinh dịch",
+        "Cả hai đều xảy ra trong ống sinh tinh",
+        "Cả hai đều là làm tổ phôi",
+        "Tiếp xúc với noãn và thụ tinh chính danh"
+      ],
+      "answer": 3,
+      "explanation": "Slide 6 trình bày lớp quanh noãn; slide 10 trình bày hoàn tất phân bào II và tiền nhân.",
+      "optionExplanations": [
+        "Ly giải tinh dịch không phải hai sự kiện này.",
+        "Các sự kiện được mô tả trong tiếp xúc tinh trùng–noãn.",
+        "Làm tổ không phải hai sự kiện này.",
+        "Slide 6 trình bày lớp quanh noãn; slide 10 trình bày hoàn tất phân bào II và tiền nhân."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vài chục tinh trùng quanh noãn\nXuyên thủng lớp tế bào hạt quanh noãn\nXuyên qua màng trong suốt",
+          "type": "text"
+        },
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q033"
+    },
+    {
+      "id": "m11-v033",
+      "topicId": "thutinh",
+      "conceptId": "zonabeforeafter",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Màng trong suốt xuất hiện ở cả giai đoạn tinh trùng đi vào và đáp ứng sau đó. Cặp mô tả nào đúng?",
+      "options": [
+        "ZP đông đặc trước khi tinh trùng đến và không thể thay đổi",
+        "Tinh trùng vượt ZP; về sau ZP đông đặc sau vỡ tiểu thể dưới màng",
+        "ZP là tên khác của tuyến cổ tử cung",
+        "Tinh trùng không liên quan ZP trong bài"
+      ],
+      "answer": 1,
+      "explanation": "Slide 6 nêu xuyên qua màng trong suốt; slide 10 nêu đông đặc ZP sau vỡ tiểu thể dưới màng.",
+      "optionExplanations": [
+        "Đảo mối liên hệ với vỡ tiểu thể dưới màng.",
+        "Slide 6 nêu xuyên qua màng trong suốt; slide 10 nêu đông đặc ZP sau vỡ tiểu thể dưới màng.",
+        "ZP là màng quanh noãn, không tuyến cổ tử cung.",
+        "Slide6 nêu rõ xuyên qua ZP."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vài chục tinh trùng quanh noãn\nXuyên thủng lớp tế bào hạt quanh noãn\nXuyên qua màng trong suốt",
+          "type": "text"
+        },
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m11-q034"
+    },
+    {
+      "id": "m11-v034",
+      "topicId": "hopty",
+      "conceptId": "routevszygote",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Sự di chuyển tinh trùng và hợp tử cùng nhắc vòi trứng. Khác biệt hướng đích nào cho phép rút ra?",
+      "options": [
+        "Hợp tử đi từ tinh hoàn vào niệu đạo",
+        "Tinh trùng hướng từ âm đạo qua tử cung tới vòi; hợp tử được vận chuyển về buồng tử cung",
+        "Cả hai luôn đi từ buồng tử cung ra âm đạo",
+        "Tinh trùng phải làm tổ trong vòi"
+      ],
+      "answer": 1,
+      "explanation": "Slide 3 là hành trình tinh trùng tới vòi; slide 12 là vận chuyển hợp tử về tử cung.",
+      "optionExplanations": [
+        "Không phải đường của hợp tử trong nguồn.",
+        "Slide 3 là hành trình tinh trùng tới vòi; slide 12 là vận chuyển hợp tử về tử cung.",
+        "Đảo hướng và không đúng cả hai mô tả.",
+        "Không phải sự kiện được bài mô tả cho tinh trùng."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        },
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m11-q035"
+    },
+    {
+      "id": "m11-v035",
+      "topicId": "hopty",
+      "conceptId": "m11-nhieu-co-che-van-chuyen",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một mô hình nói chỉ nồng độ P4 thấp là đủ giải thích toàn bộ vận chuyển hợp tử. Vì sao chưa đủ?",
+      "options": [
+        "Vì tất cả yếu tố là thuốc cản quang",
+        "Slide 12 còn liệt kê nhu động do E2, vi nhung mao và luồng dịch",
+        "Vì bài chỉ nêu tinh trùng, không nêu hợp tử",
+        "Vì P4 hoàn toàn không được slide 12 nhắc"
+      ],
+      "answer": 1,
+      "explanation": "Slide 12 liệt kê nhiều yếu tố; không thay toàn bộ bằng một mục riêng.",
+      "optionExplanations": [
+        "Các mục trên không phải thuốc cản quang.",
+        "Slide 12 liệt kê nhiều yếu tố; không thay toàn bộ bằng một mục riêng.",
+        "Slide12 có mục di chuyển hợp tử.",
+        "P4 được slide12 liệt kê."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m11-q036"
+    },
+    {
+      "id": "m11-v036",
+      "topicId": "ditruyen",
+      "conceptId": "cervixdual",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tuyến cổ tử cung có những vai trò nào trong hành trình tinh trùng?",
+      "options": [
+        "Thay thế vòi trứng trong mọi lần thụ tinh",
+        "Tạo noãn và làm tổ",
+        "Sản xuất hCG và hoàng thể hóa",
+        "Dự trữ tinh trùng và chất nhầy tham gia khả năng hóa"
+      ],
+      "answer": 3,
+      "explanation": "Slide 3 nêu dự trữ; chú thích slide 5 nêu tương tác tinh trùng với chất nhầy cổ tử cung.",
+      "optionExplanations": [
+        "Không có khẳng định thay thế vòi trứng trong bài.",
+        "Không phải chức năng được nêu của tuyến cổ tử cung.",
+        "Không phải chức năng được nêu của tuyến cổ tử cung.",
+        "Slide 3 nêu dự trữ; chú thích slide 5 nêu tương tác tinh trùng với chất nhầy cổ tử cung."
+      ],
+      "sources": [
+        {
+          "page": 3,
+          "quote": "TỪ ÂM ĐẠO ĐẾN VÒI TRỨNG\nHiện tượng ly giải tinh dịch\nÂm đạo-Tử cung-Vòi trứng\nChọc lọc tinh trùng\nKhả năng hoá\nDự trữ tinh trùng tại tuyến cổ tử cung"
+        },
+        {
+          "page": 5,
+          "quote": "Tinh trùng được bọc bởi các chất ngăn khả năng thụ tinh. Trong quá trình di chuyển, tinh trùng va chạm với cấu trúc lưới của chất nhầy cổ tử cung và các hoạt chất khác, dẫn đến dỡ bỏ các chất ức chế",
+          "type": "visual",
+          "transcriptionVerified": true,
+          "note": "Đã đối chiếu trực tiếp hình gốc; bản thi chỉ hiển thị chữ."
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m11-q037"
+    },
+    {
+      "id": "m11-v037",
+      "topicId": "thutinh",
+      "conceptId": "m11-su-kien-thu-tinh",
+      "level": "understand",
+      "stem": "Một ghi chú “thụ tinh chính danh” mới ghi tiền nhân đực. Nhóm bổ sung nào cần có?",
+      "options": [
+        "Tiền nhân cái, hoàn tất phân bào II và hai cực cầu",
+        "Hai tiền nhân đực và bốn cực cầu",
+        "Tiền nhân cái nhưng noãn chưa hoàn tất phân bào II và không có cực cầu",
+        "Chỉ có một tiền nhân, không có phân bào của noãn"
+      ],
+      "answer": 0,
+      "explanation": "Slide 10 nêu tiền nhân cái và đực, hoàn tất phân bào II, hai cực cầu. Câu chỉ hỏi nhóm sự kiện, không khẳng định đã liệt kê hết slide.",
+      "optionExplanations": [
+        "Slide 10 nêu tiền nhân cái và đực, hoàn tất phân bào II, hai cực cầu. Câu chỉ hỏi nhóm sự kiện, không khẳng định đã liệt kê hết slide.",
+        "Sai nguồn gốc tiền nhân và số cực cầu.",
+        "Trái với hoàn tất phân bào II và hai cực cầu.",
+        "Bỏ các sự kiện có mặt trong nguồn."
+      ],
+      "sources": [
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m11-q038"
+    },
+    {
+      "id": "m11-v038",
+      "topicId": "tiepxucnoan",
+      "conceptId": "threephases",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Sắp xếp ba nhóm quá trình theo hướng diễn tiến nào hợp lý?",
+      "options": [
+        "Hợp tử di chuyển → noãn chưa gặp tinh trùng → vượt lớp quanh noãn",
+        "Vượt các lớp quanh noãn → noãn hoàn tất phân bào II → hợp tử di chuyển",
+        "Noãn hoàn tất phân bào II → tinh trùng mới đến tử cung lần đầu",
+        "Làm tổ → tạo tinh trùng → noãn hoàn tất phân bào II"
+      ],
+      "answer": 1,
+      "explanation": "Slide 6,10,12 lần lượt đặt sự tiếp xúc, sự hoàn tất phân bào II và vận chuyển hợp tử.",
+      "optionExplanations": [
+        "Đặt hợp tử trước gặp tinh trùng là đảo trình tự.",
+        "Slide 6,10,12 lần lượt đặt sự tiếp xúc, sự hoàn tất phân bào II và vận chuyển hợp tử.",
+        "Đảo trình tự tinh trùng đến và hoàn tất thụ tinh.",
+        "Trộn làm tổ và tạo tinh trùng, không chuỗi bài."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Vài chục tinh trùng quanh noãn\nXuyên thủng lớp tế bào hạt quanh noãn\nXuyên qua màng trong suốt",
+          "type": "text"
+        },
+        {
+          "page": 10,
+          "quote": "THỤ TINH CHÍNH DANH\nNoãn hoàn thành phân bào II\nVỡ các tiểu thể dưới màng làm đông đặc ZP\nTiền nhân cái và tiền nhân đực\nHai cực cầu"
+        },
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m11-q039"
+    },
+    {
+      "id": "m11-v039",
+      "topicId": "hopty",
+      "conceptId": "m11-nhieu-co-che-van-chuyen",
+      "level": "understand",
+      "stem": "Một học viên cho rằng hợp tử chỉ được đẩy bởi một cơ chế duy nhất. Cách sửa nào phù hợp?",
+      "options": [
+        "Chỉ có bạch huyết thắt lưng tham gia",
+        "Không có yếu tố nào trong bài liên quan vận chuyển",
+        "Cơ vòi, vi nhung mao và luồng dịch đều được nêu cùng lúc",
+        "Chỉ có tuyến cổ tử cung đẩy hợp tử từ ổ bụng"
+      ],
+      "answer": 2,
+      "explanation": "Slide 12 liệt kê nhiều thành phần tham gia vận chuyển hợp tử.",
+      "optionExplanations": [
+        "Không phải yếu tố được slide12 nêu.",
+        "Slide12 chính là mục về vận chuyển.",
+        "Slide 12 liệt kê nhiều thành phần tham gia vận chuyển hợp tử.",
+        "Nguồn nêu cơ vòi, vi nhung mao và luồng dịch, không chỉ tuyến cổ tử cung."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "DI CHUYỂN HỢP TỬ\nE2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung\nNồng độ thấp của P4"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m11-q040"
+    },
+    {
+      "id": "m11-v040",
+      "topicId": "hopty",
+      "conceptId": "m11-phoi-transport-factors",
+      "level": "understand",
+      "stem": "Tổ hợp nào gồm ba yếu tố vận chuyển hợp tử?",
+      "options": [
+        "E2, vi nhung mao và luồng dịch từ ổ bụng đến buồng tử cung",
+        "FSH, Sertoli và niệu đạo",
+        "AMH, nang nguyên thủy và cổ tử cung",
+        "hCG, hồ huyết và nội mạc tiền làm tổ"
+      ],
+      "answer": 0,
+      "explanation": "Slide 12 liệt kê E2 tạo nhu động cơ vòi trứng, vi nhung mao và luồng dịch từ ổ bụng đến buồng tử cung trong mục di chuyển hợp tử.",
+      "optionExplanations": [
+        "Slide 12 liệt kê E2 tạo nhu động cơ vòi trứng, vi nhung mao và luồng dịch từ ổ bụng đến buồng tử cung trong mục di chuyển hợp tử.",
+        "Không phù hợp với nội dung được nêu trong tài liệu.",
+        "Không phù hợp với nội dung được nêu trong tài liệu.",
+        "Không phù hợp với nội dung được nêu trong tài liệu."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "E2 tạo nhu động cơ vòi trứng\nVi nhung mao\nLuồng dịch từ ổ bụng đến buồng tử cung",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "veryHard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m11-q041"
     }
   ],
   "reviewStatus": "passed2",

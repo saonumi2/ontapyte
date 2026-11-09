@@ -60,7 +60,7 @@
       "topicId": "noimac",
       "conceptId": "m12-estrogen-chuanbi",
       "level": "understand",
-      "stem": "Trong pha tăng sinh, hormone nào được bài gắn với sự dày lên của nội mạc tử cung?",
+      "stem": "Trong pha tăng sinh, hormone nào được gắn với sự dày lên của nội mạc tử cung?",
       "options": [
         "AMH",
         "hCG",
@@ -208,7 +208,7 @@
       "topicId": "cuaso",
       "conceptId": "progesterone-window",
       "level": "understand",
-      "stem": "Hormone nào được bài mô tả mở cửa sổ làm tổ?",
+      "stem": "Hormone nào được mô tả mở cửa sổ làm tổ?",
       "options": [
         "Inhibin B",
         "Androgen",
@@ -282,7 +282,7 @@
       "topicId": "phoi",
       "conceptId": "blastocystparts",
       "level": "understand",
-      "stem": "Hai khối tế bào nào được bài nêu trong phôi nang?",
+      "stem": "Hai khối tế bào nào được nêu trong phôi nang?",
       "options": [
         "Tế bào vỏ và tế bào hạt",
         "Nội mạc và màng trắng",
@@ -393,7 +393,7 @@
       "topicId": "doithoai",
       "conceptId": "immune",
       "level": "understand",
-      "stem": "Bài mô tả phôi được nhận diện sớm bởi thành phần miễn dịch nào?",
+      "stem": "Phôi được nhận diện sớm bởi thành phần miễn dịch nào?",
       "options": [
         "Tế bào hạt và tế bào vỏ",
         "Hồng cầu và tế bào cơ trơn",
@@ -430,7 +430,7 @@
       "topicId": "noimac",
       "conceptId": "phase-sequence",
       "level": "apply",
-      "stem": "Một mẫu nội mạc đang dày lên rồi sau đó chuyển sang chế tiết dưới progesterone. Trình tự hormone phù hợp với bài là gì?",
+      "stem": "Một mẫu nội mạc đang dày lên rồi sau đó chuyển sang chế tiết dưới progesterone. Trình tự hormone phù hợp là gì?",
       "options": [
         "AMH trước, inhibin B sau",
         "Progesterone trước, AMH sau",
@@ -467,7 +467,7 @@
       "topicId": "cuaso",
       "conceptId": "m12-dong-bo-cua-so",
       "level": "apply",
-      "stem": "Phôi thoát màng lệch pha so với thời điểm cửa sổ làm tổ mở. Hệ quả nào được bài nêu?",
+      "stem": "Phôi thoát màng lệch pha so với thời điểm cửa sổ làm tổ mở. Hệ quả nào được nêu?",
       "options": [
         "Cửa sổ sẽ mở vô hạn",
         "Phôi chuyển thành hCG",
@@ -504,7 +504,7 @@
       "topicId": "cuaso",
       "conceptId": "window-displacement",
       "level": "understand",
-      "stem": "Một yếu tố nội sinh hoặc ngoại sinh làm thay đổi thời điểm cửa sổ. Mô tả nào phù hợp bài?",
+      "stem": "Một yếu tố nội sinh hoặc ngoại sinh làm thay đổi thời điểm cửa sổ. Mô tả nào phù hợp?",
       "options": [
         "Cửa sổ do tinh trùng quyết định hoàn toàn",
         "Cửa sổ không bao giờ thay đổi",
@@ -689,7 +689,7 @@
       "topicId": "doithoai",
       "conceptId": "semiallograft",
       "level": "understand",
-      "stem": "Bài gọi phôi là dạng ghép nào?",
+      "stem": "Gọi phôi là dạng ghép nào?",
       "options": [
         "Mảnh bán dị ghép",
         "Ghép dị gen hoàn toàn từ mẹ",
@@ -839,7 +839,7 @@
       "topicId": "hcg",
       "conceptId": "m12-hcg-sinhhoa",
       "level": "apply",
-      "stem": "Hiện diện hCG trong máu mẹ được bài dùng làm bằng chứng cho điều gì?",
+      "stem": "Hiện diện hCG trong máu mẹ được dùng làm bằng chứng cho điều gì?",
       "options": [
         "Thai chắc chắn sống đủ tháng",
         "Thai đã làm tổ, gọi là thai sinh hóa",
@@ -919,7 +919,7 @@
       "topicId": "phattrien",
       "conceptId": "organogenesis",
       "level": "understand",
-      "stem": "Từ tuần thứ mấy bài nói bắt đầu hình thành phôi và phát triển cơ quan?",
+      "stem": "Từ tuần thứ mấy bắt đầu hình thành phôi và phát triển cơ quan?",
       "options": [
         "Tuần thứ 1",
         "Tuần thứ 40",
@@ -1227,7 +1227,7 @@
       "topicId": "doithoai",
       "conceptId": "chemical-immune",
       "level": "understand",
-      "stem": "Hai loại đối thoại giữa phôi và nội mạc được bài phân biệt thế nào?",
+      "stem": "Hai loại đối thoại giữa phôi và nội mạc được phân biệt thế nào?",
       "options": [
         "Hai loại đều chỉ là vận chuyển cơ học",
         "Hóa học qua GF/cytokines và miễn dịch qua nhận diện/cân bằng miễn dịch",
@@ -1310,7 +1310,7 @@
       "topicId": "hcg",
       "conceptId": "biochemical-clinical",
       "level": "analyze",
-      "stem": "Vì sao có hCG trong máu mẹ chưa đồng nghĩa với thai lâm sàng theo trình tự bài?",
+      "stem": "Vì sao có hCG trong máu mẹ chưa đồng nghĩa với thai lâm sàng theo trình tự?",
       "options": [
         "hCG chỉ xuất hiện sau khi thấy phôi trên siêu âm",
         "hCG chứng minh làm tổ/thai sinh hóa; thai lâm sàng được xác nhận sau đó bằng siêu âm",
@@ -1357,7 +1357,7 @@
       "topicId": "hcg",
       "conceptId": "m12-hcg-hoangthe",
       "level": "understand",
-      "stem": "Nếu không có tín hiệu hCG sau khi phôi tiếp cận mạch mẹ, mắt xích nào bài mô tả sẽ thiếu?",
+      "stem": "Nếu không có tín hiệu hCG sau khi phôi tiếp cận mạch mẹ, mắt xích nào được nêu sẽ thiếu?",
       "options": [
         "Tác dụng tạo noãn nguyên bào mới",
         "Tác dụng trực tiếp tạo zona pellucida",
@@ -1631,6 +1631,1550 @@
         "semantic": true,
         "coverage": false
       }
+    },
+    {
+      "id": "m12-v001",
+      "topicId": "noimac",
+      "conceptId": "m12-estrogen-chuanbi",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trong pha tăng sinh, hormone nào được gắn với sự dày lên của nội mạc tử cung?",
+      "options": [
+        "AMH",
+        "hCG",
+        "Estrogen",
+        "FSH"
+      ],
+      "answer": 2,
+      "explanation": "Slide 5 nêu estrogen làm tế bào vi nhung mao tăng trưởng và nội mạc dày lên.",
+      "optionExplanations": [
+        "AMH không là hormone được slide5 gắn với tác động đó.",
+        "hCG không là hormone gây pha tăng sinh được slide5 nêu.",
+        "Slide 5 nêu estrogen làm tế bào vi nhung mao tăng trưởng và nội mạc dày lên.",
+        "FSH không là hormone trực tiếp được slide5 gắn với nội mạc dày lên."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tại NMTC, ở giai đoạn tiền làm tổ, NMTC đã chịu sự tác động hiệp đồng một cách hài hoà của estrogen và progesterone:\nTrong pha tăng sinh, dưới tác động của estrogen, các tế bào vi nhung mao của NMTC tăng trưởng về kích thước,  làm NMTC dày lên, chuẩn bị cho sự tác động của progesterone trong pha chế tiết.\nTrong pha chế tiết, dưới tác động của progesterone, các tế bào vi nhung mao đã được chuẩn bị với estrogen trước đó bắt đầu hiện tượng chế tiết. Cực đỉnh của các tế bào vi nhung mao hình thành nên các Pinopode.\nThời gian xuất hiện và tồn tại của các pinopde #5 ngày, tại bề mặt của các Pinopode sẽ diễn ra các cuộc đối thoại quan trọng giữa phôi và NMTC, chuẩn bị cho tiến trình làm tổ\n5\nĐẶC ĐIỂM NMTC GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q001"
+    },
+    {
+      "id": "m12-v002",
+      "topicId": "noimac",
+      "conceptId": "m12-progesterone-che-tiet",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trong pha chế tiết, progesterone tác động lên nội mạc đã được chuẩn bị như thế nào?",
+      "options": [
+        "Làm mất mọi tế bào nội mạc",
+        "Tạo noãn nguyên bào",
+        "Làm phôi thoát màng ngay lập tức",
+        "Khởi phát hoạt động chế tiết"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5 mô tả tế bào vi nhung mao được estrogen chuẩn bị rồi chế tiết dưới progesterone.",
+      "optionExplanations": [
+        "Nguồn mô tả chế tiết, không mất mọi tế bào.",
+        "Không phải tác động lên nội mạc đã chuẩn bị.",
+        "Nguồn không gắn progesterone với việc lập tức làm phôi thoát màng.",
+        "Slide 5 mô tả tế bào vi nhung mao được estrogen chuẩn bị rồi chế tiết dưới progesterone."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tại NMTC, ở giai đoạn tiền làm tổ, NMTC đã chịu sự tác động hiệp đồng một cách hài hoà của estrogen và progesterone:\nTrong pha tăng sinh, dưới tác động của estrogen, các tế bào vi nhung mao của NMTC tăng trưởng về kích thước,  làm NMTC dày lên, chuẩn bị cho sự tác động của progesterone trong pha chế tiết.\nTrong pha chế tiết, dưới tác động của progesterone, các tế bào vi nhung mao đã được chuẩn bị với estrogen trước đó bắt đầu hiện tượng chế tiết. Cực đỉnh của các tế bào vi nhung mao hình thành nên các Pinopode.\nThời gian xuất hiện và tồn tại của các pinopde #5 ngày, tại bề mặt của các Pinopode sẽ diễn ra các cuộc đối thoại quan trọng giữa phôi và NMTC, chuẩn bị cho tiến trình làm tổ\n5\nĐẶC ĐIỂM NMTC GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q002"
+    },
+    {
+      "id": "m12-v003",
+      "topicId": "noimac",
+      "conceptId": "pinopodes",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Pinopode được mô tả xuất hiện ở bề mặt nào?",
+      "options": [
+        "Bề mặt tinh trùng trong tinh hoàn",
+        "Bề mặt dây chằng rộng",
+        "Mặt ngoài của buồng trứng",
+        "Cực đỉnh của tế bào vi nhung mao nội mạc"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5 nêu cực đỉnh tế bào vi nhung mao hình thành pinopode.",
+      "optionExplanations": [
+        "Không phải vị trí pinopode được slide5 nêu.",
+        "Không phải vị trí pinopode được slide5 nêu.",
+        "Không phải vị trí pinopode được slide5 nêu.",
+        "Slide 5 nêu cực đỉnh tế bào vi nhung mao hình thành pinopode."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tại NMTC, ở giai đoạn tiền làm tổ, NMTC đã chịu sự tác động hiệp đồng một cách hài hoà của estrogen và progesterone:\nTrong pha tăng sinh, dưới tác động của estrogen, các tế bào vi nhung mao của NMTC tăng trưởng về kích thước,  làm NMTC dày lên, chuẩn bị cho sự tác động của progesterone trong pha chế tiết.\nTrong pha chế tiết, dưới tác động của progesterone, các tế bào vi nhung mao đã được chuẩn bị với estrogen trước đó bắt đầu hiện tượng chế tiết. Cực đỉnh của các tế bào vi nhung mao hình thành nên các Pinopode.\nThời gian xuất hiện và tồn tại của các pinopde #5 ngày, tại bề mặt của các Pinopode sẽ diễn ra các cuộc đối thoại quan trọng giữa phôi và NMTC, chuẩn bị cho tiến trình làm tổ\n5\nĐẶC ĐIỂM NMTC GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q003"
+    },
+    {
+      "id": "m12-v004",
+      "topicId": "cuaso",
+      "conceptId": "m12-cua-so-thoi-gian",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Cửa sổ làm tổ thường mở ở khoảng ngày nào của chu kỳ?",
+      "options": [
+        "Ngày 7 đến ngày 10",
+        "Ngày 18 đến ngày 23",
+        "Ngày 25 đến ngày 30",
+        "Ngày 1 đến ngày 5"
+      ],
+      "answer": 1,
+      "explanation": "Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23.",
+      "optionExplanations": [
+        "Không đúng khoảng ngày nguồn nêu.",
+        "Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23.",
+        "Không đúng khoảng ngày nguồn nêu.",
+        "Không đúng khoảng ngày nguồn nêu."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Sự tác động hiệp đồng một cách hài hoà giữa estrogen và progesterone trên NMTC\nCửa sổ làm tổ được mở bởi progesterone\nNMTC chỉ tiếp nhận phôi đến làm tổ khi và chỉ khi cửa sổ làm tổ đã mở\nCửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ\nSự lệch pha giữa thời điểm mở cửa sổ và thời điểm phôi thoát màng  phôi sẽ không được tiếp nhận\nCửa sổ làm tổ có thể bị di dời do nhiều yếu tố nội sinh cũng như ngoại sinh\n6\nCỬA SỔ LÀM TỔ VÀ VAI TRÒ CỦA PROGESTERONE"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q004"
+    },
+    {
+      "id": "m12-v005",
+      "topicId": "cuaso",
+      "conceptId": "progesterone-window",
+      "level": "understand",
+      "stem": "Chất nội tiết nào được mô tả mở cửa sổ làm tổ?",
+      "options": [
+        "Inhibin B",
+        "Androgen",
+        "AMH",
+        "Progesterone"
+      ],
+      "answer": 3,
+      "explanation": "Slide 6 ghi cửa sổ làm tổ được mở bởi progesterone.",
+      "optionExplanations": [
+        "Nguồn nêu progesterone, không inhibinB.",
+        "Nguồn nêu progesterone, không androgen.",
+        "Nguồn nêu progesterone, không AMH.",
+        "Slide 6 ghi cửa sổ làm tổ được mở bởi progesterone."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Sự tác động hiệp đồng một cách hài hoà giữa estrogen và progesterone trên NMTC\nCửa sổ làm tổ được mở bởi progesterone\nNMTC chỉ tiếp nhận phôi đến làm tổ khi và chỉ khi cửa sổ làm tổ đã mở\nCửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ\nSự lệch pha giữa thời điểm mở cửa sổ và thời điểm phôi thoát màng  phôi sẽ không được tiếp nhận\nCửa sổ làm tổ có thể bị di dời do nhiều yếu tố nội sinh cũng như ngoại sinh\n6\nCỬA SỔ LÀM TỔ VÀ VAI TRÒ CỦA PROGESTERONE"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q005"
+    },
+    {
+      "id": "m12-v006",
+      "topicId": "phoi",
+      "conceptId": "blastocyst",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Khi đến buồng tử cung, phôi được mô tả ở giai đoạn nào?",
+      "options": [
+        "Noãn nguyên bào",
+        "Hoàng thể",
+        "Tinh bào bậc I",
+        "Phôi nang"
+      ],
+      "answer": 3,
+      "explanation": "Slide 7 nêu phôi đến buồng tử cung ở giai đoạn phôi nang.",
+      "optionExplanations": [
+        "Không phải giai đoạn phôi đến buồng tử cung.",
+        "Hoàng thể không là một giai đoạn phôi.",
+        "Tinh bào là đối tượng khác, không phôi.",
+        "Slide 7 nêu phôi đến buồng tử cung ở giai đoạn phôi nang."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "Khi đến buồng tử cung, phôi ở giai đoạn phôi nang, gồm 2 khối tế bào: khối tế bào trong và ngoại bì lá nuôi với vai trò khác nhau\nCác tế bào trích từ lớp ngoại bì lá nuôi của phôi có thể được sử dụng để khảo sát di truyền phôi (PGT)\nTuỳ theo mục tiêu tầm soát hay chẩn đoán mà các tế bào thu được có thể sẽ được khảo sát bằng các công cụ khác nhau\nThách thức trong trường hợp là thể khám\n7\nĐẶC ĐIỂM CỦA PHÔI GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q006"
+    },
+    {
+      "id": "m12-v007",
+      "topicId": "phoi",
+      "conceptId": "blastocystparts",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai khối tế bào nào được nêu trong phôi nang?",
+      "options": [
+        "Tế bào vỏ và tế bào hạt",
+        "Nội mạc và màng trắng",
+        "Khối tế bào trong và ngoại bì lá nuôi",
+        "Noãn bào I và tế bào Sertoli"
+      ],
+      "answer": 2,
+      "explanation": "Slide 7 nêu khối tế bào trong và ngoại bì lá nuôi.",
+      "optionExplanations": [
+        "Đây là các tế bào nang noãn, không hai khối của phôi nang.",
+        "Không phải hai khối được slide7 nêu.",
+        "Slide 7 nêu khối tế bào trong và ngoại bì lá nuôi.",
+        "Đây không phải hai khối tế bào phôi nang."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "Khi đến buồng tử cung, phôi ở giai đoạn phôi nang, gồm 2 khối tế bào: khối tế bào trong và ngoại bì lá nuôi với vai trò khác nhau\nCác tế bào trích từ lớp ngoại bì lá nuôi của phôi có thể được sử dụng để khảo sát di truyền phôi (PGT)\nTuỳ theo mục tiêu tầm soát hay chẩn đoán mà các tế bào thu được có thể sẽ được khảo sát bằng các công cụ khác nhau\nThách thức trong trường hợp là thể khám\n7\nĐẶC ĐIỂM CỦA PHÔI GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q007"
+    },
+    {
+      "id": "m12-v008",
+      "topicId": "phoi",
+      "conceptId": "pgttypes",
+      "level": "understand",
+      "stem": "Tổ hợp nào gồm các tên xét nghiệm di truyền phôi được liệt kê?",
+      "options": [
+        "PGT-A, PGT-M, PGT-SR",
+        "FSH, LH, AMH",
+        "E1, E2, P4",
+        "HSG, HYFOSY, MRI"
+      ],
+      "answer": 0,
+      "explanation": "Slide 8 liệt kê ba dạng PGT-A, PGT-M, PGT-SR.",
+      "optionExplanations": [
+        "Slide 8 liệt kê ba dạng PGT-A, PGT-M, PGT-SR.",
+        "Đây là các hormone, không tên xét nghiệm PGT.",
+        "Đây là các ký hiệu steroid, không tên xét nghiệm PGT.",
+        "Không phải ba tên PGT được slide8 liệt kê."
+      ],
+      "sources": [
+        {
+          "page": 8,
+          "quote": "PGT-A\nPGT-M\nPGT-SR\n8\nĐẶC ĐIỂM CỦA PHÔI GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q008"
+    },
+    {
+      "id": "m12-v009",
+      "topicId": "doithoai",
+      "conceptId": "m12-doi-thoai-hoa-hoc",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Đối thoại hóa học của phôi với nội mạc liên quan nhóm phân tử nào?",
+      "options": [
+        "Growth factors và cytokines",
+        "Chỉ chất cản quang",
+        "Chỉ DNA của tế bào Sertoli",
+        "Chỉ hồng cầu và tiểu cầu"
+      ],
+      "answer": 0,
+      "explanation": "Slide 11 nêu phôi tác động lên nội mạc qua growth factors và cytokines.",
+      "optionExplanations": [
+        "Slide 11 nêu phôi tác động lên nội mạc qua growth factors và cytokines.",
+        "Không phải nhóm phân tử trong đối thoại hóa học được nguồn nêu.",
+        "Không phải nhóm phân tử trong đối thoại hóa học được nguồn nêu.",
+        "Không phải nhóm phân tử trong đối thoại hóa học được nguồn nêu."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Đối thoại hóa học:\nPhôi đã thoát màng bắt đầu thực hiện đối thoại hóa học với NMTC, kích hoạt các biến đổi trên bề mặt NMTC và phôi \nPhôi tác động lên NMTC thông qua GF và các cytokines\nTại giao diện vi nhung mao của phôi và pinopode, các tín hiệu tế bào LIF, EGF thúc đẩy tương tác giữa 2 loại tế bào này\n\n11\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q009"
+    },
+    {
+      "id": "m12-v010",
+      "topicId": "doithoai",
+      "conceptId": "immune",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Phôi được nhận diện sớm bởi thành phần miễn dịch nào?",
+      "options": [
+        "Tế bào hạt và tế bào vỏ",
+        "Hồng cầu và tế bào cơ trơn",
+        "Đại thực bào và uNK",
+        "Tinh bào I và tinh bào II"
+      ],
+      "answer": 2,
+      "explanation": "Slide 12 nêu đại thực bào và uNK thuộc miễn dịch bẩm sinh nhận diện phôi.",
+      "optionExplanations": [
+        "Đây không phải các tế bào miễn dịch được slide12 nêu.",
+        "Đây không phải các tế bào miễn dịch được slide12 nêu.",
+        "Slide 12 nêu đại thực bào và uNK thuộc miễn dịch bẩm sinh nhận diện phôi.",
+        "Đây không phải các tế bào miễn dịch được slide12 nêu."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Đối thoại miễn dịch:\nPhôi là 01 mảnh bán dị ghép\nKhi phôi tiếp cận với NMTC sẽ sớm bị nhận diện bởi các đại thực bào, uNK (miễn dịch bẩm sinh)\nTiếp theo, miễn dịch tế bào đóng vai trò quan trọng trong việc sẽ tiếp nhận hay đào thải phôi\nCán cân miễn dịch Th1-Th2 và sự duy trì thai kỳ\nPhôi chìm dần vào NMTC, đến ngày thứ 9 sau thụ tinh, các hội bào nuôi mới tiếp cận các mạch máu xoắn ốc của tử cung\n\n12\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "easy",
+      "variantOf": "m12-q010"
+    },
+    {
+      "id": "m12-v011",
+      "topicId": "noimac",
+      "conceptId": "phase-sequence",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một mẫu nội mạc đang dày lên rồi sau đó chuyển sang chế tiết dưới progesterone. Trình tự hormone phù hợp là gì?",
+      "options": [
+        "AMH trước, inhibin B sau",
+        "Progesterone trước, AMH sau",
+        "hCG trước, FSH sau",
+        "Estrogen trước, progesterone sau"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5 mô tả estrogen chuẩn bị pha tăng sinh, sau đó progesterone tác động pha chế tiết.",
+      "optionExplanations": [
+        "Không đúng hai hormone và thứ tự của slide5.",
+        "Đảo hormone chuẩn bị nội mạc và thêm AMH không có trong chuỗi.",
+        "Không đúng hai hormone và thứ tự của slide5.",
+        "Slide 5 mô tả estrogen chuẩn bị pha tăng sinh, sau đó progesterone tác động pha chế tiết."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tại NMTC, ở giai đoạn tiền làm tổ, NMTC đã chịu sự tác động hiệp đồng một cách hài hoà của estrogen và progesterone:\nTrong pha tăng sinh, dưới tác động của estrogen, các tế bào vi nhung mao của NMTC tăng trưởng về kích thước,  làm NMTC dày lên, chuẩn bị cho sự tác động của progesterone trong pha chế tiết.\nTrong pha chế tiết, dưới tác động của progesterone, các tế bào vi nhung mao đã được chuẩn bị với estrogen trước đó bắt đầu hiện tượng chế tiết. Cực đỉnh của các tế bào vi nhung mao hình thành nên các Pinopode.\nThời gian xuất hiện và tồn tại của các pinopde #5 ngày, tại bề mặt của các Pinopode sẽ diễn ra các cuộc đối thoại quan trọng giữa phôi và NMTC, chuẩn bị cho tiến trình làm tổ\n5\nĐẶC ĐIỂM NMTC GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q011"
+    },
+    {
+      "id": "m12-v012",
+      "topicId": "cuaso",
+      "conceptId": "m12-dong-bo-cua-so",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Phôi thoát màng lệch pha so với thời điểm cửa sổ làm tổ mở. Hệ quả nào được nêu?",
+      "options": [
+        "Cửa sổ sẽ mở vô hạn",
+        "Phôi chuyển thành hCG",
+        "Phôi có thể không được nội mạc tiếp nhận",
+        "Phôi chắc chắn được tiếp nhận bất kể thời điểm"
+      ],
+      "answer": 2,
+      "explanation": "Slide 6 nêu lệch pha giữa cửa sổ và thoát màng khiến phôi không được tiếp nhận.",
+      "optionExplanations": [
+        "Nguồn ghi cửa sổ có giới hạn, không vô hạn.",
+        "hCG là hormone, không kết cục phôi biến thành.",
+        "Slide 6 nêu lệch pha giữa cửa sổ và thoát màng khiến phôi không được tiếp nhận.",
+        "Bỏ qua yêu cầu đồng bộ của cửa sổ tiếp nhận."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Sự tác động hiệp đồng một cách hài hoà giữa estrogen và progesterone trên NMTC\nCửa sổ làm tổ được mở bởi progesterone\nNMTC chỉ tiếp nhận phôi đến làm tổ khi và chỉ khi cửa sổ làm tổ đã mở\nCửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ\nSự lệch pha giữa thời điểm mở cửa sổ và thời điểm phôi thoát màng  phôi sẽ không được tiếp nhận\nCửa sổ làm tổ có thể bị di dời do nhiều yếu tố nội sinh cũng như ngoại sinh\n6\nCỬA SỔ LÀM TỔ VÀ VAI TRÒ CỦA PROGESTERONE"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q012"
+    },
+    {
+      "id": "m12-v013",
+      "topicId": "cuaso",
+      "conceptId": "window-displacement",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một yếu tố nội sinh hoặc ngoại sinh làm thay đổi thời điểm cửa sổ. Mô tả nào phù hợp?",
+      "options": [
+        "Cửa sổ do tinh trùng quyết định hoàn toàn",
+        "Cửa sổ không bao giờ thay đổi",
+        "Chỉ noãn mới có thể di dời cửa sổ",
+        "Cửa sổ làm tổ có thể bị di dời"
+      ],
+      "answer": 3,
+      "explanation": "Slide 6 nêu cửa sổ có thể bị di dời bởi yếu tố nội sinh và ngoại sinh.",
+      "optionExplanations": [
+        "Nguồn không nêu tinh trùng quyết định hoàn toàn.",
+        "Trái nội dung có thể di dời cửa sổ.",
+        "Nguồn nêu nhiều yếu tố nội/ngoại sinh, không chỉ noãn.",
+        "Slide 6 nêu cửa sổ có thể bị di dời bởi yếu tố nội sinh và ngoại sinh."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Sự tác động hiệp đồng một cách hài hoà giữa estrogen và progesterone trên NMTC\nCửa sổ làm tổ được mở bởi progesterone\nNMTC chỉ tiếp nhận phôi đến làm tổ khi và chỉ khi cửa sổ làm tổ đã mở\nCửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ\nSự lệch pha giữa thời điểm mở cửa sổ và thời điểm phôi thoát màng  phôi sẽ không được tiếp nhận\nCửa sổ làm tổ có thể bị di dời do nhiều yếu tố nội sinh cũng như ngoại sinh\n6\nCỬA SỔ LÀM TỔ VÀ VAI TRÒ CỦA PROGESTERONE"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q013"
+    },
+    {
+      "id": "m12-v014",
+      "topicId": "phoi",
+      "conceptId": "pgt-sample",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một nhóm lấy tế bào từ lớp ngoại bì lá nuôi để khảo sát di truyền phôi. Điều này phù hợp mô tả nào?",
+      "options": [
+        "Có thể dùng tế bào lớp ngoại bì lá nuôi cho PGT",
+        "Chỉ lấy tế bào nội mạc mẹ",
+        "Không có tế bào phôi nào dùng được",
+        "Chỉ lấy tế bào Sertoli"
+      ],
+      "answer": 0,
+      "explanation": "Slide 7 nêu tế bào ngoại bì lá nuôi có thể dùng khảo sát di truyền phôi.",
+      "optionExplanations": [
+        "Slide 7 nêu tế bào ngoại bì lá nuôi có thể dùng khảo sát di truyền phôi.",
+        "Bài nêu lấy tế bào phôi, không chỉ nội mạc mẹ.",
+        "Nguồn khẳng định có thể lấy tế bào ngoại bì lá nuôi.",
+        "Sertoli không phải lớp ngoại bì lá nuôi của phôi."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "Khi đến buồng tử cung, phôi ở giai đoạn phôi nang, gồm 2 khối tế bào: khối tế bào trong và ngoại bì lá nuôi với vai trò khác nhau\nCác tế bào trích từ lớp ngoại bì lá nuôi của phôi có thể được sử dụng để khảo sát di truyền phôi (PGT)\nTuỳ theo mục tiêu tầm soát hay chẩn đoán mà các tế bào thu được có thể sẽ được khảo sát bằng các công cụ khác nhau\nThách thức trong trường hợp là thể khám\n7\nĐẶC ĐIỂM CỦA PHÔI GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q014"
+    },
+    {
+      "id": "m12-v015",
+      "topicId": "phoi",
+      "conceptId": "m12-hatching-nhu-cau",
+      "level": "understand",
+      "stem": "Lý do nào giải thích vì sao phôi ngày 6 cần thoát màng zona pellucida?",
+      "options": [
+        "Để tạo tinh trùng mới",
+        "Để tăng nồng độ FSH trong tuyến yên",
+        "Zona trở nên chật chội và không còn phù hợp với nhu cầu phôi",
+        "Để hình thành buồng trứng"
+      ],
+      "answer": 2,
+      "explanation": "Slide 9 nêu ngày 6 zona chật chội, phôi thoát màng để tìm nguồn oxygen phù hợp nhu cầu tăng.",
+      "optionExplanations": [
+        "Không phải mục đích thoát màng được slide9 mô tả.",
+        "Không phải mục đích thoát màng được slide9 mô tả.",
+        "Slide 9 nêu ngày 6 zona chật chội, phôi thoát màng để tìm nguồn oxygen phù hợp nhu cầu tăng.",
+        "Không phải mục đích thoát màng được slide9 mô tả."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "Ngày thứ 6 sau khi thụ tinh, ZP trở nên chật chột không còn thích hợp, phôi phải tìm cách thoát ra khỏi ZP để tìm nguồn cung cấp oxygen phù hợp cho nhu cầu ngày càng cao của nó.\nPhôi thoát màng, chuẩn bị thực hiện các cuộc đối thoại quan trọng cho tiến trình làm tổ\nHỗ trợ phôi thoát màng trong thụ tinh ống nghiệm\n9\nĐẶC ĐIỂM CỦA PHÔI GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q015"
+    },
+    {
+      "id": "m12-v016",
+      "topicId": "phoi",
+      "conceptId": "m12-hatching-nhu-cau",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Lý do nào được nêu cho nhu cầu thoát zona liên quan đến oxygen?",
+      "options": [
+        "Phôi không cần oxygen",
+        "Nhu cầu oxygen của phôi ngày càng cao",
+        "Oxygen được dùng để tạo testosterone ở mẹ",
+        "Zona tiết oxygen quá mức"
+      ],
+      "answer": 1,
+      "explanation": "Slide 9 nối nhu cầu oxygen tăng với việc zona không còn phù hợp.",
+      "optionExplanations": [
+        "Trái mô tả nhu cầu oxygen tăng của phôi.",
+        "Slide 9 nối nhu cầu oxygen tăng với việc zona không còn phù hợp.",
+        "Không phải lý do được slide9 nêu.",
+        "Không có nội dung zona tiết oxygen quá mức."
+      ],
+      "sources": [
+        {
+          "page": 9,
+          "quote": "Ngày thứ 6 sau khi thụ tinh, ZP trở nên chật chột không còn thích hợp, phôi phải tìm cách thoát ra khỏi ZP để tìm nguồn cung cấp oxygen phù hợp cho nhu cầu ngày càng cao của nó.\nPhôi thoát màng, chuẩn bị thực hiện các cuộc đối thoại quan trọng cho tiến trình làm tổ\nHỗ trợ phôi thoát màng trong thụ tinh ống nghiệm\n9\nĐẶC ĐIỂM CỦA PHÔI GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q016"
+    },
+    {
+      "id": "m12-v017",
+      "topicId": "doithoai",
+      "conceptId": "m12-lif-egf",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Trong tương tác ở giao diện vi nhung mao phôi và pinopode, phân tử nào được nêu?",
+      "options": [
+        "LIF và EGF",
+        "E1 và E3",
+        "LH và FSH",
+        "AMH và inhibin B"
+      ],
+      "answer": 0,
+      "explanation": "Slide 11 nêu LIF, EGF thúc đẩy tương tác ở giao diện này.",
+      "optionExplanations": [
+        "Slide 11 nêu LIF, EGF thúc đẩy tương tác ở giao diện này.",
+        "Không phải cặp tín hiệu của giao diện được slide11 nêu.",
+        "Không phải cặp tín hiệu của giao diện được slide11 nêu.",
+        "Không phải cặp tín hiệu của giao diện được slide11 nêu."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Đối thoại hóa học:\nPhôi đã thoát màng bắt đầu thực hiện đối thoại hóa học với NMTC, kích hoạt các biến đổi trên bề mặt NMTC và phôi \nPhôi tác động lên NMTC thông qua GF và các cytokines\nTại giao diện vi nhung mao của phôi và pinopode, các tín hiệu tế bào LIF, EGF thúc đẩy tương tác giữa 2 loại tế bào này\n\n11\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q017"
+    },
+    {
+      "id": "m12-v018",
+      "topicId": "doithoai",
+      "conceptId": "semiallograft",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Gọi phôi là dạng ghép nào?",
+      "options": [
+        "Mảnh bán dị ghép",
+        "Ghép dị gen hoàn toàn từ mẹ",
+        "Ghép tự thân hoàn toàn",
+        "Không phải mô sống"
+      ],
+      "answer": 0,
+      "explanation": "Slide 12 mô tả phôi là một mảnh bán dị ghép.",
+      "optionExplanations": [
+        "Slide 12 mô tả phôi là một mảnh bán dị ghép.",
+        "Không đúng cách gọi bán dị ghép của nguồn.",
+        "Nguồn gọi bán dị ghép, không tự thân hoàn toàn.",
+        "Không phù hợp đối tượng phôi sống mà nguồn đang mô tả."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Đối thoại miễn dịch:\nPhôi là 01 mảnh bán dị ghép\nKhi phôi tiếp cận với NMTC sẽ sớm bị nhận diện bởi các đại thực bào, uNK (miễn dịch bẩm sinh)\nTiếp theo, miễn dịch tế bào đóng vai trò quan trọng trong việc sẽ tiếp nhận hay đào thải phôi\nCán cân miễn dịch Th1-Th2 và sự duy trì thai kỳ\nPhôi chìm dần vào NMTC, đến ngày thứ 9 sau thụ tinh, các hội bào nuôi mới tiếp cận các mạch máu xoắn ốc của tử cung\n\n12\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q018"
+    },
+    {
+      "id": "m12-v019",
+      "topicId": "doithoai",
+      "conceptId": "spiralvessels-day9",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Đến ngày thứ 9 sau thụ tinh, hội bào nuôi mới tiếp cận cấu trúc nào?",
+      "options": [
+        "Động mạch buồng trứng trong dây chằng treo",
+        "Mạch máu xoắn ốc tử cung",
+        "Mạch máu tinh hoàn",
+        "Tĩnh mạch cửa gan"
+      ],
+      "answer": 1,
+      "explanation": "Slide 12 nêu đến ngày 9 hội bào nuôi tiếp cận mạch máu xoắn ốc của tử cung.",
+      "optionExplanations": [
+        "Không phải mạch hội bào nuôi tiếp cận được slide12 nêu.",
+        "Slide 12 nêu đến ngày 9 hội bào nuôi tiếp cận mạch máu xoắn ốc của tử cung.",
+        "Không phải mạch hội bào nuôi tiếp cận được slide12 nêu.",
+        "Không phải mạch hội bào nuôi tiếp cận được slide12 nêu."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Đối thoại miễn dịch:\nPhôi là 01 mảnh bán dị ghép\nKhi phôi tiếp cận với NMTC sẽ sớm bị nhận diện bởi các đại thực bào, uNK (miễn dịch bẩm sinh)\nTiếp theo, miễn dịch tế bào đóng vai trò quan trọng trong việc sẽ tiếp nhận hay đào thải phôi\nCán cân miễn dịch Th1-Th2 và sự duy trì thai kỳ\nPhôi chìm dần vào NMTC, đến ngày thứ 9 sau thụ tinh, các hội bào nuôi mới tiếp cận các mạch máu xoắn ốc của tử cung\n\n12\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q019"
+    },
+    {
+      "id": "m12-v020",
+      "topicId": "hcg",
+      "conceptId": "m12-giao-dien-mach-mau",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Khoảng ngày thứ 10 sau thụ tinh, hội bào nuôi làm gì?",
+      "options": [
+        "Tạo noãn nguyên bào trong buồng trứng",
+        "Làm thoái triển hoàn toàn hoàng thể",
+        "Phá vỡ mạch xoắn và tạo hồ huyết sơ khai",
+        "Tạo màng trong suốt quanh tinh trùng"
+      ],
+      "answer": 2,
+      "explanation": "Slide 13 mô tả ngày 10 hội bào nuôi phá vỡ mạch xoắn và tạo hồ huyết sơ khai.",
+      "optionExplanations": [
+        "Không phải sự kiện ngày10 được mô tả.",
+        "Nguồn mô tả hCG hỗ trợ hoàng thể, không làm thoái triển hoàn toàn.",
+        "Slide 13 mô tả ngày 10 hội bào nuôi phá vỡ mạch xoắn và tạo hồ huyết sơ khai.",
+        "Không phải sự kiện ngày10 được mô tả."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q020"
+    },
+    {
+      "id": "m12-v021",
+      "topicId": "hcg",
+      "conceptId": "m12-hcg-hoangthe",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hoạt tính tương đương LH của hCG giúp chuyển cấu trúc nào thành hoàng thể thai kỳ?",
+      "options": [
+        "Màng trong suốt",
+        "Tế bào Sertoli",
+        "Hoàng thể chu kỳ",
+        "Nang nguyên thủy"
+      ],
+      "answer": 2,
+      "explanation": "Slide 13 ghi hCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ.",
+      "optionExplanations": [
+        "Zona không phải cấu trúc được chuyển trong đoạn này.",
+        "Sertoli không phải cấu trúc được chuyển trong đoạn này.",
+        "Slide 13 ghi hCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ.",
+        "Cấu trúc được chuyển là hoàng thể chu kỳ, không nang nguyên thủy."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q021"
+    },
+    {
+      "id": "m12-v022",
+      "topicId": "hcg",
+      "conceptId": "m12-hcg-sinhhoa",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hiện diện hCG trong máu mẹ được dùng làm bằng chứng cho điều gì?",
+      "options": [
+        "Thai chắc chắn sống đủ tháng",
+        "Thai đã làm tổ, gọi là thai sinh hóa",
+        "Thai đã hoàn tất tạo cơ quan",
+        "Thai chắc chắn đã thấy trên siêu âm"
+      ],
+      "answer": 1,
+      "explanation": "Slide 13 gắn hCG máu mẹ với hiện tượng làm tổ và khái niệm thai sinh hóa.",
+      "optionExplanations": [
+        "Dữ kiện này không chứng minh sống đủ tháng.",
+        "Slide 13 gắn hCG máu mẹ với hiện tượng làm tổ và khái niệm thai sinh hóa.",
+        "Dữ kiện này không chứng minh đã hoàn tất tạo cơ quan.",
+        "Có hCG không đồng nghĩa đã quan sát được trên siêu âm."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
+        },
+        {
+          "page": 13,
+          "quote": "Hiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q022"
+    },
+    {
+      "id": "m12-v023",
+      "topicId": "phattrien",
+      "conceptId": "m12-tuan3-tuan4",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Tuần thứ 3 và tuần thứ 4 lần lượt gắn với hiện tượng nào?",
+      "options": [
+        "Hình thành cơ quan rồi thụ tinh",
+        "Thụ tinh rồi làm tổ",
+        "Làm tổ rồi thụ tinh",
+        "Thoát màng rồi sinh"
+      ],
+      "answer": 1,
+      "explanation": "Slide 17 nêu tuần 3 thụ tinh, tuần 4 làm tổ.",
+      "optionExplanations": [
+        "Không đúng thứ tự mốc của slide17.",
+        "Slide 17 nêu tuần 3 thụ tinh, tuần 4 làm tổ.",
+        "Đảo thứ tự hai sự kiện so với slide17.",
+        "Không phải cặp sự kiện được slide17 gắn hai tuần này."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Thai kỳ bình thường có độ dài 40 tuần (280 ngày) kêt từ ngày bắt đầu của kỳ kinh cuối cùng\nTuần thứ 3 diễn ra hiện tượng thụ tinh\nTuần thứ 4 diễn ra tiến trình làm tổ\nTừ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.\n17\nSỰ PHÁT TRIỂN CỦA PHÔI THAI"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q023"
+    },
+    {
+      "id": "m12-v024",
+      "topicId": "phattrien",
+      "conceptId": "organogenesis",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Từ tuần thứ mấy bắt đầu hình thành phôi và phát triển cơ quan?",
+      "options": [
+        "Tuần thứ 1",
+        "Tuần thứ 40",
+        "Tuần thứ 5",
+        "Tuần thứ 3"
+      ],
+      "answer": 2,
+      "explanation": "Slide 17 ghi từ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.",
+      "optionExplanations": [
+        "Không đúng tuần nguồn nêu.",
+        "Không đúng thời điểm bắt đầu được nguồn nêu.",
+        "Slide 17 ghi từ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.",
+        "Nguồn gắn tuần3 với thụ tinh."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Thai kỳ bình thường có độ dài 40 tuần (280 ngày) kêt từ ngày bắt đầu của kỳ kinh cuối cùng\nTuần thứ 3 diễn ra hiện tượng thụ tinh\nTuần thứ 4 diễn ra tiến trình làm tổ\nTừ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.\n17\nSỰ PHÁT TRIỂN CỦA PHÔI THAI"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q024"
+    },
+    {
+      "id": "m12-v025",
+      "topicId": "noimac",
+      "conceptId": "pinopode-duration",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Pinopode xuất hiện và tồn tại trong khoảng bao lâu?",
+      "options": [
+        "Khoảng 18 ngày",
+        "Khoảng 5 ngày",
+        "Khoảng 40 tuần",
+        "Khoảng 5 giờ"
+      ],
+      "answer": 1,
+      "explanation": "Slide 5 ghi thời gian pinopode khoảng 5 ngày.",
+      "optionExplanations": [
+        "Không đúng thời gian tồn tại được nguồn ghi.",
+        "Slide 5 ghi thời gian pinopode khoảng 5 ngày.",
+        "Không đúng thời gian tồn tại được nguồn ghi.",
+        "Sai đơn vị: nguồn ghi ngày."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tại NMTC, ở giai đoạn tiền làm tổ, NMTC đã chịu sự tác động hiệp đồng một cách hài hoà của estrogen và progesterone:\nTrong pha tăng sinh, dưới tác động của estrogen, các tế bào vi nhung mao của NMTC tăng trưởng về kích thước,  làm NMTC dày lên, chuẩn bị cho sự tác động của progesterone trong pha chế tiết.\nTrong pha chế tiết, dưới tác động của progesterone, các tế bào vi nhung mao đã được chuẩn bị với estrogen trước đó bắt đầu hiện tượng chế tiết. Cực đỉnh của các tế bào vi nhung mao hình thành nên các Pinopode.\nThời gian xuất hiện và tồn tại của các pinopde #5 ngày, tại bề mặt của các Pinopode sẽ diễn ra các cuộc đối thoại quan trọng giữa phôi và NMTC, chuẩn bị cho tiến trình làm tổ\n5\nĐẶC ĐIỂM NMTC GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q025"
+    },
+    {
+      "id": "m12-v026",
+      "topicId": "cuaso",
+      "conceptId": "m12-cua-so-thoi-gian",
+      "level": "apply",
+      "stem": "Giả sử chu kỳ ở ngày 24 và áp dụng mốc thường nêu, cửa sổ làm tổ được mô tả ra sao?",
+      "options": [
+        "Không thể có cửa sổ do P4",
+        "Đã qua thời điểm đóng cửa sổ thường nêu ở ngày 23",
+        "Vừa mở cửa sổ vào ngày 24",
+        "Mở liên tục từ ngày 1 đến 40"
+      ],
+      "answer": 1,
+      "explanation": "Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23; đây là mốc bài học.",
+      "optionExplanations": [
+        "Nguồn gắn progesterone với mở cửa sổ.",
+        "Slide 6 ghi cửa sổ thường mở ngày 18 và đóng ngày 23; đây là mốc bài học.",
+        "Nguồn thường mở ngày18, không ngày24.",
+        "Trái khoảng mở có giới hạn trong nguồn."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Sự tác động hiệp đồng một cách hài hoà giữa estrogen và progesterone trên NMTC\nCửa sổ làm tổ được mở bởi progesterone\nNMTC chỉ tiếp nhận phôi đến làm tổ khi và chỉ khi cửa sổ làm tổ đã mở\nCửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ\nSự lệch pha giữa thời điểm mở cửa sổ và thời điểm phôi thoát màng  phôi sẽ không được tiếp nhận\nCửa sổ làm tổ có thể bị di dời do nhiều yếu tố nội sinh cũng như ngoại sinh\n6\nCỬA SỔ LÀM TỔ VÀ VAI TRÒ CỦA PROGESTERONE"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q026"
+    },
+    {
+      "id": "m12-v027",
+      "topicId": "doithoai",
+      "conceptId": "m12-doi-thoai-hoa-hoc",
+      "level": "apply",
+      "stem": "Một nhận định cho rằng phôi không tác động lên nội mạc trước khi bám. Phôi tạo phản hồi nào lên nội mạc?",
+      "options": [
+        "Phôi đã đối thoại hóa học qua growth factors và cytokines",
+        "Phôi chỉ giao tiếp qua tế bào Sertoli",
+        "Bài nói không có tương tác trước làm tổ",
+        "Phôi chỉ tạo hCG sau sinh"
+      ],
+      "answer": 0,
+      "explanation": "Slide 11 nêu phôi thoát màng bắt đầu đối thoại hóa học và tác động qua GF/cytokines.",
+      "optionExplanations": [
+        "Slide 11 nêu phôi thoát màng bắt đầu đối thoại hóa học và tác động qua GF/cytokines.",
+        "Sertoli không nằm trong giao diện tương tác được nêu.",
+        "Trái nội dung slide11 nêu tương tác.",
+        "Không bác bỏ mô tả phôi đã thoát màng có đối thoại hóa học."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Đối thoại hóa học:\nPhôi đã thoát màng bắt đầu thực hiện đối thoại hóa học với NMTC, kích hoạt các biến đổi trên bề mặt NMTC và phôi \nPhôi tác động lên NMTC thông qua GF và các cytokines\nTại giao diện vi nhung mao của phôi và pinopode, các tín hiệu tế bào LIF, EGF thúc đẩy tương tác giữa 2 loại tế bào này\n\n11\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q027"
+    },
+    {
+      "id": "m12-v028",
+      "topicId": "phattrien",
+      "conceptId": "term",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Độ dài thai kỳ bình thường là bao nhiêu tính từ kỳ kinh cuối?",
+      "options": [
+        "20 tuần, 140 ngày",
+        "40 tuần, tương đương 280 ngày",
+        "9 tuần, 63 ngày",
+        "37 tuần, 100 ngày"
+      ],
+      "answer": 1,
+      "explanation": "Slide 17 ghi thai kỳ bình thường 40 tuần (280 ngày) từ ngày đầu kỳ kinh cuối.",
+      "optionExplanations": [
+        "Không đúng độ dài nguồn ghi.",
+        "Slide 17 ghi thai kỳ bình thường 40 tuần (280 ngày) từ ngày đầu kỳ kinh cuối.",
+        "Không đúng độ dài nguồn ghi.",
+        "37 tuần không tương đương100 ngày và không phải cặp số nguồn."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Thai kỳ bình thường có độ dài 40 tuần (280 ngày) kêt từ ngày bắt đầu của kỳ kinh cuối cùng\nTuần thứ 3 diễn ra hiện tượng thụ tinh\nTuần thứ 4 diễn ra tiến trình làm tổ\nTừ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.\n17\nSỰ PHÁT TRIỂN CỦA PHÔI THAI"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q030"
+    },
+    {
+      "id": "m12-v029",
+      "topicId": "noimac",
+      "conceptId": "receptivity-sequence",
+      "level": "apply",
+      "stem": "Lý do nào giải thích vì sao progesterone không được mô tả như bước đầu tiên làm nội mạc dày lên?",
+      "options": [
+        "Estrogen chỉ có sau khi phôi làm tổ",
+        "Hai hormone không có vai trò ở nội mạc",
+        "Estrogen chuẩn bị nội mạc ở pha tăng sinh trước, rồi progesterone tác động chế tiết và mở cửa sổ",
+        "Progesterone luôn xuất hiện trước estrogen"
+      ],
+      "answer": 2,
+      "explanation": "Slide 5 mô tả trình tự estrogen rồi progesterone; slide 6 gắn progesterone với cửa sổ làm tổ.",
+      "optionExplanations": [
+        "Nguồn mô tả estrogen chuẩn bị trước làm tổ.",
+        "Bài nêu rõ tác động cả hai hormone.",
+        "Slide 5 mô tả trình tự estrogen rồi progesterone; slide 6 gắn progesterone với cửa sổ làm tổ.",
+        "Đảo thứ tự hormone trong slide5."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "Tại NMTC, ở giai đoạn tiền làm tổ, NMTC đã chịu sự tác động hiệp đồng một cách hài hoà của estrogen và progesterone:\nTrong pha tăng sinh, dưới tác động của estrogen, các tế bào vi nhung mao của NMTC tăng trưởng về kích thước,  làm NMTC dày lên, chuẩn bị cho sự tác động của progesterone trong pha chế tiết.\nTrong pha chế tiết, dưới tác động của progesterone, các tế bào vi nhung mao đã được chuẩn bị với estrogen trước đó bắt đầu hiện tượng chế tiết. Cực đỉnh của các tế bào vi nhung mao hình thành nên các Pinopode.\nThời gian xuất hiện và tồn tại của các pinopde #5 ngày, tại bề mặt của các Pinopode sẽ diễn ra các cuộc đối thoại quan trọng giữa phôi và NMTC, chuẩn bị cho tiến trình làm tổ\n5\nĐẶC ĐIỂM NMTC GIAI ĐOẠN TIỀN LÀM TỔ"
+        },
+        {
+          "page": 6,
+          "quote": "Sự tác động hiệp đồng một cách hài hoà giữa estrogen và progesterone trên NMTC\nCửa sổ làm tổ được mở bởi progesterone\nNMTC chỉ tiếp nhận phôi đến làm tổ khi và chỉ khi cửa sổ làm tổ đã mở\nCửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ\nSự lệch pha giữa thời điểm mở cửa sổ và thời điểm phôi thoát màng  phôi sẽ không được tiếp nhận\nCửa sổ làm tổ có thể bị di dời do nhiều yếu tố nội sinh cũng như ngoại sinh\n6\nCỬA SỔ LÀM TỔ VÀ VAI TRÒ CỦA PROGESTERONE"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q031"
+    },
+    {
+      "id": "m12-v030",
+      "topicId": "cuaso",
+      "conceptId": "m12-dong-bo-cua-so",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Phôi thoát màng ngày 6 nhưng cửa sổ tiếp nhận nội mạc có thời hạn. Mấu chốt nào quyết định tiếp nhận?",
+      "options": [
+        "Chỉ kích thước buồng trứng",
+        "Chỉ ngày tuổi của người mẹ",
+        "Sự đồng bộ giữa thoát màng và cửa sổ làm tổ",
+        "Chỉ số lượng tinh trùng ban đầu"
+      ],
+      "answer": 2,
+      "explanation": "Slide 6 nêu lệch pha khiến phôi không được tiếp nhận; slide 9 nêu phôi thoát màng.",
+      "optionExplanations": [
+        "Không phải điều kiện đồng bộ được bài nêu.",
+        "Không phải điều kiện đồng bộ được bài nêu.",
+        "Slide 6 nêu lệch pha khiến phôi không được tiếp nhận; slide 9 nêu phôi thoát màng.",
+        "Không phải điều kiện đồng bộ được bài nêu."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Sự tác động hiệp đồng một cách hài hoà giữa estrogen và progesterone trên NMTC\nCửa sổ làm tổ được mở bởi progesterone\nNMTC chỉ tiếp nhận phôi đến làm tổ khi và chỉ khi cửa sổ làm tổ đã mở\nCửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ\nSự lệch pha giữa thời điểm mở cửa sổ và thời điểm phôi thoát màng  phôi sẽ không được tiếp nhận\nCửa sổ làm tổ có thể bị di dời do nhiều yếu tố nội sinh cũng như ngoại sinh\n6\nCỬA SỔ LÀM TỔ VÀ VAI TRÒ CỦA PROGESTERONE"
+        },
+        {
+          "page": 9,
+          "quote": "Ngày thứ 6 sau khi thụ tinh, ZP trở nên chật chột không còn thích hợp, phôi phải tìm cách thoát ra khỏi ZP để tìm nguồn cung cấp oxygen phù hợp cho nhu cầu ngày càng cao của nó.\nPhôi thoát màng, chuẩn bị thực hiện các cuộc đối thoại quan trọng cho tiến trình làm tổ\nHỗ trợ phôi thoát màng trong thụ tinh ống nghiệm\n9\nĐẶC ĐIỂM CỦA PHÔI GIAI ĐOẠN TIỀN LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q032"
+    },
+    {
+      "id": "m12-v031",
+      "topicId": "phoi",
+      "conceptId": "m12-lif-egf",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một mô hình chỉ gồm phôi nang và nội mạc, bỏ giao diện pinopode/vi nhung mao. Nội dung nào bị bỏ sót?",
+      "options": [
+        "Các tín hiệu LIF/EGF thúc đẩy tương tác ở giao diện",
+        "Quá trình tạo tinh trùng tại ống sinh tinh",
+        "Chuyển đổi nang noãn thành hoàng thể",
+        "Phản hồi FSH từ inhibin B"
+      ],
+      "answer": 0,
+      "explanation": "Slide 7 mô tả phôi nang; slide 11 mô tả giao diện và tín hiệu LIF, EGF.",
+      "optionExplanations": [
+        "Slide 7 mô tả phôi nang; slide 11 mô tả giao diện và tín hiệu LIF, EGF.",
+        "Không phải quá trình ở giao diện phôi–nội mạc.",
+        "Không phải quá trình ở giao diện phôi–nội mạc.",
+        "Không phải quá trình ở giao diện phôi–nội mạc."
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "quote": "Khi đến buồng tử cung, phôi ở giai đoạn phôi nang, gồm 2 khối tế bào: khối tế bào trong và ngoại bì lá nuôi với vai trò khác nhau\nCác tế bào trích từ lớp ngoại bì lá nuôi của phôi có thể được sử dụng để khảo sát di truyền phôi (PGT)\nTuỳ theo mục tiêu tầm soát hay chẩn đoán mà các tế bào thu được có thể sẽ được khảo sát bằng các công cụ khác nhau\nThách thức trong trường hợp là thể khám\n7\nĐẶC ĐIỂM CỦA PHÔI GIAI ĐOẠN TIỀN LÀM TỔ"
+        },
+        {
+          "page": 11,
+          "quote": "Đối thoại hóa học:\nPhôi đã thoát màng bắt đầu thực hiện đối thoại hóa học với NMTC, kích hoạt các biến đổi trên bề mặt NMTC và phôi \nPhôi tác động lên NMTC thông qua GF và các cytokines\nTại giao diện vi nhung mao của phôi và pinopode, các tín hiệu tế bào LIF, EGF thúc đẩy tương tác giữa 2 loại tế bào này\n\n11\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q033"
+    },
+    {
+      "id": "m12-v032",
+      "topicId": "doithoai",
+      "conceptId": "chemical-immune",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Hai loại đối thoại giữa phôi và nội mạc được phân biệt thế nào?",
+      "options": [
+        "Hai loại đều chỉ là vận chuyển cơ học",
+        "Hóa học qua GF/cytokines và miễn dịch qua nhận diện/cân bằng miễn dịch",
+        "Hóa học do LH; miễn dịch do HSG",
+        "Cả hai chỉ xảy ra sau sinh"
+      ],
+      "answer": 1,
+      "explanation": "Slide 11 nêu đối thoại hóa học; slide 12 nêu đối thoại miễn dịch.",
+      "optionExplanations": [
+        "Bỏ các tín hiệu hóa học và thành phần miễn dịch.",
+        "Slide 11 nêu đối thoại hóa học; slide 12 nêu đối thoại miễn dịch.",
+        "LH và HSG không là hai cơ chế mô tả ở slide11–12.",
+        "Bài đang mô tả tiến trình làm tổ sớm."
+      ],
+      "sources": [
+        {
+          "page": 11,
+          "quote": "Đối thoại hóa học:\nPhôi đã thoát màng bắt đầu thực hiện đối thoại hóa học với NMTC, kích hoạt các biến đổi trên bề mặt NMTC và phôi \nPhôi tác động lên NMTC thông qua GF và các cytokines\nTại giao diện vi nhung mao của phôi và pinopode, các tín hiệu tế bào LIF, EGF thúc đẩy tương tác giữa 2 loại tế bào này\n\n11\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        },
+        {
+          "page": 12,
+          "quote": "Đối thoại miễn dịch:\nPhôi là 01 mảnh bán dị ghép\nKhi phôi tiếp cận với NMTC sẽ sớm bị nhận diện bởi các đại thực bào, uNK (miễn dịch bẩm sinh)\nTiếp theo, miễn dịch tế bào đóng vai trò quan trọng trong việc sẽ tiếp nhận hay đào thải phôi\nCán cân miễn dịch Th1-Th2 và sự duy trì thai kỳ\nPhôi chìm dần vào NMTC, đến ngày thứ 9 sau thụ tinh, các hội bào nuôi mới tiếp cận các mạch máu xoắn ốc của tử cung\n\n12\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q034"
+    },
+    {
+      "id": "m12-v033",
+      "topicId": "doithoai",
+      "conceptId": "implantation-nutrition",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Chuỗi thời gian nào phù hợp giữa xâm nhập mô và trao đổi trực tiếp với mẹ?",
+      "options": [
+        "Ngày 9 đóng cửa sổ; ngày 10 phôi thoát màng",
+        "Ngày 10 mới thụ tinh; ngày 11 mới tạo noãn",
+        "Ngày 9 tiếp cận mạch xoắn; ngày 10 phá vỡ mạch tạo hồ huyết và nhận dưỡng chất/trao đổi khí",
+        "Ngày 3 tạo hồ huyết; ngày 4 tạo Sertoli"
+      ],
+      "answer": 2,
+      "explanation": "Slide 12–13 nêu các mốc ngày 9 và ngày 10 nối tiếp nhau.",
+      "optionExplanations": [
+        "Trộn ngày chu kỳ với ngày sau thụ tinh.",
+        "Không đúng mốc thụ tinh và tạo noãn.",
+        "Slide 12–13 nêu các mốc ngày 9 và ngày 10 nối tiếp nhau.",
+        "Không có mốc tạo Sertoli trong tiến trình này."
+      ],
+      "sources": [
+        {
+          "page": 12,
+          "quote": "Đối thoại miễn dịch:\nPhôi là 01 mảnh bán dị ghép\nKhi phôi tiếp cận với NMTC sẽ sớm bị nhận diện bởi các đại thực bào, uNK (miễn dịch bẩm sinh)\nTiếp theo, miễn dịch tế bào đóng vai trò quan trọng trong việc sẽ tiếp nhận hay đào thải phôi\nCán cân miễn dịch Th1-Th2 và sự duy trì thai kỳ\nPhôi chìm dần vào NMTC, đến ngày thứ 9 sau thụ tinh, các hội bào nuôi mới tiếp cận các mạch máu xoắn ốc của tử cung\n\n12\nCÁC CUỘC ĐỐI THOẠI QUAN TRỌNG TRONG TIẾN TRÌNH LÀM TỔ"
+        },
+        {
+          "page": 13,
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q035"
+    },
+    {
+      "id": "m12-v034",
+      "topicId": "hcg",
+      "conceptId": "biochemical-clinical",
+      "level": "analyze",
+      "stem": "Lý do nào giải thích vì sao có hCG trong máu mẹ chưa đồng nghĩa với thai lâm sàng theo trình tự?",
+      "options": [
+        "hCG chỉ xuất hiện sau khi thấy phôi trên siêu âm",
+        "hCG chứng minh làm tổ/thai sinh hóa; thai lâm sàng được xác nhận sau đó bằng siêu âm",
+        "Siêu âm không liên quan xác nhận thai lâm sàng",
+        "Thai sinh hóa và thai lâm sàng là cùng một mốc"
+      ],
+      "answer": 1,
+      "explanation": "Slide 13 gắn hCG với thai sinh hóa; slide14 ghi thai được xác nhận lâm sàng bằng siêu âm sau đó.",
+      "optionExplanations": [
+        "Đảo thứ tự hai mốc được mô tả.",
+        "Slide 13 gắn hCG với thai sinh hóa; slide14 ghi thai được xác nhận lâm sàng bằng siêu âm sau đó.",
+        "Siêu âm là căn cứ thai lâm sàng trong slide14.",
+        "Bài phân biệt rõ sinh hóa với thấy thai trên siêu âm."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
+        },
+        {
+          "page": 14,
+          "quote": "Chênh lệch giữa tỷ lệ thai sinh hóa và thai lâm sàng\nLý do:\nLệch bội\nCán cân miễn dịch bất thường\nBất thường về kiểm soát thượng di truyền\n03 tuần sau thụ tinh, thai kỳ được xác nhận trên lâm sàng bằng siêu âm\nKể từ khi thấy thai trên siêu âm, người ta gọi là “thai lâm sàng\n\n14\nTỪ THAI SINH HÓA ĐẾN THAI LÂM SÀNG \nLệch bội là hiện tượng thường gặp\n“Cơ chế bảo vệ loài”\nKhảo sát tiền làm tổ\nTự sửa chữa hoặc ngưng phát triển\nMiễn dịch thiên về Th1\nThai kỳ thất bại\nKết cục sản khoa bất lợi\nBất thường thượng di truyền\nMethyl hóa các đảo CpG trên DNA\nẢnh hưởng lên tiến trình điều hòa gen của phôi và NMTC"
+        },
+        {
+          "page": 13,
+          "quote": "Hiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q036"
+    },
+    {
+      "id": "m12-v035",
+      "topicId": "hcg",
+      "conceptId": "m12-hcg-hoangthe",
+      "level": "understand",
+      "stem": "Giả sử không có tín hiệu hCG sau khi phôi tiếp cận mạch mẹ, mắt xích nào được nêu sẽ thiếu?",
+      "options": [
+        "Tác dụng tạo noãn nguyên bào mới",
+        "Tác dụng trực tiếp tạo zona pellucida",
+        "Tác dụng tương đương LH duy trì hoàng thể chu kỳ thành hoàng thể thai kỳ",
+        "Tác dụng làm tinh trùng giảm phân I"
+      ],
+      "answer": 2,
+      "explanation": "Slide 13 nối hCG với hoạt tính tương đương LH và chuyển hoàng thể.",
+      "optionExplanations": [
+        "Không phải tác dụng hCG được slide13 nêu.",
+        "Không phải tác dụng hCG được slide13 nêu.",
+        "Slide 13 nối hCG với hoạt tính tương đương LH và chuyển hoàng thể.",
+        "Không phải tác dụng hCG được slide13 nêu."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q037"
+    },
+    {
+      "id": "m12-v036",
+      "topicId": "phattrien",
+      "conceptId": "cycle-calendar",
+      "level": "analyze",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một lịch dùng ngày chu kỳ để ghi cửa sổ làm tổ; lịch khác ghi ngày sau thụ tinh; tuổi thai lại tính từ kỳ kinh cuối. Trước khi so sánh các mốc, cần làm gì?",
+      "options": [
+        "Coi ngày18 chu kỳ luôn là tuần18 thai kỳ",
+        "Coi ngày6 sau thụ tinh là ngày6 của chu kỳ trong mọi trường hợp",
+        "Coi tuần4 luôn là ngày thứ4 sau thụ tinh",
+        "Xác định rõ điểm bắt đầu của từng cách đếm, không xem các con số ngày và tuần là cùng một mốc"
+      ],
+      "answer": 3,
+      "explanation": "Slide6 dùng ngày chu kỳ, slide9 dùng ngày sau thụ tinh, slide17 dùng tuần thai từ ngày bắt đầu kỳ kinh cuối. Phải nhận biết điểm gốc trước khi đối chiếu; bài không đủ để tự suy ra một phép đổi chính xác cho mọi chu kỳ.",
+      "optionExplanations": [
+        "Đồng nhất ngày chu kỳ với tuần thai.",
+        "Đồng nhất hai điểm bắt đầu khác nhau.",
+        "Đồng nhất đơn vị tuần và ngày, đồng thời đổi điểm bắt đầu.",
+        "Slide6 dùng ngày chu kỳ, slide9 dùng ngày sau thụ tinh, slide17 dùng tuần thai từ ngày bắt đầu kỳ kinh cuối. Phải nhận biết điểm gốc trước khi đối chiếu; bài không đủ để tự suy ra một phép đổi chính xác cho mọi chu kỳ."
+      ],
+      "sources": [
+        {
+          "page": 6,
+          "quote": "Cửa sổ làm tổ thường được mở ra ở ngày thứ 18 và đóng lại vào ngày thứ 23 của chu kỳ",
+          "type": "text"
+        },
+        {
+          "page": 9,
+          "quote": "Ngày thứ 6 sau khi thụ tinh",
+          "type": "text"
+        },
+        {
+          "page": 17,
+          "quote": "Thai kỳ bình thường có độ dài 40 tuần (280 ngày) kêt từ ngày bắt đầu của kỳ kinh cuối cùng",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q038"
+    },
+    {
+      "id": "m12-v037",
+      "topicId": "phattrien",
+      "conceptId": "m12-tuan3-tuan4",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một bản ghi đặt làm tổ ở tuần 3 và thụ tinh tuần 4. Cần sửa ra sao?",
+      "options": [
+        "Đổi lại: thụ tinh tuần 3, làm tổ tuần 4",
+        "Giữ nguyên vì hai sự kiện đồng thời",
+        "Đưa cả hai về tuần 5",
+        "Bỏ thứ tự vì bài không ghi mốc"
+      ],
+      "answer": 0,
+      "explanation": "Slide 17 ghi rõ tuần 3 thụ tinh và tuần 4 làm tổ.",
+      "optionExplanations": [
+        "Slide 17 ghi rõ tuần 3 thụ tinh và tuần 4 làm tổ.",
+        "Trái thứ tự được ghi trong nguồn.",
+        "Không đúng hai mốc của nguồn.",
+        "Nguồn có ghi rõ hai mốc."
+      ],
+      "sources": [
+        {
+          "page": 17,
+          "quote": "Thai kỳ bình thường có độ dài 40 tuần (280 ngày) kêt từ ngày bắt đầu của kỳ kinh cuối cùng\nTuần thứ 3 diễn ra hiện tượng thụ tinh\nTuần thứ 4 diễn ra tiến trình làm tổ\nTừ tuần thứ 5 bắt đầu hình thành phôi và phát triển các cơ quan.\n17\nSỰ PHÁT TRIỂN CỦA PHÔI THAI"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "hard",
+      "variantOf": "m12-q039"
+    },
+    {
+      "id": "m12-v038",
+      "topicId": "hcg",
+      "conceptId": "m12-giao-dien-mach-mau",
+      "level": "apply",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Một dòng thời gian cho thấy hồ huyết sơ khai hình thành sau khi hội bào nuôi phá vỡ mạch xoắn, rồi hCG vào máu mẹ. Nhận định nào phù hợp?",
+      "options": [
+        "hCG xuất hiện trước thụ tinh theo slide",
+        "Hồ huyết hình thành từ nang noãn buồng trứng",
+        "Mốc tiếp xúc và phá vỡ mạch nối với trao đổi mẹ–phôi và dấu hiệu thai sinh hóa",
+        "Thai sinh hóa chỉ được xác nhận khi đủ tháng"
+      ],
+      "answer": 2,
+      "explanation": "Slide 13 mô tả chuỗi hồ huyết, tiếp nhận dưỡng chất/khí và hCG; trang 14 phân biệt thai lâm sàng.",
+      "optionExplanations": [
+        "Không phải trình tự của slide13.",
+        "Hồ huyết ở giao diện nội mạc, không từ nang noãn.",
+        "Slide 13 mô tả chuỗi hồ huyết, tiếp nhận dưỡng chất/khí và hCG; trang 14 phân biệt thai lâm sàng.",
+        "Thai sinh hóa được nguồn gắn hCG trong máu mẹ sớm."
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "quote": "N10 sau thụ tinh, các hội bào nuôi của phôi phá vỡ được các mạch máu xoắn ốc của NMTC, tạo ra các hồ huyết sơ khai.\nKể từ thời điểm này, phôi chính thức được nhận dưỡng chất và trao đổi khí trực tiếp với mẹ\nhCG được phóng thích vào máu mẹ\nhCG có hoạt tính tương đương LH nên chuyển hoàng thể chu kỳ thành hoàng thể thai kỳ",
+          "type": "text"
+        },
+        {
+          "page": 14,
+          "quote": "Chênh lệch giữa tỷ lệ thai sinh hóa và thai lâm sàng\nLý do:\nLệch bội\nCán cân miễn dịch bất thường\nBất thường về kiểm soát thượng di truyền\n03 tuần sau thụ tinh, thai kỳ được xác nhận trên lâm sàng bằng siêu âm\nKể từ khi thấy thai trên siêu âm, người ta gọi là “thai lâm sàng\n\n14\nTỪ THAI SINH HÓA ĐẾN THAI LÂM SÀNG \nLệch bội là hiện tượng thường gặp\n“Cơ chế bảo vệ loài”\nKhảo sát tiền làm tổ\nTự sửa chữa hoặc ngưng phát triển\nMiễn dịch thiên về Th1\nThai kỳ thất bại\nKết cục sản khoa bất lợi\nBất thường thượng di truyền\nMethyl hóa các đảo CpG trên DNA\nẢnh hưởng lên tiến trình điều hòa gen của phôi và NMTC"
+        },
+        {
+          "page": 13,
+          "quote": "Hiện diện hCG trong máu mẹ là bằng chứng của hiện tượng thai đã làm tổ, được coi như là thai sinh hóa",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "difficulty": "veryHard",
+      "variantOf": "m12-q040"
+    },
+    {
+      "id": "m12-v039",
+      "topicId": "noimac",
+      "conceptId": "m12-pinopode-dialogue-location",
+      "level": "understand",
+      "stem": "Hãy chọn đáp án phù hợp nhất. Các cuộc đối thoại quan trọng giữa phôi và nội mạc tử cung diễn ra ở bề mặt cấu trúc nào?",
+      "options": [
+        "Pinopode",
+        "Mạch máu xoắn ốc",
+        "Hoàng thể chu kỳ",
+        "Màng trong suốt của noãn"
+      ],
+      "answer": 0,
+      "explanation": "Slide 5 ghi tại bề mặt các Pinopode diễn ra các cuộc đối thoại quan trọng giữa phôi và nội mạc tử cung, chuẩn bị làm tổ.",
+      "optionExplanations": [
+        "Slide 5 ghi tại bề mặt các Pinopode diễn ra các cuộc đối thoại quan trọng giữa phôi và nội mạc tử cung, chuẩn bị làm tổ.",
+        "Không phù hợp với nội dung được nêu trong tài liệu.",
+        "Không phù hợp với nội dung được nêu trong tài liệu.",
+        "Không phù hợp với nội dung được nêu trong tài liệu."
+      ],
+      "sources": [
+        {
+          "page": 5,
+          "quote": "tại bề mặt của các Pinopode sẽ diễn ra các cuộc đối thoại quan trọng giữa phôi và NMTC",
+          "type": "text"
+        }
+      ],
+      "review": {
+        "source": true,
+        "semantic": true,
+        "coverage": true
+      },
+      "difficulty": "hard",
+      "reviewNotes": {
+        "source": "Chỉ dùng mệnh đề, hình/chú thích đã đối chiếu hoặc trang/slide của chính tài liệu này.",
+        "semantic": "Đã kiểm lại bốn phương án. Nhãn Dễ/Khó/Cực khó là độ khó tương đối trong cùng tài liệu, không phải chỉ định lâm sàng hay phân loại Bloom."
+      },
+      "variantOf": "m12-q041"
     }
   ],
   "reviewStatus": "passed2",

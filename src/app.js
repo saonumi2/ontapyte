@@ -7,15 +7,15 @@ function show(name){for(const id of ['home','quiz','result']) $(id).hidden=id!==
 function sample(bank){
   const topics=new Set(bank.topics.map(t=>t.id));
   for(let attempt=0;attempt<500;attempt++){
-    const covered=new Set(), coveredPages=new Set(), usedConcepts=new Set(), selection=[];
+    const covered=new Set(), coveredPages=new Set(), usedConcepts=new Set(), usedFamilies=new Set(), selection=[];
     let valid=true;
     for(const [level,count] of [['hard',20],['veryHard',10],['easy',10]]){
       for(let n=0;n<count;n++){
         const candidates=shuffle(bank.questions.filter(q=>q.difficulty===level&&!selection.includes(q)));
         if(!candidates.length){valid=false;break}
-        const score=q=>(covered.has(q.topicId)?0:100)+(usedConcepts.has(q.conceptId)?0:10)+2*q.sources.filter(s=>!coveredPages.has(s.page)).length;
+        const score=q=>(covered.has(q.topicId)?0:100)+(usedFamilies.has(q.variantOf||q.id)?0:50)+(usedConcepts.has(q.conceptId)?0:10)+2*q.sources.filter(s=>!coveredPages.has(s.page)).length;
         const pick=candidates.reduce((best,q)=>score(q)>score(best)?q:best);
-        selection.push(pick);covered.add(pick.topicId);usedConcepts.add(pick.conceptId);pick.sources.forEach(s=>coveredPages.add(s.page));
+        selection.push(pick);covered.add(pick.topicId);usedConcepts.add(pick.conceptId);usedFamilies.add(pick.variantOf||pick.id);pick.sources.forEach(s=>coveredPages.add(s.page));
       }
       if(!valid)break;
     }
@@ -87,7 +87,9 @@ function openSource(page){
   const dialog=$('source-dialog');
   if(typeof dialog.showModal!=='function'){window.open(url,'_blank','noopener');return}
   $('source-title').textContent=`${current.title} · ${current.file.endsWith('.pdf')?'Trang':'Slide'} ${page}`;
-  $('source-frame').src=url;
+  $('source-frame').src=window.matchMedia('(max-width:580px)').matches?'about:blank':url;
+  $('source-image').src=`page-previews/${current.id}-p${String(page).padStart(3,'0')}.jpg`;
+  $('source-image').alt=`${current.title}, trang ${page}`;
   $('source-direct').href=url;
   dialog.showModal();
 }
@@ -104,6 +106,6 @@ $('retry').addEventListener('click',()=>start(current));
 $('show-explanation').addEventListener('click',explain);
 $('close-source').addEventListener('click',closeSource);
 $('close-source-bottom').addEventListener('click',closeSource);
-$('source-dialog').addEventListener('close',()=>{$('source-frame').src='about:blank'});
+$('source-dialog').addEventListener('close',()=>{$('source-frame').src='about:blank';$('source-image').removeAttribute('src')});
 $('next').addEventListener('click',()=>{if(index===39)finish();else{index++;renderQuestion();window.scrollTo({top:0,behavior:'instant'})}});
 try{const response=await fetch('data/catalog.json');if(!response.ok)throw new Error('Không tải được danh mục.');catalog=await response.json();renderCatalog()}catch(error){$('catalog').textContent=error.message}

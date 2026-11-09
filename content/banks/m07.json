@@ -144,7 +144,7 @@
       "topicId": "steroids",
       "conceptId": "m07-luteal-e2-p4",
       "level": "understand",
-      "stem": "Nguồn chính của E2 được bài nêu là gì?",
+      "stem": "Nguồn chính của E2 được nêu là gì?",
       "options": [
         "Chỉ tuyến yên",
         "Chỉ nội mạc tử cung",
@@ -218,7 +218,7 @@
       "topicId": "steroids",
       "conceptId": "m07-e1e2",
       "level": "understand",
-      "stem": "Quan hệ E1–E2 nào phù hợp bài?",
+      "stem": "Quan hệ E1–E2 nào phù hợp?",
       "options": [
         "E1 yếu hơn và chuyển đổi thuận nghịch với E2",
         "E1 chính là progesterone",
@@ -555,7 +555,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-unprepared",
       "level": "understand",
-      "stem": "Quan hệ E2 và P4 trên nội mạc được bài gọi là gì?",
+      "stem": "Quan hệ E2 và P4 trên nội mạc được gọi là gì?",
       "options": [
         "Luôn đối kháng hoàn toàn",
         "Không liên quan nhau",
@@ -629,7 +629,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-withdrawal-case",
       "level": "understand",
-      "stem": "Biến đổi nội tiết trực tiếp được bài gắn với hành kinh là gì?",
+      "stem": "Biến đổi nội tiết trực tiếp được gắn với hành kinh là gì?",
       "options": [
         "FSH biến thành tế bào nội mạc",
         "Sụt giảm cả E2 và P4 lưu hành",
@@ -859,7 +859,7 @@
       "topicId": "steroids",
       "conceptId": "m07-theca-pathway",
       "level": "understand",
-      "stem": "Tế bào vỏ dùng pregnenolone tạo androstenedione. Phân tử trung gian nào được bài nêu?",
+      "stem": "Tế bào vỏ dùng pregnenolone tạo androstenedione. Phân tử trung gian nào được nêu?",
       "options": [
         "FSH",
         "PGR",
@@ -970,7 +970,7 @@
       "topicId": "steroids",
       "conceptId": "m07-muller-target",
       "level": "understand",
-      "stem": "Đang phân loại cơ quan đích được bài liệt kê. Nhóm nào thuộc danh sách nguồn gốc Müller?",
+      "stem": "Đang phân loại cơ quan đích được liệt kê. Nhóm nào thuộc danh sách nguồn gốc Müller?",
       "options": [
         "Nội mạc tử cung và cơ trơn vòi trứng",
         "Tuyến vú và xương",
@@ -1381,7 +1381,7 @@
       "topicId": "receptors",
       "conceptId": "m07-pgr-chromosome",
       "level": "understand",
-      "stem": "Hai sản phẩm PR-A và PR-B cùng được khảo sát. Gene và nhiễm sắc thể nào phù hợp bài?",
+      "stem": "Hai sản phẩm PR-A và PR-B cùng được khảo sát. Gene và nhiễm sắc thể nào phù hợp?",
       "options": [
         "Hai gene hoàn toàn khác nhau",
         "PGR trên nhiễm sắc thể 11",
@@ -1492,7 +1492,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-regeneration-case",
       "level": "understand",
-      "stem": "Nội mạc cần tái tạo sau bong tróc. Nguồn tế bào dự trữ nằm ở lớp nào được bài nêu?",
+      "stem": "Nội mạc cần tái tạo sau bong tróc. Nguồn tế bào dự trữ nằm ở lớp nào được nêu?",
       "options": [
         "Vỏ buồng trứng",
         "Nhân cung",
@@ -1677,7 +1677,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-fewer-follicles",
       "level": "apply",
-      "stem": "Số nang giảm do chọn lọc nhưng tuyến nội mạc vẫn phát triển. Giải thích nào được bài nêu?",
+      "stem": "Số nang giảm do chọn lọc nhưng tuyến nội mạc vẫn phát triển. Giải thích nào được nêu?",
       "options": [
         "P4 luôn cao từ đầu chu kỳ",
         "Nang được chọn có khối tế bào hạt lớn, vẫn tiết nhiều E2",
@@ -1866,7 +1866,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-morphology-proxy",
       "level": "apply",
-      "stem": "Muốn hiểu hoạt động chế tiết steroid buồng trứng qua một mô đích. Mô nào được bài nhấn mạnh phản ánh chu kỳ này?",
+      "stem": "Muốn hiểu hoạt động chế tiết steroid buồng trứng qua một mô đích. Mô nào được nhấn mạnh phản ánh chu kỳ này?",
       "options": [
         "Nội mạc tử cung",
         "Da lòng bàn tay",
@@ -1981,7 +1981,7 @@
       "topicId": "targets",
       "conceptId": "m07-mucus-barrier",
       "level": "apply",
-      "stem": "Chất nhầy đông đặc dưới P4 có tác dụng được bài nêu là gì?",
+      "stem": "Chất nhầy đông đặc dưới P4 có tác dụng được nêu là gì?",
       "options": [
         "Làm mất cổ tử cung",
         "Cản tinh trùng và phần lớn vi sinh xâm nhập lên trên",
@@ -2092,7 +2092,7 @@
       "topicId": "targets",
       "conceptId": "m07-entry-gate",
       "level": "apply",
-      "stem": "E2 làm cơ vòng tại lỗ vòi trứng vào tử cung co. Ý nghĩa nào được bài nêu?",
+      "stem": "E2 làm cơ vòng tại lỗ vòi trứng vào tử cung co. Ý nghĩa nào được nêu?",
       "options": [
         "Chứng minh thụ tinh không xảy ra",
         "Làm nội mạc trở thành buồng trứng",
@@ -2240,7 +2240,7 @@
       "topicId": "targets",
       "conceptId": "m07-hypothalamus-e2",
       "level": "apply",
-      "stem": "E2 cao giữa chu kỳ kích thích kisspeptin. Kết quả nội tiết được bài nêu là gì?",
+      "stem": "E2 cao giữa chu kỳ kích thích kisspeptin. Kết quả nội tiết được nêu là gì?",
       "options": [
         "Chỉ tạo AMH",
         "Tạo progesterone ngay tại hạ đồi",
@@ -2277,7 +2277,7 @@
       "topicId": "targets",
       "conceptId": "m07-breast-genomic",
       "level": "apply",
-      "stem": "Có ER và PR trên các thành phần ống, tuyến vú. Bài dùng dữ kiện này để chỉ cơ chế nào?",
+      "stem": "Có ER và PR trên các thành phần ống, tuyến vú. dùng dữ kiện này để chỉ cơ chế nào?",
       "options": [
         "Chỉ tác động GnRH",
         "Qua gene của cả E2 và P4",
@@ -2683,7 +2683,7 @@
       "topicId": "endometrium",
       "conceptId": "m07-unprepared-vs-prepared",
       "level": "analyze",
-      "stem": "Hai mô nhận cùng P4 nhưng một mô đã được E2 chuẩn bị, mô kia chưa. Khác biệt đáp ứng nào được bài giải thích?",
+      "stem": "Hai mô nhận cùng P4 nhưng một mô đã được E2 chuẩn bị, mô kia chưa. Khác biệt đáp ứng nào được giải thích?",
       "options": [
         "Hai mô bắt buộc giống nhau vì cùng P4",
         "Mô chưa chuẩn bị luôn chế tiết mạnh hơn",
@@ -2925,7 +2925,7 @@
       "topicId": "targets",
       "conceptId": "m07-transport-vs-entry",
       "level": "analyze",
-      "stem": "E2 giúp vận chuyển hợp tử về tử cung nhưng cũng co cơ vòng lối vào. Vì sao hai tác dụng không trái logic bài?",
+      "stem": "E2 giúp vận chuyển hợp tử về tử cung nhưng cũng co cơ vòng lối vào. Vì sao hai tác dụng không trái logic?",
       "options": [
         "Hợp tử luôn phải vào trước chuẩn bị nội mạc",
         "Vận chuyển dọc vòi và thời điểm vào buồng tử cung là hai bước được phối hợp",

@@ -483,7 +483,7 @@
       "topicId": "origin",
       "conceptId": "m06-amh-after-recruit",
       "level": "apply",
-      "stem": "Một nang đã được chiêu mộ nhưng chưa nên bước sớm vào giai đoạn lệ thuộc gonadotropin. Yếu tố nào được bài nêu giúp kìm tốc độ?",
+      "stem": "Một nang đã được chiêu mộ nhưng chưa nên bước sớm vào giai đoạn lệ thuộc gonadotropin. Yếu tố nào được nêu giúp kìm tốc độ?",
       "options": [
         "Bạch thể",
         "Androstenedione ngoại vi",
@@ -678,7 +678,7 @@
       "topicId": "origin",
       "conceptId": "m06-mtor",
       "level": "apply",
-      "stem": "Nhánh Akt–TSC1/TSC2 kích hoạt mTOR. Kết quả nào được bài nêu?",
+      "stem": "Nhánh Akt–TSC1/TSC2 kích hoạt mTOR. Kết quả nào được nêu?",
       "options": [
         "Hủy mọi thụ thể FSH",
         "Thúc đẩy dịch mã RNA",
@@ -795,7 +795,7 @@
       "topicId": "axis",
       "conceptId": "m06-kisspeptin-effect",
       "level": "apply",
-      "stem": "Kisspeptin kích thích neuron GnRH. Đầu ra trực tiếp nào được bài mô tả?",
+      "stem": "Kisspeptin kích thích neuron GnRH. Đầu ra trực tiếp nào được mô tả?",
       "options": [
         "Bạch thể mới",
         "Progesterone từ tuyến yên",
@@ -990,7 +990,7 @@
       "topicId": "cycle",
       "conceptId": "m06-early-independence",
       "level": "apply",
-      "stem": "Đoàn hệ đang ở hơn 60 ngày đầu sau chiêu mộ. Bài mô tả quan hệ với hormone trục HPO thế nào?",
+      "stem": "Đoàn hệ đang ở hơn 60 ngày đầu sau chiêu mộ. được nêu quan hệ với hormone trục HPO thế nào?",
       "options": [
         "Đã hoàn tất toàn bộ chu kỳ",
         "Phát triển độc lập với hormone trục",
@@ -1896,7 +1896,7 @@
       "topicId": "axis",
       "conceptId": "m06-pulse-rate",
       "level": "apply",
-      "stem": "Hai tín hiệu GnRH có tần số khác nhau. Khác biệt đáp ứng nào được bài cho phép dự đoán?",
+      "stem": "Hai tín hiệu GnRH có tần số khác nhau. Khác biệt đáp ứng nào được cho phép dự đoán?",
       "options": [
         "Không thể thay đổi đáp ứng tuyến yên",
         "Luôn mất toàn bộ thụ thể nang",
@@ -2091,7 +2091,7 @@
       "topicId": "selection",
       "conceptId": "m06-asynchrony",
       "level": "apply",
-      "stem": "Hai nang thứ cấp có lượng thụ thể khác nhau. Kết quả nào phù hợp bài?",
+      "stem": "Hai nang thứ cấp có lượng thụ thể khác nhau. Kết quả nào phù hợp?",
       "options": [
         "Phát triển không đồng bộ",
         "Bắt hormone luôn ngang nhau",
@@ -2169,7 +2169,7 @@
       "topicId": "selection",
       "conceptId": "m06-poor-receptors",
       "level": "apply",
-      "stem": "FSH giảm, một nang có rất ít tế bào hạt và thụ thể. Diễn tiến nào được bài mô tả?",
+      "stem": "FSH giảm, một nang có rất ít tế bào hạt và thụ thể. Diễn tiến nào được mô tả?",
       "options": [
         "Tăng trưởng không cần FSH",
         "Trở thành tế bào tuyến yên",
@@ -2331,7 +2331,7 @@
       "topicId": "selection",
       "conceptId": "m06-surge-output",
       "level": "apply",
-      "stem": "Một nang tạo E2 vượt ngưỡng đủ lâu và phản hồi dương đã được kích hoạt. Dạng đáp ứng LH nào phù hợp nhất với mô hình bài?",
+      "stem": "Một nang tạo E2 vượt ngưỡng đủ lâu và phản hồi dương đã được kích hoạt. Dạng đáp ứng LH nào phù hợp nhất với mô hình?",
       "options": [
         "Một đợt phóng thích lớn trong thời gian ngắn",
         "LH thấp không thay đổi do phản hồi dương",
@@ -2604,7 +2604,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-p4-luteolysis-chain",
       "level": "apply",
-      "stem": "Progesterone tăng trong pha hoàng thể. Tác động lên nhịp GnRH nào được bài nêu?",
+      "stem": "Progesterone tăng trong pha hoàng thể. Tác động lên nhịp GnRH nào được nêu?",
       "options": [
         "Không thể tác động hạ đồi",
         "Biến GnRH thành FSH",
@@ -2682,7 +2682,7 @@
       "topicId": "ovulation",
       "conceptId": "m06-cycle-reset-reason",
       "level": "apply",
-      "stem": "Hoàng thể thoái triển, E2 và P4 cùng giảm. Trục hạ đồi–yên được bài mô tả thế nào?",
+      "stem": "Hoàng thể thoái triển, E2 và P4 cùng giảm. Trục hạ đồi–yên được mô tả thế nào?",
       "options": [
         "Thoát ràng buộc chu kỳ trước, sẵn sàng chu kỳ mới",
         "Bị ức chế vĩnh viễn",
@@ -2805,7 +2805,7 @@
       "topicId": "axis",
       "conceptId": "m06-fsh-not-lh-substitute",
       "level": "analyze",
-      "stem": "Một mô hình thay FSH bằng LH tại tế bào hạt và vẫn dự đoán thơm hóa bình thường. Điểm nào không đúng với bài?",
+      "stem": "Một mô hình thay FSH bằng LH tại tế bào hạt và vẫn dự đoán thơm hóa bình thường. Điểm nào không đúng?",
       "options": [
         "Tế bào hạt không dùng androgen",
         "Nhầm hormone điều khiển tế bào hạt với hormone của tế bào vỏ",
@@ -3024,7 +3024,7 @@
       "topicId": "selection",
       "conceptId": "m06-e2-proxy",
       "level": "analyze",
-      "stem": "Vì sao E2 cao vượt ngưỡng đủ lâu được bài xem là dấu hiệu nang đáp ứng điều kiện phóng noãn?",
+      "stem": "Vì sao E2 cao vượt ngưỡng đủ lâu được xem là dấu hiệu nang đáp ứng điều kiện phóng noãn?",
       "options": [
         "Phản ánh khối tế bào hạt lớn và chế tiết ổn định",
         "Chứng minh mọi nang đã thành bạch thể",

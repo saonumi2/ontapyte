@@ -9,6 +9,8 @@ DIST.mkdir()
 for item in (ROOT/'src').iterdir():
     shutil.copy2(item,DIST/item.name)
 shutil.copytree(ROOT/'public'/'sources',DIST/'sources')
+if (ROOT/'public'/'page-previews').exists():
+    shutil.copytree(ROOT/'public'/'page-previews',DIST/'page-previews')
 (DIST/'data').mkdir()
 catalog=[]
 for path in sorted((ROOT/'content').glob('m[0-9][0-9].json')):
@@ -16,6 +18,10 @@ for path in sorted((ROOT/'content').glob('m[0-9][0-9].json')):
     bank_path=ROOT/'content'/'banks'/path.name
     bank=json.loads(bank_path.read_text(encoding='utf-8-sig')) if bank_path.exists() else None
     q=bank['questions'] if bank else []
+    for question in q:
+        for source in question['sources']:
+            preview=ROOT/'public'/'page-previews'/f'{doc["id"]}-p{source["page"]:03}.jpg'
+            if not preview.exists():raise RuntimeError(f'Missing source preview: {preview.name}')
     level_counts=Counter(x.get('difficulty') for x in q)
     all_reviewed=all(all(x.get('review',{}).get(k) is True for k in ('source','semantic')) for x in q)
     enough=all(level_counts[l]>=n for l,n in [('easy',10),('hard',20),('veryHard',10)])
