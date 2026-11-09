@@ -46,7 +46,8 @@ body{background:#e8f7fc}
 .hero{background:#dff7ff url("medical-pattern.svg") center/cover no-repeat;border-color:#b5e2ee;border-left-color:#25a7d3;box-shadow:0 6px 20px #187a9a15}
 .hero .eyebrow,.section-kicker{color:#1689b8}
 .hero .eyebrow-dot{background:#21add7;box-shadow:0 0 0 4px #d1f3fb}
-.hero h1 em{color:#087fb5}
+.hero h1 em{color:#075b91}
+.hero-copy>p:not(.eyebrow){color:#345a7b}
 .hero-pills span{border-color:#bce7f4;background:#eafaff;color:#156e99}
 .card{border-color:#cce7ee}.card:before{background:#e0f7fc;color:#128fbd}
 .card:hover{border-color:#8bd4e8}
@@ -56,4 +57,8 @@ body{background:#e8f7fc}
 .question-meta span:last-child{background:#dff4fb;color:#117ba8}
 .option .letter{background:#e6f7fb;color:#127ca9}
 .quiz-actions{background:linear-gradient(180deg,#e8f7fc00 0,#e8f7fc 24%)}
-@media(max-width:680px){.hero{background-image:linear-gradient(90deg,#e8fafff2 0%,#e8faffe0 70%,#e8faff9c 100%),url("medical-pattern.svg");background-position:center,right center;background-size:cover,auto 100%}}
+@media(max-width:680px){.hero{background-image:linear-gradient(90deg,#e8fafff2 0%,#e8faffe0 70%,#e8faff9c 100%),url("medical-pattern.svg");background-position:center,right -180px center;background-size:cover,auto 100%}}
+.question-card{max-width:920px;margin:0 0 20px;padding:26px 30px;border:1px solid #cce7ee;border-radius:20px;background:#fff;box-shadow:0 4px 16px #157c9d12}
+.question-card .topic{margin:20px 0 9px}
+.question-card .stem{margin:0;max-width:none}
+@media(max-width:580px){.question-card{padding:21px 19px;margin-bottom:17px}.question-card .topic{margin:17px 0 8px}.question-card .stem{font-size:clamp(22px,6.4vw,28px);line-height:1.5}}
