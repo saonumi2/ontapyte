@@ -43,6 +43,6 @@ Thay `USERNAME/REPOSITORY` bằng repo của bạn. Chỉ push khi quyền phát
 - `content/source-issues.json`: các chỗ nguồn cần xác minh, không dùng làm đáp án.
 - `src/`: giao diện và logic trộn đề, phản hồi tức thì.
 - `scripts/`: trích xuất, kiểm, build.
-- `public/sources/`: PDF nguồn và bản PDF xuất từ slide để mở nguồn trong trình duyệt.
+- `public/sources/`: tài liệu nguồn và bản PDF xuất từ slide. Bản phát hành `dist/sources/` chỉ chứa PDF dùng trong trình duyệt.
 
 Khi sửa đáp án, giải thích hoặc nguồn của bất kỳ câu nào, đặt lại hai dấu duyệt `source` và `semantic` của câu đó và `reviewStatus` của phần trước khi build lại; xem thay đổi như một bản câu hỏi mới cần duyệt. Các bank nháp có thể xuất hiện trong báo cáo audit với nhãn `DRAFT`, nhưng không được đưa vào site phát hành.

@@ -8,7 +8,9 @@ if DIST.exists(): shutil.rmtree(DIST)
 DIST.mkdir()
 for item in (ROOT/'src').iterdir():
     shutil.copy2(item,DIST/item.name)
-shutil.copytree(ROOT/'public'/'sources',DIST/'sources')
+(DIST/'sources').mkdir()
+for pdf in (ROOT/'public'/'sources').glob('*.pdf'):
+    shutil.copy2(pdf,DIST/'sources'/pdf.name)
 if (ROOT/'public'/'page-previews').exists():
     shutil.copytree(ROOT/'public'/'page-previews',DIST/'page-previews')
 (DIST/'data').mkdir()
@@ -30,6 +32,7 @@ for path in sorted((ROOT/'content').glob('m[0-9][0-9].json')):
     elif bank and bank.get('examEligibility',{}).get('reason'): ready_reason=bank['examEligibility']['reason']
     else: ready_reason='Chưa hoàn tất kiểm nguồn, kiểm câu hỏi, hoặc điều kiện tạo đề 40 câu.'
     file_name=doc.get('viewFile',doc['file'])
+    if not (DIST/file_name).exists():raise RuntimeError(f'Missing browser source: {file_name}')
     catalog.append({'id':doc['id'],'title':doc['title'],'original':doc['original'],'file':file_name,
                     'pageCount':len(doc['pages']),'questionCount':len(q),'levels':level_counts,'ready':ready,'readyReason':ready_reason})
     if ready:
