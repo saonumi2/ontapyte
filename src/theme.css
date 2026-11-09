@@ -23,3 +23,18 @@ body{background:radial-gradient(circle at 93% 0%,#dceaff 0,transparent 30rem),li
 @media(max-width:680px){.hero{min-height:0;padding:35px 28px;margin:22px 0 32px;border-radius:20px}.hero-copy{max-width:none}.hero-art{opacity:.12;right:-95px;top:12px;width:235px;height:235px}.hero h1{font-size:clamp(31px,7.5vw,42px)}.hero-copy>p:not(.eyebrow){font-size:13px}.section-head{align-items:flex-start}.section-head h2{font-size:23px}.section-head span{font-size:12px}.card{min-height:152px}.card h3{font-size:15px}.card .bottom{align-items:center}.footnote{margin-bottom:36px}}
 @media(max-width:580px){.top{height:70px}.top-note{display:none}.mark{width:40px;height:40px;border-radius:12px;font-size:33px}.brand strong{font-size:16px}.hero{padding:29px 23px}.hero .eyebrow{font-size:10px}.hero h1{margin:14px 0 10px;font-size:clamp(29px,8vw,37px)}.hero-pills{margin-top:18px;gap:6px}.hero-pills span{font-size:10px;padding:7px 10px}.section-head{gap:6px}.section-head h2{font-size:22px}.card{padding:19px}.card:before{top:16px;right:17px}.quiz-top{padding-top:18px}.progress-line{margin:22px 0 27px}.stem{font-size:clamp(23px,6.7vw,29px)}.option{padding:17px 15px}.quiz-actions{background:linear-gradient(180deg,#f3f7ff00 0,#f3f7ff 24%)}#result{margin:34px auto;padding:31px 18px}}
 @media(prefers-reduced-motion:reduce){.card,.card button,.option,.text-button,.progress-line>div{transition:none}}
+
+/* A restrained study workspace: flat surfaces, clear hierarchy, and blue accents. */
+body{background:#eaf3ff}
+.quiz-actions{background:linear-gradient(180deg,#eaf3ff00 0,#eaf3ff 24%)}
+.hero{min-height:0;margin:24px 0 38px;padding:36px 40px;background:#fff;border:1px solid #dbe6f4;border-left:5px solid #266dcf;box-shadow:0 7px 22px #1b4d8910}
+.hero:before,.hero-art{display:none}
+.hero .eyebrow{color:#2567c4}.hero .eyebrow-dot{background:#347fe2;box-shadow:0 0 0 4px #e8f2ff}
+.hero h1{color:#123565}.hero h1 em{color:#246bd0}
+.hero-copy>p:not(.eyebrow){color:#5b7193}
+.hero-pills span{border-color:#dceafb;background:#f0f6ff;color:#2761b4}
+.card{box-shadow:0 3px 11px #1b4d890b}.card:hover{transform:none;box-shadow:0 7px 20px #1b4d8917}
+.primary{background:#1f65ca;box-shadow:0 5px 12px #1b5cbb25}
+.progress-line>div{background:#2673d9}
+@media(max-width:680px){.hero{margin:20px 0 31px;padding:28px 25px}}
+@media(max-width:580px){.hero{padding:25px 21px}}
