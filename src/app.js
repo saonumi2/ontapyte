@@ -7,15 +7,15 @@ function show(name){for(const id of ['home','quiz','result']) $(id).hidden=id!==
 function sample(bank){
   const topics=new Set(bank.topics.map(t=>t.id));
   for(let attempt=0;attempt<500;attempt++){
-    const covered=new Set(), coveredPages=new Set(), selection=[];
+    const covered=new Set(), coveredPages=new Set(), usedConcepts=new Set(), selection=[];
     let valid=true;
     for(const [level,count] of [['hard',20],['veryHard',10],['easy',10]]){
       for(let n=0;n<count;n++){
         const candidates=shuffle(bank.questions.filter(q=>q.difficulty===level&&!selection.includes(q)));
         if(!candidates.length){valid=false;break}
-        const score=q=>(covered.has(q.topicId)?0:100)+q.sources.filter(s=>!coveredPages.has(s.page)).length;
+        const score=q=>(covered.has(q.topicId)?0:100)+(usedConcepts.has(q.conceptId)?0:10)+2*q.sources.filter(s=>!coveredPages.has(s.page)).length;
         const pick=candidates.reduce((best,q)=>score(q)>score(best)?q:best);
-        selection.push(pick);covered.add(pick.topicId);pick.sources.forEach(s=>coveredPages.add(s.page));
+        selection.push(pick);covered.add(pick.topicId);usedConcepts.add(pick.conceptId);pick.sources.forEach(s=>coveredPages.add(s.page));
       }
       if(!valid)break;
     }
